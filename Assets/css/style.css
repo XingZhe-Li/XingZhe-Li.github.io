@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('https://i0.wp.com/www.appletips.nl/wp-content/uploads/2020/06/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-scaled.jpg?fit=2560%2C2560&ssl=1');
+}
+
+@font-face {
+    font-family: 'Frizon';
+    src: url('../fonts/Current.otf');
+}
+
+@font-face {
+    font-family: 'dyzg';
+    src: url('../fonts/斗鱼追光体.otf');
+}
+
+.page1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-shadow: #000 0px 0px 30px;
+}
+
+.page1 h1{
+    font-family: 'Frizon';
+    font-size: 3rem;
+    color:#FFF;
+    margin: 0px;
+}
+
+.page1 p{
+    color: #FFF;
+    font-size: 1.5rem;
+    font-family: 'Frizon';
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    width: 80%;
+}
+
+.page2{
+    height:100%;
+    width:100%;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));
+    backdrop-filter: blur(5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.page2 h1{
+    color: #FFF;
+    font-size: 4rem;
+    font-family: 'Frizon';
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    width: 80%;
+}
+
+.page2 p{
+    color: #FFF;
+    font-size: 1.5rem;
+    font-family: 'dyzg';
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    width: 80%;
+}
+
+.guidebar{
+    z-index: 50;
+    gap:10px;
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: #FFF 1px solid ;
+    height: 56px;
+    backdrop-filter: blur(10px);
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.headbtn{
+    height:80%;
+    width:fit-content;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color:#FFF;
+    font-family: 'Frizon';
+    border:#FFF 1px solid ;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left:10px;
+    transition: all ease .2s;
+    cursor: pointer;
+}
+
+.headbtn:hover{
+    background-color: rgba(255,255,255,0.2);
+    box-shadow: rgba(255,255,255,0.4) 0px 0px 20px;
+}
+
+.guidebar-btn{
+    height:80%
+}
+
+.smallbar{
+    position:absolute;
+    bottom:10px;
+    width: 40%;
+    background: #FFF;
+    border: #FFF 1px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    max-width: 300px;
+}
+
+@media screen and (max-width:800px) {
+    .headbtn p{
+        display: none;
+    }
+}
