@@ -12,13 +12,16 @@
                 <p>Hello Developers</p>
             </div>
             <div style="flex-grow:1;"></div>
-            <div class="headbtn" onclick="window.alert('Sorry There\'s nothing yet')">
+            <div class="headbtn" onclick="featurespane()">
                 <img src="./Assets/svg/front.svg" class="guidebar-btn">
-                <p>Features</p>
+                <p>Shortcuts</p>
             </div>       
             <div class="headbtn" onclick='aboutscroll()'>
                 <img src="./Assets/svg/about.svg" class="guidebar-btn">
                 <p>About</p>
+            </div>          
+            <div class="headbtn" onclick='window.open("https://github.com/XingZhe-Li")'>
+                <img src="./Assets/svg/github.svg" class="guidebar-btn">
             </div>          
         </div>
         <div class="page1">
@@ -32,6 +35,23 @@
             <p>本人目前高一，Python是初中的底子，会的不是很多，基本算是做什么学什么，可以算个应用型人才哈哈哈</p>
             <br>
             <p>好吧，是有点浪费时间，但至少算是把自己的Github主页装饰了一下，目前这个主页的风格和css基本与我那'HOMEPAGE3rd'相同，但是HOMEPAGE到现在还只是Sketch.这个主页现在就先这么将就用着,将来可能会考虑添加一些链接之类的，就算是当个导航站吧.</p>
+        </div>
+
+        <div class="features" id='featurepane'>
+            <div style="flex-grow: 1;"></div>
+            <button class="features-btn" onclick="mirrorin()">Mirrors</button>
+            <button class="features-btn" onclick="featuresquit()">Quit</button>
+            <div style="flex-grow: 1;"></div>
+        </div>
+
+        <div class="features" id='mirrorpane'>
+            <div style="flex-grow: 1;"></div>
+            <button class="features-btn" onclick="window.open('https://mirrors.ustc.edu.cn/')">ustc</button>
+            <button class="features-btn" onclick="window.open('https://mirrors.tuna.tsinghua.edu.cn/')">tuna</button>
+            <button class="features-btn" onclick="window.open('https://mirrors.huaweicloud.com/home')">huawei</button>
+            <button class="features-btn" onclick="window.open('https://developer.aliyun.com/mirror/')">aliyun</button>
+            <button class="features-btn" onclick="mirrorquit()">Quit</button>
+            <div style="flex-grow: 1;"></div>
         </div>
     </body>
 </html>

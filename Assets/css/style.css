@@ -131,3 +131,52 @@ body{
         display: none;
     }
 }
+
+.features{
+    /* display: flex; */
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    backdrop-filter: blur(50px);
+    z-index: 100;
+    top:0;
+
+    overflow-y:scroll;
+    gap:20px;
+    align-items: center;
+    flex-direction: column;
+    display: none;
+    /* animation: ease blurin 1s; */
+}
+
+.features-btn{
+    width: 40%;
+    background:rgba(255,255,255,0.2);
+    border: #FFF 1px solid;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'dyzg';
+    transition: ease .2s all;
+    color: #FFF;
+    text-shadow: #000 0px 0px 5px;
+    font-size: 3rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.features-btn:hover{
+    background:rgba(255,255,255,0.4);
+    transition: ease .2s all;
+    box-shadow: #000 0px 0px 20px;
+}
+
+@keyframes blurin {
+    from{top:-100%;}
+    to{top:0px;}
+}
+
+@keyframes blurout {
+    from{top:0px;}
+    to{top:-100%;}
+}

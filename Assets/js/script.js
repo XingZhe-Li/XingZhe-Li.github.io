@@ -13,3 +13,29 @@ function aboutscroll(){
         behavior:'smooth'
     })
 }
+
+function featurespane(){
+    x = document.getElementById('featurepane')
+    x.style = "display:flex;animation: ease blurin .8s"
+}
+
+function featuresquit(){
+    x = document.getElementById('featurepane')
+    x.style = "animation: ease blurout 0.8s;display:flex;"
+    setTimeout(() => {
+        x.style = ""
+    }, 800);
+}
+
+function mirrorin(){
+    x = document.getElementById('mirrorpane')
+    x.style = "display:flex;animation: ease blurin .8s"
+}
+
+function mirrorquit(){
+    x = document.getElementById('mirrorpane')
+    x.style = "animation:ease blurout 0.8s;display:flex;"
+    setTimeout(() => {
+        x.style = ""
+    }, 800);
+}
