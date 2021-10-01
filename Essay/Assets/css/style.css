@@ -1,0 +1,70 @@
+body{
+    background-image: linear-gradient(50deg,#303030,#151515);
+}
+.article-container{
+    display: flex;
+    height:100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:10px;
+}
+.article-container button{
+    color: #FFF;
+    font-size: 3rem;
+    background-color: rgba(0, 0, 0, 0);
+    border:0px;
+    border-bottom: #FFF 2px solid;
+    transition: all .2s ease;
+    cursor: pointer;
+}
+.article-container button:hover{
+    text-shadow: #FFF 0px 0px 25px;
+}
+.hidelay{
+    position:fixed;
+    background-color: #303030;
+    top:0px;
+    bottom: 0px;
+    right:0px;
+    left:0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    transition: all .5s ease;
+    opacity: 1;
+}
+.hidelay input{
+    flex-grow: 1;
+    height:40px;
+    border: #000 1px solid;
+    border-radius: 8px;
+    background-color: #151515;
+    color:#FFF;
+    font-size: 20px;
+    text-indent: 10px;
+    box-shadow: #151515 0px 0px 25px;
+    cursor: pointer;
+}
+
+.outpass{
+    height:38px;
+    background-color: #151515;
+    border: #000;
+    border-radius: 8px;
+    color: #FFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: #151515 0px 0px 25px;
+    transition: all .2s ease;
+    cursor: pointer;
+}
+
+.outpass:hover{
+    background-color: #252525;
+    box-shadow: #000000 0px 0px 30px;
+}
