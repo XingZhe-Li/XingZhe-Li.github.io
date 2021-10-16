@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'DYZ';
+    src: url('./DYZ.otf');
+}
+
+body{
+    margin:0px;
+    background-image: linear-gradient(60deg,#252525,#626262);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.toexam{
+    color:#FFF;
+    font-family:'DYZ';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:20%;
+    font-size: 2rem;
+    flex-direction: column;
+}
+
+.toexam p{
+    margin: 0px;
+    margin-top: 5px;
+    font-size: 3rem;
+}
+
+.Imdays{
+    position: absolute;
+    top:20%;
+    left:0px;
+    right:0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap:10px;
+}
+
+.Imdays p{
+    color:#FFF;
+    font-family: 'DYZ';
+    font-size: 2rem;
+    margin:0px;
+}
