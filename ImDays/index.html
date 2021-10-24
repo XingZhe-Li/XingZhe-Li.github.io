@@ -1,19 +1,44 @@
 <html>
     <head>
-        <link rel="stylesheet" href="./style.css">
-        <script src="./script.js"></script>
         <title>ImDays</title>
+        <script src="./Assets/script.js"></script>
+        <script src="Assets/vanilla-tilt.js"></script>
+        <link rel="stylesheet" href="./Assets/style.css">
+        <link rel="shortcut icon" href="./Assets/icon.svg">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div class='toexam'>
-            距离高考只剩该死的
-            <p id='countday'>x天</p>
+        <div class="toexam tilt">
+            距离高考仅剩该死的
+            <p id='countday'>xxx天</p>
+            <div class='progressbar'></div>
+            <div class='progressbar2' id='progress_rest'></div>
         </div>
-        <div class='Imdays'>
-            <p>3-14  一个神奇的日子</p>
-            <p>3-14  纪念霍金,爱因斯坦</p>
-            <p>10-5  纪念乔布斯</p>
-            <p>10-25 另一个神奇的日子</p>
+        <div class='cards-container'>
+            <div class='card tilt'>
+                <p class='card-title'>03-14</p>
+                <p class='card-subtitle'>家璇生日</p>
+                <p class='card-count' id='gfbirth'>剩余</p>
+            </div>
+            <div class='card tilt'>
+                <p class='card-title'>10-25</p>
+                <p class='card-subtitle'>我的生日</p>
+                <p class='card-count' id='mybirth'>剩余</p>
+            </div>
         </div>
     </body>
+    <script>
+        elements = document.getElementsByClassName('tilt')
+        for (var i=0;i<=elements.length;i++){
+            VanillaTilt.init(elements[i], {
+                speed: 1,
+                scale: 1,//缩放
+                // 调整旋转角度
+                gyroscopeMinAngleX:  -0.1,     // This is the bottom limit of the device angle on X axis, meaning that a device rotated at this angle would tilt the element as if the mouse was on the left border of the element;
+                gyroscopeMaxAngleX:  0.1,      // This is the top limit of the device angle on X axis, meaning that a device rotated at this angle would tilt the element as if the mouse was on the right border of the element;
+                gyroscopeMinAngleY:  -0.1,     // This is the bottom limit of the device angle on Y axis, meaning that a device rotated at this angle would tilt the element as if the mouse was on the top border of the element;
+                gyroscopeMaxAngleY:  0.1,  
+            });
+        }
+    </script>
 </html>
