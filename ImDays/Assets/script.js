@@ -25,4 +25,18 @@ window.onload = function(){
         to_day = getDaysTo(thisyear+1,3,14)+1;
     }
     document.getElementById('gfbirth').innerHTML = '剩余'+to_day+'天';
+
+    thisyear = date.getFullYear()
+    to_day = getDaysTo(thisyear,7,3)+1;
+    if (to_day<0){
+        to_day = getDaysTo(thisyear+1,7,3)+1;
+    }
+    document.getElementById('mobirth').innerHTML = '剩余'+to_day+'天';
+
+    thisyear = date.getFullYear()
+    to_day = getDaysTo(thisyear,9,6)+1;
+    if (to_day<0){
+        to_day = getDaysTo(thisyear+1,9,6)+1;
+    }
+    document.getElementById('fabirth').innerHTML = '剩余'+to_day+'天';
 }
