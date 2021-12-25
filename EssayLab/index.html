@@ -1,0 +1,130 @@
+<html lang='zh-cn'>
+    <head>
+        <title>随笔阁 - XingZhe Li - Powered by EssayLab</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+        <style>
+            body{
+                margin:0px 0px;
+                font-family: 'ImportFont';
+            }
+            @font-face {
+                font-family: 'ImportFont';
+                src: url('./Static/Font.ttf');
+            }
+            .FirstView{
+                margin:0px 0px;
+                background-image: url('https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg');
+                height:100%;
+                width:100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+            .FirstView > h1{
+                transition: font-size .2s ease-in-out ;
+                color: #FFF;
+                font-size: 5rem;
+                margin: 0px 0px;
+                text-align: center;
+            }
+            .FirstView > p{
+                transition: font-size .2s ease-in-out ;
+                color: #FFF;
+                font-size: 1.5rem;
+                margin: 0px 0px;
+                text-align: center;
+            }
+            .IndexView{
+                min-height: 100%;
+                background-color: #000000;
+                position: relative;
+                margin:0px 0px;
+            }
+            .EssayObj{
+                position: relative;
+                transition: background .1s ease-in-out ;
+                cursor: pointer;
+            }
+            .EssayObj:hover{
+                background-color: rgba(255,255,255,0.2);
+            }
+            .EssayObj p{
+                margin: 0px 0px;
+                color: #DDD
+            }
+            .Essay-time{
+                background-color: rgba(255,255,255,0.2);
+                display:inline-block;
+                margin-left: 40px !important;
+                font-size: 1.5rem;
+                padding:5px;
+                border-radius: 3px;
+                margin-top: 5px !important;
+            }
+            .Essay-title{
+                padding-left: 70px;
+                font-size: 2rem;
+                margin-bottom: 5px;
+            }
+            .tb-line{
+                position: absolute;
+                background-color: #FFF;
+                width: 3px;
+                border-radius: 5px;
+                top: 0px;
+                bottom: 0px;
+                left: 30px;
+            }
+            @media screen and (max-width:500px){
+                .FirstView > h1{
+                    font-size: 3rem !important;
+                }
+                .FirstView > p{
+                    font-size: 1rem !important;
+                }
+            }
+        </style>
+        <script>
+            function todoc(title,md){
+                document.cookie = 'title='+title;
+                document.cookie = 'md='+md;
+                console.log('get: '+title+';'+md)
+                window.open('./article.html','_self')
+            }
+
+            window.onload=function(){
+                // articles
+                var articles = [
+                    ['2020-9-20','游戏杂论','游戏杂论.md'],
+                    ['2020-10-3','智械危机','智械危机.md']
+                ]
+                // EssayObjects
+                for(var i=0;i<articles.length;i++){
+                    var time = articles[i][0]
+                    var title = articles[i][1]
+                    var name = articles[i][2]
+                    
+                    document.getElementById('View').innerHTML += "<div onclick=\'"+'todoc(\"'+title+'\",\"'+name+'\")'+"\' class=\'EssayObj\'><p class=\'Essay-time\'>"+time+"</p><p class=\'Essay-title\'>"+title+"</p></div>"
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class='FirstView'>
+            <h1>随笔阁</h1>
+            <p>某人无聊用marked.js做的网页</p>
+        </div>
+        <div class='IndexView' id='View'>
+            <div class="tb-line"></div>
+            <!-- <div class='EssayObj'>
+                <p class='Essay-time'>2020-10-25</p>
+                <p class='Essay-title'>听说这玩意儿自适应还行</p>
+            </div> -->
+        </div>
+    </body>
+</html>

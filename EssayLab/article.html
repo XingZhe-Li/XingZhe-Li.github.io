@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>articles - XingZhe的随笔阁</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+        <style>
+            body{
+                margin:0px 0px;
+                font-family:'ImportFont';
+                background-color:#000;
+                color:#FFF;
+                -webkit-user-select: none;
+                -ms-user-select:none;
+                user-select:none;
+            }
+            @font-face {
+                font-family: 'ImportFont';
+                src: url('./Static/Font.ttf');
+            }
+            .headbar{
+                background-color: #222;
+                display: flex;
+                padding: 10px;
+            }
+            .ret{
+                background-color: #444;
+                padding:10px;
+                cursor: pointer;
+                font-size: 1.2rem;
+                border-radius: 8px;
+                transition: .1s background ease-in-out;
+            }
+            .ret:hover{
+                background-color: #666;
+            }
+            .title{
+                padding:10px;
+                font-size: 1.2rem;
+                border-radius: 8px;
+                transition: .1s background ease-in-out;
+            }
+        </style>
+        <!-- md style -->
+        <style>
+            .marked-content p{
+                font-size: larger;
+            }
+        </style>
+        <!-- md style end-->
+        <script src="./Static/marked.min.js"></script>
+        <script>
+            var markfile = getCookie('md')
+            /// Load Markdown
+            window.onload = function(){
+                fetch('./Articles/'+markfile)
+                .then(function(response){
+                    return response.text()
+                }).then(function(response){
+                    document.getElementById('marked-content').innerHTML =
+                    marked.parse(response);
+                })
+                var title = getCookie('title')
+                document.getElementById('title').innerHTML = title
+            }
+            // Libraries
+            document.onkeydown = function(){
+                if(window.event && window.event.keyCode == 123) {
+                    alert("为了保密性,开发者工具于此界面被禁用");
+                    event.keyCode=0;
+                    event.returnValue=false;
+                }
+            }
+            function getCookie(name){
+                var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+                if(arr=document.cookie.match(reg)) return unescape(arr[2]);
+                else return null;
+            }
+            //
+            if (getCookie('KEY')!='CODESINSIDEWITHNOTHINGYOUWANT'){
+                // window.open('./index.html','_self')
+            }
+        </script>
+    </head>
+    <body>
+        <div class='headbar'>
+            <div class="ret" onclick='window.open("./index.html","_self")'>返回上页</div>
+            <div class='title' id='title'></div>
+        </div>
+        <div id='marked-content' class='marked-content'></div>
+    </body>
+</html>
