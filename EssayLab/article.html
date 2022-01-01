@@ -1,20 +1,25 @@
 <html>
     <head>
-        <title>articles - XingZhe的随笔阁</title>
+        <title>你好世界 - 随笔阁</title>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+        <link rel="stylesheet" href="./Static/github-dark.min.css">
         <style>
             body{
+                -webkit-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                
                 margin:0px 0px;
                 font-family:'ImportFont';
                 background-color:#000;
                 color:#FFF;
-                -webkit-user-select: none;
-                -ms-user-select:none;
-                user-select:none;
+            }
+            .hljs{
+                font-family: 'ImportFont';
             }
             @font-face {
                 font-family: 'ImportFont';
-                src: url('./Static/Font.ttf');
+                src: url('./Static/SourceHanSansCN-Bold-2.otf');
             }
             .headbar{
                 background-color: #222;
@@ -38,15 +43,16 @@
                 border-radius: 8px;
                 transition: .1s background ease-in-out;
             }
+            h1{font-size: 2.6rem}
+            h2{font-size: 2.3rem}
+            h3{font-size: 2.0rem}
+            h4{font-size: 1.8rem}
+            h5{font-size: 1.5rem}
+            p{font-size: 1.2rem}
         </style>
-        <!-- md style -->
-        <style>
-            .marked-content p{
-                font-size: larger;
-            }
-        </style>
-        <!-- md style end-->
         <script src="./Static/marked.min.js"></script>
+        <script src="./Static/highlight.min.js"></script>
+        <script src="./Static/mermaid.min.js"></script>
         <script>
             var markfile = getCookie('md')
             /// Load Markdown
@@ -55,8 +61,14 @@
                 .then(function(response){
                     return response.text()
                 }).then(function(response){
-                    document.getElementById('marked-content').innerHTML =
-                    marked.parse(response);
+                    document.getElementById('marked-content').innerHTML 
+                    = marked.parse(response);
+                    hljs.highlightAll();
+                    mermaid.init({startOnLoad:false},".language-mermaid");
+                    // Loaded marked , hljs , mermaid
+                    Array.from(document.getElementsByClassName('language-mermaid')).forEach((element)=>{
+                        element.parentNode.style='background-color:#EEE;display:flex;justify-content:center;';
+                    })
                 })
                 var title = getCookie('title')
                 document.getElementById('title').innerHTML = title
@@ -85,6 +97,6 @@
             <div class="ret" onclick='window.open("./index.html","_self")'>返回上页</div>
             <div class='title' id='title'></div>
         </div>
-        <div id='marked-content' class='marked-content'></div>
+        <div id='marked-content'></div>
     </body>
 </html>
