@@ -2,7 +2,9 @@
     <head>
         <title>你好世界 - 随笔阁</title>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
-        <link rel="stylesheet" href="./Static/github-dark.min.css">
+        <!-- <link rel="stylesheet" href="./Static/github-dark.min.css"> -->
+        <link href="https://cdn.bootcdn.net/ajax/libs/highlight.js/11.3.1/styles/github-dark.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC">
         <style>
             body{
                 -webkit-user-select: none;
@@ -10,17 +12,17 @@
                 user-select: none;
                 
                 margin:0px 0px;
-                font-family:'ImportFont';
+                font-family:'Noto Sans SC';
                 background-color:#000;
                 color:#FFF;
             }
             .hljs{
-                font-family: 'ImportFont';
+                font-family: 'Noto Sans SC';
             }
-            @font-face {
-                font-family: 'ImportFont';
-                src: url('./Static/SourceHanSansCN-Bold-2.otf');
-            }
+            /* @font-face { */
+                /* font-family: 'ImportFont'; */
+                /* src: url('./Static/SourceHanSansCN-Bold-2.otf'); */
+            /* } */
             .headbar{
                 background-color: #222;
                 display: flex;
@@ -50,9 +52,14 @@
             h5{font-size: 1.5rem}
             p{font-size: 1.2rem}
         </style>
-        <script src="./Static/marked.min.js"></script>
-        <script src="./Static/highlight.min.js"></script>
-        <script src="./Static/mermaid.min.js"></script>
+        
+        <!-- <script src="./Static/marked.min.js"></script> -->
+        <!-- <script src="./Static/highlight.min.js"></script> -->
+        <!-- <script src="./Static/mermaid.min.js"></script> -->
+        <script src="https://cdn.bootcdn.net/ajax/libs/marked/4.0.2/marked.min.js"></script>
+        <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/11.3.1/highlight.min.js"></script>
+        <script src="https://cdn.bootcdn.net/ajax/libs/mermaid/8.13.8/mermaid.min.js"></script>
+
         <script>
             var markfile = getCookie('md')
             /// Load Markdown
