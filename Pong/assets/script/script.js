@@ -148,7 +148,7 @@ function set_playground_size(){
 
 function menu_hide(){
     if (state_menu_display=='show'){
-        document.querySelector('menu').setAttribute('style','transform:translate(1920px);');
+        document.querySelector('menu').setAttribute('style','-webkit-transform:translate(1920px);transform:translate(1920px);');
         setTimeout(()=>{
             document.querySelector('menu').setAttribute('style','display:none;');
             console.log('hidden')
@@ -159,7 +159,7 @@ function menu_hide(){
 
 function menu_show(){
     if (state_menu_display=='hide'){
-        document.querySelector('menu').setAttribute('style','transform:translate(1920px);');
+        document.querySelector('menu').setAttribute('style','-webkit-transform:translate(1920px);transform:translate(1920px);');
         setTimeout(()=>{
             document.querySelector('menu').setAttribute('style','');
             console.log('shown')
@@ -170,7 +170,7 @@ function menu_show(){
 
 function score_hide(){
     if (state_score_display=='show'){
-        document.querySelector('score').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('score').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('score').setAttribute('style','display:none;');
             console.log('hidden')
@@ -186,7 +186,7 @@ function score_show(){
     document.getElementById('score-co').innerText = "Cookie最高:"+parseInt(highsc)
 
     if (state_score_display=='hide'){
-        document.querySelector('score').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('score').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('score').setAttribute('style','');
             console.log('shown')
@@ -197,7 +197,7 @@ function score_show(){
 
 function over_hide(){
     if (state_over_display=='show'){
-        document.querySelector('over').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('over').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('over').setAttribute('style','display:none;');
             console.log('hidden')
@@ -217,7 +217,7 @@ function over_show(){
     document.getElementById('over-co').innerText = "Cookie最高:"+highsc
 
     if (state_over_display=='hide'){
-        document.querySelector('over').setAttribute('style','transform:translate(1920px);');
+        document.querySelector('over').setAttribute('style','-webkit-transform:translate(1920px);transform:translate(1920px);');
         setTimeout(()=>{
             document.querySelector('over').setAttribute('style','');
             console.log('shown')
@@ -228,7 +228,7 @@ function over_show(){
 
 function game_hide(){
     if (state_game_display=='show'){
-        document.querySelector('game').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('game').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('game').setAttribute('style','display:none;');
             console.log('hidden')
@@ -239,7 +239,7 @@ function game_hide(){
 
 function game_show(){
     if (state_game_display=='hide'){
-        document.querySelector('game').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('game').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('game').setAttribute('style','');
             console.log('shown')
@@ -250,7 +250,7 @@ function game_show(){
 
 function about_hide(){
     if (state_about_display=='show'){
-        document.querySelector('about').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('about').setAttribute('style','-webkit-transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('about').setAttribute('style','display:none;');
             console.log('hidden')
@@ -261,7 +261,7 @@ function about_hide(){
 
 function about_show(){
     if (state_about_display=='hide'){
-        document.querySelector('about').setAttribute('style','transform:translate(-1920px);');
+        document.querySelector('about').setAttribute('style','transform:translate(-1920px);transform:translate(-1920px);');
         setTimeout(()=>{
             document.querySelector('about').setAttribute('style','');
             console.log('shown')

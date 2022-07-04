@@ -37,7 +37,7 @@ menu{
     font-size: 300px;
     font-family: 'Pixel';
     transition: all .5s ease-in-out;
-
+    -webkit-transition: all .5s ease-in-out;
 }
 
 menu > button{
@@ -49,6 +49,7 @@ menu > button{
     font-size: 100px;
     width:500px;
     transition: background .1s linear;
+    -webkit-transition: background .1s linear;
     cursor: pointer;
 }
 
@@ -68,6 +69,7 @@ about{
     font-size: 300px;
     font-family: 'Pixel';
     transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 about > h3{
@@ -95,6 +97,7 @@ about > button{
     color:#FFF;
     padding:0px 10px;
     transition: background .1s linear;
+    -webkit-transition: background .1s linear;
     cursor: pointer;
 }
 
@@ -115,6 +118,7 @@ score{
     font-size: 300px;
     font-family: 'Pixel';
     transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 score > h3{
@@ -140,6 +144,7 @@ score > button{
     color:#FFF;
     padding:0px 10px;
     transition: background .1s linear;
+    -webkit-transition: background .1s linear;
     cursor: pointer;
 }
 
@@ -161,6 +166,7 @@ over{
     font-size: 300px;
     font-family: 'Pixel';
     transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 over > h3{
@@ -188,6 +194,7 @@ over > button{
     color:#FFF;
     padding:0px 10px;
     transition: background .1s linear;
+    -webkit-transition: background .1s linear;
     cursor: pointer;
 }
 
@@ -207,12 +214,14 @@ game{
     font-size: 200px;
     font-family: 'Pixel';
     transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
     background-image: linear-gradient(90deg,#000 49%,#444 49%, #444 51%, #000 51%);
 }
 
 game > pong {
     position: absolute;
     transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
     left:960px;
     top:540px;
     height: 40px;
@@ -234,6 +243,7 @@ game > panel{
     height: 300px;
     width:30px;
     transform: translate(0,-50%);
+    -webkit-transform: translate(0,-50%);
 }
 
 #panelA{
