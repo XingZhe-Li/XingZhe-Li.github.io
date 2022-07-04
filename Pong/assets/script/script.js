@@ -18,7 +18,7 @@ state_game_display = 'hide'
 state_over_display = 'hide'
 this_hi = 0
 count = 0
-ping_last_tick = false
+ping_last_tick = 0
 
 keymap = {
     up:false,
@@ -52,23 +52,25 @@ pong = {
         if (this.x<=70 && this.x>= 30 
             && panelA.y-panelA.height/2 <= this.y 
             && this.y <= panelA.y+panelA.height/2 
-            && ping_last_tick==false){
+            && ping_last_tick==0){
 
             this.toward = Math.PI - this.toward;
             count_add()
-            ping_last_tick = true
+            ping_last_tick = 5
             this.rand()
         }
-        if (this.x<=1890 && this.x>= 1850
+        else if (this.x<=1890 && this.x>= 1850
             && panelB.y-panelB.height/2 <= this.y 
             && this.y <= panelB.y+panelB.height/2 
-            && ping_last_tick==false){
+            && ping_last_tick==0){
 
             this.toward = Math.PI - this.toward;
             count_add()
-            ping_last_tick = true
+            ping_last_tick = 5
             this.rand()
-        }else ping_last_tick = false
+        }else if(ping_last_tick > 0){
+            ping_last_tick -= 1;
+        }
     },out(){
         console.log(pong)
     }
