@@ -1,108 +1,75 @@
 body{
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 30px;
     margin:0px;
-    /* background-image: url('https://i0.wp.com/www.appletips.nl/wp-content/uploads/2020/06/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-scaled.jpg?fit=2560%2C2560&ssl=1'); */
-    background-image: url('https://wallpapershome.ru/images/pages/pic_h/23424.jpg');
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: #222222;
+    background: radial-gradient(100% 225% at 100% 0%, #FF0000 0%, #000000 100%), linear-gradient(236deg, #00C2FF 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 0%, #CDFFEB 36%, #009F9D 36%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+    background-blend-mode: overlay, hard-light, normal;
 }
 
-@font-face {
-    font-family: 'DYZ';
-    src: url('./DYZ.otf');
-}
-
-.toexam{
-    position: relative;
+.page{
     display: flex;
-    color:#FFF;
     flex-direction: column;
     align-items: center;
-    padding: 15px;
-    font-family: 'DYZ';
-    font-size: 2rem;
-    border: #FFF 1px solid;
-    border-radius: 8px;
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
-    cursor: pointer;
-    transition: .2s ease all;
-    text-shadow: #222 0px 0px 30px ;
-    box-shadow: #212121 0px 0px 20px;
+    height: 100vh;
+    width: 100vw;
+    max-width: 1000px;
+    margin: auto;
 }
 
-.toexam:hover{
-    box-shadow: #212121 0px 0px 50px;
-}
-
-.toexam > p{
-    margin:0px;
-    font-size: 4rem;
-}
-
-.progressbar{
-    width: 100%;
-    background-color: #FFF;
-    height:8px;
-    border-radius: 8px;  
-    box-shadow: #222 0px 0px 30px;
-}
-
-.progressbar2{
-    position: absolute;
-    bottom: 15px;
-    right: 15px;
-    background-color: rgb(25, 226, 25);
-    height:8px;
-    border-radius: 8px;  
-    box-shadow: #222 0px 0px 30px;
-}
-
-.cards-container{
-    margin-top:20px;
-    width:100%;
-    display: flex;
-    flex-wrap: wrap;
-    gap:20px;
-}
-
-.card{
-    cursor:pointer;
+.topbar{
+    padding-top: 20px;
     color:#FFF;
-    font-family: 'DYZ';
-    border: 1px #FFF solid;
+    height:80px;
+    font-size: 40px;
+    text-shadow: #FFF 0px 0px 20px;
+}
+
+.text{
+    color:#FFF;
+    font-size: 25px;
+    text-shadow: #FFF 0px 0px 20px;
+}
+
+.countdown{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
     border-radius: 8px;
-    backdrop-filter: blur(15px);
-    min-width:400px;
-    height:180px;
+    background-color: #222222EE;
+    padding:20px;
+}
+
+.counter{
+    margin-top: 20px;
+    border-radius: 8px;
+    height:80px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border: #00C2FF 1px solid;
+}
+
+.counter > name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color:#FFF;
+    font-size: 40px;
+    width: 30%;
+    text-align: center;
+    background-color: #07395b;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.counter > timer{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color:#CCC;
     flex-grow: 1;
-    box-shadow: #222 0px 0px 30px;
-    text-shadow: #222 0px 0px 30px ;
-    -webkit-backdrop-filter: blur(15px);
-}
-
-.card-title{
-    margin:15px;
-    font-size: 3.5rem;
-    /* text-align: center; */
-    margin-bottom: 0px;
-}
-
-.card-subtitle{
-    /* text-align: center; */
-    margin:15px;
-    margin-top:0px;
-    font-size: 1rem;
-    overflow: hidden;
-}
-
-.card-count{
-    overflow: hidden;
-    font-size: 2rem;
-    margin:0px;
-    margin-left:15px;
-    margin-right:15px;
-}
+    text-align: center;
+} 
