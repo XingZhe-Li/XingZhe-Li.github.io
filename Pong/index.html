@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="./assets/css/style.css">
+		<script src="./assets/script/script.js"></script>
+		<link rel="shortcut icon" href="./assets/img/favicon.jpg" type="image/x-icon">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+		<title>Pong</title>
+	</head>
+	<body>
+		<div class="playground">
+			<game style="display: none;">
+				<pong></pong>
+				<panel id="panelA"></panel>
+				<panel id="panelB"></panel>
+				<!-- <count id="scoreA">01</count> -->
+				<!-- <count id="scoreB">02</count> -->
+				<count id="single">0</count>
+			</game>
+			<menu>
+				Pong
+				<button id="btn-play">Play</button>
+				<button id="btn-score">Score</button>
+				<button id="btn-about">About</button>
+			</menu>
+			<about style="display:none">
+				<h3>Pong</h3>
+				<p>雅达利Pong的复刻,但技术拙劣</p>
+				<p>如何控制:WS控制左挡板,Up/Down控制右挡板</p>
+				<p>使用的字体:Sliver.ttf</p>
+				<p>背后使用的技术:前端三大件HTML+CSS+Javascript</p>
+				<p>Copyright XingZhe-Li@github.com</p>
+				<button id="btn-about-back">返回></button>
+			</about>
+			<score style="display:none">
+				<h3>Scores</h3>
+				<p id="score-hi">本次最高:</p>
+				<p id="score-co">Cookie最高:</p>
+				<button id="btn-score-back">返回></button>
+			</score>
+			<over style="display:none">
+				<h3>GAME OVER</h3>
+				<p id="over-sc">本次分数:</p>
+				<p id="over-hi">本次最高:</p>
+				<p id="over-co">Cookie最高:</p>
+				<button id="btn-over-back">返回></button>
+			</over>
+		</div>
+	</body>
+</html>

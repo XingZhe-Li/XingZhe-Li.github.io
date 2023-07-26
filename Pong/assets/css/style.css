@@ -1,0 +1,255 @@
+body{
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    margin:0;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline:#444 1px solid;
+}
+
+@font-face {
+    font-family: 'Pixel';
+    src: url('../font/Sliver.ttf');
+}
+
+.playground{
+    outline:#FFF solid 1px;
+    height:1080px;
+    width:1920px;
+    position: relative;
+    overflow: hidden;
+}
+
+menu{
+    padding: 0px;
+    margin:0px;
+    position: absolute;
+    top:0px ; left:0px;bottom:0px;right: 0px;
+    flex-direction: column;
+    display: flex;
+    color:#FFF;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-size: 300px;
+    font-family: 'Pixel';
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+menu > button{
+    border: 0px;
+    font-family: 'Pixel';
+    outline:unset;
+    background-color: transparent;
+    color:#FFF;
+    font-size: 100px;
+    width:500px;
+    transition: background .1s linear;
+    -webkit-transition: background .1s linear;
+    cursor: pointer;
+}
+
+menu > button:hover{
+    background-color: #444;
+}
+
+about{
+    margin:0px;
+    position: absolute;
+    top:0px;left:0px;bottom:0px;right: 0px;
+    flex-direction: column;
+    display: flex;
+    color:#FFF;
+    align-items: center;
+    justify-content: center;
+    font-size: 300px;
+    font-family: 'Pixel';
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+about > h3{
+    color:#FFF;
+    margin:0px;
+    padding:0px;
+}
+
+about > p{
+    color:#FFF;
+    margin:0px;
+    padding:0px;
+    font-size: 70px;
+}
+
+about > button{
+    border: 0px;
+    position: absolute;
+    top:20px;
+    right:20px;
+    font-size: 100px;
+    font-family: 'Pixel';
+    outline:unset;
+    background-color: transparent;
+    color:#FFF;
+    padding:0px 10px;
+    transition: background .1s linear;
+    -webkit-transition: background .1s linear;
+    cursor: pointer;
+}
+
+about > button:hover{
+    background-color: #444;
+}
+/* Score */
+
+score{
+    margin:0px;
+    position: absolute;
+    top:0px;left:0px;bottom:0px;right: 0px;
+    flex-direction: column;
+    display: flex;
+    color:#FFF;
+    align-items: center;
+    justify-content: center;
+    font-size: 300px;
+    font-family: 'Pixel';
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+score > h3{
+    margin:0px;
+    padding:0px;
+}
+
+score > p{
+    margin:0px;
+    padding:0px;
+    font-size: 100px;
+}
+
+score > button{
+    border: 0px;
+    position: absolute;
+    top:20px;
+    right:20px;
+    font-size: 100px;
+    font-family: 'Pixel';
+    outline:unset;
+    background-color: transparent;
+    color:#FFF;
+    padding:0px 10px;
+    transition: background .1s linear;
+    -webkit-transition: background .1s linear;
+    cursor: pointer;
+}
+
+score > button:hover{
+    background-color: #444;
+}
+
+/* Over */
+
+over{
+    margin:0px;
+    position: absolute;
+    top:0px;left:0px;bottom:0px;right: 0px;
+    flex-direction: column;
+    display: flex;
+    color:#FFF;
+    align-items: center;
+    justify-content: center;
+    font-size: 300px;
+    font-family: 'Pixel';
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+over > h3{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+}
+
+over > p{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    font-size: 100px;
+}
+
+over > button{
+    border: 0px;
+    position: absolute;
+    top:20px;
+    right:20px;
+    font-size: 100px;
+    font-family: 'Pixel';
+    outline:unset;
+    background-color: transparent;
+    color:#FFF;
+    padding:0px 10px;
+    transition: background .1s linear;
+    -webkit-transition: background .1s linear;
+    cursor: pointer;
+}
+
+over > button:hover{
+    background-color: #444;
+}
+
+/* Game */
+
+game{
+    margin:0px;
+    position: absolute;
+    top:0px;left:0px;bottom:0px;right: 0px;
+    display: flex;
+    color:#FFF;
+    justify-content: center;
+    font-size: 200px;
+    font-family: 'Pixel';
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    background-image: linear-gradient(90deg,#000 49%,#444 49%, #444 51%, #000 51%);
+}
+
+game > pong {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    left:960px;
+    top:540px;
+    height: 40px;
+    width: 40px;
+    background-color: #FFF;
+}
+
+game > count {
+    padding-top: 20px;
+    text-align: center;
+    flex-grow: 1;
+    font-weight: bold;
+}
+
+game > panel{
+    position: absolute;
+    background-color: #FFF;
+    top:540px;
+    height: 300px;
+    width:30px;
+    transform: translate(0,-50%);
+    -webkit-transform: translate(0,-50%);
+}
+
+#panelA{
+    left: 50px;
+}
+
+#panelB{
+    right: 50px;
+}
