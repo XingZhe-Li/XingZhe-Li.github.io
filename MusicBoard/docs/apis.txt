@@ -1,0 +1,29 @@
+# NeteaseCloudMusicAPI
+    # Document
+        https://neteasecloudmusicapi.js.org/#/
+    # Example
+        https://autumnfish.cn/search?keywords=
+        https://autumnfish.cn/song/url?id=
+        https://autumnfish.cn/comment/hot?type=0
+
+# Shserve API
+    # Document
+        https://api.shserve.cn/doc/wyy.html
+    # Example
+        https://api.shserve.cn/api/wyy?url=https://y.music.163.com/m/song?id=436514312
+
+# NeteaseAPI
+    # Example
+        https://music.163.com/api/search/get/web?csrf_token=hlpretag=&hlposttag=&s=[Song Name]&type=1&offset=0&total=true&limit=2
+        # With CORS , Hard To Use
+        http://music.163.com/song/media/outer/url?id=2050691252.mp3
+
+# YIMIAN API
+    # Example
+        https://api.yimian.xyz/msc/?type=single&id=36308263
+        https://api.yimian.xyz/msc/?type=playlist&id=2675649523
+        https://api.yimian.xyz/msc/?type=playlist&id=2675649523&limit=14
+        https://api.yimian.xyz/msc/?type=playlist&id=2675649523&limit=14&random=true
+        https://api.yimian.xyz/msc/?type=url&id=36308263
+        https://api.yimian.xyz/msc/?type=cover&id=3384296792803059
+        https://api.yimian.xyz/msc/?type=lrc&id=36308263

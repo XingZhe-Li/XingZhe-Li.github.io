@@ -1,0 +1,198 @@
+*{
+    font-family: 'consolas';
+    color: #DDD;
+}
+
+body{
+    margin:0px;
+    width:100vw;
+    height:100vh;
+    background: #0F172A;
+    background-image: url("../assets/darklines.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.board{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:8px;
+
+    position: fixed;
+    width: 50vw;
+    top:0px;
+    bottom: 0px;
+}
+
+.title{
+    font-size: 32px;
+}
+
+.container{
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    max-height: 40%;
+    width: 80%;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #DDD1;
+    gap:8px;
+}
+
+.item{
+    --bg:#DDD1;
+    font-size: 24px;
+    align-items: center;
+    cursor: pointer;
+    background-color: var(--bg);
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px;
+    transition: background-color .2s ease-in-out;
+}
+
+.item:hover{
+    background-color: #DDD2;
+}
+
+.button{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width:80%;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #DDD1;
+    padding:12px;
+    cursor: pointer;
+    transition: background-color .1s ease-in-out;
+}
+
+.button:hover{
+    background-color: #DDD2;
+}
+
+.statistics{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width:50vw;
+    border-left: #DDD 1px solid;
+    display: flex;
+    flex-direction: column;
+}
+
+*::-webkit-scrollbar{
+    appearance: none;
+    width:0px;
+}
+
+.average , .line{
+    padding:8px;
+    font-size: 28px;
+    background-color: #DDD2;
+    flex-wrap: wrap;
+    overflow: hidden;
+
+    --bg:#01bd75;
+    --end:0%;
+    display: flex;
+    background-image: linear-gradient(90deg,var(--bg),var(--bg) var(--end),#0000 var(--end),#0000);
+}
+
+.average::after , .line::after{
+    overflow: hidden;
+    font-size: 24px;
+    text-align: right;
+    flex-grow: 1;
+    content: var(--text);
+}
+
+.fill-80{
+    height:80px;
+}
+
+.list{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.modebtn{
+    cursor: pointer;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    padding:8px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: #DDD1;
+    transition: background-color .2s ease-in-out;
+}
+
+.modebtn:hover{
+    background-color: #DDD3;
+}
+
+.switchview{
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+    padding:8px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: #DDD1;
+    transition: background-color .2s ease-in-out;
+}
+
+.switchview:hover{
+    background-color: #DDD3;
+}
+
+.player{
+    height:32px;
+    display: flex;
+    width: 80%;
+}
+
+.player > img{
+    flex-shrink: 0;
+    height:100%;
+    cursor: pointer;
+    transition: transform .2s ease-in-out;
+}
+
+.player > img:hover{
+    transform: scale(0.8);
+}
+
+.timer{
+    flex-grow: 1;
+}
+
+.voler{
+    max-width:100px;
+}
+
+@media screen and (max-width:800px){
+    .board{
+        --d:flex;
+        width: 100vw;
+        display: var(--d);
+    }
+    .statistics{
+        --d:flex;
+        width: 100vw;
+        display: var(--d);
+    }
+    .switchview{
+        display: block;
+    }
+}

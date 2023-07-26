@@ -1,0 +1,190 @@
+*{
+    font-family: 'consolas';
+    color: #DDD;
+}
+
+body{
+    margin:0px;
+    width:100vw;
+    height:100vh;
+    background: #0F172A;
+    background-image: url("../assets/darklines.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.playerbar{
+    display: flex;
+    position: fixed;
+    left:10px;
+    right:10px;
+    bottom:10px;
+    height:50px;
+    border-radius:8px;
+    background-color: #DDD2;
+    transition: left .1s ease-in-out,
+        right .1s ease-in-out,
+        bottom .1s ease-in-out,
+        background-color .2s ease-in-out;
+    align-items: center;
+    gap:4px;
+}
+
+.playerbar:hover{
+    right: 12px;
+    left: 12px;
+    bottom: 12px;
+    background-color: #DDD3;
+}
+
+.playerbar-ranger{
+    width: 100%;
+    
+}
+
+.mg-1{
+    margin: 5px;
+}
+
+.playerbar-btn{
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #DDD0;
+    transition: background-color .2s ease-in-out,
+        transform .2s ease-in-out;
+}
+
+.playerbar-btn:hover{
+    background-color: #DDD3;
+    transform: scale(1.1);
+}
+
+.playerbar-time{
+    white-space: nowrap;
+}
+
+.playerbar-vol{
+    max-width:100px;
+    min-width:100px;
+}
+
+.playerbar-mini{
+    display: none;
+}
+
+.listpanel{
+    display: flex;
+    position: fixed;
+    left:10px;
+    right:10px;
+    top:60px;
+    bottom:70px;
+    border-radius:8px;
+    background-color: #DDD2;
+    transition: bottom .1s ease-in-out;
+    gap:4px;
+    flex-direction: column;
+    padding: 12px;
+    overflow-y: auto;
+}
+
+.list-item{
+    min-height: 20px;
+    max-height: 20px;
+    padding:8px;
+    font-size: 20px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color .1s ease-in-out;
+}
+
+.list-item:hover{
+    background-color: #DDD2;
+}
+
+.return {
+    background-color: #DDD2;
+}
+
+.return:hover{
+    background-color: #DDD3;
+}
+
+.mode{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left:10px;
+    top:10px;
+    right:10px;
+    border-radius: 8px;
+    background-color: #DDD2;
+    font-size: 34px;
+    cursor: pointer;
+    transition:background-color .2s ease-in-out;
+}
+
+.mode:hover{
+    background-color: #DDD4;
+}
+
+/* Media Checking */
+@media screen and (max-width:520px) {
+    .playerbar{
+        bottom: 72px;
+    }
+    .playerbar:hover{
+        right: 12px;
+        left: 12px;
+        bottom: 70px;
+        background-color: #DDD3;
+    }
+    .playerbar-mini{
+        display: flex;
+        position: fixed;
+        left:10px;
+        right:10px;
+        bottom:10px;
+        height:50px;
+        border-radius:8px;
+        background-color: #DDD2;
+        transition: left .1s ease-in-out,
+            right .1s ease-in-out,
+            bottom .1s ease-in-out,
+            background-color .2s ease-in-out;
+        align-items: center;
+        gap:4px;
+    }
+    .playerbar-mini:hover{
+        right: 12px;
+        left: 12px;
+        bottom: 12px;
+        background-color: #DDD3;
+    }
+    .playerbar-mini > .playerbar-ranger{
+        margin:0px 12px;
+    }
+    .playerbar > .playerbar-ranger{
+        display:none;
+    }
+    .playerbar > .playerbar-vol{
+        max-width: 100%;
+        width:100%;
+    }
+    .listpanel{
+        bottom: 135px;
+    }
+}
+
+.item-play{
+    background-color: #5fcfff89;
+}
+
+.item-play:hover{
+    background-color: #65e8ffc8;
+}

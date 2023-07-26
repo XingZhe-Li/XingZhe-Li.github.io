@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <!-- CDN Script Importing -->
+        <title>Myonline Music Player</title>
+        <link rel="stylesheet" href="./styles/index.css">
+        <link rel="shortcut icon" href="./assets/cassette.svg" type="image/x-icon">
+        <script src="https://cdn.bootcdn.net/ajax/libs/alpinejs/3.11.1/cdn.min.js" defer></script>
+        <script src="./scripts/index.js"></script>
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="mode" onclick="globalSwitch()">Playlist</div>
+        <!-- Playerbar -->
+        <div class="playerbar" x-data="playerbar">
+            <img :src="playBtnIcon" alt="play button" class="playerbar-play playerbar-btn mg-1" @click="PlayButton()">
+            <input class="playerbar-ranger" min="0" max="1" step="0.001" type="range" @input="playerChangePlayTime($el.value)">
+            <div class="playerbar-time"> 00:00/00:00 </div>
+            <img :src="playVolIcon" alt="play button" class="playerbar-play playerbar-btn mg-1">
+            <input class="playerbar-vol" min="0" max="1" step="0.01" value="0.5" type="range" @input="ChangeVolume($el.value)">
+            <img :src="playModeIcon" alt="play button" class="playerbar-play playerbar-btn mg-1" @click="SwitchMode()">
+        </div>
+        <div class="playerbar-mini" x-data>
+            <input class="playerbar-ranger" min="0" max="1" step="0.001" type="range" @input="playerChangePlayTime($el.value)">
+        </div>
+        <!-- PlayList Panel -->
+        <div class="listpanel" x-data="listpanel" x-show="display">
+            <template x-for="name in lists">
+                <div class="list-item" x-text="name" @click="listpanelItemClick(name)"></div>
+            </template>
+        </div>
+        <!-- PlayList Panel -->
+        <div class="listpanel" x-data="songspanel" x-show="display">
+            <div class="list-item return" @click="songspanelReturn()">返回上一级</div>
+            <template x-for="[index,id,name] in lists">
+                <div :class="'list-item ' + (id==now_play_id ? 'item-play' : '')" 
+                    x-text="name" @click="playItem(index,id)"></div>
+            </template>
+        </div>
+    </body>
+</html>
