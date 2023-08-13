@@ -6,6 +6,10 @@ body{
     margin:0px;
 }
 
+.inblock{
+    display: inline-block!important;
+}
+
 .background {
     position: fixed;
     left:0px;

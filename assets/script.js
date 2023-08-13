@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 features = [
     "这儿真没什么能干的。",
-    "要不来打盘<p onclick=\"window.open('./Pong/index.html')\">乒乓</p>？",
-    "或者来<p onclick=\"window.open('./MusicBoard/index.html')\">听听歌</p>？",
-    "或者来<p onclick=\"window.open('./MusicBoard/guess.html')\">猜猜歌</p>？",
-    "再不行就只能看看<p onclick=\"window.open('https://www.github.com/XingZhe-Li')\">代码</p>了。"
+    "要不来打盘<p class=\"inblock\" onclick=\"window.open('./Pong/index.html')\">乒乓</p>？",
+    "或者来<p class=\"inblock\" onclick=\"window.open('./MusicBoard/index.html')\">听听歌</p>？",
+    "或者来<p class=\"inblock\" onclick=\"window.open('./MusicBoard/guess.html')\">猜猜歌</p>？",
+    "再不行就只能看看<p class=\"inblock\" onclick=\"window.open('https://www.github.com/XingZhe-Li')\">代码</p>了。"
 ]
 
 typings = [
