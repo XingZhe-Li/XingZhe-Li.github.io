@@ -4,13 +4,26 @@ player.volume = 0.5
 // config
 json_to_load = './data/background_ids_name_nonVIP.json'
 option_count = 6
+localstorageName = 'record'
+
+// URL Depended config
+url = new URL(location.href)
+if (url.searchParams.get('mode')=='author'){
+    option_count = 6
+    json_to_load = './data/author_mode.json'
+    localstorageName = 'record-author'
+}else if(url.searchParams.get('mode')=='1of4'){
+    option_count = 4
+    json_to_load = './data/author_1of4.json'
+    localstorageName = 'record-1of4'
+}
 
 // Logics
 rangecount = 0
 data = {}
 answer = ''
 songinfo = []
-record = window.localStorage.getItem('record')
+record = window.localStorage.getItem(localstorageName)
 if (record==null)record = []
 else record = JSON.parse(record)
 record_view = 0
@@ -70,12 +83,12 @@ function addToRecord(){
         if (viewdata.selected==answer) ifright = 1;
         record.push([answer,ifright,1])
     }
-    window.localStorage.setItem('record',JSON.stringify(record))
+    window.localStorage.setItem(localstorageName,JSON.stringify(record))
     loadRecord()
 }
 
 function clearRecord(){
-    window.localStorage.removeItem('record')
+    window.localStorage.removeItem(localstorageName)
     console.log('record removed')
     record = []
     loadRecord()
