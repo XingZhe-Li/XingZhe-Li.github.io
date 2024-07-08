@@ -20,12 +20,29 @@ document.addEventListener('DOMContentLoaded',()=>{
 features = [
     "这儿真没什么能干的。",
     "要不来打盘<p class=\"inblock\" onclick=\"window.open('./Pong/index.html')\">乒乓</p>？",
+    "看看<p class=\"inblock\" onclick=\"window.open('./Index/index.html')\">目录</p>？",
     "或者来<p class=\"inblock\" onclick=\"window.open('./MusicBoard/index.html')\">听听歌</p>？",
     "或者来<p class=\"inblock\" onclick=\"window.open('./MusicBoard/guess.html')\">猜猜歌</p>？",
     "再不行就只能看看<p class=\"inblock\" onclick=\"window.open('https://www.github.com/XingZhe-Li')\">代码</p>了。"
 ]
 
 typings = [
+    [
+        "这里是某人的主页",
+        "空空如也"
+    ],
+    [
+        "人生一寄",
+        "你说呢?"
+    ],
+    [
+        "你可以往下滑滑",
+        "或者再等等",
+        "这说不定能长出按钮来"
+    ]
+]
+
+typings_old = [
     [
         "不要走在我后面",
         "因为我可能不会引路",
