@@ -146,3 +146,11 @@ body{
     font-weight: bold;
     font-size: 1.3rem;
 }
+
+/* Highlight Patch */
+.highlight{
+    display: inline;
+    color:#00ff7b;
+    /* color: #ffc800; */
+    font-weight: bolder;
+}

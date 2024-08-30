@@ -5,6 +5,11 @@ document.addEventListener('DOMContentLoaded',()=>{
     renderAll()
 })
 
+globalConfig = {
+    'use_regex' : true, // Otherwise use string pattern matching
+    'use_highlight' : true
+}
+
 index = [
     {
         title:'Software Index',
@@ -19,12 +24,52 @@ index = [
 ]
 index_ptr   = 0
 
+function renderHighlight(scope){
+    let ekeys = scope.querySelectorAll('.key')
+    let edes  = scope.querySelectorAll('.descript')
+
+    for (let toRep of [ekeys,edes]){
+        for (let node of toRep){
+            let content = node.textContent
+            for (let childNode of node.childNodes){
+                childNode.remove()
+            }
+            let lastIndex = 0
+            for (let matchArray of content.matchAll(/<HighLight>(.*?)<\/HighLight>/g)){
+                node.appendChild(document.createTextNode(content.slice(lastIndex,matchArray.index)))
+                let highlightElement = document.createElement('div')
+                highlightElement.classList.add('highlight')
+                highlightElement.textContent = matchArray[1]
+                node.appendChild(highlightElement)
+                lastIndex = matchArray.index + matchArray[0].length
+            }
+            node.appendChild(document.createTextNode(content.slice(lastIndex)))
+        }
+    }
+}
+
 function filter(keyword,lst){
     keyword = keyword.toLowerCase();
     let result = {}
+    if (keyword == ''){
+        return lst
+    }
     for (let key in lst){
-        if (key.toLowerCase().indexOf(keyword)!=-1 ||lst[key].des.toLowerCase().indexOf(keyword)!=-1){
-            result[key] = lst[key]
+        if (globalConfig['use_regex']){
+            if (key.toLowerCase().search(RegExp(keyword,'gi'))!=-1 ||lst[key].des.toLowerCase().search(RegExp(keyword,'gi'))!=-1){
+                if (globalConfig['use_highlight']){
+                    let repkey = key.replaceAll(RegExp(keyword,'gi'),'<HighLight>$&</HighLight>')
+                    result[repkey] = {}
+                    Object.assign(result[repkey],lst[key])
+                    result[repkey]['des'] = result[repkey]['des'].replaceAll(RegExp(keyword,'gi'),'<HighLight>$&</HighLight>')
+                }else{
+                    result[key] = lst[key]
+                }
+            }
+        }else{
+            if (key.toLowerCase().indexOf(keyword)!=-1 ||lst[key].des.toLowerCase().indexOf(keyword)!=-1){
+                result[key] = lst[key]
+            }
         }
     }
     return result
@@ -72,9 +117,14 @@ function popout(name,descript,lnks){
         })
         frag.appendChild(list_item)
     }
+    
     elnklist.appendChild(frag)
     let epopout = document.querySelector('.popout');
+    if (globalConfig['use_highlight']){
+        renderHighlight(epopout)
+    }
     epopout.classList.add('show');
+
 }
 
 function popoutClose(){
@@ -107,6 +157,9 @@ function renderList(lst){
     for (let child of document.querySelectorAll('.list > .item')){
         child.remove()
     }
-
+    
+    if (globalConfig['use_highlight']){
+        renderHighlight(frag)
+    }
     elst.appendChild(frag)
 }
