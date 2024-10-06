@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded',()=>{
     document.querySelector('.panel > .close').addEventListener('click',popoutClose)
     document.querySelector('.title').addEventListener('click',switchIndex)
     document.querySelector('.input').addEventListener('input',renderAll)
+    document.querySelector('.popout').addEventListener('click',clickOutSideHide)
+    document.addEventListener('keydown',captureKeydown)
     renderAll()
 })
 
@@ -23,6 +25,22 @@ index = [
     }
 ]
 index_ptr   = 0
+
+function clickOutSideHide(e){
+    if (e.target == e.currentTarget){
+        popoutClose()
+    }
+}
+
+function captureKeydown(e){
+    switch (e.keyCode) {
+        case 27:
+            popoutClose()
+            break;
+        default:
+            return;
+    }
+}
 
 function renderHighlight(scope){
     let ekeys = scope.querySelectorAll('.key')
