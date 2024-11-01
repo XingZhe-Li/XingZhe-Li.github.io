@@ -122,3 +122,8 @@ body{
 .typed-text-2 > p:hover{
     background-color: #DDD3;
 }
+
+.typed-cursor{
+    display: flex;
+    align-items: center;
+}
