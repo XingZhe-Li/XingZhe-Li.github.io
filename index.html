@@ -1,30 +1,143 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
+        <title>Hello There</title>
+        <!-- meta tags -->
+        <meta name="keywords" content="XingZhe-Li , github , personal website , introduction">
+        <meta name="description" content="XingZhe-Li's Personal Website">
+        <meta name="robots" content="all">
+        <meta name="author" content="XingZhe-Li.github.io">
         <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <title>Hello World</title>
-        <script src="./assets/script.js"></script>
-        <link rel="stylesheet" href="./assets/style.css">
-        <link rel="shortcut icon" href="./assets/Terminal-Light.svg" type="image/x-icon">
-        <script src="https://cdn.bootcdn.net/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+        <!-- resource imports -->
+        <link rel="shortcut icon" href="./assets/images/Terminal-Light.svg" type="image/x-icon">
+        <link rel="stylesheet" href="./assets/styles/basic.css">
+        <link rel="stylesheet" href="./assets/styles/uno.css">
+        <script src="./assets/scripts/min.js"></script>
+        <script src="./assets/scripts/vanilla-tilt.min.js" defer></script>
+        <script src="./assets/scripts/alpine.min.js" defer></script>
     </head>
-    <body>
-        <div class="background"></div>
-        <div class="page">
-            <div class="typed-container">
-                <h1 class="typed-text-1 typed-text"></h1>
+    <body x-data="{pageIndex:0,roleModelIndex:0}" class="bg-dark-600 background flex flex-col w-screen items-stretch xl:items-center">
+        <div class="m-16 xl:w-7xl flex flex-col">
+            <!-- navbar -->
+            <div class="h-14 grid sm:grid-cols-4 grid-cols-3 grid-flow-row">
+                <div class="col-span-1 flex flex-row">
+                    <div class="avatar" data-tilt data-tilt-reverse="true" data-tilt-scale="1.3" data-tilt-speed="100"></div>
+                </div>
+                <div class="col-span-2 sm:flex justify-center hidden">
+                    <div class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
+                        <template x-for="(value,index) in pages">
+                            <div @click="pageIndex = index" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-md text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest"
+                            :class='pageIndex == index ? "bg-[#f2f2f21a]" : ""' x-text="value"></div>
+                        </template>
+                    </div>
+                </div>
+                <div class="col-span-1 sm:hidden flex justify-center items-center">
+                    <div @click="pageIndex = (pageIndex + 1) % pages.length" class="cursor-pointer duration-300 transition-colors hover:bg-[#f2f2f227] bg-[#f2f2f218] rounded-full text-lg text-white font-mono h-4/5 p-0.5 items-center flex px-6 tracking-widest"
+                         x-text="pages[pageIndex]">
+                    </div>
+                </div>
+                <div class="col-span-1 flex flex-row-reverse">
+                    <div class="github" @click="window.open('https://www.github.com/XingZhe-Li/')"></div>
+                </div>
             </div>
-            <div class="github" onclick="window.open(`https://www.github.com/XingZhe-Li`)">
-                <img src="./assets/github.svg">
-                XingZhe-Li @ github.com
+            <!-- Intro.intro -->
+            <div x-show="pageIndex == 0" class="mt-40 flex flex-col align-bottom">
+                <div class="font-bold text-transparent bg-gradient-to-r bg-clip-text lg:text-[64px] text-[48px] font-mono to-light-500 from-gray-500">
+                    Hi,I'm XingZhe-Li
+                </div>
+                <div class="mt-5 font-bold text-transparent bg-gradient-to-r bg-clip-text lg:text-[48px] text-[36px] font-mono to-light-500 from-gray-500">
+                    <div id="typed"></div>
+                </div>
+                <div class="max-w-4xl mt-12 text-lg font-bold text-transparent bg-gradient-to-r bg-clip-text to-light-500 from-gray-400 font-mono">
+                    It seems that I finally come up with the decision to rewrite my github page. This page is built with the help of unocss , alpine.js , lozad.js , lenis.js and much more.
+                </div>
+                <div class="mt-6 flex h-8 gap-8">
+                    <template x-for="item in contactAt">
+                        <div class="contact-icon lozad" :data-background-image="`./assets/images/${item.img}`" style="background-image:url('./assets/images/blank.svg');" @click="window.open(item.url)"></div>
+                    </template>
+                </div>
             </div>
-        </div>
-        <div class="page">
-            <div class="typed-container">
-                <h1 class="typed-text-2 typed-text"></h1>
+            <!-- Intro.status -->
+            <div x-show="pageIndex == 0" class="flex mt-36 flex-col">
+                <div class="font-bold text-transparent bg-gradient-to-r bg-clip-text text-[24px] font-mono to-light-500 from-gray-400">
+                    My status of code
+                </div>
+                <div class="max-w-4xl mt-6 p-4 rounded-2xl flex flex-col border-solid border-opacity-40 border-light-600 border-width-[1px]">
+                    <div class="font-bold text-transparent bg-gradient-to-r bg-clip-text text-[18px] font-mono to-light-500 from-gray-400">
+                        Techs that I have learned a bit:
+                    </div>
+                    <div class="mt-2 flex gap-4 flex-wrap opacity-70">
+                        <template x-for="item in iconLists[0]">
+                            <div class="iconitem h-8 lozad" :data-background-image="`./assets/images/${item}`" style="background-image: url('./assets/images/blank.svg');"></div>
+                        </template>
+                    </div>
+                    <div class="mt-4 font-bold text-transparent bg-gradient-to-r bg-clip-text text-[18px] font-mono to-light-500 from-gray-400">
+                        Techs that I had a bite of / had tried to learn:
+                    </div>
+                    <div class="mt-2 flex gap-4 flex-wrap opacity-70">
+                        <template x-for="item in iconLists[1]">
+                            <div class="iconitem h-8 lozad" :data-background-image="`./assets/images/${item}`" style="background-image: url('./assets/images/blank.svg');"></div>
+                        </template>
+                    </div>
+                    <div class="mt-4 font-bold text-transparent bg-gradient-to-r bg-clip-text text-[18px] font-mono to-light-500 from-gray-400">
+                        Techs that interests me:
+                    </div>
+                    <div class="mt-2 flex gap-4 flex-wrap opacity-70">
+                        <template x-for="item in iconLists[2]">
+                            <div class="iconitem h-8 lozad" :data-background-image="`./assets/images/${item}`" style="background-image: url('./assets/images/blank.svg');"></div>
+                        </template>
+                    </div>
+                    <div class="mt-4 font-bold text-transparent bg-gradient-to-r bg-clip-text text-[18px] font-mono to-light-500 from-gray-400">
+                        Above aren't all
+                    </div>
+                </div>
+            </div>
+            <!-- Intro.favorites -->
+            <div x-show="pageIndex == 0" class="mt-16">
+                <div class="font-bold text-transparent bg-gradient-to-r bg-clip-text text-[24px] font-mono to-light-500 from-gray-400">
+                    My Favorites
+                </div>
+                <div class="flex flex-col gap-4 mt-6 rounded-2xl">
+                    <template x-for="item in favoritesList">
+                        <div class="cursor-pointer max-w-4xl h-18 flex border-opacity-40 border-light-600 border-width-[1px] border-solid p-4">
+                            <div class="lozad iconitem h-full opacity-80" :data-background-image="`./assets/images/${item.img}`" style="background-image:url('./assets/images/blank.svg');"></div>
+                            <div class="z-10 text-[20px] sm:text-[28px] pl-4 font-bold flex-grow text-transparent bg-gradient-to-r bg-clip-text font-mono to-light-500 from-gray-400" x-text="item.q"></div>
+                            <div class="duration-200 transition-[filter] overflow-hidden text-[20px] sm:text-[28px] blur hover:blur-0 cursor-pointer text-right self-end font-bold text-transparent bg-gradient-to-r bg-clip-text font-mono to-light-500 from-gray-400" x-text="item.a"></div>
+                        </div>
+                    </template>
+                </div>
+            </div>
+            <!-- Projects.title -->
+            <div x-show="pageIndex == 1" class="mt-12 font-bold text-transparent bg-gradient-to-r bg-clip-text sm:text-[36px] text-[32px] font-mono to-light-500 from-gray-500">
+                Projects
+            </div>
+            <!-- Projects.grid -->
+            <div x-show="pageIndex == 1" class="mt-12 gap-4 grid grid-cols-1 auto-rows-max sm:grid-cols-2 lg:grid-cols-3">
+                <template x-for="item in projectList">
+                    <div @click="window.open(item.url)" class="hover:bg-light-600 hover:bg-opacity-10 transition-colors flex flex-col p-4 cursor-pointer rounded-2xl border-solid border-opacity-40 border-light-600 border-width-[1px]">
+                        <div class="lozad iconitem h-16 opacity-70" :data-background-image="`./assets/images/${item.img}`" style="background-image:url('./assets/images/blank.svg');"></div>
+                        <div class="mt-4 font-bold text-transparent bg-gradient-to-r bg-clip-text text-[22px] font-mono to-light-500 from-gray-400" x-text="item.title"></div>
+                        <div class="mt-4 text-transparent bg-gradient-to-r bg-clip-text text-[16px] font-mono to-light-500 from-gray-400 w-full overflow-hidden" x-text="item.descript"></div>
+                        <div class="flex-grow flex items-end mt-4 text-transparent bg-gradient-to-r bg-clip-text text-[16px] font-mono to-light-500 from-gray-400 w-full overflow-hidden" x-text="`> ${item.linkscript}`"></div>
+                    </div>
+                </template>
+            </div>
+            <!-- RoleModel.title -->
+            <div x-show="pageIndex == 2" class="mt-12 font-bold text-transparent bg-gradient-to-r bg-clip-text sm:text-[36px] text-[32px] font-mono to-light-50 from-gray-500">
+                RoleModels
+            </div>
+            <!-- RoleModel.img -->
+            <div x-show="pageIndex == 2" class="mt-12 flex items-center h-64">
+                <div @click="roleModelIndex=(roleModelIndex-1+roleModelList.length)%roleModelList.length" class="lozad iconitem h-14 opacity-60 hover:opacity-80 hover:scale-110 arrs duration-200" data-background-image="./assets/images/arr-left.svg" style="background-image:url('./assets/images/blank.svg');"></div>
+                <div class="flex-grow h-full flex justify-center">
+                    <div class="iconitem h-full" :style="`background-image:url('./assets/images/rolemodel/${roleModelList[roleModelIndex].img}');`"></div>
+                </div>
+                <div @click="roleModelIndex=(roleModelIndex+1+roleModelList.length)%roleModelList.length" class="lozad iconitem h-14 opacity-60 hover:opacity-80 hover:scale-110 arrs duration-200" data-background-image="./assets/images/arr-right.svg" style="background-image:url('./assets/images/blank.svg');"></div>
+            </div>
+            <!-- RoleModel.panel -->
+            <div x-show="pageIndex == 2" class="mt-8 flex flex-col w-full">
+                <div class="flex justify-center text-[28px] font-bold flex-grow text-transparent bg-gradient-to-r bg-clip-text font-mono to-light-500 from-gray-400" x-text="roleModelList[roleModelIndex].name"></div>
+                <div class="mt-4 flex text-[20px] indent-lg flex-grow text-transparent bg-gradient-to-r bg-clip-text font-mono to-light-500 from-gray-400" x-text="roleModelList[roleModelIndex].descript"></div>
             </div>
         </div>
     </body>

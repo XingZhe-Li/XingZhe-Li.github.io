@@ -1,0 +1,73 @@
+body{
+    margin:0px!important;
+}
+.background::after {
+    content: '';
+    position: fixed;
+    border-radius: 50%;
+    width: 100vw ;
+    height: 100vh;
+    background: conic-gradient(from 180deg at 50% 50%, #12001B -97.5deg, #000000 14.05deg, #040EFF 54.01deg, #8000FF 113.42deg, #00B6B6 185.62deg, #12001B 262.5deg, #000000 374.05deg);
+    filter: blur(60px) brightness(0.2);
+    z-index: -1;
+    animation: 30s background-move linear infinite;
+    user-select: none;
+}
+@keyframes background-move {
+    from {transform: rotate(180deg) scale(2);}
+    50% {transform: rotate(360deg) scale(1.7);}
+    to{transform: rotate(540deg) scale(2);}
+}
+.avatar{
+    background-image: url('../images/avatar.jpg');
+    border-radius:50%;
+    aspect-ratio: 1 / 1;
+    background-size: contain;
+    transition: filter .5s ease-in-out;
+    cursor: pointer;
+}
+.avatar:hover{
+    filter: brightness(1.6);
+}
+.github{
+    background-image: url('../images/github.svg');
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    background-size: contain;
+    transition: transform .3s ease-in-out , opacity .5s ease-in-out;
+    cursor: pointer;
+    margin: 8px;
+    opacity: 0.7;
+}
+.github:hover{
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+#typed{
+    display: inline;
+}
+.typed-cursor{
+    display: inline;
+    color :#FFF7 !important;
+}
+.contact-icon{
+    aspect-ratio: 1 / 1;
+    height: 100%;
+    background-size: contain;
+    opacity: 0.6;
+    cursor: pointer;
+    transition: transform .3s ease-in-out , opacity .5s ease-in-out;
+}
+.contact-icon:hover{
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+.iconitem{
+    aspect-ratio: 1 / 1;
+    background-size:contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.arrs{
+    transition: opacity .2s ease-in-out , transform .2s ease-in-out;
+}
