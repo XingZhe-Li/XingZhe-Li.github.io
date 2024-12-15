@@ -87,10 +87,10 @@
 .text-\[32px\]{font-size:32px;}
 .text-\[36px\]{font-size:36px;}
 .text-\[48px\]{font-size:48px;}
-.text-lg{font-size:1.125rem;line-height:1.75rem;}
 .text-transparent{color:transparent /* transparent */;}
 .text-white{--un-text-opacity:1;color:rgb(255 255 255 / var(--un-text-opacity)) /* #fff */;}
 .font-bold{font-weight:700;}
+.leading-\[24px\]{line-height:24px;}
 .tracking-widest{letter-spacing:0.1em;}
 .font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;}
 .opacity-60{opacity:0.6;}

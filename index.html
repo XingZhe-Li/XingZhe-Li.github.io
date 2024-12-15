@@ -26,13 +26,13 @@
                 <div class="col-span-2 sm:flex justify-center hidden">
                     <div class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
                         <template x-for="(value,index) in pages">
-                            <div @click="pageIndex = index" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-md text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest"
+                            <div @click="pageIndex = index" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-[16px] text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest"
                             :class='pageIndex == index ? "bg-[#f2f2f21a]" : ""' x-text="value"></div>
                         </template>
                     </div>
                 </div>
                 <div class="col-span-1 sm:hidden flex justify-center items-center">
-                    <div @click="pageIndex = (pageIndex + 1) % pages.length" class="cursor-pointer duration-300 transition-colors hover:bg-[#f2f2f227] bg-[#f2f2f218] rounded-full text-lg text-white font-mono h-4/5 p-0.5 items-center flex px-6 tracking-widest"
+                    <div @click="pageIndex = (pageIndex + 1) % pages.length" class="cursor-pointer duration-300 transition-colors hover:bg-[#f2f2f227] bg-[#f2f2f218] rounded-full text-[18px] text-white font-mono h-4/5 p-0.5 items-center flex px-6 tracking-widest"
                          x-text="pages[pageIndex]">
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                 <div class="mt-5 font-bold text-transparent bg-gradient-to-r bg-clip-text lg:text-[48px] text-[36px] font-mono to-light-500 from-gray-500">
                     <div id="typed"></div>
                 </div>
-                <div class="max-w-4xl mt-12 text-lg font-bold text-transparent bg-gradient-to-r bg-clip-text to-light-500 from-gray-400 font-mono">
+                <div class="max-w-4xl mt-12 leading-[24px] text-[18px] font-bold text-transparent bg-gradient-to-r bg-clip-text to-light-500 from-gray-400 font-mono">
                     It seems that I finally come up with the decision to rewrite my github page. This page is built with the help of unocss , alpine.js , lozad.js , lenis.js and much more.
                 </div>
                 <div class="mt-6 flex h-8 gap-8">
