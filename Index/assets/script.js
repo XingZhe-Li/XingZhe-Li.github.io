@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded',()=>{
     document.querySelector('.panel > .close').addEventListener('click',popoutClose)
     document.querySelector('.title').addEventListener('click',switchIndex)
-    document.querySelector('.input').addEventListener('input',renderAll)
+    document.querySelector('.input').addEventListener('input',debounceInput)
     document.querySelector('.popout').addEventListener('click',clickOutSideHide)
     document.addEventListener('keydown',captureKeydown)
     renderAll()
@@ -15,16 +15,18 @@ globalConfig = {
 index = [
     {
         title:'Software Index',
-        lst:[],
+        lst:null,
         url:'./json/Softwares.json'
     },
     {
         title:'Framework Index',
-        lst:[],
+        lst:null,
         url:'./json/Frameworks.json'
     }
 ]
 index_ptr   = 0
+
+debounceCounter = 0 
 
 function clickOutSideHide(e){
     if (e.target == e.currentTarget){
@@ -68,29 +70,53 @@ function renderHighlight(scope){
 
 function filter(keyword,lst){
     keyword = keyword.toLowerCase();
-    let result = {}
+    let result = []
     if (keyword == ''){
-        return lst
+        for (let key in lst){
+            result.push([key,lst[key].des,lst[key].lnk])
+        }
+        return result
     }
     for (let key in lst){
         if (globalConfig['use_regex']){
             if (key.toLowerCase().search(RegExp(keyword,'gi'))!=-1 ||lst[key].des.toLowerCase().search(RegExp(keyword,'gi'))!=-1){
                 if (globalConfig['use_highlight']){
+                    let matchObj = key.match(RegExp(keyword,'gi'))
+                    let rating = (matchObj && matchObj[0] == key) ? 1000 : 0
+                    rating += [...key.matchAll(RegExp(keyword,'gi'))].length * 5 
+                    rating += [...lst[key]['des'].matchAll(RegExp(keyword,'gi'))].length
                     let repkey = key.replaceAll(RegExp(keyword,'gi'),'<HighLight>$&</HighLight>')
-                    result[repkey] = {}
-                    Object.assign(result[repkey],lst[key])
-                    result[repkey]['des'] = result[repkey]['des'].replaceAll(RegExp(keyword,'gi'),'<HighLight>$&</HighLight>')
+                    let repdes = lst[key]['des'].replaceAll(RegExp(keyword,'gi'),'<HighLight>$&</HighLight>')
+                    result.push([repkey,repdes,lst[key].lnk,rating])
                 }else{
-                    result[key] = lst[key]
+                    result.push([key,lst[key].des,lst[key].lnk])
                 }
             }
         }else{
             if (key.toLowerCase().indexOf(keyword)!=-1 ||lst[key].des.toLowerCase().indexOf(keyword)!=-1){
-                result[key] = lst[key]
+                result.push([key,lst[key].des,lst[key].lnk])
             }
         }
     }
+
+    if (result.length > 0 && result[0].length == 4){
+        result.sort((a,b)=>{
+            return b[3] - a[3]
+        })
+    }
+    console.log(result)
+
     return result
+}
+
+function debounceInput(){
+    debounceCounter ++;
+    setTimeout(()=>{
+        debounceCounter --;
+        if (debounceCounter == 0){
+            renderAll()
+        }
+    },100)
 }
 
 async function renderAll(){
@@ -107,7 +133,7 @@ function switchIndex(){
 }
 
 async function fetchLst(){
-    if (index[index_ptr].lst.length!=0){
+    if (index[index_ptr].lst!=null){
         return index[index_ptr].lst
     }
     let jsoned = await (await fetch(index[index_ptr].url)).json()
@@ -153,18 +179,18 @@ function popoutClose(){
 function renderList(lst){
 
     let frag = document.createDocumentFragment()
-    for (let key in lst){
+    for (let [key,des,lnk] of lst){
         let eitem = document.createElement('div')
         eitem.classList.add('item')
         eitem.addEventListener('click',()=>{
-            popout(key,lst[key].des,lst[key].lnk)
+            popout(key,des,lnk)
         })
         let ekey  = document.createElement('div')
         ekey.classList.add('key')
         ekey.textContent = key
         let edescript = document.createElement('div')
         edescript.classList.add('descript')
-        edescript.textContent = lst[key]['des']
+        edescript.textContent = des
 
         eitem.appendChild(ekey)
         eitem.appendChild(edescript)
