@@ -25,10 +25,10 @@
                     <div class="avatar" data-tilt data-tilt-reverse="true" data-tilt-scale="1.3" data-tilt-speed="100"></div>
                 </div>
                 <div class="col-span-2 sm:flex justify-center hidden relative">
-                    <div x-data="{navw:76,navl:0}" class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
-                        <div id="navitem-backdrop" class="duration-600 rounded-full absolute h-[42px] bg-[#f2f2f21a] transition-all" :style="`width:${navw}px;left:${navl}px`"></div>
+                    <div x-data="{navw:76,navl:0,navdropshow:false}" class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
+                        <div x-show="navdropshow" id="navitem-backdrop" class="duration-600 rounded-full absolute h-[42px] bg-[#f2f2f21a] transition-all" :style="`width:${navw}px;left:${navl}px`"></div>
                         <template x-for="(value,index) in pages">
-                            <div x-init="index==0 ? $el.click() : 0" @click="pageIndex = index ; navw = $el.clientWidth ; navl = $el.offsetLeft" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-[16px] text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest z-[1]"
+                            <div x-init="index==0 ? $nextTick(() => {$el.click();navdropshow=true}) : 0" @click="pageIndex = index ; navw = $el.clientWidth ; navl = $el.offsetLeft" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-[16px] text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest z-[1]"
                             x-text="value"></div>
                         </template>
                     </div>
