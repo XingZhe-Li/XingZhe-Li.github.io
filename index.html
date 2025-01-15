@@ -13,7 +13,12 @@
         <link rel="shortcut icon" href="./assets/images/Terminal-Light.svg" type="image/x-icon">
         <link rel="stylesheet" href="./assets/styles/basic.css">
         <link rel="stylesheet" href="./assets/styles/uno.css">
-        <script src="./assets/scripts/min.js"></script>
+        <script src="./assets/scripts/typed.umd.js"></script>
+        <script src="./assets/scripts/lenis.min.js"></script>
+        <script src="./assets/scripts/script.js"></script>
+        <script src="./assets/scripts/lozad.min.js"></script>
+        <!-- <script src="./assets/scripts/min.js"></script> -->
+        <!-- <script src="./assets/scripts/scripts.obs.js"></script> -->
         <script src="./assets/scripts/vanilla-tilt.min.js" defer></script>
         <script src="./assets/scripts/alpine.min.js" defer></script>
     </head>
@@ -24,11 +29,12 @@
                 <div class="col-span-1 flex flex-row">
                     <div class="avatar" data-tilt data-tilt-reverse="true" data-tilt-scale="1.3" data-tilt-speed="100"></div>
                 </div>
-                <div class="col-span-2 sm:flex justify-center hidden">
-                    <div class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
+                <div class="col-span-2 sm:flex justify-center hidden relative">
+                    <div x-data="{navw:76,navl:0}" class="items-center justify-center bg-[#f2f2f21a] rounded-full flex px-2 py-1 gap-1">
+                        <div id="navitem-backdrop" class="duration-600 rounded-full absolute h-[42px] bg-[#f2f2f21a] transition-all" :style="`width:${navw}px;left:${navl}px`"></div>
                         <template x-for="(value,index) in pages">
-                            <div @click="pageIndex = index" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-[16px] text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest"
-                            :class='pageIndex == index ? "bg-[#f2f2f21a]" : ""' x-text="value"></div>
+                            <div @click="pageIndex = index ; navw = $el.clientWidth ; navl = $el.offsetLeft" class="cursor-pointer transition-colors duration-300 hover:bg-[#f2f2f20d] rounded-full text-[16px] text-white font-mono h-4/5 p-0.5 items-center flex px-3 tracking-widest z-[1]"
+                            x-text="value"></div>
                         </template>
                     </div>
                 </div>
