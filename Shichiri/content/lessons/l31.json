@@ -1,0 +1,949 @@
+{
+  "id": "l31",
+  "number": 31,
+  "moduleId": "m7",
+  "title": "餐饮与点单",
+  "subtitle": "从入店到结账完成一轮服务交流，并处理售罄",
+  "revision": 2,
+  "goals": [
+    "说明人数和所选商品，售罄后选替代项",
+    "识别服务员省略提问并给出对应信息",
+    "在『售罄后换一份午餐』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第30课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「餐饮与点单」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l31-ex01",
+        "l31-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「售罄后换一份午餐」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「昼の注文記録」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「餐饮与点单」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l31-ex19",
+        "l31-ex20",
+        "l31-ex21",
+        "l31-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到何名、二名、席、注文，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用何名様ですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「餐饮与点单」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l31-ex07",
+        "l31-ex08",
+        "l31-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「点单与替换选择」「入店、内用与结账回应」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「餐饮与点单」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l31-ex02",
+        "l31-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「餐饮与点单」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l31-ex04",
+        "l31-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「昼の注文記録」与「持ち帰る人の注文」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「餐饮与点单」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l31-ex11",
+        "l31-ex12",
+        "l31-ex13",
+        "l31-ex14",
+        "l31-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「餐饮与点单」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l31-ex06",
+        "l31-ex10",
+        "l31-ex17",
+        "l31-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l31-ext10",
+      "title": "餐饮与点单 · 10分钟迁移",
+      "instructions": "先听『售罄后换一份午餐』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l31-ext15",
+      "title": "餐饮与点单 · 15分钟迁移",
+      "instructions": "读『昼の注文記録』与『持ち帰る人の注文』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：店员问几位，你和朋友共三人，想在店里吃；回应。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l31-ext25",
+      "title": "餐饮与点单 · 25分钟迁移",
+      "instructions": "用5分钟听『售罄后换一份午餐』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你要外带一份饭；对方问店内还是外带，回应并说明份数。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l31-ex13",
+        "l31-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『售罄后换一份午餐』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『昼の注文記録』与变体材料的条件。",
+    "关闭说明后，能在情境中使用Nをお願いします／Nにします及二人です／店内で／一緒でお願いします，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l31-d01",
+      "title": "售罄后换一份午餐",
+      "context": "虚构食堂，两人用餐，其中一种套餐已经卖完。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l31-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "店員",
+          "ja": "何名様ですか。",
+          "kana": "なんめいさまですか。",
+          "zh": "请问几位？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "二人です。店内でお願いします。",
+          "kana": "ふたりです。てんないでおねがいします。",
+          "zh": "两位，在店里吃。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "こちらの席へどうぞ。ご注文は？",
+          "kana": "こちらのせきへどうぞ。ごちゅうもんは？",
+          "zh": "请坐这边。点什么？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "魚の定食を二つお願いします。",
+          "kana": "さかなのていしょくをふたつおねがいします。",
+          "zh": "请给两份鱼套餐。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "申し訳ありません。魚は売り切れです。カレーはあります。",
+          "kana": "もうしわけありません。さかなはうりきれです。かれーはあります。",
+          "zh": "很抱歉，鱼卖完了。有咖喱。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "では、カレーを二つお願いします。",
+          "kana": "では、かれーをふたつおねがいします。",
+          "zh": "那请给两份咖喱。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "はい。お会計はご一緒ですか。",
+          "kana": "はい。おかいけいはごいっしょですか。",
+          "zh": "好的。一起结账吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい、一緒でお願いします。",
+          "kana": "はい、いっしょでおねがいします。",
+          "zh": "是的，请一起结账。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l31-v01",
+      "word": "何名",
+      "reading": "なんめい",
+      "meaning": "几位",
+      "pos": "名词",
+      "example": "何名様ですか。",
+      "exampleMeaning": "请问几位？",
+      "mastery": "active",
+      "audioId": "synth-word-0560d409b37d5424"
+    },
+    {
+      "id": "l31-v02",
+      "word": "二名",
+      "reading": "にめい",
+      "meaning": "两位",
+      "pos": "名词",
+      "example": "二名です。",
+      "exampleMeaning": "是两位。",
+      "mastery": "active",
+      "audioId": "synth-word-eea1e83632be6486"
+    },
+    {
+      "id": "l31-v03",
+      "word": "席",
+      "reading": "せき",
+      "meaning": "座位",
+      "pos": "名词",
+      "example": "こちらの席へどうぞ。ご注文は？",
+      "exampleMeaning": "请坐这边。点什么？",
+      "mastery": "active",
+      "audioId": "synth-word-1fe73de283feddd9"
+    },
+    {
+      "id": "l31-v04",
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "点单",
+      "pos": "名词",
+      "example": "こちらの席へどうぞ。ご注文は？",
+      "exampleMeaning": "请坐这边。点什么？",
+      "mastery": "active",
+      "audioId": "synth-word-42841e3db3fb4e80"
+    },
+    {
+      "id": "l31-v05",
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaning": "套餐",
+      "pos": "名词",
+      "example": "魚の定食を二つお願いします。",
+      "exampleMeaning": "请给两份鱼套餐。",
+      "mastery": "active",
+      "audioId": "synth-word-da7c31e71493b56f"
+    },
+    {
+      "id": "l31-v06",
+      "word": "丼",
+      "reading": "どんぶり",
+      "meaning": "盖饭或大碗",
+      "pos": "名词",
+      "example": "丼です。",
+      "exampleMeaning": "是盖饭或大碗。",
+      "mastery": "active",
+      "audioId": "synth-word-52aed46037c398ce"
+    },
+    {
+      "id": "l31-v07",
+      "word": "味噌汁",
+      "reading": "みそしる",
+      "meaning": "味噌汤",
+      "pos": "名词",
+      "example": "味噌汁です。",
+      "exampleMeaning": "是味噌汤。",
+      "mastery": "active",
+      "audioId": "synth-word-08317d6fe2239608"
+    },
+    {
+      "id": "l31-v08",
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "售罄",
+      "pos": "名词",
+      "example": "申し訳ありません。魚は売り切れです。カレーはあります。",
+      "exampleMeaning": "很抱歉，鱼卖完了。有咖喱。",
+      "mastery": "active",
+      "audioId": "synth-word-81794ef466e3f218"
+    },
+    {
+      "id": "l31-v09",
+      "word": "店内",
+      "reading": "てんない",
+      "meaning": "店内",
+      "pos": "名词",
+      "example": "二人です。店内でお願いします。",
+      "exampleMeaning": "两位，在店里吃。",
+      "mastery": "active",
+      "audioId": "synth-word-2744a1f7fedfbea6"
+    },
+    {
+      "id": "l31-v10",
+      "word": "持ち帰り",
+      "reading": "もちかえり",
+      "meaning": "外带",
+      "pos": "名词",
+      "example": "持ち帰りです。",
+      "exampleMeaning": "是外带。",
+      "mastery": "active",
+      "audioId": "synth-word-19c0fa87ba355bfc"
+    },
+    {
+      "id": "l31-v11",
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "结账",
+      "pos": "名词",
+      "example": "はい。お会計はご一緒ですか。",
+      "exampleMeaning": "好的。一起结账吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-410bd4472926d310"
+    },
+    {
+      "id": "l31-v12",
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "分别",
+      "pos": "な形容词",
+      "example": "会計は別々でお願いします。",
+      "exampleMeaning": "请分别结账。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5a67b3d90fe9f648"
+    },
+    {
+      "id": "l31-v13",
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "一起",
+      "pos": "名词",
+      "example": "一緒でお願いします。",
+      "exampleMeaning": "请一起结账。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6775357fc1d8c7e5"
+    },
+    {
+      "id": "l31-v14",
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "稍微",
+      "pos": "副词",
+      "example": "少々お待ちください。",
+      "exampleMeaning": "请稍候。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e61de02eebef16c0"
+    },
+    {
+      "id": "l31-v15",
+      "word": "おすすめ",
+      "reading": "おすすめ",
+      "meaning": "推荐",
+      "pos": "名词",
+      "example": "おすすめです。",
+      "exampleMeaning": "是推荐。",
+      "mastery": "recognition",
+      "audioId": "synth-word-06268a6abfb6b847"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l31-e1",
+      "ja": "何名様ですか。",
+      "reading": "なんめいさまですか。",
+      "meaning": "请问几位？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-bde6fe30384ab8bb"
+    },
+    {
+      "id": "l31-e2",
+      "ja": "二人です。店内でお願いします。",
+      "reading": "ふたりです。てんないでおねがいします。",
+      "meaning": "两位，在店里吃。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c036b8c8cb353da1"
+    },
+    {
+      "id": "l31-e3",
+      "ja": "申し訳ありません。魚は売り切れです。カレーはあります。",
+      "reading": "もうしわけありません。さかなはうりきれです。かれーはあります。",
+      "meaning": "很抱歉，鱼卖完了。有咖喱。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-089abcc9fd813880"
+    },
+    {
+      "id": "l31-e4",
+      "ja": "では、カレーを二つお願いします。",
+      "reading": "では、かれーをふたつおねがいします。",
+      "meaning": "那请给两份咖喱。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-d860bade710f55e8"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l31-g1",
+      "title": "点单与替换选择",
+      "meaning": "说明人数和所选商品，售罄后选替代项",
+      "pattern": "Nをお願いします／Nにします",
+      "explanation": "Nをお願いします是服务场景常用请求。にします表示在候选中决定。先确认有货再说明所选，卖完的选项不能当已成功点单。",
+      "examples": [
+        {
+          "ja": "魚の定食をお願いします。",
+          "zh": "请给我鱼套餐。"
+        }
+      ],
+      "pitfall": "「二人です」和「二つです」分别是人数与数量，不要互换。"
+    },
+    {
+      "id": "l31-g2",
+      "title": "入店、内用与结账回应",
+      "meaning": "识别服务员省略提问并给出对应信息",
+      "pattern": "二人です／店内で／一緒でお願いします",
+      "explanation": "何名様ですか问人数；店内ですか问内用；お会計はご一緒ですか问合并付款。固定敬语先识别，不拆成未学变形。",
+      "examples": [
+        {
+          "ja": "店内でお願いします。",
+          "zh": "请在店内用餐。"
+        }
+      ],
+      "pitfall": "「はい」不能总替代具体选择；两选一提问宜回答具体选项。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "何名",
+          "reading": "なんめい",
+          "zh": "几位"
+        },
+        {
+          "ja": "二名",
+          "reading": "にめい",
+          "zh": "两位"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l31-r1",
+      "title": "昼の注文記録",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "昼、りんさんは友達と二人で食堂に入りました。店内で食べます。魚の定食を二つ注文しましたが、魚は売り切れでした。店員はカレーがあると言いました。二人はカレーを二つ注文しました。会計は一緒です。最初に選んだ魚の定食は、注文ができませんでした。",
+      "zh": "中午小林和朋友两人进食堂，在店内吃。原要点两份鱼套餐，但鱼已售罄。店员说有咖喱，两人改点两份咖喱，一起结账。最初选的鱼套餐没有点成。",
+      "audioId": "l31-reading-synth"
+    },
+    {
+      "id": "l31-r2",
+      "title": "持ち帰る人の注文",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "さらさんは一人で店に来ました。店内の席はありますが、今日は持ち帰りにします。野菜の丼を一つと、味噌汁を一つ注文しました。店員は「味噌汁は持ち帰りができません」と言いました。さらさんは丼だけ買いました。家で自分のお茶を飲みます。",
+      "zh": "莎拉一人到店。店内虽有座位，但今天要外带。点一份蔬菜盖饭和一份味噌汤，店员说汤不能外带。莎拉只买了盖饭，回家喝自己的茶。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l31-ex01",
+      "type": "choice",
+      "prompt": "りんは何人で店に来ましたか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l31-dialogue-synth",
+      "choices": [
+        "二人",
+        "一人",
+        "三人"
+      ],
+      "correctIndex": 0,
+      "explanation": "入店時に二人ですと答えた。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex02",
+      "type": "choice",
+      "prompt": "最終的な注文は何ですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l31-reading-synth",
+      "choices": [
+        "魚の定食二つ",
+        "カレー二つ",
+        "カレー一つと魚一つ"
+      ],
+      "correctIndex": 1,
+      "explanation": "魚が売り切れでカレー二つへ変更。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l31-ri8",
+        "l31-ri9"
+      ]
+    },
+    {
+      "id": "l31-ex03",
+      "type": "choice",
+      "prompt": "りんは何人で店に来ましたか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "二人",
+        "一人",
+        "三人"
+      ],
+      "correctIndex": 0,
+      "explanation": "入店時に二人ですと答えた。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex04",
+      "type": "choice",
+      "prompt": "最終的な注文は何ですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "魚の定食二つ",
+        "カレー二つ",
+        "カレー一つと魚一つ"
+      ],
+      "correctIndex": 1,
+      "explanation": "魚が売り切れでカレー二つへ変更。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l31-ri8",
+        "l31-ri9"
+      ]
+    },
+    {
+      "id": "l31-ex05",
+      "type": "choice",
+      "prompt": "さらが実際に買ったものはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "丼と味噌汁",
+        "味噌汁だけ",
+        "丼だけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "持ち帰れない味噌汁をやめ、丼だけ買う。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex06",
+      "type": "choice",
+      "prompt": "さらが持ち帰りにした理由として本文から確かに言えるのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "本人が今日持ち帰りを選んだ",
+        "店内が満席だった",
+        "店内が禁止だった"
+      ],
+      "correctIndex": 0,
+      "explanation": "席はある。理由の詳細はなく、本人が選んだことだけ確か。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l31-ri7"
+      ]
+    },
+    {
+      "id": "l31-ex07",
+      "type": "input",
+      "prompt": "「请给我咖喱」：カレー____お願いします。",
+      "acceptedAnswers": [
+        "を"
+      ],
+      "explanation": "商品をお願いします；省略助词能被理解但本课练完整结构。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex08",
+      "type": "input",
+      "prompt": "「请分别结账」：____でお願いします。",
+      "acceptedAnswers": [
+        "別々",
+        "べつべつ"
+      ],
+      "explanation": "別々说明分开付，不是人数。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex09",
+      "type": "order",
+      "prompt": "用词块组成：那我选咖喱。",
+      "tokens": [
+        "カレーに",
+        "します。",
+        "では、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为では、カレーにします。；商品をお願いします；省略助词能被理解但本课练完整结构。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex10",
+      "type": "order",
+      "prompt": "用词块组成：请一起结账。",
+      "tokens": [
+        "一緒で",
+        "お願いします。",
+        "お会計は、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为お会計は、一緒でお願いします。；別々说明分开付，不是人数。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex11",
+      "type": "self",
+      "prompt": "店员问几位，你和朋友共三人，想在店里吃；回应。",
+      "sampleAnswer": "三人です。店内でお願いします。",
+      "explanation": "明确人数和内用；三人读さんにん。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l31-ri5"
+      ]
+    },
+    {
+      "id": "l31-ex12",
+      "type": "self",
+      "prompt": "鱼卖完，有咖喱。你接受替换，要一份；重新下单。",
+      "sampleAnswer": "では、カレーを一つお願いします。",
+      "explanation": "回应售罄信息并确认新商品和份数。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex13",
+      "type": "self",
+      "prompt": "你不想和朋友合并付钱；结账时说明。",
+      "sampleAnswer": "お会計は別々でお願いします。",
+      "explanation": "別々是付款方式，并不表示分坐。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex14",
+      "type": "self",
+      "prompt": "你要外带一份饭；对方问店内还是外带，回应并说明份数。",
+      "sampleAnswer": "持ち帰りでお願いします。丼を一つお願いします。",
+      "explanation": "两选一题给具体选项，随后明确商品数量。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：店员问几位，你和朋友共三人，想在店里吃；回应。",
+      "choices": [
+        "三人です。店内でお願いします。",
+        "では、カレーを一つお願いします。",
+        "お会計は別々でお願いします。"
+      ],
+      "correctIndex": 0,
+      "explanation": "明确人数和内用；三人读さんにん。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l31-ri5"
+      ]
+    },
+    {
+      "id": "l31-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：鱼卖完，有咖喱。你接受替换，要一份；重新下单。",
+      "choices": [
+        "お会計は別々でお願いします。",
+        "持ち帰りでお願いします。丼を一つお願いします。",
+        "では、カレーを一つお願いします。"
+      ],
+      "correctIndex": 2,
+      "explanation": "回应售罄信息并确认新商品和份数。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你不想和朋友合并付钱；结账时说明。",
+      "choices": [
+        "三人です。店内でお願いします。",
+        "お会計は別々でお願いします。",
+        "持ち帰りでお願いします。丼を一つお願いします。"
+      ],
+      "correctIndex": 1,
+      "explanation": "別々是付款方式，并不表示分坐。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要外带一份饭；对方问店内还是外带，回应并说明份数。",
+      "choices": [
+        "持ち帰りでお願いします。丼を一つお願いします。",
+        "三人です。店内でお願いします。",
+        "では、カレーを一つお願いします。"
+      ],
+      "correctIndex": 0,
+      "explanation": "两选一题给具体选项，随后明确商品数量。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex19",
+      "type": "self",
+      "prompt": "读例句「何名様ですか。」。先不看词表，用中文说明「何名」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "几位",
+      "explanation": "本课这里表示“几位”。例句意思是：请问几位？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l31-ri1",
+        "l31-ri5"
+      ]
+    },
+    {
+      "id": "l31-ex20",
+      "type": "self",
+      "prompt": "读例句「こちらの席へどうぞ。ご注文は？」。先不看词表，用中文说明「注文」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "点单",
+      "explanation": "本课这里表示“点单”。例句意思是：请坐这边。点什么？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l31-ri7",
+        "l31-ri8"
+      ]
+    },
+    {
+      "id": "l31-ex21",
+      "type": "self",
+      "prompt": "读例句「味噌汁です。」。先不看词表，用中文说明「味噌汁」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "味噌汤",
+      "explanation": "本课这里表示“味噌汤”。例句意思是：是味噌汤。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l31-ex22",
+      "type": "self",
+      "prompt": "读例句「持ち帰りです。」。先不看词表，用中文说明「持ち帰り」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "外带",
+      "explanation": "本课这里表示“外带”。例句意思是：是外带。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l31-ri1",
+      "front": "请问几位？",
+      "back": "何名様ですか。",
+      "reading": "なんめいさまですか。",
+      "audioId": "synth-word-bde6fe30384ab8bb",
+      "kind": "expression"
+    },
+    {
+      "id": "l31-ri2",
+      "front": "两位，在店里吃。",
+      "back": "二人です。店内でお願いします。",
+      "reading": "ふたりです。てんないでおねがいします。",
+      "audioId": "synth-word-c036b8c8cb353da1",
+      "kind": "expression"
+    },
+    {
+      "id": "l31-ri3",
+      "front": "很抱歉，鱼卖完了。有咖喱。",
+      "back": "申し訳ありません。魚は売り切れです。カレーはあります。",
+      "reading": "もうしわけありません。さかなはうりきれです。かれーはあります。",
+      "audioId": "synth-word-089abcc9fd813880",
+      "kind": "expression"
+    },
+    {
+      "id": "l31-ri4",
+      "front": "那请给两份咖喱。",
+      "back": "では、カレーを二つお願いします。",
+      "reading": "では、かれーをふたつおねがいします。",
+      "audioId": "synth-word-d860bade710f55e8",
+      "kind": "expression"
+    },
+    {
+      "id": "l31-ri5",
+      "front": "何名在本课是什么意思？",
+      "back": "几位",
+      "reading": "なんめい",
+      "audioId": "synth-word-0560d409b37d5424",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l31-ri6",
+      "front": "二名在本课是什么意思？",
+      "back": "两位",
+      "reading": "にめい",
+      "audioId": "synth-word-eea1e83632be6486",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l31-ri7",
+      "front": "席在本课是什么意思？",
+      "back": "座位",
+      "reading": "せき",
+      "audioId": "synth-word-1fe73de283feddd9",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l31-ri8",
+      "front": "注文在本课是什么意思？",
+      "back": "点单",
+      "reading": "ちゅうもん",
+      "audioId": "synth-word-42841e3db3fb4e80",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l31-ri9",
+      "front": "定食在本课是什么意思？",
+      "back": "套餐",
+      "reading": "ていしょく",
+      "audioId": "synth-word-da7c31e71493b56f",
+      "kind": "vocabulary"
+    }
+  ]
+}

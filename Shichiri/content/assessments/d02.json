@@ -1,0 +1,166 @@
+{
+  "id": "d02",
+  "number": 2,
+  "week": 8,
+  "afterLesson": 20,
+  "revision": 2,
+  "title": "独立诊断：手作活动中的顺序与当前状态",
+  "focus": [
+    "行动顺序与对象",
+    "正在进行和已经形成的状态",
+    "不把旧照片当作当前事实"
+  ],
+  "reading": {
+    "title": "花のカードを作る",
+    "ja": "小さな教室で花のカードを作ります。まず机の上の白い紙を一枚取ってください。名前は紙の裏に書いてください。表に花の絵を描いてから、先生に見せてください。先生は青い服を着ています。道具は窓の下の箱にあります。終わってから、道具を箱に戻して、手を洗ってください。",
+    "zh": "在小教室制作花朵卡片。先取桌上一张白纸，把姓名写在纸背面。在正面画花后给老师看。老师穿蓝衣服。工具在窗下箱子里。结束后把工具放回箱子，再洗手。"
+  },
+  "listening": {
+    "title": "教室の今の様子",
+    "ja": "今、教室に四人います。まおさんは机で名前を書いています。たくさんは花の絵を描いています。えみさんはもう絵を描きました。先生に見せてから、道具を箱に戻します。先生は青い服を着て、窓の近くに立っています。入口の写真は先週の写真です。そこには赤い服の先生がいます。",
+    "zh": "现在教室有四人。真央在桌上写名字，拓在画花。惠美已画好，给老师看过后把工具放回箱子。老师穿蓝衣服，站在窗旁。入口照片是上周拍的，照片中的老师穿红衣服。",
+    "audioId": "d02-listening-synth"
+  },
+  "exercises": [
+    {
+      "id": "d02-ex01",
+      "type": "choice",
+      "prompt": "今、まおは何をしていますか。",
+      "audioId": "d02-listening-synth",
+      "choices": [
+        "花を描いている",
+        "名前を書いている",
+        "手を洗っている"
+      ],
+      "correctIndex": 1,
+      "explanation": "まおは名前を書いている；绘画的是拓。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex02",
+      "type": "choice",
+      "prompt": "先生が今着ている服は何色ですか。",
+      "audioId": "d02-listening-synth",
+      "choices": [
+        "赤",
+        "白",
+        "青"
+      ],
+      "correctIndex": 2,
+      "explanation": "今は青い服。赤い服は先週の写真。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex03",
+      "type": "choice",
+      "prompt": "名前はどこに書きますか。",
+      "choices": [
+        "紙の裏",
+        "花の絵の中",
+        "道具の箱"
+      ],
+      "correctIndex": 0,
+      "explanation": "名前は裏に書く。表は花の絵。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex04",
+      "type": "choice",
+      "prompt": "絵を描いた直後、何をしますか。",
+      "choices": [
+        "手を洗う",
+        "先生に見せる",
+        "紙を箱に戻す"
+      ],
+      "correctIndex": 1,
+      "explanation": "描いてから先生に見せる。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex05",
+      "type": "choice",
+      "prompt": "道具はどこにありますか。",
+      "choices": [
+        "入口の外",
+        "先生の袋",
+        "窓の下の箱"
+      ],
+      "correctIndex": 2,
+      "explanation": "道具の位置は窓の下の箱。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex06",
+      "type": "choice",
+      "prompt": "終わってからの順序はどれですか。",
+      "choices": [
+        "道具を戻す→手を洗う",
+        "手を洗う→名前を書く",
+        "先生を見る→紙を取る"
+      ],
+      "correctIndex": 0,
+      "explanation": "道具を箱に戻して、手を洗う。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex07",
+      "type": "input",
+      "prompt": "将「書く」变成て形，补全「请写姓名」：名前を____ください。",
+      "acceptedAnswers": [
+        "書いて",
+        "かいて"
+      ],
+      "explanation": "書く→書いて，使用て形请求。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex08",
+      "type": "order",
+      "prompt": "组成「给老师看后，把工具放回箱子」。",
+      "tokens": [
+        "道具を",
+        "箱に戻します。",
+        "先生に見せてから、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "てから明确前一动作完成后再做后一动作。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex09",
+      "type": "self",
+      "prompt": "现在换成新任务：先洗手，再拿一张纸。写一条给同学的完整指示。",
+      "sampleAnswer": "手を洗ってから、紙を一枚取ってください。",
+      "explanation": "能迁移顺序，数量一张必须保留。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d02-ex10",
+      "type": "self",
+      "prompt": "朋友拿着上周照片问老师现在是否穿红色。根据音频中的当前状态写答复，并说明照片时间。",
+      "sampleAnswer": "今は青い服を着ています。その写真は先週の写真です。",
+      "explanation": "区分现在信息与旧图，不把过去状态搬到现在。",
+      "skill": "expression",
+      "reviewItemIds": []
+    }
+  ],
+  "masteryCriteria": [
+    "首次听音频能区分三位学习者的动作，并识别当前老师服装。",
+    "在新操作说明中找出纸的正反面用途、道具位置和结束顺序。",
+    "会从書く构成请求，并用てから连接明确先后。",
+    "能重新组织指示并更正旧照片引起的误会；口语未经现场检验。"
+  ]
+}

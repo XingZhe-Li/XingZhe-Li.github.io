@@ -1,0 +1,1103 @@
+{
+  "id": "l43",
+  "number": 43,
+  "moduleId": "m9",
+  "title": "理解受身与受影响经历",
+  "subtitle": "被邀请、被告知和受到困扰，分别怎样从当事人立场说明？",
+  "revision": 2,
+  "goals": [
+    "识别受身形与动作执行者。",
+    "区分事实性的被动叙述和受影响的感受。",
+    "在报告问题时保留事实、来源和未确认部分。"
+  ],
+  "prerequisites": [
+    "理解第42课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「理解受身与受影响经历」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l43-ex01",
+        "l43-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「变更通知没有收到」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「通知されたはずの変更」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「理解受身与受影响经历」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l43-ex19",
+        "l43-ex20",
+        "l43-ex21",
+        "l43-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到会場、変更、通知、メール，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用メールで通知されたと聞きましたが、私は受け取っていません。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「理解受身与受影响经历」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l43-ex07",
+        "l43-ex08",
+        "l43-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「受身形与执行者」「受影响的被动叙述」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「理解受身与受影响经历」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l43-ex02",
+        "l43-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「理解受身与受影响经历」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l43-ex04",
+        "l43-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「通知されたはずの変更」与「発表を聞き取れなかった理由」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「理解受身与受影响经历」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l43-ex11",
+        "l43-ex12",
+        "l43-ex13",
+        "l43-ex14",
+        "l43-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「理解受身与受影响经历」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l43-ex06",
+        "l43-ex10",
+        "l43-ex17",
+        "l43-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l43-ext10",
+      "title": "理解受身与受影响经历 · 10分钟迁移",
+      "instructions": "用10分钟重读「通知されたはずの変更」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l43-ext15",
+      "title": "理解受身与受影响经历 · 15分钟迁移",
+      "instructions": "用15分钟把「発表を聞き取れなかった理由」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l43-ext25",
+      "title": "理解受身与受影响经历 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l43-ex13",
+        "l43-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l43-d01",
+      "title": "变更通知没有收到",
+      "context": "活动会场临时更换。林没收到邮件，在旧入口找到工作人员。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l43-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "こちらで説明会が行われますか。",
+          "kana": "こちらでせつめいかいがおこなわれますか。",
+          "zh": "说明会在这里举行吗？"
+        },
+        {
+          "speaker": "職員",
+          "ja": "会場は昨日変更されました。新しい場所は隣の建物です。",
+          "kana": "かいじょうはきのうへんこうされました。あたらしいばしょはとなりのたてものです。",
+          "zh": "会场昨天变更了，新地点在隔壁楼。"
+        },
+        {
+          "speaker": "林",
+          "ja": "メールで通知されたと聞きましたが、私は受け取っていません。",
+          "kana": "めーるでつうちされたとききましたが、わたしはうけとっていません。",
+          "zh": "听说发邮件通知了，但我没收到。"
+        },
+        {
+          "speaker": "職員",
+          "ja": "ご予約の名前を確認してもよろしいですか。",
+          "kana": "ごよやくのなまえをかくにんしてもよろしいですか。",
+          "zh": "可以确认预约姓名吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "林です。参加者には資料も送られましたか。",
+          "kana": "りんです。さんかしゃにはしりょうもおくられましたか。",
+          "zh": "姓林，也给参加者发资料了吗？"
+        },
+        {
+          "speaker": "職員",
+          "ja": "はい。ただ、宛先に誤りがあった可能性があります。",
+          "kana": "はい。ただ、あてさきにあやまりがあったかのうせいがあります。",
+          "zh": "是的，但收件地址可能有误。"
+        },
+        {
+          "speaker": "林",
+          "ja": "原因はまだ確認中ということですね。",
+          "kana": "げんいんはまだかくにんちゅうということですね。",
+          "zh": "也就是说原因还在确认，对吧？"
+        },
+        {
+          "speaker": "職員",
+          "ja": "はい。入口の掲示も新しくしました。こちらへどうぞ。",
+          "kana": "はい。いりぐちのけいじもあたらしくしました。こちらへどうぞ。",
+          "zh": "是的，入口告示也换了，请这边走。"
+        },
+        {
+          "speaker": "林",
+          "ja": "わかりました。あとで連絡の記録を確認したいです。",
+          "kana": "わかりました。あとでれんらくのきろくをかくにんしたいです。",
+          "zh": "明白，之后想确认联络记录。"
+        },
+        {
+          "speaker": "職員",
+          "ja": "承知しました。まず座席へご案内します。",
+          "kana": "しょうちしました。まずざせきへごあんないします。",
+          "zh": "知道了，先带您去座位。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l43-v01",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "会场",
+      "pos": "名词",
+      "example": "会場は昨日変更されました。新しい場所は隣の建物です。",
+      "exampleMeaning": "会场昨天变更了，新地点在隔壁楼。",
+      "mastery": "active",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l43-v02",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "会場は昨日変更されました。新しい場所は隣の建物です。",
+      "exampleMeaning": "会场昨天变更了，新地点在隔壁楼。",
+      "mastery": "active",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l43-v03",
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "通知",
+      "pos": "名词",
+      "example": "メールで通知されたと聞きましたが、私は受け取っていません。",
+      "exampleMeaning": "听说发邮件通知了，但我没收到。",
+      "mastery": "active",
+      "audioId": "synth-word-b5c2bb62d5dcfef2"
+    },
+    {
+      "id": "l43-v04",
+      "word": "メール",
+      "reading": "めーる",
+      "meaning": "电子邮件",
+      "pos": "名词",
+      "example": "メールで通知されたと聞きましたが、私は受け取っていません。",
+      "exampleMeaning": "听说发邮件通知了，但我没收到。",
+      "mastery": "active",
+      "audioId": "synth-word-fdf9ad763fb1ce4d"
+    },
+    {
+      "id": "l43-v05",
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "参加者",
+      "pos": "名词",
+      "example": "林です。参加者には資料も送られましたか。",
+      "exampleMeaning": "姓林，也给参加者发资料了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-b402ab2a931b5595"
+    },
+    {
+      "id": "l43-v06",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "入口",
+      "pos": "名词",
+      "example": "はい。入口の掲示も新しくしました。こちらへどうぞ。",
+      "exampleMeaning": "是的，入口告示也换了，请这边走。",
+      "mastery": "active",
+      "audioId": "synth-word-192b082f803d15bf"
+    },
+    {
+      "id": "l43-v07",
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "张贴告示",
+      "pos": "名词",
+      "example": "はい。入口の掲示も新しくしました。こちらへどうぞ。",
+      "exampleMeaning": "是的，入口告示也换了，请这边走。",
+      "mastery": "active",
+      "audioId": "synth-word-ace0e07f793c10e8"
+    },
+    {
+      "id": "l43-v08",
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "座位",
+      "pos": "名词",
+      "example": "承知しました。まず座席へご案内します。",
+      "exampleMeaning": "知道了，先带您去座位。",
+      "mastery": "active",
+      "audioId": "synth-word-2eec9a3dbbcdbf7b"
+    },
+    {
+      "id": "l43-v09",
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "姓名",
+      "pos": "名词",
+      "example": "ご予約の名前を確認してもよろしいですか。",
+      "exampleMeaning": "可以确认预约姓名吗？",
+      "mastery": "active",
+      "audioId": "synth-word-8c2b10c824ae9fa3"
+    },
+    {
+      "id": "l43-v10",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "接待处",
+      "pos": "名词",
+      "example": "受付では名前を確認され、新しい会場と座席へ案内されました。",
+      "exampleMeaning": "接待处核实了姓名，带我去新会场和座位。",
+      "mastery": "active",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l43-v11",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "こちらで説明会が行われますか。",
+      "exampleMeaning": "说明会在这里举行吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l43-v12",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "林です。参加者には資料も送られましたか。",
+      "exampleMeaning": "姓林，也给参加者发资料了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l43-v13",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "ご予約の名前を確認してもよろしいですか。",
+      "exampleMeaning": "可以确认预约姓名吗？",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l43-v14",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "ご予約の名前を確認してもよろしいですか。",
+      "exampleMeaning": "可以确认预约姓名吗？",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l43-v15",
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "记录",
+      "pos": "名词",
+      "example": "わかりました。あとで連絡の記録を確認したいです。",
+      "exampleMeaning": "明白，之后想确认联络记录。",
+      "mastery": "active",
+      "audioId": "synth-word-b817e5799cbc6fb5"
+    },
+    {
+      "id": "l43-v16",
+      "word": "苦情",
+      "reading": "くじょう",
+      "meaning": "投诉",
+      "pos": "名词",
+      "example": "苦情を書く時も、実際に起きたことと、自分が受けた影響を分けて説明するつもりです。",
+      "exampleMeaning": "写投诉时，也打算区分发生的事实与自己受到的影响。",
+      "mastery": "active",
+      "audioId": "synth-word-40bccab886ec8a0f"
+    },
+    {
+      "id": "l43-v17",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "责任",
+      "pos": "名词",
+      "example": "私はすぐに誰かの責任だと決めず、送信の記録を後で確認してほしいと伝えました。",
+      "exampleMeaning": "我没立刻断言是谁的责任，而要求之后查发送记录。",
+      "mastery": "active",
+      "audioId": "synth-word-d459db5732c82fdc"
+    },
+    {
+      "id": "l43-v18",
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "报告；发表",
+      "pos": "名词",
+      "example": "主催者は予約した参加者にメールを送ったと発表しましたが、私はその連絡を受け取っていませんでした。",
+      "exampleMeaning": "主办方表示给预约参加者发了邮件，但我没收到。",
+      "mastery": "active",
+      "audioId": "synth-word-f459427f169ff3d7"
+    },
+    {
+      "id": "l43-v19",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "予定が変わった事実は確かですが、通知が届かなかった原因まで確かだとは言えません。",
+      "exampleMeaning": "计划变更是事实，但不能说通知未送达原因也已确定。",
+      "mastery": "recognition",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l43-v20",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系",
+      "pos": "名词",
+      "example": "わかりました。あとで連絡の記録を確認したいです。",
+      "exampleMeaning": "明白，之后想确认联络记录。",
+      "mastery": "recognition",
+      "audioId": "synth-word-82db684775389331"
+    },
+    {
+      "id": "l43-v21",
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "理由",
+      "pos": "名词",
+      "example": "資料も送られたそうですが、宛先に誤りがあった可能性があり、理由は調査中でした。",
+      "exampleMeaning": "据说资料也发了，但地址可能有误，原因仍在调查。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9d87c03640ed4651"
+    },
+    {
+      "id": "l43-v22",
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaning": "影响",
+      "pos": "名词",
+      "example": "苦情を書く時も、実際に起きたことと、自分が受けた影響を分けて説明するつもりです。",
+      "exampleMeaning": "写投诉时，也打算区分发生的事实与自己受到的影响。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b5d2d10112957371"
+    },
+    {
+      "id": "l43-v23",
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "雨",
+      "pos": "名词",
+      "example": "雨の中で古い入口まで来たため、開始前に少し困りました。",
+      "exampleMeaning": "我冒雨到了旧入口，开始前遇到些困难。",
+      "mastery": "recognition",
+      "audioId": "synth-word-da749fbe0ec9c603"
+    },
+    {
+      "id": "l43-v24",
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "夜晚",
+      "pos": "名词",
+      "example": "市民向けの説明会で、会場が前日の夜に変更されました。",
+      "exampleMeaning": "市民说明会的会场在前一晚更换。",
+      "mastery": "recognition",
+      "audioId": "synth-word-995bdbe599f109a8"
+    },
+    {
+      "id": "l43-v25",
+      "word": "主催者",
+      "reading": "しゅさいしゃ",
+      "meaning": "主办方",
+      "pos": "名词",
+      "example": "主催者は予約した参加者にメールを送ったと発表しましたが、私はその連絡を受け取っていませんでした。",
+      "exampleMeaning": "主办方表示给预约参加者发了邮件，但我没收到。",
+      "mastery": "recognition",
+      "audioId": "synth-word-cccdbfaeec4802bc"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l43-e1",
+      "ja": "メールで通知されたと聞きましたが、私は受け取っていません。",
+      "reading": "めーるでつうちされたとききましたが、わたしはうけとっていません。",
+      "meaning": "听说发邮件通知了，但我没收到。",
+      "usage": "区分别人说已通知与自己实际未收到",
+      "audioId": "synth-word-0fcb886920c10971"
+    },
+    {
+      "id": "l43-e2",
+      "ja": "林です。参加者には資料も送られましたか。",
+      "reading": "りんです。さんかしゃにはしりょうもおくられましたか。",
+      "meaning": "姓林，也给参加者发资料了吗？",
+      "usage": "追问被动发送资料的范围",
+      "audioId": "synth-word-630b6274affc4de8"
+    },
+    {
+      "id": "l43-e3",
+      "ja": "原因はまだ確認中ということですね。",
+      "reading": "げんいんはまだかくにんちゅうということですね。",
+      "meaning": "也就是说原因还在确认，对吧？",
+      "usage": "确认原因仍未确定",
+      "audioId": "synth-word-5f3b9c2f238436e9"
+    },
+    {
+      "id": "l43-e4",
+      "ja": "わかりました。あとで連絡の記録を確認したいです。",
+      "reading": "わかりました。あとでれんらくのきろくをかくにんしたいです。",
+      "meaning": "明白，之后想确认联络记录。",
+      "usage": "提出后续核实而不立即断言责任",
+      "audioId": "synth-word-7b474f6ab5979da0"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l43-g1",
+      "title": "受身形与执行者",
+      "meaning": "以接受动作的人或事物为话题。",
+      "pattern": "呼ぶ→呼ばれる／送る→送られる／変更する→変更される",
+      "explanation": "一类动词う段转あ段加れる，二类去る加られる，する变される。执行者可用に；不重要时可省略。",
+      "examples": [
+        {
+          "ja": "参加者に資料が送られました。",
+          "zh": "给参加者发送了资料。"
+        },
+        {
+          "ja": "私は先生に名前を呼ばれました。",
+          "zh": "我的名字被老师叫到了。"
+        }
+      ],
+      "pitfall": "找清谁被怎样对待，不把执行者误作受事者。"
+    },
+    {
+      "id": "l43-g2",
+      "title": "受影响的被动叙述",
+      "meaning": "用受身描述他人的动作对自己造成的影响。",
+      "pattern": "私は隣の人に大声で話されて、困りました。",
+      "explanation": "有些受身不只是事实转换，还含当事人受影响。事实与评价可分句表达。",
+      "examples": [
+        {
+          "ja": "友達に急に帰られて、困りました。",
+          "zh": "朋友突然走了，我很困扰。"
+        },
+        {
+          "ja": "雨に降られて、予定を変えました。",
+          "zh": "遇雨淋，只好改计划。"
+        }
+      ],
+      "pitfall": "受身不总含负面；招待された也可能是好事。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "会場",
+          "reading": "かいじょう",
+          "zh": "会场"
+        },
+        {
+          "ja": "変更",
+          "reading": "へんこう",
+          "zh": "变更"
+        },
+        {
+          "ja": "通知",
+          "reading": "つうち",
+          "zh": "通知"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l43-r1",
+      "title": "通知されたはずの変更",
+      "context": "活动参加者向主办方整理经过，分清事实和责任判断。",
+      "ja": "市民向けの説明会で、会場が前日の夜に変更されました。主催者は予約した参加者にメールを送ったと発表しましたが、私はその連絡を受け取っていませんでした。雨の中で古い入口まで来たため、開始前に少し困りました。受付では名前を確認され、新しい会場と座席へ案内されました。資料も送られたそうですが、宛先に誤りがあった可能性があり、理由は調査中でした。私はすぐに誰かの責任だと決めず、送信の記録を後で確認してほしいと伝えました。苦情を書く時も、実際に起きたことと、自分が受けた影響を分けて説明するつもりです。予定が変わった事実は確かですが、通知が届かなかった原因まで確かだとは言えません。入口の掲示は更新されていたので、後から来た人は迷わず移動できました。",
+      "zh": "市民说明会的会场在前一晚更换。主办方表示给预约参加者发了邮件，但我没收到。我冒雨到了旧入口，开始前遇到些困难。接待处核实了姓名，带我去新会场和座位。据说资料也发了，但地址可能有误，原因仍在调查。我没立刻断言是谁的责任，而要求之后查发送记录。写投诉时，也打算区分发生的事实与自己受到的影响。计划变更是事实，但不能说通知未送达原因也已确定。入口告示已更新，后来的人能顺利转移。",
+      "audioId": "l43-reading-synth"
+    },
+    {
+      "id": "l43-r2",
+      "title": "発表を聞き取れなかった理由",
+      "context": "另一位学生准备报告课堂中的困扰，不把推测写成事实。",
+      "ja": "授業で友人の発表を聞いていた時、隣の人に何度も話しかけられました。質問は発表の内容とは関係がなく、私は話の流れを何度か聞き逃しました。休み時間に「発表中は後で話してもらえると助かる」と相手に伝えました。相手は悪気がなかったと言いましたが、それだけで影響がなくなるわけではありません。一方で、私は「わざと邪魔された」と決めつけるだけの情報も持っていません。先生に説明する必要がある場合は、何が起き、どこが聞き取れなかったかを具体的に話します。相手の気持ちを推測して強く責めるより、次にどうしてほしいかを示すほうが役に立つと思います。その後、友人から資料を見せてもらい、自分のメモに足りない部分を補いました。",
+      "zh": "上课听朋友报告时，旁边的人多次向我搭话。问题与报告无关，我几次漏听了内容衔接。休息时我告诉对方，报告中有话请留到之后再说。对方说没有恶意，但这不意味着没有影响。另一方面，我也没有足够信息断言对方故意干扰。需要向老师说明时，会具体讲发生了什么、哪部分没听清。比起猜测动机强烈指责，我觉得说明以后希望怎么做更有用。之后请朋友展示资料，补齐了笔记缺失部分。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l43-ex01",
+      "type": "choice",
+      "prompt": "工作人员认为邮件原因处于什么状态？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l43-dialogue-synth",
+      "choices": [
+        "尚未确认",
+        "确定是林故意删除",
+        "确定未发送过"
+      ],
+      "correctIndex": 0,
+      "explanation": "只说可能地址有误，原因仍确认中。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex02",
+      "type": "choice",
+      "prompt": "主阅读中，受付如何处理作者？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l43-reading-synth",
+      "choices": [
+        "核实姓名并带去新会场",
+        "拒绝参加",
+        "让他独自冒雨回家"
+      ],
+      "correctIndex": 0,
+      "explanation": "原文有確認され、案内された。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l43-ri5"
+      ]
+    },
+    {
+      "id": "l43-ex03",
+      "type": "choice",
+      "prompt": "目前还没有确定什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "通知未送达的原因",
+        "会场发生了变更",
+        "入口告示已更新"
+      ],
+      "correctIndex": 0,
+      "explanation": "原因仍在调查，不能将猜测定论。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l43-ri5",
+        "l43-ri6",
+        "l43-ri7"
+      ]
+    },
+    {
+      "id": "l43-ex04",
+      "type": "choice",
+      "prompt": "作者希望后续核实什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "其他参加者的私人日程",
+        "座椅的制造日期",
+        "发送记录"
+      ],
+      "correctIndex": 2,
+      "explanation": "有助于查明通知的问题。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l43-ri7",
+        "l43-ri9"
+      ]
+    },
+    {
+      "id": "l43-ex05",
+      "type": "choice",
+      "prompt": "学生直接受到的影响是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "报告被全部删除",
+        "漏听部分报告内容",
+        "被正式取消学籍"
+      ],
+      "correctIndex": 1,
+      "explanation": "搭话使他几次没跟上内容。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex06",
+      "type": "choice",
+      "prompt": "哪项属于文中拒绝断定的推测？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "对方故意干扰",
+        "对方曾多次搭话",
+        "后来查了朋友的资料"
+      ],
+      "correctIndex": 0,
+      "explanation": "作者没有足够信息判断动机。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex07",
+      "type": "input",
+      "prompt": "把呼ぶ改成受身礼貌过去：先生に名前を＿＿。",
+      "acceptedAnswers": [
+        "呼ばれました",
+        "よばれました"
+      ],
+      "explanation": "呼ぶ→呼ばれる。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex08",
+      "type": "order",
+      "prompt": "表达资料被送给参加者。",
+      "tokens": [
+        "送られました",
+        "。",
+        "資料が",
+        "参加者に"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "资料为被发送对象。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l43-ri9"
+      ]
+    },
+    {
+      "id": "l43-ex09",
+      "type": "choice",
+      "prompt": "哪句不必理解成受害？",
+      "choices": [
+        "雨に降られて服がぬれました。",
+        "パーティーに招待されました。",
+        "隣の人に夜中に騒がれて困りました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "受身可表达接受邀请等中性或积极事件。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex10",
+      "type": "input",
+      "prompt": "把「変更する」改为礼貌过去受身，补词干：予定が変更＿＿ました。",
+      "acceptedAnswers": [
+        "され"
+      ],
+      "explanation": "変更する→変更される。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l43-ri6"
+      ]
+    },
+    {
+      "id": "l43-ex11",
+      "type": "self",
+      "prompt": "说明你未收到变更通知，但别立刻断言是谁的责任。",
+      "sampleAnswer": "会場が変更されたと聞きましたが、メールは届いていません。送信記録を確認してもらえますか。",
+      "explanation": "区分事实、自己的情况和待查原因。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l43-ri5",
+        "l43-ri6",
+        "l43-ri7"
+      ]
+    },
+    {
+      "id": "l43-ex12",
+      "type": "self",
+      "prompt": "被他人搭话影响听讲，用两句说明事实及下一次希望。",
+      "sampleAnswer": "発表中に何度も話しかけられて、内容を聞き逃しました。質問は後にしてもらえると助かります。",
+      "explanation": "描述影响并提出具体请求。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex13",
+      "type": "self",
+      "prompt": "将“職員が私の名前を確認した”改为从自己立场说。",
+      "sampleAnswer": "私は職員に名前を確認されました。",
+      "explanation": "受事者作主语，执行者用に。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex14",
+      "type": "self",
+      "prompt": "比较两篇材料，指出都应避免的一种推断。",
+      "sampleAnswer": "起きたことから、相手の意図や責任まで決めつけないことです。まだ確認していない点を分けて伝えます。",
+      "explanation": "事实和动机或责任结论要分开。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「メールで通知されたと聞きましたが、私は受け取っていません。」主要用于什么？",
+      "choices": [
+        "区分别人说已通知与自己实际未收到",
+        "追问被动发送资料的范围",
+        "确认原因仍未确定"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“听说发邮件通知了，但我没收到。”。结合前后交流，其作用是：区分别人说已通知与自己实际未收到",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l43-ri1",
+        "l43-ri7",
+        "l43-ri8"
+      ]
+    },
+    {
+      "id": "l43-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「林です。参加者には資料も送られましたか。」主要用于什么？",
+      "choices": [
+        "确认原因仍未确定",
+        "提出后续核实而不立即断言责任",
+        "追问被动发送资料的范围"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“姓林，也给参加者发资料了吗？”。结合前后交流，其作用是：追问被动发送资料的范围",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l43-ri2",
+        "l43-ri9"
+      ]
+    },
+    {
+      "id": "l43-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「原因はまだ確認中ということですね。」主要用于什么？",
+      "choices": [
+        "区分别人说已通知与自己实际未收到",
+        "确认原因仍未确定",
+        "提出后续核实而不立即断言责任"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“也就是说原因还在确认，对吧？”。结合前后交流，其作用是：确认原因仍未确定",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l43-ri3",
+        "l43-ri7"
+      ]
+    },
+    {
+      "id": "l43-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「わかりました。あとで連絡の記録を確認したいです。」主要用于什么？",
+      "choices": [
+        "提出后续核实而不立即断言责任",
+        "区分别人说已通知与自己实际未收到",
+        "追问被动发送资料的范围"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“明白，之后想确认联络记录。”。结合前后交流，其作用是：提出后续核实而不立即断言责任",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l43-ri4",
+        "l43-ri7"
+      ]
+    },
+    {
+      "id": "l43-ex19",
+      "type": "self",
+      "prompt": "读例句「会場は昨日変更されました。新しい場所は隣の建物です。」。先不看词表，用中文说明「会場」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "会场",
+      "explanation": "本课这里表示“会场”。例句意思是：会场昨天变更了，新地点在隔壁楼。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l43-ri5",
+        "l43-ri6"
+      ]
+    },
+    {
+      "id": "l43-ex20",
+      "type": "self",
+      "prompt": "读例句「メールで通知されたと聞きましたが、私は受け取っていません。」。先不看词表，用中文说明「メール」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "电子邮件",
+      "explanation": "本课这里表示“电子邮件”。例句意思是：听说发邮件通知了，但我没收到。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l43-ri1",
+        "l43-ri7",
+        "l43-ri8"
+      ]
+    },
+    {
+      "id": "l43-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。入口の掲示も新しくしました。こちらへどうぞ。」。先不看词表，用中文说明「掲示」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "张贴告示",
+      "explanation": "本课这里表示“张贴告示”。例句意思是：是的，入口告示也换了，请这边走。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l43-ex22",
+      "type": "self",
+      "prompt": "读例句「受付では名前を確認され、新しい会場と座席へ案内されました。」。先不看词表，用中文说明「受付」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "接待处",
+      "explanation": "本课这里表示“接待处”。例句意思是：接待处核实了姓名，带我去新会场和座位。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l43-ri5"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l43-ri1",
+      "front": "听说发邮件通知了，但我没收到。",
+      "back": "メールで通知されたと聞きましたが、私は受け取っていません。",
+      "reading": "めーるでつうちされたとききましたが、わたしはうけとっていません。",
+      "audioId": "synth-word-0fcb886920c10971",
+      "kind": "expression"
+    },
+    {
+      "id": "l43-ri2",
+      "front": "姓林，也给参加者发资料了吗？",
+      "back": "林です。参加者には資料も送られましたか。",
+      "reading": "りんです。さんかしゃにはしりょうもおくられましたか。",
+      "audioId": "synth-word-630b6274affc4de8",
+      "kind": "expression"
+    },
+    {
+      "id": "l43-ri3",
+      "front": "也就是说原因还在确认，对吧？",
+      "back": "原因はまだ確認中ということですね。",
+      "reading": "げんいんはまだかくにんちゅうということですね。",
+      "audioId": "synth-word-5f3b9c2f238436e9",
+      "kind": "expression"
+    },
+    {
+      "id": "l43-ri4",
+      "front": "明白，之后想确认联络记录。",
+      "back": "わかりました。あとで連絡の記録を確認したいです。",
+      "reading": "わかりました。あとでれんらくのきろくをかくにんしたいです。",
+      "audioId": "synth-word-7b474f6ab5979da0",
+      "kind": "expression"
+    },
+    {
+      "id": "l43-ri5",
+      "front": "会場在本课是什么意思？",
+      "back": "会场",
+      "reading": "かいじょう",
+      "audioId": "synth-word-5a8d0ec165e5d804",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l43-ri6",
+      "front": "変更在本课是什么意思？",
+      "back": "变更",
+      "reading": "へんこう",
+      "audioId": "synth-word-88fdaf2b27019c91",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l43-ri7",
+      "front": "通知在本课是什么意思？",
+      "back": "通知",
+      "reading": "つうち",
+      "audioId": "synth-word-b5c2bb62d5dcfef2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l43-ri8",
+      "front": "メール在本课是什么意思？",
+      "back": "电子邮件",
+      "reading": "めーる",
+      "audioId": "synth-word-fdf9ad763fb1ce4d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l43-ri9",
+      "front": "参加者在本课是什么意思？",
+      "back": "参加者",
+      "reading": "さんかしゃ",
+      "audioId": "synth-word-b402ab2a931b5595",
+      "kind": "vocabulary"
+    }
+  ]
+}

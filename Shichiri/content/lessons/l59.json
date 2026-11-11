@@ -1,0 +1,1099 @@
+{
+  "id": "l59",
+  "number": 59,
+  "moduleId": "m12",
+  "title": "读短文、消息与通知",
+  "subtitle": "先找与自己有关的条件，再把未知事项变成可确认的问题。",
+  "revision": 2,
+  "goals": [
+    "从通知中提取对象、日期、费用和例外。",
+    "用嵌入疑问表达想知道什么。",
+    "区分有疑问词的问题与是否型问题。"
+  ],
+  "prerequisites": [
+    "理解第58课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「读短文、消息与通知」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l59-ex01",
+        "l59-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「通知中的条件要查哪一项」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「交流会の募集通知」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「读短文、消息与通知」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l59-ex19",
+        "l59-ex20",
+        "l59-ex21",
+        "l59-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到通知、募集、対象、締め切り，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用何時に始まるか、まだ見つけられません。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「读短文、消息与通知」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l59-ex07",
+        "l59-ex08",
+        "l59-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「嵌入疑问か」「是否型かどうか」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「读短文、消息与通知」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l59-ex02",
+        "l59-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「读短文、消息与通知」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l59-ex04",
+        "l59-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「交流会の募集通知」与「図書館の利用変更」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「读短文、消息与通知」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l59-ex11",
+        "l59-ex12",
+        "l59-ex13",
+        "l59-ex14",
+        "l59-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「读短文、消息与通知」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l59-ex06",
+        "l59-ex10",
+        "l59-ex17",
+        "l59-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l59-ext10",
+      "title": "读短文、消息与通知 · 10分钟迁移",
+      "instructions": "用10分钟重读「交流会の募集通知」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l59-ext15",
+      "title": "读短文、消息与通知 · 15分钟迁移",
+      "instructions": "用15分钟把「図書館の利用変更」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l59-ext25",
+      "title": "读短文、消息与通知 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l59-ex13",
+        "l59-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l59-d01",
+      "title": "通知中的条件要查哪一项",
+      "context": "林看见交流活动募集通知，想确认自己是否符合报名条件。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l59-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "この通知は留学生だけが対象ですか。",
+          "kana": "このつうちはりゅうがくせいだけがたいしょうですか。",
+          "zh": "通知只面向留学生吗？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "本文には、地域の学生も参加できるとあります。",
+          "kana": "ほんぶんには、ちいきのがくせいもさんかできるとあります。",
+          "zh": "正文写本地学生也能参加。"
+        },
+        {
+          "speaker": "林",
+          "ja": "何時に始まるか、まだ見つけられません。",
+          "kana": "なんじにはじまるか、まだみつけられません。",
+          "zh": "还没找到几点开始。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "日時は二段目にあります。会場もそこに書いてあります。",
+          "kana": "にちじはにだんめにあります。かいじょうもそこにかいてあります。",
+          "zh": "日期时间在第二段，会场也在那里。"
+        },
+        {
+          "speaker": "林",
+          "ja": "予約が必要かどうかも確認したいです。",
+          "kana": "よやくがひつようかどうかもかくにんしたいです。",
+          "zh": "也想确认是否需预约。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "定員があるので、締め切りまでに申し込みます。",
+          "kana": "ていいんがあるので、しめきりまでもうしこみます。",
+          "zh": "有人数上限，要在截止前报名。"
+        },
+        {
+          "speaker": "林",
+          "ja": "費用には昼ご飯も含まれますか。",
+          "kana": "ひようにはひるごはんもふくまれますか。",
+          "zh": "费用含午饭吗？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "いいえ。持ち物の欄に、昼ご飯は各自とあります。",
+          "kana": "いいえ。もちもののらんに、ひるごはんはかくじとあります。",
+          "zh": "不含，携带物栏目说午饭自备。"
+        },
+        {
+          "speaker": "林",
+          "ja": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+          "kana": "こうつうがとまったばあいにえんきするかどうかは、れんらくさきへききます。",
+          "zh": "交通停运时是否延期，我会向联系人询问。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "見出しだけでなく、例外の条件も読んでおきましょう。",
+          "kana": "みだしだけでなく、れいがいのじょうけんもよんでおきましょう。",
+          "zh": "不只看标题，也读例外条件吧。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l59-v01",
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "通知",
+      "pos": "名词",
+      "example": "この通知は留学生だけが対象ですか。",
+      "exampleMeaning": "通知只面向留学生吗？",
+      "mastery": "active",
+      "audioId": "synth-word-b5c2bb62d5dcfef2"
+    },
+    {
+      "id": "l59-v02",
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "招募",
+      "pos": "名词",
+      "example": "地域の学生交流会では、留学生と地元の大学生を対象に参加者を募集しています。",
+      "exampleMeaning": "社区学生交流会面向留学生与本地大学生招募。",
+      "mastery": "active",
+      "audioId": "synth-word-bb5aafbf1aae2466"
+    },
+    {
+      "id": "l59-v03",
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "对象",
+      "pos": "名词",
+      "example": "この通知は留学生だけが対象ですか。",
+      "exampleMeaning": "通知只面向留学生吗？",
+      "mastery": "active",
+      "audioId": "synth-word-455f1c5924ef19b4"
+    },
+    {
+      "id": "l59-v04",
+      "word": "締め切り",
+      "reading": "しめきり",
+      "meaning": "截止时间",
+      "pos": "名词",
+      "example": "定員があるので、締め切りまでに申し込みます。",
+      "exampleMeaning": "有人数上限，要在截止前报名。",
+      "mastery": "active",
+      "audioId": "synth-word-ff25cbbd638e2836"
+    },
+    {
+      "id": "l59-v05",
+      "word": "申し込み",
+      "reading": "もうしこみ",
+      "meaning": "报名",
+      "pos": "名词",
+      "example": "定員があるので、締め切りまでに申し込みます。",
+      "exampleMeaning": "有人数上限，要在截止前报名。",
+      "mastery": "active",
+      "audioId": "synth-word-e9f1bed4f4d4a30a"
+    },
+    {
+      "id": "l59-v06",
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "費用には昼ご飯も含まれますか。",
+      "exampleMeaning": "费用含午饭吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3e2c37bf93048653"
+    },
+    {
+      "id": "l59-v07",
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "人数上限",
+      "pos": "名词",
+      "example": "定員があるので、締め切りまでに申し込みます。",
+      "exampleMeaning": "有人数上限，要在截止前报名。",
+      "mastery": "active",
+      "audioId": "synth-word-06b47e6994905964"
+    },
+    {
+      "id": "l59-v08",
+      "word": "持ち物",
+      "reading": "もちもの",
+      "meaning": "需携带物品",
+      "pos": "名词",
+      "example": "いいえ。持ち物の欄に、昼ご飯は各自とあります。",
+      "exampleMeaning": "不含，携带物栏目说午饭自备。",
+      "mastery": "active",
+      "audioId": "synth-word-be0057f060615bcd"
+    },
+    {
+      "id": "l59-v09",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "会场",
+      "pos": "名词",
+      "example": "日時は二段目にあります。会場もそこに書いてあります。",
+      "exampleMeaning": "日期时间在第二段，会场也在那里。",
+      "mastery": "active",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l59-v10",
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "日期时间",
+      "pos": "名词",
+      "example": "日時は二段目にあります。会場もそこに書いてあります。",
+      "exampleMeaning": "日期时间在第二段，会场也在那里。",
+      "mastery": "active",
+      "audioId": "synth-word-cc634bc1ccfb7967"
+    },
+    {
+      "id": "l59-v11",
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "交通",
+      "pos": "名词",
+      "example": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+      "exampleMeaning": "交通停运时是否延期，我会向联系人询问。",
+      "mastery": "active",
+      "audioId": "synth-word-ab697952cf9c5bff"
+    },
+    {
+      "id": "l59-v12",
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "延期",
+      "pos": "名词",
+      "example": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+      "exampleMeaning": "交通停运时是否延期，我会向联系人询问。",
+      "mastery": "active",
+      "audioId": "synth-word-dff9b1eaf14241cd"
+    },
+    {
+      "id": "l59-v13",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "見出しだけでなく、例外の条件も読んでおきましょう。",
+      "exampleMeaning": "不只看标题，也读例外条件吧。",
+      "mastery": "active",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l59-v14",
+      "word": "連絡先",
+      "reading": "れんらくさき",
+      "meaning": "联系方式",
+      "pos": "名词",
+      "example": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+      "exampleMeaning": "交通停运时是否延期，我会向联系人询问。",
+      "mastery": "active",
+      "audioId": "synth-word-f50770cd78a341b5"
+    },
+    {
+      "id": "l59-v15",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "予約が必要かどうかも確認したいです。",
+      "exampleMeaning": "也想确认是否需预约。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l59-v16",
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "正文",
+      "pos": "名词",
+      "example": "本文には、地域の学生も参加できるとあります。",
+      "exampleMeaning": "正文写本地学生也能参加。",
+      "mastery": "active",
+      "audioId": "synth-word-59b8a1e29061c619"
+    },
+    {
+      "id": "l59-v17",
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "标题",
+      "pos": "名词",
+      "example": "見出しだけでなく、例外の条件も読んでおきましょう。",
+      "exampleMeaning": "不只看标题，也读例外条件吧。",
+      "mastery": "active",
+      "audioId": "synth-word-5748a02c1c8733d5"
+    },
+    {
+      "id": "l59-v18",
+      "word": "対象者",
+      "reading": "たいしょうしゃ",
+      "meaning": "适用对象",
+      "pos": "名词",
+      "example": "持ち物には筆記用具と学生証が含まれ、対象者であることを受付で確認する場合があります。",
+      "exampleMeaning": "需带文具和学生证，前台可能确认对象资格。",
+      "mastery": "active",
+      "audioId": "synth-word-27725b34749742b8"
+    },
+    {
+      "id": "l59-v19",
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "例外",
+      "pos": "名词",
+      "example": "見出しだけでなく、例外の条件も読んでおきましょう。",
+      "exampleMeaning": "不只看标题，也读例外条件吧。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6ee8a79dc2776ce2"
+    },
+    {
+      "id": "l59-v20",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "予約が必要かどうかも確認したいです。",
+      "exampleMeaning": "也想确认是否需预约。",
+      "mastery": "recognition",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l59-v21",
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "使用",
+      "pos": "名词",
+      "example": "図書館は来月の設備工事に伴い、一部の部屋の利用方法を変更します。",
+      "exampleMeaning": "图书馆因下月设备施工更改部分房间用法。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0f736637a2fbb620"
+    },
+    {
+      "id": "l59-v22",
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "施工",
+      "pos": "名词",
+      "example": "図書館は来月の設備工事に伴い、一部の部屋の利用方法を変更します。",
+      "exampleMeaning": "图书馆因下月设备施工更改部分房间用法。",
+      "mastery": "recognition",
+      "audioId": "synth-word-4fa3f873a2c6a12c"
+    },
+    {
+      "id": "l59-v23",
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "期间",
+      "pos": "名词",
+      "example": "工事の期間中、通常の閲覧室は閉まりますが、予約した人は一階の別室を使えます。",
+      "exampleMeaning": "施工期间普通阅览室关闭，但预约者可用一楼别室。",
+      "mastery": "recognition",
+      "audioId": "synth-word-53ec8ebfde78d7eb"
+    },
+    {
+      "id": "l59-v24",
+      "word": "別室",
+      "reading": "べっしつ",
+      "meaning": "另一房间",
+      "pos": "名词",
+      "example": "工事の期間中、通常の閲覧室は閉まりますが、予約した人は一階の別室を使えます。",
+      "exampleMeaning": "施工期间普通阅览室关闭，但预约者可用一楼别室。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e75e7476bf4aefd7"
+    },
+    {
+      "id": "l59-v25",
+      "word": "再開",
+      "reading": "さいかい",
+      "meaning": "重新开放；恢复",
+      "pos": "名词",
+      "example": "再開の日は工事の進み方によって変わる可能性があり、通知には確定した日付が載っていません。",
+      "exampleMeaning": "重开日期可能随施工进度变化，通知未列确定日期。",
+      "mastery": "recognition",
+      "audioId": "synth-word-bfc86d51eba177c8"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l59-e1",
+      "ja": "何時に始まるか、まだ見つけられません。",
+      "reading": "なんじにはじまるか、まだみつけられません。",
+      "meaning": "还没找到几点开始。",
+      "usage": "把具体未知时间作为待查内容",
+      "audioId": "synth-word-7dae63b59cbcbea1"
+    },
+    {
+      "id": "l59-e2",
+      "ja": "予約が必要かどうかも確認したいです。",
+      "reading": "よやくがひつようかどうかもかくにんしたいです。",
+      "meaning": "也想确认是否需预约。",
+      "usage": "把是否需要预约作为待确认问题",
+      "audioId": "synth-word-4742fffec7a7f180"
+    },
+    {
+      "id": "l59-e3",
+      "ja": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+      "reading": "こうつうがとまったばあいにえんきするかどうかは、れんらくさきへききます。",
+      "meaning": "交通停运时是否延期，我会向联系人询问。",
+      "usage": "明确需要对外询问的例外情况",
+      "audioId": "synth-word-08578da4b271aa99"
+    },
+    {
+      "id": "l59-e4",
+      "ja": "見出しだけでなく、例外の条件も読んでおきましょう。",
+      "reading": "みだしだけでなく、れいがいのじょうけんもよんでおきましょう。",
+      "meaning": "不只看标题，也读例外条件吧。",
+      "usage": "提醒阅读全文的适用条件",
+      "audioId": "synth-word-32c901bb2c88e5d9"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l59-g1",
+      "title": "嵌入疑问か",
+      "meaning": "把带疑问词的问题放进句子。",
+      "pattern": "何時に始まるか確認します。",
+      "explanation": "不直接提问时，疑问内容用普通形加か，再接知る、確認する等。名词与な形容词当前常不接だ。",
+      "examples": [
+        {
+          "ja": "どこで行うか聞きます。",
+          "zh": "询问在哪里举行。"
+        },
+        {
+          "ja": "何が必要か調べます。",
+          "zh": "查需要什么。"
+        }
+      ],
+      "pitfall": "不要在嵌入部分再加ですか并机械接确认。"
+    },
+    {
+      "id": "l59-g2",
+      "title": "是否型かどうか",
+      "meaning": "表示答案是是或否的未知。",
+      "pattern": "予約が必要かどうか確認します。",
+      "explanation": "没有何時、どこ等疑问词时，可用かどうか说明是否。保留未定状态，不等同事实已确定。",
+      "examples": [
+        {
+          "ja": "参加できるかどうか連絡します。",
+          "zh": "会联系能否参加。"
+        },
+        {
+          "ja": "明日開くかどうかは未定です。",
+          "zh": "是否明天开还未定。"
+        }
+      ],
+      "pitfall": "何時かどうか通常不用于询问具体几点，应用何時か。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "通知",
+          "reading": "つうち",
+          "zh": "通知"
+        },
+        {
+          "ja": "募集",
+          "reading": "ぼしゅう",
+          "zh": "招募"
+        },
+        {
+          "ja": "対象",
+          "reading": "たいしょう",
+          "zh": "对象"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l59-r1",
+      "title": "交流会の募集通知",
+      "context": "虚构活动通知，需要综合多段而非只看标题。",
+      "ja": "地域の学生交流会では、留学生と地元の大学生を対象に参加者を募集しています。日時は来週土曜の午前十時から午後三時までで、会場は中央公民館の二階です。定員は二十人のため、金曜の正午までにフォームから申し込み、受付の確認を受けてください。費用は資料代を含みますが、会場までの交通費と昼ご飯は各自で用意します。持ち物には筆記用具と学生証が含まれ、対象者であることを受付で確認する場合があります。見出しにある自由参加は、事前の申し込みが不要という意味ではありません。交通が止まった場合の延期については本文に説明がないので、必要な人は連絡先へ問い合わせてください。条件に合うかどうかを確かめ、まだ知らない点は決定事項として友人へ伝えないようにしましょう。",
+      "zh": "社区学生交流会面向留学生与本地大学生招募。下周六十点至十五点，中央公民馆二楼。限二十人，周五正午前表单报名并确认受理。费用含资料，交通与午饭自备。需带文具和学生证，前台可能确认对象资格。标题中的自由参加不意味着无需报名。正文未说明交通停运是否延期，需要者请向联系人问。确认是否符合条件，未知部分别当已定通知朋友。",
+      "audioId": "l59-reading-synth"
+    },
+    {
+      "id": "l59-r2",
+      "title": "図書館の利用変更",
+      "context": "修缮通知包含一般规则与个别例外。",
+      "ja": "図書館は来月の設備工事に伴い、一部の部屋の利用方法を変更します。工事の期間中、通常の閲覧室は閉まりますが、予約した人は一階の別室を使えます。ただし、大きな声での会話は別室でもできず、話し合いが必要な人は専用室を予約してください。本の貸出は継続しますが、返却場所は入口の右側へ移るので、以前と同じ窓口に並ばないでください。再開の日は工事の進み方によって変わる可能性があり、通知には確定した日付が載っていません。私はいつ再開するか知りたかったのですが、予定を勝手に補わず、最新の掲示を確認することにしました。すべてが使えなくなるのではなく、場所や予約の条件によって使えるものが分かれています。一般的な説明と例外を読み分けると、自分に必要な行動を選びやすくなります。",
+      "zh": "图书馆因下月设备施工更改部分房间用法。施工期间普通阅览室关闭，但预约者可用一楼别室。但别室也不能大声交谈，需讨论者请预约专用室。借书继续，归还处移到入口右侧，不要排旧窗口。重开日期可能随施工进度变化，通知未列确定日期。我想知何时重开，但没自己补日期，而决定看最新告示。不是所有设施都不可用，而是因位置与预约条件不同。区分一般说明和例外，更好选行动。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l59-ex01",
+      "type": "choice",
+      "prompt": "哪项需要向联系人另外问？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l59-dialogue-synth",
+      "choices": [
+        "交通停运时是否延期",
+        "通知标题是什么",
+        "朋友喜欢的颜色"
+      ],
+      "correctIndex": 0,
+      "explanation": "对话指出正文未明的延期规则。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l59-ri5"
+      ]
+    },
+    {
+      "id": "l59-ex02",
+      "type": "choice",
+      "prompt": "主通知报名截止是何时？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l59-reading-synth",
+      "choices": [
+        "周五正午",
+        "周六活动结束",
+        "下月任意一天"
+      ],
+      "correctIndex": 0,
+      "explanation": "明确金曜正午。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l59-ri5",
+        "l59-ri9"
+      ]
+    },
+    {
+      "id": "l59-ex03",
+      "type": "choice",
+      "prompt": "主活动午饭是否含在费用？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不含，需自备",
+        "含三餐",
+        "只对本地学生免费"
+      ],
+      "correctIndex": 0,
+      "explanation": "正文费用和携带物合读。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex04",
+      "type": "choice",
+      "prompt": "“自由参加”是否表示无需报名？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "表示无需任何手续",
+        "表示可任意超过人数",
+        "不表示，仍需事前报名"
+      ],
+      "correctIndex": 2,
+      "explanation": "标题不能覆盖正文条件。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l59-ri9"
+      ]
+    },
+    {
+      "id": "l59-ex05",
+      "type": "choice",
+      "prompt": "图书馆是否所有功能关闭？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所有人无预约可用任何房间",
+        "否，借书继续且有条件可用别室",
+        "是，所有服务停止"
+      ],
+      "correctIndex": 1,
+      "explanation": "规则按区域和预约区分。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex06",
+      "type": "choice",
+      "prompt": "重开日如何确认？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "查看最新通知，不凭空补日期",
+        "直接认定下周一",
+        "由旧窗口位置推算"
+      ],
+      "correctIndex": 0,
+      "explanation": "日期当前未确定。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l59-ri5"
+      ]
+    },
+    {
+      "id": "l59-ex07",
+      "type": "input",
+      "prompt": "询问具体时刻：何時に始まる＿＿確認します。",
+      "acceptedAnswers": [
+        "か",
+        "かを",
+        "のか",
+        "のかを"
+      ],
+      "explanation": "何時に始まるか（を）確認します是嵌入疑问；加の成为何時に始まるのか也自然。を在此可省略。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex08",
+      "type": "order",
+      "prompt": "表达确认是否需要预约。",
+      "tokens": [
+        "確認します",
+        "。",
+        "必要かどうか",
+        "予約が"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "是否型问题用かどうか。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex09",
+      "type": "choice",
+      "prompt": "哪句询问具体地点最自然？",
+      "choices": [
+        "どこで行うですか確認します。",
+        "どこで行うか聞きます。",
+        "どこで行うかどうか聞きます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "どこ要求具体地点而非是或否。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex10",
+      "type": "input",
+      "prompt": "表达是否开馆未定：開く＿＿は未定です。",
+      "acceptedAnswers": [
+        "かどうか",
+        "か",
+        "のか",
+        "のかどうか"
+      ],
+      "explanation": "開くかどうかは未定です明确表示是否开；開くかは未定です及带の的形式也能自然表达未定。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex11",
+      "type": "self",
+      "prompt": "你想确认活动地点和是否需学生证，用两类嵌入疑问写两句。",
+      "sampleAnswer": "どこで行うか確認します。学生証が必要かどうかも聞きます。",
+      "explanation": "具体信息与是否型区分。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex12",
+      "type": "self",
+      "prompt": "向朋友简短转述主活动的费用范围。",
+      "sampleAnswer": "資料代は含まれますが、交通費と昼ご飯は各自です。事前の申し込みも必要です。",
+      "explanation": "保留不包含内容和报名条件。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri9"
+      ]
+    },
+    {
+      "id": "l59-ex13",
+      "type": "self",
+      "prompt": "朋友以为图书馆完全关闭，写澄清与行动建议。",
+      "sampleAnswer": "通常の閲覧室は閉まりますが、貸出は続きます。別室の予約条件を確認してください。",
+      "explanation": "区分服务，不扩大到全部。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l59-ex14",
+      "type": "self",
+      "prompt": "通知没写延期规则，你会怎样处理？",
+      "sampleAnswer": "延期するかどうかはまだわかりません。連絡先へ確認してから予定を伝えます。",
+      "explanation": "不把自己的期待当事实。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri5"
+      ]
+    },
+    {
+      "id": "l59-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「何時に始まるか、まだ見つけられません。」主要用于什么？",
+      "choices": [
+        "把具体未知时间作为待查内容",
+        "把是否需要预约作为待确认问题",
+        "明确需要对外询问的例外情况"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“还没找到几点开始。”。结合前后交流，其作用是：把具体未知时间作为待查内容",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri1"
+      ]
+    },
+    {
+      "id": "l59-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「予約が必要かどうかも確認したいです。」主要用于什么？",
+      "choices": [
+        "明确需要对外询问的例外情况",
+        "提醒阅读全文的适用条件",
+        "把是否需要预约作为待确认问题"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“也想确认是否需预约。”。结合前后交流，其作用是：把是否需要预约作为待确认问题",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri2"
+      ]
+    },
+    {
+      "id": "l59-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「交通が止まった場合に延期するかどうかは、連絡先へ聞きます。」主要用于什么？",
+      "choices": [
+        "把具体未知时间作为待查内容",
+        "明确需要对外询问的例外情况",
+        "提醒阅读全文的适用条件"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“交通停运时是否延期，我会向联系人询问。”。结合前后交流，其作用是：明确需要对外询问的例外情况",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri3"
+      ]
+    },
+    {
+      "id": "l59-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「見出しだけでなく、例外の条件も読んでおきましょう。」主要用于什么？",
+      "choices": [
+        "提醒阅读全文的适用条件",
+        "把具体未知时间作为待查内容",
+        "把是否需要预约作为待确认问题"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“不只看标题，也读例外条件吧。”。结合前后交流，其作用是：提醒阅读全文的适用条件",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l59-ri4"
+      ]
+    },
+    {
+      "id": "l59-ex19",
+      "type": "self",
+      "prompt": "读例句「この通知は留学生だけが対象ですか。」。先不看词表，用中文说明「通知」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "通知",
+      "explanation": "本课这里表示“通知”。例句意思是：通知只面向留学生吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l59-ri5",
+        "l59-ri7"
+      ]
+    },
+    {
+      "id": "l59-ex20",
+      "type": "self",
+      "prompt": "读例句「定員があるので、締め切りまでに申し込みます。」。先不看词表，用中文说明「締め切り」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "截止时间",
+      "explanation": "本课这里表示“截止时间”。例句意思是：有人数上限，要在截止前报名。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l59-ri8",
+        "l59-ri9"
+      ]
+    },
+    {
+      "id": "l59-ex21",
+      "type": "self",
+      "prompt": "读例句「定員があるので、締め切りまでに申し込みます。」。先不看词表，用中文说明「定員」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "人数上限",
+      "explanation": "本课这里表示“人数上限”。例句意思是：有人数上限，要在截止前报名。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l59-ri8",
+        "l59-ri9"
+      ]
+    },
+    {
+      "id": "l59-ex22",
+      "type": "self",
+      "prompt": "读例句「日時は二段目にあります。会場もそこに書いてあります。」。先不看词表，用中文说明「日時」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "日期时间",
+      "explanation": "本课这里表示“日期时间”。例句意思是：日期时间在第二段，会场也在那里。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l59-ri1",
+      "front": "还没找到几点开始。",
+      "back": "何時に始まるか、まだ見つけられません。",
+      "reading": "なんじにはじまるか、まだみつけられません。",
+      "audioId": "synth-word-7dae63b59cbcbea1",
+      "kind": "expression"
+    },
+    {
+      "id": "l59-ri2",
+      "front": "也想确认是否需预约。",
+      "back": "予約が必要かどうかも確認したいです。",
+      "reading": "よやくがひつようかどうかもかくにんしたいです。",
+      "audioId": "synth-word-4742fffec7a7f180",
+      "kind": "expression"
+    },
+    {
+      "id": "l59-ri3",
+      "front": "交通停运时是否延期，我会向联系人询问。",
+      "back": "交通が止まった場合に延期するかどうかは、連絡先へ聞きます。",
+      "reading": "こうつうがとまったばあいにえんきするかどうかは、れんらくさきへききます。",
+      "audioId": "synth-word-08578da4b271aa99",
+      "kind": "expression"
+    },
+    {
+      "id": "l59-ri4",
+      "front": "不只看标题，也读例外条件吧。",
+      "back": "見出しだけでなく、例外の条件も読んでおきましょう。",
+      "reading": "みだしだけでなく、れいがいのじょうけんもよんでおきましょう。",
+      "audioId": "synth-word-32c901bb2c88e5d9",
+      "kind": "expression"
+    },
+    {
+      "id": "l59-ri5",
+      "front": "通知在本课是什么意思？",
+      "back": "通知",
+      "reading": "つうち",
+      "audioId": "synth-word-b5c2bb62d5dcfef2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l59-ri6",
+      "front": "募集在本课是什么意思？",
+      "back": "招募",
+      "reading": "ぼしゅう",
+      "audioId": "synth-word-bb5aafbf1aae2466",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l59-ri7",
+      "front": "対象在本课是什么意思？",
+      "back": "对象",
+      "reading": "たいしょう",
+      "audioId": "synth-word-455f1c5924ef19b4",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l59-ri8",
+      "front": "締め切り在本课是什么意思？",
+      "back": "截止时间",
+      "reading": "しめきり",
+      "audioId": "synth-word-ff25cbbd638e2836",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l59-ri9",
+      "front": "申し込み在本课是什么意思？",
+      "back": "报名",
+      "reading": "もうしこみ",
+      "audioId": "synth-word-e9f1bed4f4d4a30a",
+      "kind": "vocabulary"
+    }
+  ]
+}

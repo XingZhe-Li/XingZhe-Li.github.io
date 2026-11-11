@@ -1,0 +1,958 @@
+{
+  "id": "l35",
+  "number": 35,
+  "moduleId": "m7",
+  "title": "景点、设施与预约",
+  "subtitle": "查清开馆和入场条件，再完成或调整预约",
+  "revision": 2,
+  "goals": [
+    "区分设施关闭与停止接待入场的时间",
+    "说明希望时间，在满位后接受明确替代",
+    "在『预约一个可以入场的时段』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第34课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「景点、设施与预约」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l35-ex01",
+        "l35-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「预约一个可以入场的时段」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「展館の予約確認」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「景点、设施与预约」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l35-ex19",
+        "l35-ex20",
+        "l35-ex21",
+        "l35-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到開館、閉館、休館日、入場，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用土曜日の二時に、二人で予約したいです。空きはありますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「景点、设施与预约」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l35-ex07",
+        "l35-ex08",
+        "l35-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「开馆时间与最晚入场」「预约时确认人数日期与空位」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「景点、设施与预约」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l35-ex02",
+        "l35-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「景点、设施与预约」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l35-ex04",
+        "l35-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「展館の予約確認」与「当日券のある施設」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「景点、设施与预约」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l35-ex11",
+        "l35-ex12",
+        "l35-ex13",
+        "l35-ex14",
+        "l35-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「景点、设施与预约」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l35-ex06",
+        "l35-ex10",
+        "l35-ex17",
+        "l35-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l35-ext10",
+      "title": "景点、设施与预约 · 10分钟迁移",
+      "instructions": "先听『预约一个可以入场的时段』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l35-ext15",
+      "title": "景点、设施与预约 · 15分钟迁移",
+      "instructions": "读『展館の予約確認』与『当日券のある施設』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你想预约周日十点三位，询问有无空位。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l35-ext25",
+      "title": "景点、设施与预约 · 25分钟迁移",
+      "instructions": "用5分钟听『预约一个可以入场的时段』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：只有第一展厅允许拍照；向朋友说明第二展厅不能拍。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l35-ex13",
+        "l35-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『预约一个可以入场的时段』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『展館の予約確認』与变体材料的条件。",
+    "关闭说明后，能在情境中使用閉館はN時／最終入場はN時及N日のN時を予約したいです／空きはありますか，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l35-d01",
+      "title": "预约一个可以入场的时段",
+      "context": "虚构小型展馆，周六下午满位，改到周日上午。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l35-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "土曜日の二時に、二人で予約したいです。空きはありますか。",
+          "kana": "どようびのにじに、ふたりでよやくしたいです。あきはありますか。",
+          "zh": "想预约周六两点，两位，有空位吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "申し訳ありません。その時間はいっぱいです。日曜日の十時は空いています。",
+          "kana": "もうしわけありません。そのじかんはいっぱいです。にちようびのじゅうじはあいています。",
+          "zh": "抱歉，那时满位。周日十点有空位。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "では、日曜日の十時にお願いします。",
+          "kana": "では、にちようびのじゅうじにおねがいします。",
+          "zh": "那请预约周日十点。"
+        },
+        {
+          "speaker": "係",
+          "ja": "二名様ですね。予約番号は二十四です。",
+          "kana": "にめいさまですね。よやくばんごうはにじゅうよんです。",
+          "zh": "两位吧，预约号24。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい。館内で写真を撮ってもいいですか。",
+          "kana": "はい。かんないでしゃしんをとってもいいですか。",
+          "zh": "好的，馆内可以拍照吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "第一展示室だけ撮影できます。第二展示室は撮影禁止です。",
+          "kana": "だいいちてんじしつだけさつえいできます。だいにてんじしつはさつえいきんしです。",
+          "zh": "只有第一展厅可拍，第二展厅禁止拍摄。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "最終入場は何時ですか。",
+          "kana": "さいしゅうにゅうじょうはなんじですか。",
+          "zh": "最晚几点入场？"
+        },
+        {
+          "speaker": "係",
+          "ja": "四時半です。閉館は五時です。",
+          "kana": "よじはんです。へいかんはごじです。",
+          "zh": "四点半，五点闭馆。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l35-v01",
+      "word": "開館",
+      "reading": "かいかん",
+      "meaning": "开馆",
+      "pos": "名词",
+      "example": "開館です。",
+      "exampleMeaning": "是开馆。",
+      "mastery": "active",
+      "audioId": "synth-word-6bb9c8d5bda9c6ff"
+    },
+    {
+      "id": "l35-v02",
+      "word": "閉館",
+      "reading": "へいかん",
+      "meaning": "闭馆",
+      "pos": "名词",
+      "example": "四時半です。閉館は五時です。",
+      "exampleMeaning": "四点半，五点闭馆。",
+      "mastery": "active",
+      "audioId": "synth-word-2883f2c6dfc12c7a"
+    },
+    {
+      "id": "l35-v03",
+      "word": "休館日",
+      "reading": "きゅうかんび",
+      "meaning": "休馆日",
+      "pos": "名词",
+      "example": "休館日です。",
+      "exampleMeaning": "是休馆日。",
+      "mastery": "active",
+      "audioId": "synth-word-148a70864a39b0f4"
+    },
+    {
+      "id": "l35-v04",
+      "word": "入場",
+      "reading": "にゅうじょう",
+      "meaning": "入场",
+      "pos": "名词",
+      "example": "最終入場は何時ですか。",
+      "exampleMeaning": "最晚几点入场？",
+      "mastery": "active",
+      "audioId": "synth-word-c78b50a49f759c6a"
+    },
+    {
+      "id": "l35-v05",
+      "word": "入場料",
+      "reading": "にゅうじょうりょう",
+      "meaning": "入场费",
+      "pos": "名词",
+      "example": "入場料です。",
+      "exampleMeaning": "是入场费。",
+      "mastery": "active",
+      "audioId": "synth-word-d73af67a6550c0c5"
+    },
+    {
+      "id": "l35-v06",
+      "word": "予約番号",
+      "reading": "よやくばんごう",
+      "meaning": "预约号码",
+      "pos": "名词",
+      "example": "二名様ですね。予約番号は二四です。",
+      "exampleMeaning": "两位吧，预约号24。",
+      "mastery": "active",
+      "audioId": "synth-word-b8611fd7783dfca7"
+    },
+    {
+      "id": "l35-v07",
+      "word": "当日券",
+      "reading": "とうじつけん",
+      "meaning": "当日票",
+      "pos": "名词",
+      "example": "当日券です。",
+      "exampleMeaning": "是当日票。",
+      "mastery": "active",
+      "audioId": "synth-word-9d02c46d1e5e8540"
+    },
+    {
+      "id": "l35-v08",
+      "word": "前売券",
+      "reading": "まえうりけん",
+      "meaning": "预售票",
+      "pos": "名词",
+      "example": "前売券です。",
+      "exampleMeaning": "是预售票。",
+      "mastery": "active",
+      "audioId": "synth-word-45bf9051e5955918"
+    },
+    {
+      "id": "l35-v09",
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "展览",
+      "pos": "名词",
+      "example": "第一展示室だけ撮影できます。第二展示室は撮影禁止です。",
+      "exampleMeaning": "只有第一展厅可拍，第二展厅禁止拍摄。",
+      "mastery": "active",
+      "audioId": "synth-word-3d023ea60db23548"
+    },
+    {
+      "id": "l35-v10",
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning": "摄影",
+      "pos": "名词",
+      "example": "第一展示室だけ撮影できます。第二展示室は撮影禁止です。",
+      "exampleMeaning": "只有第一展厅可拍，第二展厅禁止拍摄。",
+      "mastery": "active",
+      "audioId": "synth-word-e4c57f057e09e513"
+    },
+    {
+      "id": "l35-v11",
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "最后",
+      "pos": "名词",
+      "example": "最終入場は何時ですか。",
+      "exampleMeaning": "最晚几点入场？",
+      "mastery": "recognition",
+      "audioId": "synth-word-0b3db1d1d08531f5"
+    },
+    {
+      "id": "l35-v12",
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "成人",
+      "pos": "名词",
+      "example": "大人です。",
+      "exampleMeaning": "是成人。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5718cfb972262ae9"
+    },
+    {
+      "id": "l35-v13",
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "儿童",
+      "pos": "名词",
+      "example": "子供です。",
+      "exampleMeaning": "是儿童。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2a7bf81bde84b37c"
+    },
+    {
+      "id": "l35-v14",
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "空位",
+      "pos": "名词",
+      "example": "土曜日の二時に、二人で予約したいです。空きはありますか。",
+      "exampleMeaning": "想预约周六两点，两位，有空位吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-ff4b55d1c3957c37"
+    },
+    {
+      "id": "l35-v15",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "接待处",
+      "pos": "名词",
+      "example": "受付です。",
+      "exampleMeaning": "是接待处。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l35-e1",
+      "ja": "土曜日の二時に、二人で予約したいです。空きはありますか。",
+      "reading": "どようびのにじに、ふたりでよやくしたいです。あきはありますか。",
+      "meaning": "想预约周六两点，两位，有空位吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-e2586541dd599a26"
+    },
+    {
+      "id": "l35-e2",
+      "ja": "申し訳ありません。その時間はいっぱいです。日曜日の十時は空いています。",
+      "reading": "もうしわけありません。そのじかんはいっぱいです。にちようびのじゅうじはあいています。",
+      "meaning": "抱歉，那时满位。周日十点有空位。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-a5e5402b229882b4"
+    },
+    {
+      "id": "l35-e3",
+      "ja": "はい。館内で写真を撮ってもいいですか。",
+      "reading": "はい。かんないでしゃしんをとってもいいですか。",
+      "meaning": "好的，馆内可以拍照吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c33071ff00142490"
+    },
+    {
+      "id": "l35-e4",
+      "ja": "第一展示室だけ撮影できます。第二展示室は撮影禁止です。",
+      "reading": "だいいちてんじしつだけさつえいできます。だいにてんじしつはさつえいきんしです。",
+      "meaning": "只有第一展厅可拍，第二展厅禁止拍摄。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-9096200ea92d1f34"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l35-g1",
+      "title": "开馆时间与最晚入场",
+      "meaning": "区分设施关闭与停止接待入场的时间",
+      "pattern": "閉館はN時／最終入場はN時",
+      "explanation": "闭馆与最晚入场可能不同。只知道关门时刻不能推断此前任意时间都能进去。用何時まで询问对应服务。",
+      "examples": [
+        {
+          "ja": "閉館は五時ですが、最終入場は四時半です。",
+          "zh": "五点闭馆，但最晚四点半入场。"
+        }
+      ],
+      "pitfall": "四点四十在五点前，却可能已超过最终入场。"
+    },
+    {
+      "id": "l35-g2",
+      "title": "预约时确认人数日期与空位",
+      "meaning": "说明希望时间，在满位后接受明确替代",
+      "pattern": "N日のN時を予約したいです／空きはありますか",
+      "explanation": "想预约不表示已成功。收到可用时段后重述日期、时刻、人数；有预约号码再保存。",
+      "examples": [
+        {
+          "ja": "土曜日の二時に二人で予約したいです。",
+          "zh": "想预约周六两点两人。"
+        }
+      ],
+      "pitfall": "仅问空きはありますか缺少日期时不能得到可用安排；须说明具体日期。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "開館",
+          "reading": "かいかん",
+          "zh": "开馆"
+        },
+        {
+          "ja": "閉館",
+          "reading": "へいかん",
+          "zh": "闭馆"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l35-r1",
+      "title": "展館の予約確認",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "りんさんは土曜日の二時を希望しましたが、空きがありませんでした。予約できたのは日曜日の十時、二名です。予約番号は二十四です。この展館は五時に閉まりますが、最終入場は四時半です。写真を撮ることができるのは第一展示室だけです。第二展示室では撮ってはいけません。",
+      "zh": "小林希望周六两点，但没有空位。成功预约的是周日十点、两位，预约号24。展馆五点闭馆，最晚四点半入场。只有第一展厅能拍照，第二展厅不可以。",
+      "audioId": "l35-reading-synth"
+    },
+    {
+      "id": "l35-r2",
+      "title": "当日券のある施設",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "川の資料館は月曜日が休館日です。火曜日から日曜日までは九時から四時まで開いています。最終入場は三時半です。個人は予約なしで当日券を買うことができます。大人は三百円、子供は無料です。今日は日曜日の三時四十分です。まだ開いていますが、今から入場することはできません。",
+      "zh": "河流资料馆周一休馆，周二到周日九点至四点开放，最晚三点半入场。个人无需预约可以买当日票，成人三百日元、儿童免费。现在周日三点四十，虽未关门，但不能再入场。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l35-ex01",
+      "type": "choice",
+      "prompt": "りんが最終的に予約したのはいつですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l35-dialogue-synth",
+      "choices": [
+        "日曜日の十時",
+        "土曜日の二時",
+        "日曜日の二時"
+      ],
+      "correctIndex": 0,
+      "explanation": "土曜は満席、日曜十時に変更した。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex02",
+      "type": "choice",
+      "prompt": "展館で写真を撮ることができる場所はどこですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l35-reading-synth",
+      "choices": [
+        "全部の展示室",
+        "第一展示室だけ",
+        "第二展示室だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一のみ可、第二は禁止。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex03",
+      "type": "choice",
+      "prompt": "りんが最終的に予約したのはいつですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "日曜日の十時",
+        "土曜日の二時",
+        "日曜日の二時"
+      ],
+      "correctIndex": 0,
+      "explanation": "土曜は満席、日曜十時に変更した。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex04",
+      "type": "choice",
+      "prompt": "展館で写真を撮ることができる場所はどこですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "全部の展示室",
+        "第一展示室だけ",
+        "第二展示室だけ"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一のみ可、第二は禁止。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex05",
+      "type": "choice",
+      "prompt": "日曜三時四十分に資料館へ入れますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "大人だけ入れる",
+        "閉館している",
+        "最終入場を過ぎたので入れない"
+      ],
+      "correctIndex": 2,
+      "explanation": "閉館は四時だが入場締切は三時半。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l35-ri6",
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex06",
+      "type": "choice",
+      "prompt": "資料館の個人客について正しいのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "予約なしで当日券を買える",
+        "必ず前日までに予約",
+        "子供も三百円"
+      ],
+      "correctIndex": 0,
+      "explanation": "個人は予約不要、大人300円で子供無料。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex07",
+      "type": "input",
+      "prompt": "「最后入场四点半」：最終____は四時半です。",
+      "acceptedAnswers": [
+        "入場",
+        "にゅうじょう"
+      ],
+      "explanation": "最终入场不是闭馆或开馆。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l35-ri5",
+        "l35-ri6",
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex08",
+      "type": "input",
+      "prompt": "「想预约」：予約____です。",
+      "acceptedAnswers": [
+        "したい"
+      ],
+      "explanation": "する的ます词干し接たい。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex09",
+      "type": "order",
+      "prompt": "用词块组成：最晚入场四点半。",
+      "tokens": [
+        "四時半",
+        "です。",
+        "最終入場は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为最終入場は四時半です。；最终入场不是闭馆或开馆。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l35-ri5",
+        "l35-ri6",
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex10",
+      "type": "order",
+      "prompt": "用词块组成：想预约周日上午十点，两人。",
+      "tokens": [
+        "二人で",
+        "予約したいです。",
+        "日曜日の十時に、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为日曜日の十時に、二人で予約したいです。；する的ます词干し接たい。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex11",
+      "type": "self",
+      "prompt": "你想预约周日十点三位，询问有无空位。",
+      "sampleAnswer": "日曜日の十時に三人で予約したいです。空きはありますか。",
+      "explanation": "日期、时刻、人数明确。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex12",
+      "type": "self",
+      "prompt": "周六满位，对方提供周日十点，你接受并重述两人。",
+      "sampleAnswer": "では、日曜日の十時に二人でお願いします。",
+      "explanation": "确认替代安排，不能只说はい而漏掉变化。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex13",
+      "type": "self",
+      "prompt": "牌子写五点闭馆但未写最后入场；你四点到，先询问。",
+      "sampleAnswer": "最終入場は何時ですか。",
+      "explanation": "不要从闭馆时刻直接推断入场截止。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l35-ri6",
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex14",
+      "type": "self",
+      "prompt": "只有第一展厅允许拍照；向朋友说明第二展厅不能拍。",
+      "sampleAnswer": "第二展示室では写真を撮ってはいけません。第一展示室だけ撮影できます。",
+      "explanation": "许可只限指定区域，不扩大到全馆。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你想预约周日十点三位，询问有无空位。",
+      "choices": [
+        "日曜日の十時に三人で予約したいです。空きはありますか。",
+        "では、日曜日の十時に二人でお願いします。",
+        "最終入場は何時ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "日期、时刻、人数明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：周六满位，对方提供周日十点，你接受并重述两人。",
+      "choices": [
+        "最終入場は何時ですか。",
+        "第二展示室では写真を撮ってはいけません。第一展示室だけ撮影できます。",
+        "では、日曜日の十時に二人でお願いします。"
+      ],
+      "correctIndex": 2,
+      "explanation": "确认替代安排，不能只说はい而漏掉变化。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：牌子写五点闭馆但未写最后入场；你四点到，先询问。",
+      "choices": [
+        "日曜日の十時に三人で予約したいです。空きはありますか。",
+        "最終入場は何時ですか。",
+        "第二展示室では写真を撮ってはいけません。第一展示室だけ撮影できます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不要从闭馆时刻直接推断入场截止。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l35-ri6",
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：只有第一展厅允许拍照；向朋友说明第二展厅不能拍。",
+      "choices": [
+        "第二展示室では写真を撮ってはいけません。第一展示室だけ撮影できます。",
+        "日曜日の十時に三人で予約したいです。空きはありますか。",
+        "では、日曜日の十時に二人でお願いします。"
+      ],
+      "correctIndex": 0,
+      "explanation": "许可只限指定区域，不扩大到全馆。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex19",
+      "type": "self",
+      "prompt": "读例句「開館です。」。先不看词表，用中文说明「開館」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "开馆",
+      "explanation": "本课这里表示“开馆”。例句意思是：是开馆。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l35-ri5"
+      ]
+    },
+    {
+      "id": "l35-ex20",
+      "type": "self",
+      "prompt": "读例句「最終入場は何時ですか。」。先不看词表，用中文说明「入場」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "入场",
+      "explanation": "本课这里表示“入场”。例句意思是：最晚几点入场？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l35-ri8"
+      ]
+    },
+    {
+      "id": "l35-ex21",
+      "type": "self",
+      "prompt": "读例句「当日券です。」。先不看词表，用中文说明「当日券」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "当日票",
+      "explanation": "本课这里表示“当日票”。例句意思是：是当日票。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l35-ex22",
+      "type": "self",
+      "prompt": "读例句「第一展示室だけ撮影できます。第二展示室は撮影禁止です。」。先不看词表，用中文说明「撮影」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "摄影",
+      "explanation": "本课这里表示“摄影”。例句意思是：只有第一展厅可拍，第二展厅禁止拍摄。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l35-ri4"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l35-ri1",
+      "front": "想预约周六两点，两位，有空位吗？",
+      "back": "土曜日の二時に、二人で予約したいです。空きはありますか。",
+      "reading": "どようびのにじに、ふたりでよやくしたいです。あきはありますか。",
+      "audioId": "synth-word-e2586541dd599a26",
+      "kind": "expression"
+    },
+    {
+      "id": "l35-ri2",
+      "front": "抱歉，那时满位。周日十点有空位。",
+      "back": "申し訳ありません。その時間はいっぱいです。日曜日の十時は空いています。",
+      "reading": "もうしわけありません。そのじかんはいっぱいです。にちようびのじゅうじはあいています。",
+      "audioId": "synth-word-a5e5402b229882b4",
+      "kind": "expression"
+    },
+    {
+      "id": "l35-ri3",
+      "front": "好的，馆内可以拍照吗？",
+      "back": "はい。館内で写真を撮ってもいいですか。",
+      "reading": "はい。かんないでしゃしんをとってもいいですか。",
+      "audioId": "synth-word-c33071ff00142490",
+      "kind": "expression"
+    },
+    {
+      "id": "l35-ri4",
+      "front": "只有第一展厅可拍，第二展厅禁止拍摄。",
+      "back": "第一展示室だけ撮影できます。第二展示室は撮影禁止です。",
+      "reading": "だいいちてんじしつだけさつえいできます。だいにてんじしつはさつえいきんしです。",
+      "audioId": "synth-word-9096200ea92d1f34",
+      "kind": "expression"
+    },
+    {
+      "id": "l35-ri5",
+      "front": "開館在本课是什么意思？",
+      "back": "开馆",
+      "reading": "かいかん",
+      "audioId": "synth-word-6bb9c8d5bda9c6ff",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l35-ri6",
+      "front": "閉館在本课是什么意思？",
+      "back": "闭馆",
+      "reading": "へいかん",
+      "audioId": "synth-word-2883f2c6dfc12c7a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l35-ri7",
+      "front": "休館日在本课是什么意思？",
+      "back": "休馆日",
+      "reading": "きゅうかんび",
+      "audioId": "synth-word-148a70864a39b0f4",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l35-ri8",
+      "front": "入場在本课是什么意思？",
+      "back": "入场",
+      "reading": "にゅうじょう",
+      "audioId": "synth-word-c78b50a49f759c6a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l35-ri9",
+      "front": "入場料在本课是什么意思？",
+      "back": "入场费",
+      "reading": "にゅうじょうりょう",
+      "audioId": "synth-word-d73af67a6550c0c5",
+      "kind": "vocabulary"
+    }
+  ]
+}

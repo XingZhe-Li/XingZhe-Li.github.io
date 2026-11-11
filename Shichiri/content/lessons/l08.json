@@ -1,0 +1,983 @@
+{
+  "id": "l08",
+  "number": 8,
+  "moduleId": "m2",
+  "title": "表达去向与交通方式",
+  "subtitle": "分别听清目的地、交通方式和出发时刻。",
+  "revision": 2,
+  "goals": [
+    "说明移动的目的地。",
+    "说明用何种手段移动。",
+    "在『机场与学校』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第7课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「表达去向与交通方式」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l08-ex01",
+        "l08-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「机场与学校」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「出行留言」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「表达去向与交通方式」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l08-ex19",
+        "l08-ex20",
+        "l08-ex21",
+        "l08-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到行きます、来ます、帰ります、駅，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用明日、どこに行きますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「表达去向与交通方式」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l08-ex07",
+        "l08-ex08",
+        "l08-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「移动目的地」「交通方式」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「表达去向与交通方式」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l08-ex02",
+        "l08-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「表达去向与交通方式」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l08-ex04",
+        "l08-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「出行留言」与「朋友来访」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「表达去向与交通方式」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l08-ex11",
+        "l08-ex12",
+        "l08-ex13",
+        "l08-ex14",
+        "l08-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「表达去向与交通方式」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l08-ex06",
+        "l08-ex10",
+        "l08-ex17",
+        "l08-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l08-ext10",
+      "title": "表达去向与交通方式 · 10分钟迁移",
+      "instructions": "先听『机场与学校』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l08-ext15",
+      "title": "表达去向与交通方式 · 15分钟迁移",
+      "instructions": "读『出行留言』与『朋友来访』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：说你乘地铁去学校。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l08-ext25",
+      "title": "表达去向与交通方式 · 25分钟迁移",
+      "instructions": "用5分钟听『机场与学校』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：没听清对方方式，写具体追问。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l08-ex13",
+        "l08-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『机场与学校』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『出行留言』与变体材料的条件。",
+    "关闭说明后，能在情境中使用地点に／へ行きます及交通工具で／歩いて，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l08-d01",
+      "title": "机场与学校",
+      "context": "朋友们的目的地和交通方式不同。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l08-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "ミナ",
+          "ja": "明日、どこに行きますか。",
+          "kana": "あした、どこにいきますか。",
+          "zh": "明天去哪里？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "空港に行きます。",
+          "kana": "くうこうにいきます。",
+          "zh": "去机场。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "バスで行きますか。",
+          "kana": "バスでいきますか。",
+          "zh": "乘公交吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、電車で行きます。",
+          "kana": "いいえ、でんしゃでいきます。",
+          "zh": "不，乘电车。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "何時に行きますか。",
+          "kana": "なんじにいきますか。",
+          "zh": "几点去？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "午前九時に行きます。",
+          "kana": "ごぜんくじにいきます。",
+          "zh": "上午九点。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "ミナさんも空港ですか。",
+          "kana": "ミナさんもくうこうですか。",
+          "zh": "米娜也去机场吗？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "いいえ、学校に行きます。",
+          "kana": "いいえ、がっこうにいきます。",
+          "zh": "不，我去学校。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l08-v01",
+      "word": "行きます",
+      "reading": "いきます",
+      "meaning": "去",
+      "pos": "动词",
+      "example": "明日、どこに行きますか。",
+      "exampleMeaning": "明天去哪里？",
+      "mastery": "active",
+      "audioId": "synth-word-3631e7602a6900a7"
+    },
+    {
+      "id": "l08-v02",
+      "word": "来ます",
+      "reading": "きます",
+      "meaning": "来",
+      "pos": "动词",
+      "example": "来ます。",
+      "exampleMeaning": "来。",
+      "mastery": "active",
+      "audioId": "synth-word-848637382aead3f6"
+    },
+    {
+      "id": "l08-v03",
+      "word": "帰ります",
+      "reading": "かえります",
+      "meaning": "回去",
+      "pos": "动词",
+      "example": "帰ります。",
+      "exampleMeaning": "回去。",
+      "mastery": "active",
+      "audioId": "synth-word-eb26993da9dfc664"
+    },
+    {
+      "id": "l08-v04",
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "车站",
+      "pos": "名词",
+      "example": "駅です。",
+      "exampleMeaning": "是车站。",
+      "mastery": "active",
+      "audioId": "synth-word-8754aeb54e9fe5ec"
+    },
+    {
+      "id": "l08-v05",
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "机场",
+      "pos": "名词",
+      "example": "空港に行きます。",
+      "exampleMeaning": "去机场。",
+      "mastery": "active",
+      "audioId": "synth-word-c224a73cb4e67c25"
+    },
+    {
+      "id": "l08-v06",
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "学校",
+      "pos": "名词",
+      "example": "いいえ、学校に行きます。",
+      "exampleMeaning": "不，我去学校。",
+      "mastery": "active",
+      "audioId": "synth-word-119d399be42b4329"
+    },
+    {
+      "id": "l08-v07",
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "家",
+      "pos": "名词",
+      "example": "家です。",
+      "exampleMeaning": "是家。",
+      "mastery": "active",
+      "audioId": "synth-word-24a6ff03ccde4277"
+    },
+    {
+      "id": "l08-v08",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "电车",
+      "pos": "名词",
+      "example": "いいえ、電車で行きます。",
+      "exampleMeaning": "不，乘电车。",
+      "mastery": "active",
+      "audioId": "synth-word-22c13debbad9cb22"
+    },
+    {
+      "id": "l08-v09",
+      "word": "バス",
+      "reading": "バス",
+      "meaning": "公交车",
+      "pos": "名词",
+      "example": "バスで行きますか。",
+      "exampleMeaning": "乘公交吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ed65ef0f7511fca1"
+    },
+    {
+      "id": "l08-v10",
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "地铁",
+      "pos": "名词",
+      "example": "地下鉄です。",
+      "exampleMeaning": "是地铁。",
+      "mastery": "active",
+      "audioId": "synth-word-32719d66c41889c3"
+    },
+    {
+      "id": "l08-v11",
+      "word": "タクシー",
+      "reading": "タクシー",
+      "meaning": "出租车",
+      "pos": "名词",
+      "example": "タクシーです。",
+      "exampleMeaning": "是出租车。",
+      "mastery": "recognition",
+      "audioId": "synth-word-52396760853ad7ec"
+    },
+    {
+      "id": "l08-v12",
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "自行车",
+      "pos": "名词",
+      "example": "自転車です。",
+      "exampleMeaning": "是自行车。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f2cece74988d8b25"
+    },
+    {
+      "id": "l08-v13",
+      "word": "歩いて",
+      "reading": "あるいて",
+      "meaning": "步行",
+      "pos": "固定表达",
+      "example": "歩いて帰ります。",
+      "exampleMeaning": "步行回去。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7c94f5838127fab9"
+    },
+    {
+      "id": "l08-v14",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "pos": "名词",
+      "example": "友達です。",
+      "exampleMeaning": "是朋友。",
+      "mastery": "recognition",
+      "audioId": "synth-word-090a89bc15fda3bd"
+    },
+    {
+      "id": "l08-v15",
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "明天",
+      "pos": "名词",
+      "example": "明日、どこに行きますか。",
+      "exampleMeaning": "明天去哪里？",
+      "mastery": "recognition",
+      "audioId": "synth-word-a1b7cbb1ffc330cf"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l08-e1",
+      "ja": "明日、どこに行きますか。",
+      "reading": "あした、どこにいきますか。",
+      "meaning": "明天去哪里？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-963d4dd2224b5d78"
+    },
+    {
+      "id": "l08-e2",
+      "ja": "空港に行きます。",
+      "reading": "くうこうにいきます。",
+      "meaning": "去机场。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-a978dbeaa3c579dc"
+    },
+    {
+      "id": "l08-e3",
+      "ja": "何時に行きますか。",
+      "reading": "なんじにいきますか。",
+      "meaning": "几点去？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-1b7a345125f1144d"
+    },
+    {
+      "id": "l08-e4",
+      "ja": "午前九時に行きます。",
+      "reading": "ごぜんくじにいきます。",
+      "meaning": "上午九点。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b4317b8d1c5f3611"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l08-g1",
+      "title": "移动目的地",
+      "meaning": "说明移动的目的地。",
+      "pattern": "地点に／へ行きます",
+      "explanation": "地点に、へ都能表示本课去向，へ读え；地点不是乘坐的工具。",
+      "examples": [
+        {
+          "ja": "空港に行きます。",
+          "zh": "去机场。"
+        }
+      ],
+      "pitfall": "目的地和交通方式不同。"
+    },
+    {
+      "id": "l08-g2",
+      "title": "交通方式",
+      "meaning": "说明用何种手段移动。",
+      "pattern": "交通工具で／歩いて",
+      "explanation": "工具后用で；步行整体说歩いて，不再加で。",
+      "examples": [
+        {
+          "ja": "電車で行きます。",
+          "zh": "乘电车去。"
+        }
+      ],
+      "pitfall": "歩いてで不成立。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "行きます",
+          "reading": "いきます",
+          "zh": "去"
+        },
+        {
+          "ja": "来ます",
+          "reading": "きます",
+          "zh": "来"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l08-r1",
+      "title": "出行留言",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "りんさんは明日、午前九時に空港に行きます。電車で行きます。バスではありません。ミナさんは学校へ行きます。自転車で行きます。けんさんは午後五時に家に帰ります。歩いて帰ります。三人の目的地と交通の方法は同じではありません。",
+      "zh": "林明早九点乘电车去机场，不是公交。米娜骑车去学校，健下午五点步行回家。三人目的地与方式不同。",
+      "audioId": "l08-reading-synth"
+    },
+    {
+      "id": "l08-r2",
+      "title": "朋友来访",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "土曜日に友達が来ます。友達は地下鉄で駅に来ます。私は歩いて駅へ行きます。友達はタクシーでは来ません。日曜日に友達は家に帰ります。帰りはバスです。来る時は地下鉄です。来る時と帰る時の方法は違います。",
+      "zh": "周六朋友来，乘地铁到站，我步行去接。朋友不乘出租车。周日回家用公交。来的时候地铁，回去时候公交，两种方式不同。来る時等先作为材料时间提示理解。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l08-ex01",
+      "type": "choice",
+      "prompt": "林用什么去机场？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l08-dialogue-synth",
+      "choices": [
+        "公交",
+        "电车",
+        "自行车"
+      ],
+      "correctIndex": 1,
+      "explanation": "电车是最终确认的方式。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex02",
+      "type": "choice",
+      "prompt": "留言中健怎样回家？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l08-reading-synth",
+      "choices": [
+        "步行",
+        "出租车",
+        "公交"
+      ],
+      "correctIndex": 0,
+      "explanation": "歩いて帰ります。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l08-ri7"
+      ]
+    },
+    {
+      "id": "l08-ex03",
+      "type": "choice",
+      "prompt": "林用什么去机场？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "公交",
+        "电车",
+        "自行车"
+      ],
+      "correctIndex": 1,
+      "explanation": "电车是最终确认的方式。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex04",
+      "type": "choice",
+      "prompt": "留言中健怎样回家？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "步行",
+        "出租车",
+        "公交"
+      ],
+      "correctIndex": 0,
+      "explanation": "歩いて帰ります。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l08-ri7"
+      ]
+    },
+    {
+      "id": "l08-ex05",
+      "type": "choice",
+      "prompt": "朋友来时乘什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "地铁",
+        "公交",
+        "出租车"
+      ],
+      "correctIndex": 0,
+      "explanation": "地下鉄で駅に来ます。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l08-ri6",
+        "l08-ri8"
+      ]
+    },
+    {
+      "id": "l08-ex06",
+      "type": "choice",
+      "prompt": "朋友回程乘什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "地铁",
+        "自行车",
+        "公交"
+      ],
+      "correctIndex": 2,
+      "explanation": "帰りはバス。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l08-ex07",
+      "type": "input",
+      "prompt": "填目的地助词：駅＿＿行きます。（使用に）",
+      "acceptedAnswers": [
+        "に"
+      ],
+      "explanation": "に标目的地。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri8"
+      ]
+    },
+    {
+      "id": "l08-ex08",
+      "type": "input",
+      "prompt": "填手段助词：電車＿＿行きます。",
+      "acceptedAnswers": [
+        "で"
+      ],
+      "explanation": "手段用で。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex09",
+      "type": "order",
+      "prompt": "用词块组成：去机场。",
+      "tokens": [
+        "行きます。",
+        "空港に"
+      ],
+      "correctOrder": [
+        1,
+        0
+      ],
+      "explanation": "完整句为空港に行きます。；に标目的地。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l08-ri2",
+        "l08-ri5",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex10",
+      "type": "order",
+      "prompt": "用词块组成：乘电车去机场。",
+      "tokens": [
+        "空港に",
+        "行きます。",
+        "電車で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为電車で空港に行きます。；手段用で。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l08-ri2",
+        "l08-ri5",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex11",
+      "type": "self",
+      "prompt": "说你乘地铁去学校。",
+      "sampleAnswer": "地下鉄で学校に行きます。",
+      "explanation": "地点和手段分开。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex12",
+      "type": "self",
+      "prompt": "问对方去哪里。",
+      "sampleAnswer": "どこに行きますか。",
+      "explanation": "补目的地。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex13",
+      "type": "self",
+      "prompt": "你要回家，不去机场，写更正。",
+      "sampleAnswer": "空港には行きません。家に帰ります。",
+      "explanation": "不混淆来去。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri6",
+        "l08-ri7"
+      ]
+    },
+    {
+      "id": "l08-ex14",
+      "type": "self",
+      "prompt": "没听清对方方式，写具体追问。",
+      "sampleAnswer": "何で行きますか。",
+      "explanation": "在出行语境问交通方式。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说你乘地铁去学校。",
+      "choices": [
+        "地下鉄で学校に行きます。",
+        "どこに行きますか。",
+        "空港には行きません。家に帰ります。"
+      ],
+      "correctIndex": 0,
+      "explanation": "地点和手段分开。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri7",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问对方去哪里。",
+      "choices": [
+        "空港には行きません。家に帰ります。",
+        "何で行きますか。",
+        "どこに行きますか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "补目的地。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri7",
+        "l08-ri9"
+      ]
+    },
+    {
+      "id": "l08-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要回家，不去机场，写更正。",
+      "choices": [
+        "地下鉄で学校に行きます。",
+        "空港には行きません。家に帰ります。",
+        "何で行きますか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不混淆来去。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5",
+        "l08-ri6",
+        "l08-ri7"
+      ]
+    },
+    {
+      "id": "l08-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：没听清对方方式，写具体追问。",
+      "choices": [
+        "何で行きますか。",
+        "地下鉄で学校に行きます。",
+        "どこに行きますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "在出行语境问交通方式。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex19",
+      "type": "self",
+      "prompt": "读例句「明日、どこに行きますか。」。先不看词表，用中文说明「行きます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "去",
+      "explanation": "本课这里表示“去”。例句意思是：明天去哪里？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l08-ri1",
+        "l08-ri5"
+      ]
+    },
+    {
+      "id": "l08-ex20",
+      "type": "self",
+      "prompt": "读例句「駅です。」。先不看词表，用中文说明「駅」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "车站",
+      "explanation": "本课这里表示“车站”。例句意思是：是车站。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l08-ri8"
+      ]
+    },
+    {
+      "id": "l08-ex21",
+      "type": "self",
+      "prompt": "读例句「家です。」。先不看词表，用中文说明「家」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "家",
+      "explanation": "本课这里表示“家”。例句意思是：是家。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l08-ex22",
+      "type": "self",
+      "prompt": "读例句「地下鉄です。」。先不看词表，用中文说明「地下鉄」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "地铁",
+      "explanation": "本课这里表示“地铁”。例句意思是：是地铁。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l08-ri1",
+      "front": "明天去哪里？",
+      "back": "明日、どこに行きますか。",
+      "reading": "あした、どこにいきますか。",
+      "audioId": "synth-word-963d4dd2224b5d78",
+      "kind": "expression"
+    },
+    {
+      "id": "l08-ri2",
+      "front": "去机场。",
+      "back": "空港に行きます。",
+      "reading": "くうこうにいきます。",
+      "audioId": "synth-word-a978dbeaa3c579dc",
+      "kind": "expression"
+    },
+    {
+      "id": "l08-ri3",
+      "front": "几点去？",
+      "back": "何時に行きますか。",
+      "reading": "なんじにいきますか。",
+      "audioId": "synth-word-1b7a345125f1144d",
+      "kind": "expression"
+    },
+    {
+      "id": "l08-ri4",
+      "front": "上午九点。",
+      "back": "午前九時に行きます。",
+      "reading": "ごぜんくじにいきます。",
+      "audioId": "synth-word-b4317b8d1c5f3611",
+      "kind": "expression"
+    },
+    {
+      "id": "l08-ri5",
+      "front": "行きます在本课是什么意思？",
+      "back": "去",
+      "reading": "いきます",
+      "audioId": "synth-word-3631e7602a6900a7",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l08-ri6",
+      "front": "来ます在本课是什么意思？",
+      "back": "来",
+      "reading": "きます",
+      "audioId": "synth-word-848637382aead3f6",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l08-ri7",
+      "front": "帰ります在本课是什么意思？",
+      "back": "回去",
+      "reading": "かえります",
+      "audioId": "synth-word-eb26993da9dfc664",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l08-ri8",
+      "front": "駅在本课是什么意思？",
+      "back": "车站",
+      "reading": "えき",
+      "audioId": "synth-word-8754aeb54e9fe5ec",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l08-ri9",
+      "front": "空港在本课是什么意思？",
+      "back": "机场",
+      "reading": "くうこう",
+      "audioId": "synth-word-c224a73cb4e67c25",
+      "kind": "vocabulary"
+    }
+  ]
+}

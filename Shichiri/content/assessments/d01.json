@@ -1,0 +1,165 @@
+{
+  "id": "d01",
+  "number": 1,
+  "week": 4,
+  "afterLesson": 10,
+  "revision": 2,
+  "title": "独立诊断：周末交流会与同学的短消息",
+  "focus": [
+    "人物、地点与同伴",
+    "时刻和动作的肯否",
+    "过去事件与下一步确认"
+  ],
+  "reading": {
+    "title": "日曜日の交流会",
+    "ja": "日曜日、駅前の会館で交流会があります。受付は一階です。交流会は二階で、十時から十二時までです。なおさんは十時に友達と会館へ行きます。昼ご飯は会館では食べません。駅の前の店で友達と食べます。ゆきさんは十一時に来ます。会館へはバスで来ます。",
+    "zh": "周日站前会馆有交流会。接待处在一楼，交流会在二楼，十点至十二点。直十点和朋友去会馆，中午不在会馆吃，在站前店里和朋友吃。雪十一点坐公交来。"
+  },
+  "listening": {
+    "title": "ゆきからの連絡",
+    "ja": "なおさん、ゆきです。昨日、大学で日本語を勉強しました。今日は大学へは行きません。日曜日の交流会には十一時に行きます。家から駅までバスで行きます。駅から会館までは歩きます。昼ご飯は母と家で食べます。なおさんは友達と食べますか。月曜日は大学で日本語を勉強します。",
+    "zh": "直，我是雪。昨天在大学学日语，今天不去大学。周日十一点去交流会，从家坐公交到车站，再步行去会馆。午饭和母亲在家吃。你和朋友吃吗？周一在大学学日语。",
+    "audioId": "d01-listening-synth"
+  },
+  "exercises": [
+    {
+      "id": "d01-ex01",
+      "type": "choice",
+      "prompt": "ゆきは日曜日、何時に交流会へ行きますか。",
+      "audioId": "d01-listening-synth",
+      "choices": [
+        "十時",
+        "十一時",
+        "十二時"
+      ],
+      "correctIndex": 1,
+      "explanation": "十一時に行きます。昨天的学习和今天不去大学不是交流会时间。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex02",
+      "type": "choice",
+      "prompt": "ゆきは日曜日の昼、誰とどこで食べますか。",
+      "audioId": "d01-listening-synth",
+      "choices": [
+        "友達と店で",
+        "一人で大学で",
+        "母と家で"
+      ],
+      "correctIndex": 2,
+      "explanation": "昼ご飯は母と家で食べます。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex03",
+      "type": "choice",
+      "prompt": "交流会は何階ですか。",
+      "choices": [
+        "一階",
+        "二階",
+        "駅の中"
+      ],
+      "correctIndex": 1,
+      "explanation": "受付は一階、交流会は二階。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex04",
+      "type": "choice",
+      "prompt": "交流会は何時に終わりますか。",
+      "choices": [
+        "十時",
+        "十一時",
+        "十二時"
+      ],
+      "correctIndex": 2,
+      "explanation": "十時から十二時まで。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex05",
+      "type": "choice",
+      "prompt": "なおは昼ご飯をどこで食べますか。",
+      "choices": [
+        "駅前の店",
+        "会館",
+        "家"
+      ],
+      "correctIndex": 0,
+      "explanation": "会館では食べず、駅の前の店で食べる。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex06",
+      "type": "choice",
+      "prompt": "なおは誰と会館へ行きますか。",
+      "choices": [
+        "母",
+        "友達",
+        "一人"
+      ],
+      "correctIndex": 1,
+      "explanation": "十時に友達と会館へ行く。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex07",
+      "type": "input",
+      "prompt": "填一个表示动作场所的助词，表达「在大学学习」：大学____日本語を勉強します。",
+      "acceptedAnswers": [
+        "で"
+      ],
+      "explanation": "で标动作发生场所；存在位置才用に。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex08",
+      "type": "order",
+      "prompt": "用词块组成「昨天没去大学」。",
+      "tokens": [
+        "大学へ",
+        "行きませんでした。",
+        "昨日は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "未发生的过去动作用ませんでした，不能丢掉否定。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex09",
+      "type": "self",
+      "prompt": "现在是你自己报名交流会。你将在周日十点和朋友到会馆，用两句完整日文写给接待员。",
+      "sampleAnswer": "日曜日の十時に会館へ行きます。友達と行きます。",
+      "explanation": "核对时间、同伴与去向；可换等义完整表达。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "d01-ex10",
+      "type": "self",
+      "prompt": "你只听到对方说了时间，没听清地点。用已学句块请求对方再说一次地点。",
+      "sampleAnswer": "すみません、場所をもう一度お願いします。",
+      "explanation": "能提出针对缺失信息的修复请求；不自行猜地点。",
+      "skill": "expression",
+      "reviewItemIds": []
+    }
+  ],
+  "masteryCriteria": [
+    "首次听音频后正确记录雪的到会时刻、午餐同伴与地点；重播后理解单独记。",
+    "独立找出交流会楼层、起止时刻及直的午餐安排，区分接待处与活动室。",
+    "能正确保留过去否定，并在动作地点、同伴和时刻上选用助词。",
+    "能写出新报名信息和请求重复地点的回应；本诊断不认证现场口语。"
+  ]
+}

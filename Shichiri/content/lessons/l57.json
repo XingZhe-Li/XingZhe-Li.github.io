@@ -1,0 +1,1127 @@
+{
+  "id": "l57",
+  "number": 57,
+  "moduleId": "m12",
+  "title": "连接信息并呈现对比",
+  "subtitle": "并列理由、预期落差和中性对比，让一段评价不偏向单面。",
+  "revision": 2,
+  "goals": [
+    "识别し构成的并列理由。",
+    "区分のに的预期落差与一方で的对照。",
+    "结合目的比较优缺点，写有依据的段落。"
+  ],
+  "prerequisites": [
+    "理解第56课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「连接信息并呈现对比」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l57-ex01",
+        "l57-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「选学习空间」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「無料なら最適とは限らない」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「连接信息并呈现对比」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l57-ex19",
+        "l57-ex20",
+        "l57-ex21",
+        "l57-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到場所、図書館、料金、座席，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用図書館は静かだし、料金もかかりません。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「连接信息并呈现对比」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l57-ex07",
+        "l57-ex08",
+        "l57-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「し列举理由」「のに表达预期落差」「一方で呈现两面」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「连接信息并呈现对比」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l57-ex02",
+        "l57-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「连接信息并呈现对比」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l57-ex04",
+        "l57-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「無料なら最適とは限らない」与「楽しみにしていた講座」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「连接信息并呈现对比」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l57-ex11",
+        "l57-ex12",
+        "l57-ex13",
+        "l57-ex14",
+        "l57-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「连接信息并呈现对比」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l57-ex06",
+        "l57-ex10",
+        "l57-ex17",
+        "l57-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l57-ext10",
+      "title": "连接信息并呈现对比 · 10分钟迁移",
+      "instructions": "用10分钟重读「無料なら最適とは限らない」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l57-ext15",
+      "title": "连接信息并呈现对比 · 15分钟迁移",
+      "instructions": "用15分钟把「楽しみにしていた講座」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l57-ext25",
+      "title": "连接信息并呈现对比 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l57-ex13",
+        "l57-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l57-d01",
+      "title": "选学习空间",
+      "context": "林与朋友比较图书馆和收费自习室，不同目的需要不同条件。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l57-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "週末に勉強する場所を決めたいです。",
+          "kana": "しゅうまつにべんきょうするばしょをきめたいです。",
+          "zh": "想决定周末学习地点。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "図書館は静かだし、料金もかかりません。",
+          "kana": "としょかんはしずかだし、りょうきんもかかりません。",
+          "zh": "图书馆安静，而且不收费。"
+        },
+        {
+          "speaker": "林",
+          "ja": "ただ、座席の予約ができないのですね。",
+          "kana": "ただ、ざせきのよやくができないのですね。",
+          "zh": "不过不能预约座位，是吧？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "はい。一方で、自習室は席を確保できますが、費用が必要です。",
+          "kana": "はい。いっぽうで、じしゅうしつはせきをかくほできますが、ひようがひつようです。",
+          "zh": "对，另一方面，自习室能订座，但要费用。"
+        },
+        {
+          "speaker": "林",
+          "ja": "この前は早く行ったのに、もう混雑していました。",
+          "kana": "このまえははやくいったのに、もうこんざつしていました。",
+          "zh": "上次明明早去，却已经很挤。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "時間帯によって、利用者の数が違います。",
+          "kana": "じかんたいによって、りようしゃのかずがちがいます。",
+          "zh": "不同时段使用人数不同。"
+        },
+        {
+          "speaker": "林",
+          "ja": "今日は資料を読むので、集中できることを優先します。",
+          "kana": "きょうはしりょうをよむので、しゅうちゅうできることをゆうせんします。",
+          "zh": "今天读资料，优先能集中。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "会話の練習なら、図書館は向いていません。",
+          "kana": "かいわのれんしゅうなら、としょかんはむいていません。",
+          "zh": "若练会话，图书馆不合适。"
+        },
+        {
+          "speaker": "林",
+          "ja": "目的を分けると、同じ設備でも評価が変わりますね。",
+          "kana": "もくてきをわけると、おなじせつびでもひょうかがかわりますね。",
+          "zh": "区分目的后，同样设施评价也不同。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "利点だけでなく、条件に合わない点も書いて比べましょう。",
+          "kana": "りてんだけでなく、じょうけんにあわないてんもかいてくらべましょう。",
+          "zh": "把优点和不符合条件处都写下来比较吧。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l57-v01",
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "地点",
+      "pos": "名词",
+      "example": "週末に勉強する場所を決めたいです。",
+      "exampleMeaning": "想决定周末学习地点。",
+      "mastery": "active",
+      "audioId": "synth-word-fd102ac2db594815"
+    },
+    {
+      "id": "l57-v02",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "图书馆",
+      "pos": "名词",
+      "example": "図書館は静かだし、料金もかかりません。",
+      "exampleMeaning": "图书馆安静，而且不收费。",
+      "mastery": "active",
+      "audioId": "synth-word-8111caffdb970505"
+    },
+    {
+      "id": "l57-v03",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "図書館は静かだし、料金もかかりません。",
+      "exampleMeaning": "图书馆安静，而且不收费。",
+      "mastery": "active",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l57-v04",
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "座位",
+      "pos": "名词",
+      "example": "ただ、座席の予約ができないのですね。",
+      "exampleMeaning": "不过不能预约座位，是吧？",
+      "mastery": "active",
+      "audioId": "synth-word-2eec9a3dbbcdbf7b"
+    },
+    {
+      "id": "l57-v05",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "ただ、座席の予約ができないのですね。",
+      "exampleMeaning": "不过不能预约座位，是吧？",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l57-v06",
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "花费",
+      "pos": "名词",
+      "example": "はい。一方で、自習室は席を確保できますが、費用が必要です。",
+      "exampleMeaning": "对，另一方面，自习室能订座，但要费用。",
+      "mastery": "active",
+      "audioId": "synth-word-3e2c37bf93048653"
+    },
+    {
+      "id": "l57-v07",
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaning": "拥挤",
+      "pos": "名词",
+      "example": "この前は早く行ったのに、もう混雑していました。",
+      "exampleMeaning": "上次明明早去，却已经很挤。",
+      "mastery": "active",
+      "audioId": "synth-word-e6ca9af55d6063ee"
+    },
+    {
+      "id": "l57-v08",
+      "word": "時間帯",
+      "reading": "じかんたい",
+      "meaning": "时间段",
+      "pos": "名词",
+      "example": "時間帯によって、利用者の数が違います。",
+      "exampleMeaning": "不同时段使用人数不同。",
+      "mastery": "active",
+      "audioId": "synth-word-0473c477c7258814"
+    },
+    {
+      "id": "l57-v09",
+      "word": "利用者",
+      "reading": "りようしゃ",
+      "meaning": "使用者",
+      "pos": "名词",
+      "example": "時間帯によって、利用者の数が違います。",
+      "exampleMeaning": "不同时段使用人数不同。",
+      "mastery": "active",
+      "audioId": "synth-word-c16e595adbcf74a6"
+    },
+    {
+      "id": "l57-v10",
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "集中",
+      "pos": "名词",
+      "example": "今日は資料を読むので、集中できることを優先します。",
+      "exampleMeaning": "今天读资料，优先能集中。",
+      "mastery": "active",
+      "audioId": "synth-word-66b2064ffffff0b3"
+    },
+    {
+      "id": "l57-v11",
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "会话",
+      "pos": "名词",
+      "example": "会話の練習なら、図書館は向いていません。",
+      "exampleMeaning": "若练会话，图书馆不合适。",
+      "mastery": "active",
+      "audioId": "synth-word-8c6e7f7dd48d7e31"
+    },
+    {
+      "id": "l57-v12",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "目的",
+      "pos": "名词",
+      "example": "目的を分けると、同じ設備でも評価が変わりますね。",
+      "exampleMeaning": "区分目的后，同样设施评价也不同。",
+      "mastery": "active",
+      "audioId": "synth-word-25315c650c32d50c"
+    },
+    {
+      "id": "l57-v13",
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "设施",
+      "pos": "名词",
+      "example": "目的を分けると、同じ設備でも評価が変わりますね。",
+      "exampleMeaning": "区分目的后，同样设施评价也不同。",
+      "mastery": "active",
+      "audioId": "synth-word-5c48008a64074364"
+    },
+    {
+      "id": "l57-v14",
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "评价",
+      "pos": "名词",
+      "example": "目的を分けると、同じ設備でも評価が変わりますね。",
+      "exampleMeaning": "区分目的后，同样设施评价也不同。",
+      "mastery": "active",
+      "audioId": "synth-word-389d7005b0ed9f17"
+    },
+    {
+      "id": "l57-v15",
+      "word": "利点",
+      "reading": "りてん",
+      "meaning": "优点",
+      "pos": "名词",
+      "example": "利点だけでなく、条件に合わない点も書いて比べましょう。",
+      "exampleMeaning": "把优点和不符合条件处都写下来比较吧。",
+      "mastery": "active",
+      "audioId": "synth-word-4b062151593e3b2d"
+    },
+    {
+      "id": "l57-v16",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "利点だけでなく、条件に合わない点も書いて比べましょう。",
+      "exampleMeaning": "把优点和不符合条件处都写下来比较吧。",
+      "mastery": "active",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l57-v17",
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "缺点",
+      "pos": "名词",
+      "example": "どちらにも利点と欠点があり、無料かどうかだけで評価を決めると目的を見失います。",
+      "exampleMeaning": "两者都有优缺点，只看是否免费会忽视目标。",
+      "mastery": "active",
+      "audioId": "synth-word-cde659320becbbbb"
+    },
+    {
+      "id": "l57-v18",
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "理由",
+      "pos": "名词",
+      "example": "条件を紙に書くと、理由と印象を混ぜずに整理できました。",
+      "exampleMeaning": "写下条件后，能区分理由和印象。",
+      "mastery": "active",
+      "audioId": "synth-word-9d87c03640ed4651"
+    },
+    {
+      "id": "l57-v19",
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "期待",
+      "pos": "名词",
+      "example": "前回は空いていると期待したのに席がなく、予定していた作業が進みませんでした。",
+      "exampleMeaning": "上次原以为空却没座，工作未能推进。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f235ac4e7c14accc"
+    },
+    {
+      "id": "l57-v20",
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "现实",
+      "pos": "名词",
+      "example": "そこで感想を書く時は、期待した形式と現実に行われた内容を分けて伝えるようにしました。",
+      "exampleMeaning": "写感想时，我区分期待形式和实际内容。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a2442b2c95efac46"
+    },
+    {
+      "id": "l57-v21",
+      "word": "比較",
+      "reading": "ひかく",
+      "meaning": "比较",
+      "pos": "名词",
+      "example": "週末の勉強場所を選ぶため、私は図書館と駅前の自習室を比較しました。",
+      "exampleMeaning": "为选周末学习地点，我比较图书馆与站前自习室。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3e2649ea8db0e555"
+    },
+    {
+      "id": "l57-v22",
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "通信",
+      "pos": "名词",
+      "example": "自習室には費用がかかりますが、設備や通信の条件を先に確認して席を確保できます。",
+      "exampleMeaning": "自习室收费，但可先确认设备网络并订座。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e490261676e97e69"
+    },
+    {
+      "id": "l57-v23",
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "通学",
+      "pos": "名词",
+      "example": "図書館は通学の道に近いし、料金もかからないので、資料を読むには便利です。",
+      "exampleMeaning": "图书馆近通学路线又免费，读资料方便。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6e8413c4b8b17c9a"
+    },
+    {
+      "id": "l57-v24",
+      "word": "自習室",
+      "reading": "じしゅうしつ",
+      "meaning": "自习室",
+      "pos": "名词",
+      "example": "はい。一方で、自習室は席を確保できますが、費用が必要です。",
+      "exampleMeaning": "对，另一方面，自习室能订座，但要费用。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2781d7ada6dc72b0"
+    },
+    {
+      "id": "l57-v25",
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "选择",
+      "pos": "名词",
+      "example": "同じ利用者でも、何をするかによって適した選択は変わるというのが今回の結論です。",
+      "exampleMeaning": "同一使用者也会因目的不同而有不同合适选择。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0faf85ac3e2f3d84"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l57-e1",
+      "ja": "図書館は静かだし、料金もかかりません。",
+      "reading": "としょかんはしずかだし、りょうきんもかかりません。",
+      "meaning": "图书馆安静，而且不收费。",
+      "usage": "列举互相支持的选择理由",
+      "audioId": "synth-word-afb3b39df175250b"
+    },
+    {
+      "id": "l57-e2",
+      "ja": "はい。一方で、自習室は席を確保できますが、費用が必要です。",
+      "reading": "はい。いっぽうで、じしゅうしつはせきをかくほできますが、ひようがひつようです。",
+      "meaning": "对，另一方面，自习室能订座，但要费用。",
+      "usage": "呈现另一选项的不同条件",
+      "audioId": "synth-word-25f7c925986df89f"
+    },
+    {
+      "id": "l57-e3",
+      "ja": "この前は早く行ったのに、もう混雑していました。",
+      "reading": "このまえははやくいったのに、もうこんざつしていました。",
+      "meaning": "上次明明早去，却已经很挤。",
+      "usage": "表达与原有预期不符的结果",
+      "audioId": "synth-word-40ad63986c934af9"
+    },
+    {
+      "id": "l57-e4",
+      "ja": "利点だけでなく、条件に合わない点も書いて比べましょう。",
+      "reading": "りてんだけでなく、じょうけんにあわないてんもかいてくらべましょう。",
+      "meaning": "把优点和不符合条件处都写下来比较吧。",
+      "usage": "要求比较时同时保留有利和不利信息",
+      "audioId": "synth-word-e3e9dc88d3c4b81b"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l57-g1",
+      "title": "し列举理由",
+      "meaning": "同时给出若干支持信息。",
+      "pattern": "静かだし、料金もかからない。",
+      "explanation": "动词い形容词普通形接し，名词な形容词常用だし。可暗示理由不止一项，但不证明所有条件都优。",
+      "examples": [
+        {
+          "ja": "近いし、料金も安いです。",
+          "zh": "近，而且费用便宜。"
+        },
+        {
+          "ja": "設備が新しいし、席も予約できます。",
+          "zh": "设施新，也可预约。"
+        }
+      ],
+      "pitfall": "并列优点不能自动消除缺点。"
+    },
+    {
+      "id": "l57-g2",
+      "title": "のに表达预期落差",
+      "meaning": "结果违背说话人自然预期。",
+      "pattern": "早く行ったのに、席がなかった。",
+      "explanation": "普通形接のに，名词和な形容词用なのに。侧重意外、遗憾等落差，不只机械并列事实。",
+      "examples": [
+        {
+          "ja": "予約したのに、連絡が来ません。",
+          "zh": "预约了却没收到联系。"
+        },
+        {
+          "ja": "静かな場所なのに、集中できませんでした。",
+          "zh": "明明安静，却没法集中。"
+        }
+      ],
+      "pitfall": "没有预期关系时不能把所有“但是”都译成のに。"
+    },
+    {
+      "id": "l57-g3",
+      "title": "一方で呈现两面",
+      "meaning": "把对象不同侧面或两个对象并置。",
+      "pattern": "Aは〜。一方で、Bは〜。",
+      "explanation": "一方で可中性对照，不必带惊讶或不满。比较需保证维度一致。",
+      "examples": [
+        {
+          "ja": "無料です。一方で、席は予約できません。",
+          "zh": "免费，但另一方面不能订座。"
+        },
+        {
+          "ja": "会話に向く場所と、読書に向く場所は違います。",
+          "zh": "适合会话与阅读的地方不同。"
+        }
+      ],
+      "pitfall": "不要一边比价格一边比完全不相关的优点却不说明目的。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "場所",
+          "reading": "ばしょ",
+          "zh": "地点"
+        },
+        {
+          "ja": "図書館",
+          "reading": "としょかん",
+          "zh": "图书馆"
+        },
+        {
+          "ja": "料金",
+          "reading": "りょうきん",
+          "zh": "费用"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l57-r1",
+      "title": "無料なら最適とは限らない",
+      "context": "学生根据不同学习目的比较两个空间。",
+      "ja": "週末の勉強場所を選ぶため、私は図書館と駅前の自習室を比較しました。図書館は通学の道に近いし、料金もかからないので、資料を読むには便利です。一方で、座席を予約できず、時間帯によっては早く行っても混雑しています。前回は空いていると期待したのに席がなく、予定していた作業が進みませんでした。自習室には費用がかかりますが、設備や通信の条件を先に確認して席を確保できます。どちらにも利点と欠点があり、無料かどうかだけで評価を決めると目的を見失います。今日は集中して読むことを優先し、別の日の会話練習は話せる場所で行うことにしました。同じ利用者でも、何をするかによって適した選択は変わるというのが今回の結論です。条件を紙に書くと、理由と印象を混ぜずに整理できました。",
+      "zh": "为选周末学习地点，我比较图书馆与站前自习室。图书馆近通学路线又免费，读资料方便。另一方面不能订座，有时早到也拥挤。上次原以为空却没座，工作未能推进。自习室收费，但可先确认设备网络并订座。两者都有优缺点，只看是否免费会忽视目标。今天优先专心读，会话练习另选能说话的地方。同一使用者也会因目的不同而有不同合适选择。写下条件后，能区分理由和印象。",
+      "audioId": "l57-reading-synth"
+    },
+    {
+      "id": "l57-r2",
+      "title": "楽しみにしていた講座",
+      "context": "期待落差不意味着活动毫无价值，需区分事实与感受。",
+      "ja": "私は少人数で会話ができると思い、地域の日本語講座へ申し込みました。案内には交流の時間があると書かれていましたが、当日は説明を聞く時間が大部分でした。会話を期待していたのに、ほとんど話せず、最初は内容に不満を感じました。一方で、説明された生活の情報は具体的で、後から役に立つものもありました。そこで感想を書く時は、期待した形式と現実に行われた内容を分けて伝えるようにしました。講座全体に価値がないと決めるのではなく、次回は交流時間をもう少し増やしてほしいと提案しました。自分の期待がどの案内から生まれたのかを確認すると、改善してほしい点もはっきりします。主催者は意見を受け取り、説明中心の回と会話中心の回を区別して知らせることにしました。",
+      "zh": "我以为可以小组会话，报名了社区日语课。指南写有交流时间，但当天大多在听说明。期待会话却几乎没说，最初不满意。另一方面生活信息具体，有些后来很有用。写感想时，我区分期待形式和实际内容。不是断言整课无价值，而建议下次增加交流时间。核对期待来自哪条指南，也更清楚想改善什么。主办方接受意见，决定区分说明型和会话型课次进行告知。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l57-ex01",
+      "type": "choice",
+      "prompt": "林今天主要做什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l57-dialogue-synth",
+      "choices": [
+        "读资料",
+        "练大声会话",
+        "组织演唱"
+      ],
+      "correctIndex": 0,
+      "explanation": "今日は資料を読む。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l57-ex02",
+      "type": "choice",
+      "prompt": "主阅读为何不只看免费？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l57-reading-synth",
+      "choices": [
+        "还需座位与任务条件",
+        "收费必定更好",
+        "免费场所一定关闭"
+      ],
+      "correctIndex": 0,
+      "explanation": "多条件比较，而非倒向另一绝对。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l57-ri8"
+      ]
+    },
+    {
+      "id": "l57-ex03",
+      "type": "choice",
+      "prompt": "作者当天优先什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "专心阅读资料",
+        "必须在图书馆大声聊天",
+        "只选最低价格"
+      ],
+      "correctIndex": 0,
+      "explanation": "目的为集中阅读。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l57-ri6"
+      ]
+    },
+    {
+      "id": "l57-ex04",
+      "type": "choice",
+      "prompt": "前次与期待相反的是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "预约已被批准",
+        "所有通信免费",
+        "以为空却没有座位"
+      ],
+      "correctIndex": 2,
+      "explanation": "预期和实际座位情况不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l57-ri8",
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex05",
+      "type": "choice",
+      "prompt": "作者最终如何评价讲座？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有任何不满",
+        "会话期待未满足，但生活信息有价值",
+        "所有内容毫无价值"
+      ],
+      "correctIndex": 1,
+      "explanation": "保留不足与价值两面。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l57-ex06",
+      "type": "choice",
+      "prompt": "主办方以后准备怎样告知？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "区分说明型与会话型课次",
+        "不再发布任何信息",
+        "保证每次内容完全相同"
+      ],
+      "correctIndex": 0,
+      "explanation": "减少期待错位。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l57-ex07",
+      "type": "input",
+      "prompt": "名词列理由：駅の近くだ＿＿、料金も安いです。",
+      "acceptedAnswers": [
+        "し"
+      ],
+      "explanation": "だし列举支持理由。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l57-ri7"
+      ]
+    },
+    {
+      "id": "l57-ex08",
+      "type": "order",
+      "prompt": "表达虽预约却没有收到联系。",
+      "tokens": [
+        "来ません",
+        "。",
+        "連絡が",
+        "のに",
+        "予約した"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "のに体现预期落差。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex09",
+      "type": "choice",
+      "prompt": "哪句更像中性对照而非意外？",
+      "choices": [
+        "早く行ったのに、満席でした。",
+        "無料です。一方で、予約はできません。",
+        "予約したのに、席がありませんでした。"
+      ],
+      "correctIndex": 1,
+      "explanation": "一方で可呈现双面。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex10",
+      "type": "input",
+      "prompt": "名词或な形容词接のに：静かな場所＿＿、集中できません。",
+      "acceptedAnswers": [
+        "なのに",
+        "でも",
+        "にもかかわらず",
+        "にも関わらず",
+        "にも拘わらず",
+        "であるのに"
+      ],
+      "explanation": "静かな場所なのに表达预期与结果的反差。場所でも、にもかかわらず、であるのに也能在这里自然表达让步，语体和焦点略有差别。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l57-ri5"
+      ]
+    },
+    {
+      "id": "l57-ex11",
+      "type": "self",
+      "prompt": "比较两个学习空间，写一个优点和一个代价，并给自己选择理由。",
+      "sampleAnswer": "図書館は無料ですが、予約できません。今日は確実に席が必要なので、自習室を選びます。",
+      "explanation": "结论需对应具体目标。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri6",
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex12",
+      "type": "self",
+      "prompt": "你期待会话但主要听说明，礼貌反馈同时承认有用内容。",
+      "sampleAnswer": "生活の説明は役に立ちました。一方で、会話の時間を期待していたので、次回は増やしてほしいです。",
+      "explanation": "不以单项落差否定全部。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l57-ex13",
+      "type": "self",
+      "prompt": "分别用し和のに写两句，说明关系不同。",
+      "sampleAnswer": "近いし安いので便利です。早く行ったのに、席がありませんでした。",
+      "explanation": "前者列支持，后者有预期落差。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l57-ex14",
+      "type": "self",
+      "prompt": "对“收费就一定不如免费”的看法写两句回应。",
+      "sampleAnswer": "料金だけでは決められません。予約や設備が目的に合うかも比べたいです。",
+      "explanation": "明确比较维度与目的。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri7",
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「図書館は静かだし、料金もかかりません。」主要用于什么？",
+      "choices": [
+        "列举互相支持的选择理由",
+        "呈现另一选项的不同条件",
+        "表达与原有预期不符的结果"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“图书馆安静，而且不收费。”。结合前后交流，其作用是：列举互相支持的选择理由",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri1",
+        "l57-ri6",
+        "l57-ri7"
+      ]
+    },
+    {
+      "id": "l57-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。一方で、自習室は席を確保できますが、費用が必要です。」主要用于什么？",
+      "choices": [
+        "表达与原有预期不符的结果",
+        "要求比较时同时保留有利和不利信息",
+        "呈现另一选项的不同条件"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“对，另一方面，自习室能订座，但要费用。”。结合前后交流，其作用是：呈现另一选项的不同条件",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri2",
+        "l57-ri7"
+      ]
+    },
+    {
+      "id": "l57-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「この前は早く行ったのに、もう混雑していました。」主要用于什么？",
+      "choices": [
+        "列举互相支持的选择理由",
+        "表达与原有预期不符的结果",
+        "要求比较时同时保留有利和不利信息"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“上次明明早去，却已经很挤。”。结合前后交流，其作用是：表达与原有预期不符的结果",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri3"
+      ]
+    },
+    {
+      "id": "l57-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「利点だけでなく、条件に合わない点も書いて比べましょう。」主要用于什么？",
+      "choices": [
+        "要求比较时同时保留有利和不利信息",
+        "列举互相支持的选择理由",
+        "呈现另一选项的不同条件"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“把优点和不符合条件处都写下来比较吧。”。结合前后交流，其作用是：要求比较时同时保留有利和不利信息",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l57-ri4"
+      ]
+    },
+    {
+      "id": "l57-ex19",
+      "type": "self",
+      "prompt": "读例句「週末に勉強する場所を決めたいです。」。先不看词表，用中文说明「場所」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "地点",
+      "explanation": "本课这里表示“地点”。例句意思是：想决定周末学习地点。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l57-ri5"
+      ]
+    },
+    {
+      "id": "l57-ex20",
+      "type": "self",
+      "prompt": "读例句「ただ、座席の予約ができないのですね。」。先不看词表，用中文说明「座席」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "座位",
+      "explanation": "本课这里表示“座位”。例句意思是：不过不能预约座位，是吧？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l57-ri8",
+        "l57-ri9"
+      ]
+    },
+    {
+      "id": "l57-ex21",
+      "type": "self",
+      "prompt": "读例句「この前は早く行ったのに、もう混雑していました。」。先不看词表，用中文说明「混雑」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "拥挤",
+      "explanation": "本课这里表示“拥挤”。例句意思是：上次明明早去，却已经很挤。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l57-ri3"
+      ]
+    },
+    {
+      "id": "l57-ex22",
+      "type": "self",
+      "prompt": "读例句「今日は資料を読むので、集中できることを優先します。」。先不看词表，用中文说明「集中」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "集中",
+      "explanation": "本课这里表示“集中”。例句意思是：今天读资料，优先能集中。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l57-ri1",
+      "front": "图书馆安静，而且不收费。",
+      "back": "図書館は静かだし、料金もかかりません。",
+      "reading": "としょかんはしずかだし、りょうきんもかかりません。",
+      "audioId": "synth-word-afb3b39df175250b",
+      "kind": "expression"
+    },
+    {
+      "id": "l57-ri2",
+      "front": "对，另一方面，自习室能订座，但要费用。",
+      "back": "はい。一方で、自習室は席を確保できますが、費用が必要です。",
+      "reading": "はい。いっぽうで、じしゅうしつはせきをかくほできますが、ひようがひつようです。",
+      "audioId": "synth-word-25f7c925986df89f",
+      "kind": "expression"
+    },
+    {
+      "id": "l57-ri3",
+      "front": "上次明明早去，却已经很挤。",
+      "back": "この前は早く行ったのに、もう混雑していました。",
+      "reading": "このまえははやくいったのに、もうこんざつしていました。",
+      "audioId": "synth-word-40ad63986c934af9",
+      "kind": "expression"
+    },
+    {
+      "id": "l57-ri4",
+      "front": "把优点和不符合条件处都写下来比较吧。",
+      "back": "利点だけでなく、条件に合わない点も書いて比べましょう。",
+      "reading": "りてんだけでなく、じょうけんにあわないてんもかいてくらべましょう。",
+      "audioId": "synth-word-e3e9dc88d3c4b81b",
+      "kind": "expression"
+    },
+    {
+      "id": "l57-ri5",
+      "front": "場所在本课是什么意思？",
+      "back": "地点",
+      "reading": "ばしょ",
+      "audioId": "synth-word-fd102ac2db594815",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l57-ri6",
+      "front": "図書館在本课是什么意思？",
+      "back": "图书馆",
+      "reading": "としょかん",
+      "audioId": "synth-word-8111caffdb970505",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l57-ri7",
+      "front": "料金在本课是什么意思？",
+      "back": "费用",
+      "reading": "りょうきん",
+      "audioId": "synth-word-83c57f940ed561b1",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l57-ri8",
+      "front": "座席在本课是什么意思？",
+      "back": "座位",
+      "reading": "ざせき",
+      "audioId": "synth-word-2eec9a3dbbcdbf7b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l57-ri9",
+      "front": "予約在本课是什么意思？",
+      "back": "预约",
+      "reading": "よやく",
+      "audioId": "synth-word-bc9e89d9e02e195e",
+      "kind": "vocabulary"
+    }
+  ]
+}

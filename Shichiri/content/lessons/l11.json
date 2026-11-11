@@ -1,0 +1,957 @@
+{
+  "id": "l11",
+  "number": 11,
+  "moduleId": "m3",
+  "title": "描述食物、物品和天气",
+  "subtitle": "区分食物温度、味道与价格，不把一种评价当全部评价。",
+  "revision": 2,
+  "goals": [
+    "描述特点并否定某个特点。",
+    "表达评价的程度。",
+    "在『冷热饮料与蛋糕』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第10课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「描述食物、物品和天气」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l11-ex01",
+        "l11-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「冷热饮料与蛋糕」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「食堂介绍」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「描述食物、物品和天气」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l11-ex19",
+        "l11-ex20",
+        "l11-ex21",
+        "l11-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到おいしい、熱い、冷たい、高い，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用このケーキは甘いですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「描述食物、物品和天气」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l11-ex07",
+        "l11-ex08",
+        "l11-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「い形容词肯否」「程度」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「描述食物、物品和天气」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l11-ex02",
+        "l11-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「描述食物、物品和天气」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l11-ex04",
+        "l11-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「食堂介绍」与「天气变了的另一天」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「描述食物、物品和天气」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l11-ex11",
+        "l11-ex12",
+        "l11-ex13",
+        "l11-ex14",
+        "l11-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「描述食物、物品和天气」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l11-ex06",
+        "l11-ex10",
+        "l11-ex17",
+        "l11-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l11-ext10",
+      "title": "描述食物、物品和天气 · 10分钟迁移",
+      "instructions": "先听『冷热饮料与蛋糕』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l11-ext15",
+      "title": "描述食物、物品和天气 · 15分钟迁移",
+      "instructions": "读『食堂介绍』与『天气变了的另一天』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：说明这杯水不冰。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l11-ext25",
+      "title": "描述食物、物品和天气 · 25分钟迁移",
+      "instructions": "用5分钟听『冷热饮料与蛋糕』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：朋友以为便宜就一定好吃，写一句保留判断。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l11-ex13",
+        "l11-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『冷热饮料与蛋糕』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『食堂介绍』与变体材料的条件。",
+    "关闭说明后，能在情境中使用いです／くないです及とても／あまり＋否定，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l11-d01",
+      "title": "冷热饮料与蛋糕",
+      "context": "顾客比较甜度和温度；不讨论尚未学的比较句型。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l11-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "このケーキは甘いですか。",
+          "kana": "このケーキはあまいですか。",
+          "zh": "这蛋糕甜吗？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "はい、とても甘いです。",
+          "kana": "はい、とてもあまいです。",
+          "zh": "是，非常甜。"
+        },
+        {
+          "speaker": "客",
+          "ja": "この料理は辛いですか。",
+          "kana": "このりょうりはからいですか。",
+          "zh": "这道菜辣吗？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "いいえ、辛くないです。",
+          "kana": "いいえ、からくないです。",
+          "zh": "不，不辣。"
+        },
+        {
+          "speaker": "客",
+          "ja": "お茶は熱いですか。",
+          "kana": "おちゃはあついですか。",
+          "zh": "茶烫吗？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "はい、熱いです。",
+          "kana": "はい、あついです。",
+          "zh": "是，烫。"
+        },
+        {
+          "speaker": "客",
+          "ja": "水はどうですか。",
+          "kana": "みずはどうですか。",
+          "zh": "水怎么样？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "水は冷たいです。",
+          "kana": "みずはつめたいです。",
+          "zh": "水是冰凉的。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l11-v01",
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "好吃",
+      "pos": "い形容词",
+      "example": "このパンはおいしいです。",
+      "exampleMeaning": "这个面包好吃。",
+      "mastery": "active",
+      "audioId": "synth-word-fa458400c9f1bcc3"
+    },
+    {
+      "id": "l11-v02",
+      "word": "熱い",
+      "reading": "あつい",
+      "meaning": "烫",
+      "pos": "い形容词",
+      "example": "お茶は熱いです。",
+      "exampleMeaning": "茶很烫。",
+      "mastery": "active",
+      "audioId": "synth-word-fd64d8ec7c7a2193"
+    },
+    {
+      "id": "l11-v03",
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "冰凉",
+      "pos": "い形容词",
+      "example": "水は冷たいです。",
+      "exampleMeaning": "水冰凉。",
+      "mastery": "active",
+      "audioId": "synth-word-d76d0fc635009efc"
+    },
+    {
+      "id": "l11-v04",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "贵、高",
+      "pos": "い形容词",
+      "example": "このパンは高いです。",
+      "exampleMeaning": "这个面包贵。",
+      "mastery": "active",
+      "audioId": "synth-word-e66b111a455e6b89"
+    },
+    {
+      "id": "l11-v05",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "便宜",
+      "pos": "い形容词",
+      "example": "このパンは安いです。",
+      "exampleMeaning": "这个面包便宜。",
+      "mastery": "active",
+      "audioId": "synth-word-5ffc4b6d38ddbfb8"
+    },
+    {
+      "id": "l11-v06",
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "大",
+      "pos": "い形容词",
+      "example": "このかばんは大きいです。",
+      "exampleMeaning": "这个包大。",
+      "mastery": "active",
+      "audioId": "synth-word-6550de44f87b644f"
+    },
+    {
+      "id": "l11-v07",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "小",
+      "pos": "い形容词",
+      "example": "この本は小さいです。",
+      "exampleMeaning": "这本书小。",
+      "mastery": "active",
+      "audioId": "synth-word-096151430b95185c"
+    },
+    {
+      "id": "l11-v08",
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "甜",
+      "pos": "い形容词",
+      "example": "このケーキは甘いです。",
+      "exampleMeaning": "蛋糕甜。",
+      "mastery": "active",
+      "audioId": "synth-word-1196d4612bb359d1"
+    },
+    {
+      "id": "l11-v09",
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "辣",
+      "pos": "い形容词",
+      "example": "この料理は辛いです。",
+      "exampleMeaning": "这道菜辣。",
+      "mastery": "active",
+      "audioId": "synth-word-36e64319b362ad65"
+    },
+    {
+      "id": "l11-v10",
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "天气热",
+      "pos": "い形容词",
+      "example": "今日は暑いです。",
+      "exampleMeaning": "今天天气热。",
+      "mastery": "active",
+      "audioId": "synth-word-fd64d8ec7c7a2193"
+    },
+    {
+      "id": "l11-v11",
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "天气冷",
+      "pos": "い形容词",
+      "example": "今日は寒いです。",
+      "exampleMeaning": "今天天气冷。",
+      "mastery": "recognition",
+      "audioId": "synth-word-00cbbcfb85c472c3"
+    },
+    {
+      "id": "l11-v12",
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "非常",
+      "pos": "副词",
+      "example": "とてもおいしいです。",
+      "exampleMeaning": "非常好吃。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f185b9c6c4ad4ca3"
+    },
+    {
+      "id": "l11-v13",
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "不太，搭配否定",
+      "pos": "副词",
+      "example": "あまり高くないです。",
+      "exampleMeaning": "不太贵。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f90efc48be6a6c76"
+    },
+    {
+      "id": "l11-v14",
+      "word": "ケーキ",
+      "reading": "ケーキ",
+      "meaning": "蛋糕",
+      "pos": "名词",
+      "example": "このケーキは甘いですか。",
+      "exampleMeaning": "这蛋糕甜吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-67aa015c769ed208"
+    },
+    {
+      "id": "l11-v15",
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "菜、料理",
+      "pos": "名词",
+      "example": "この料理は辛いですか。",
+      "exampleMeaning": "这道菜辣吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-5c1848d01d4478fd"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l11-e1",
+      "ja": "このケーキは甘いですか。",
+      "reading": "このケーキはあまいですか。",
+      "meaning": "这蛋糕甜吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-f01d3691bf5e2251"
+    },
+    {
+      "id": "l11-e2",
+      "ja": "はい、とても甘いです。",
+      "reading": "はい、とてもあまいです。",
+      "meaning": "是，非常甜。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b88e394e1e5a1c36"
+    },
+    {
+      "id": "l11-e3",
+      "ja": "お茶は熱いですか。",
+      "reading": "おちゃはあついですか。",
+      "meaning": "茶烫吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-d409a00906cdef0c"
+    },
+    {
+      "id": "l11-e4",
+      "ja": "はい、熱いです。",
+      "reading": "はい、あついです。",
+      "meaning": "是，烫。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-198d61fbb521ff31"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l11-g1",
+      "title": "い形容词肯否",
+      "meaning": "描述特点并否定某个特点。",
+      "pattern": "いです／くないです",
+      "explanation": "否定时去末尾い加くないです。おいしい变为おいしくないです。",
+      "examples": [
+        {
+          "ja": "この料理は辛くないです。",
+          "zh": "这道菜不辣。"
+        }
+      ],
+      "pitfall": "不辣不等于不甜。"
+    },
+    {
+      "id": "l11-g2",
+      "title": "程度",
+      "meaning": "表达评价的程度。",
+      "pattern": "とても／あまり＋否定",
+      "explanation": "とても加强程度；あまり常与否定配合表示不太。",
+      "examples": [
+        {
+          "ja": "このパンはあまり高くないです。",
+          "zh": "这个面包不太贵。"
+        }
+      ],
+      "pitfall": "热饮的熱い与天气的暑い写法不同。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "おいしい",
+          "reading": "おいしい",
+          "zh": "好吃"
+        },
+        {
+          "ja": "熱い",
+          "reading": "あつい",
+          "zh": "烫"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l11-r1",
+      "title": "食堂介绍",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "このケーキはとても甘いです。この料理は辛くないです。お茶は熱いです。水は冷たいです。パンはおいしいです。値段はあまり高くないです。今日は暑いです。食堂のかばんは大きいです。小さいかばんは私のです。",
+      "zh": "蛋糕很甜，菜不辣，茶烫，水冰凉。面包好吃，价格不太贵。今天热。食堂的包大，小包是我的。値段是价格，支持词。",
+      "audioId": "l11-reading-synth"
+    },
+    {
+      "id": "l11-r2",
+      "title": "天气变了的另一天",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "今日は寒いです。この水は冷たくないです。お茶はとても熱いです。小さいケーキは甘いです。大きいケーキは甘くないです。このパンは安いです。でも、あのパンは高いです。おいしいですか。それはまだわかりません。",
+      "zh": "今天冷，水不冰，茶很烫。小蛋糕甜，大蛋糕不甜。这面包便宜，远处那面包贵。是否好吃还不知道。まだ意为还，作为支持表达。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l11-ex01",
+      "type": "choice",
+      "prompt": "对话中菜辣不辣？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l11-dialogue-synth",
+      "choices": [
+        "辣",
+        "不辣",
+        "未知"
+      ],
+      "correctIndex": 1,
+      "explanation": "辛くないです。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex02",
+      "type": "choice",
+      "prompt": "食堂介绍里水是什么温度？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l11-reading-synth",
+      "choices": [
+        "冰凉",
+        "热",
+        "未知"
+      ],
+      "correctIndex": 0,
+      "explanation": "冷たいです。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l11-ri7"
+      ]
+    },
+    {
+      "id": "l11-ex03",
+      "type": "choice",
+      "prompt": "对话中菜辣不辣？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "辣",
+        "不辣",
+        "未知"
+      ],
+      "correctIndex": 1,
+      "explanation": "辛くないです。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex04",
+      "type": "choice",
+      "prompt": "食堂介绍里水是什么温度？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "冰凉",
+        "热",
+        "未知"
+      ],
+      "correctIndex": 0,
+      "explanation": "冷たいです。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l11-ri7"
+      ]
+    },
+    {
+      "id": "l11-ex05",
+      "type": "choice",
+      "prompt": "另一天的大蛋糕甜吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不甜",
+        "甜",
+        "未写"
+      ],
+      "correctIndex": 0,
+      "explanation": "甘くないです。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex06",
+      "type": "choice",
+      "prompt": "另一天远处的面包怎样？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "便宜",
+        "贵",
+        "已确定好吃"
+      ],
+      "correctIndex": 1,
+      "explanation": "高いです，味道尚未知。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l11-ri5",
+        "l11-ri8",
+        "l11-ri9"
+      ]
+    },
+    {
+      "id": "l11-ex07",
+      "type": "input",
+      "prompt": "把高い改成礼貌否定。",
+      "acceptedAnswers": [
+        "高くないです",
+        "高くありません",
+        "たかくないです",
+        "たかくありません"
+      ],
+      "explanation": "去い加くないです。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l11-ri8"
+      ]
+    },
+    {
+      "id": "l11-ex08",
+      "type": "input",
+      "prompt": "补否定：あまり高＿＿です。",
+      "acceptedAnswers": [
+        "くない"
+      ],
+      "explanation": "あまり与否定配合。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex09",
+      "type": "order",
+      "prompt": "用词块组成：这道菜不辣。",
+      "tokens": [
+        "辛くない",
+        "です。",
+        "この料理は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为この料理は辛くないです。；去い加くないです。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex10",
+      "type": "order",
+      "prompt": "用词块组成：这块蛋糕非常甜。",
+      "tokens": [
+        "とても",
+        "甘いです。",
+        "このケーキは"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为このケーキはとても甘いです。；あまり与否定配合。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex11",
+      "type": "self",
+      "prompt": "说明这杯水不冰。",
+      "sampleAnswer": "この水は冷たくないです。",
+      "explanation": "否定温度。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex12",
+      "type": "self",
+      "prompt": "问菜辣不辣。",
+      "sampleAnswer": "この料理は辛いですか。",
+      "explanation": "询问一个特点。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex13",
+      "type": "self",
+      "prompt": "价格不太贵，写评价。",
+      "sampleAnswer": "あまり高くないです。",
+      "explanation": "あまり配否定。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex14",
+      "type": "self",
+      "prompt": "朋友以为便宜就一定好吃，写一句保留判断。",
+      "sampleAnswer": "おいしいですか。まだわかりません。",
+      "explanation": "不要推断材料未给的信息。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l11-ri5",
+        "l11-ri9"
+      ]
+    },
+    {
+      "id": "l11-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明这杯水不冰。",
+      "choices": [
+        "この水は冷たくないです。",
+        "この料理は辛いですか。",
+        "あまり高くないです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "否定温度。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问菜辣不辣。",
+      "choices": [
+        "あまり高くないです。",
+        "おいしいですか。まだわかりません。",
+        "この料理は辛いですか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "询问一个特点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l11-ri5"
+      ]
+    },
+    {
+      "id": "l11-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：价格不太贵，写评价。",
+      "choices": [
+        "この水は冷たくないです。",
+        "あまり高くないです。",
+        "おいしいですか。まだわかりません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "あまり配否定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l11-ri5"
+      ]
+    },
+    {
+      "id": "l11-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友以为便宜就一定好吃，写一句保留判断。",
+      "choices": [
+        "おいしいですか。まだわかりません。",
+        "この水は冷たくないです。",
+        "この料理は辛いですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不要推断材料未给的信息。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l11-ri5",
+        "l11-ri9"
+      ]
+    },
+    {
+      "id": "l11-ex19",
+      "type": "self",
+      "prompt": "读例句「このパンはおいしいです。」。先不看词表，用中文说明「おいしい」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "好吃",
+      "explanation": "本课这里表示“好吃”。例句意思是：这个面包好吃。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l11-ri5"
+      ]
+    },
+    {
+      "id": "l11-ex20",
+      "type": "self",
+      "prompt": "读例句「このパンは高いです。」。先不看词表，用中文说明「高い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "贵、高",
+      "explanation": "本课这里表示“贵、高”。例句意思是：这个面包贵。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l11-ri8"
+      ]
+    },
+    {
+      "id": "l11-ex21",
+      "type": "self",
+      "prompt": "读例句「この本は小さいです。」。先不看词表，用中文说明「小さい」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "小",
+      "explanation": "本课这里表示“小”。例句意思是：这本书小。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l11-ex22",
+      "type": "self",
+      "prompt": "读例句「今日は暑いです。」。先不看词表，用中文说明「暑い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "天气热",
+      "explanation": "本课这里表示“天气热”。例句意思是：今天天气热。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l11-ri1",
+      "front": "这蛋糕甜吗？",
+      "back": "このケーキは甘いですか。",
+      "reading": "このケーキはあまいですか。",
+      "audioId": "synth-word-f01d3691bf5e2251",
+      "kind": "expression"
+    },
+    {
+      "id": "l11-ri2",
+      "front": "是，非常甜。",
+      "back": "はい、とても甘いです。",
+      "reading": "はい、とてもあまいです。",
+      "audioId": "synth-word-b88e394e1e5a1c36",
+      "kind": "expression"
+    },
+    {
+      "id": "l11-ri3",
+      "front": "茶烫吗？",
+      "back": "お茶は熱いですか。",
+      "reading": "おちゃはあついですか。",
+      "audioId": "synth-word-d409a00906cdef0c",
+      "kind": "expression"
+    },
+    {
+      "id": "l11-ri4",
+      "front": "是，烫。",
+      "back": "はい、熱いです。",
+      "reading": "はい、あついです。",
+      "audioId": "synth-word-198d61fbb521ff31",
+      "kind": "expression"
+    },
+    {
+      "id": "l11-ri5",
+      "front": "おいしい在本课是什么意思？",
+      "back": "好吃",
+      "reading": "おいしい",
+      "audioId": "synth-word-fa458400c9f1bcc3",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l11-ri6",
+      "front": "熱い在本课是什么意思？",
+      "back": "烫",
+      "reading": "あつい",
+      "audioId": "synth-word-fd64d8ec7c7a2193",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l11-ri7",
+      "front": "冷たい在本课是什么意思？",
+      "back": "冰凉",
+      "reading": "つめたい",
+      "audioId": "synth-word-d76d0fc635009efc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l11-ri8",
+      "front": "高い在本课是什么意思？",
+      "back": "贵、高",
+      "reading": "たかい",
+      "audioId": "synth-word-e66b111a455e6b89",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l11-ri9",
+      "front": "安い在本课是什么意思？",
+      "back": "便宜",
+      "reading": "やすい",
+      "audioId": "synth-word-5ffc4b6d38ddbfb8",
+      "kind": "vocabulary"
+    }
+  ]
+}

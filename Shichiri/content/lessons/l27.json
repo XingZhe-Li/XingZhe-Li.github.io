@@ -1,0 +1,955 @@
+{
+  "id": "l27",
+  "number": 27,
+  "moduleId": "m6",
+  "title": "谈接下来的计划",
+  "subtitle": "区分自己的打算、已经排定的安排与尚未决定的事",
+  "revision": 2,
+  "goals": [
+    "说明自己的意图或不做某事的打算",
+    "说明时间表或已经形成的安排",
+    "在『短途旅行的安排』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第26课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「谈接下来的计划」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l27-ex01",
+        "l27-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「短途旅行的安排」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「週末の旅の確認」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「谈接下来的计划」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l27-ex19",
+        "l27-ex20",
+        "l27-ex21",
+        "l27-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到来月、来年、週末、計画，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用週末はどこへ行くつもりですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「谈接下来的计划」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l27-ex07",
+        "l27-ex08",
+        "l27-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「个人打算」「已排定的安排」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「谈接下来的计划」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l27-ex02",
+        "l27-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「谈接下来的计划」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l27-ex04",
+        "l27-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「週末の旅の確認」与「けんの変更できる計画」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「谈接下来的计划」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l27-ex11",
+        "l27-ex12",
+        "l27-ex13",
+        "l27-ex14",
+        "l27-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「谈接下来的计划」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l27-ex06",
+        "l27-ex10",
+        "l27-ex17",
+        "l27-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l27-ext10",
+      "title": "谈接下来的计划 · 10分钟迁移",
+      "instructions": "先听『短途旅行的安排』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l27-ext15",
+      "title": "谈接下来的计划 · 15分钟迁移",
+      "instructions": "读『週末の旅の確認』与『けんの変更できる計画』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你打算明天去图书馆，但还未预约房间；说明两件事。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l27-ext25",
+      "title": "谈接下来的计划 · 25分钟迁移",
+      "instructions": "用5分钟听『短途旅行的安排』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：对方问你的返程日期，但尚未决定；诚实回应并追问对方。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l27-ex13",
+        "l27-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『短途旅行的安排』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『週末の旅の確認』与变体材料的条件。",
+    "关闭说明后，能在情境中使用V辞書形／Vない形つもりです及V辞書形予定です／Nの予定です，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l27-d01",
+      "title": "短途旅行的安排",
+      "context": "两人确认周末行程，并留出尚未决定的部分。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l27-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "みな",
+          "ja": "週末はどこへ行くつもりですか。",
+          "kana": "しゅうまつはどこへいくつもりですか。",
+          "zh": "周末打算去哪？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "京都へ行くつもりです。",
+          "kana": "きょうとへいくつもりです。",
+          "zh": "打算去京都。"
+        },
+        {
+          "speaker": "みな",
+          "ja": "出発は何時の予定ですか。",
+          "kana": "しゅっぱつはなんじのよていですか。",
+          "zh": "计划几点出发？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "土曜日の九時です。切符はもうあります。",
+          "kana": "どようびのくじです。きっぷはもうあります。",
+          "zh": "周六九点。已有车票。"
+        },
+        {
+          "speaker": "みな",
+          "ja": "京都で何をするつもりですか。",
+          "kana": "きょうとでなにをするつもりですか。",
+          "zh": "在京都打算做什么？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "博物館へ行くつもりです。でも、まだ予約はありません。",
+          "kana": "はくぶつかんへいくつもりです。でも、まだよやくはありません。",
+          "zh": "打算去博物馆，但还没预约。"
+        },
+        {
+          "speaker": "みな",
+          "ja": "何泊ですか。",
+          "kana": "なんぱくですか。",
+          "zh": "住几晚？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "一晩泊まる予定です。日曜日に帰ります。",
+          "kana": "ひとばんとまるよていです。にちようびにかえります。",
+          "zh": "计划住一晚，周日回来。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l27-v01",
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "下个月",
+      "pos": "名词",
+      "example": "来月です。",
+      "exampleMeaning": "是下个月。",
+      "mastery": "active",
+      "audioId": "synth-word-c592977f7d775dd9"
+    },
+    {
+      "id": "l27-v02",
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "明年",
+      "pos": "名词",
+      "example": "来年です。",
+      "exampleMeaning": "是明年。",
+      "mastery": "active",
+      "audioId": "synth-word-b4c7c3e04d8d6bdc"
+    },
+    {
+      "id": "l27-v03",
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "周末",
+      "pos": "名词",
+      "example": "週末はどこへ行くつもりですか。",
+      "exampleMeaning": "周末打算去哪？",
+      "mastery": "active",
+      "audioId": "synth-word-c3c8921381d8447f"
+    },
+    {
+      "id": "l27-v04",
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "計画です。",
+      "exampleMeaning": "是计划。",
+      "mastery": "active",
+      "audioId": "synth-word-f941b977845089ac"
+    },
+    {
+      "id": "l27-v05",
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "出发",
+      "pos": "名词",
+      "example": "出発は何時の予定ですか。",
+      "exampleMeaning": "计划几点出发？",
+      "mastery": "active",
+      "audioId": "synth-word-f7363fa9a30b300a"
+    },
+    {
+      "id": "l27-v06",
+      "word": "到着",
+      "reading": "とうちゃく",
+      "meaning": "到达",
+      "pos": "名词",
+      "example": "到着です。",
+      "exampleMeaning": "是到达。",
+      "mastery": "active",
+      "audioId": "synth-word-d4557846ec68f5ea"
+    },
+    {
+      "id": "l27-v07",
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "票",
+      "pos": "名词",
+      "example": "土曜日の九時です。切符はもうあります。",
+      "exampleMeaning": "周六九点。已有车票。",
+      "mastery": "active",
+      "audioId": "synth-word-7a9e75ecec7ff494"
+    },
+    {
+      "id": "l27-v08",
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "行李",
+      "pos": "名词",
+      "example": "荷物です。",
+      "exampleMeaning": "是行李。",
+      "mastery": "active",
+      "audioId": "synth-word-c1bc9c45a9737752"
+    },
+    {
+      "id": "l27-v09",
+      "word": "博物館",
+      "reading": "はくぶつかん",
+      "meaning": "博物馆",
+      "pos": "名词",
+      "example": "博物館へ行くつもりです。でも、まだ予約はありません。",
+      "exampleMeaning": "打算去博物馆，但还没预约。",
+      "mastery": "active",
+      "audioId": "synth-word-2c90eacd6edcd882"
+    },
+    {
+      "id": "l27-v10",
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaning": "住宿",
+      "pos": "一类动词",
+      "example": "一晩泊まるつもりです。",
+      "exampleMeaning": "打算住一晚。",
+      "mastery": "active",
+      "audioId": "synth-word-f72dce60ba6db417"
+    },
+    {
+      "id": "l27-v11",
+      "word": "決める",
+      "reading": "きめる",
+      "meaning": "决定",
+      "pos": "二类动词",
+      "example": "予定を決めます。",
+      "exampleMeaning": "决定安排。",
+      "mastery": "recognition",
+      "audioId": "synth-word-04c9088a40bda4e5"
+    },
+    {
+      "id": "l27-v12",
+      "word": "調べる",
+      "reading": "しらべる",
+      "meaning": "查",
+      "pos": "二类动词",
+      "example": "電車を調べます。",
+      "exampleMeaning": "查电车。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3a98f75cf1f1a164"
+    },
+    {
+      "id": "l27-v13",
+      "word": "つもり",
+      "reading": "つもり",
+      "meaning": "打算",
+      "pos": "表达名词",
+      "example": "明日は休むつもりです。",
+      "exampleMeaning": "明天打算休息。",
+      "mastery": "recognition",
+      "audioId": "synth-word-72aca5ccdbe73f9e"
+    },
+    {
+      "id": "l27-v14",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "安排",
+      "pos": "名词",
+      "example": "出発は何時の予定ですか。",
+      "exampleMeaning": "计划几点出发？",
+      "mastery": "recognition",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l27-v15",
+      "word": "未定",
+      "reading": "みてい",
+      "meaning": "尚未确定",
+      "pos": "名词",
+      "example": "未定です。",
+      "exampleMeaning": "是尚未确定。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b32c3115cfeb91a0"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l27-e1",
+      "ja": "週末はどこへ行くつもりですか。",
+      "reading": "しゅうまつはどこへいくつもりですか。",
+      "meaning": "周末打算去哪？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-50ca48fa40ef8391"
+    },
+    {
+      "id": "l27-e2",
+      "ja": "京都へ行くつもりです。",
+      "reading": "きょうとへいくつもりです。",
+      "meaning": "打算去京都。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-69ebe85e7038a36b"
+    },
+    {
+      "id": "l27-e3",
+      "ja": "京都で何をするつもりですか。",
+      "reading": "きょうとでなにをするつもりですか。",
+      "meaning": "在京都打算做什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-47eedf81544e83d0"
+    },
+    {
+      "id": "l27-e4",
+      "ja": "博物館へ行くつもりです。でも、まだ予約はありません。",
+      "reading": "はくぶつかんへいくつもりです。でも、まだよやくはありません。",
+      "meaning": "打算去博物馆，但还没预约。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-20500497e5f119e2"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l27-g1",
+      "title": "个人打算",
+      "meaning": "说明自己的意图或不做某事的打算",
+      "pattern": "V辞書形／Vない形つもりです",
+      "explanation": "つもり表示意向，不自动等于已购票或已预约。否定意向本课用行かないつもりです。",
+      "examples": [
+        {
+          "ja": "明日は早く帰るつもりです。",
+          "zh": "明天打算早回去。"
+        }
+      ],
+      "pitfall": "朋友的意向若未告诉你不能替他断言；先询问。"
+    },
+    {
+      "id": "l27-g2",
+      "title": "已排定的安排",
+      "meaning": "说明时间表或已经形成的安排",
+      "pattern": "V辞書形予定です／Nの予定です",
+      "explanation": "予定着重安排。名词接の，动词原形直接接。本课仍需从文本确认是否已经预约。",
+      "examples": [
+        {
+          "ja": "出発は九時の予定です。",
+          "zh": "计划九点出发。"
+        }
+      ],
+      "pitfall": "「つもり」不是保证一定实现；「予定」也可能变更。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "来月",
+          "reading": "らいげつ",
+          "zh": "下个月"
+        },
+        {
+          "ja": "来年",
+          "reading": "らいねん",
+          "zh": "明年"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l27-r1",
+      "title": "週末の旅の確認",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "りんさんは週末、京都へ行くつもりです。土曜日の九時に出発する予定で、切符はもうあります。京都では博物館へ行くつもりですが、予約はまだありません。宿は一晩の予定です。日曜日に帰ります。食事の店は未定で、京都で調べるつもりです。",
+      "zh": "小林周末打算去京都。安排周六九点出发，已有车票。打算去博物馆，但还没有预约。住宿安排一晚，周日返回。餐厅尚未确定，打算到京都再查。",
+      "audioId": "l27-reading-synth"
+    },
+    {
+      "id": "l27-r2",
+      "title": "けんの変更できる計画",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "けんさんは来月、海の町へ行くつもりです。まだ切符を買っていません。金曜日に出発するつもりですが、仕事の予定は未定です。旅館には泊まらないつもりです。友達の家に泊まる予定で、友達にはもう話しました。帰る日はまだ決めていません。",
+      "zh": "健下个月打算去海边小镇，还没买票。想周五出发，但工作安排未定。不打算住日式旅馆，安排住朋友家，已和朋友说过。返程日期还没决定。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l27-ex01",
+      "type": "choice",
+      "prompt": "りんは週末どこへ行くつもりですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l27-dialogue-synth",
+      "choices": [
+        "京都",
+        "海の町",
+        "富士山"
+      ],
+      "correctIndex": 0,
+      "explanation": "京都へ行くつもりと明示。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l27-ri7"
+      ]
+    },
+    {
+      "id": "l27-ex02",
+      "type": "choice",
+      "prompt": "りんがまだしていないことはどれですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l27-reading-synth",
+      "choices": [
+        "切符を用意する",
+        "博物館を予約する",
+        "帰る曜日を決める"
+      ],
+      "correctIndex": 1,
+      "explanation": "切符はある、帰りは日曜、博物館の予約はない。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex03",
+      "type": "choice",
+      "prompt": "りんは週末どこへ行くつもりですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "京都",
+        "海の町",
+        "富士山"
+      ],
+      "correctIndex": 0,
+      "explanation": "京都へ行くつもりと明示。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l27-ri7"
+      ]
+    },
+    {
+      "id": "l27-ex04",
+      "type": "choice",
+      "prompt": "りんがまだしていないことはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "切符を用意する",
+        "博物館を予約する",
+        "帰る曜日を決める"
+      ],
+      "correctIndex": 1,
+      "explanation": "切符はある、帰りは日曜、博物館の予約はない。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex05",
+      "type": "choice",
+      "prompt": "けんの宿泊先の予定はどこですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "ホテル",
+        "旅館",
+        "友達の家"
+      ],
+      "correctIndex": 2,
+      "explanation": "旅館に泊まらず友達の家の予定。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex06",
+      "type": "choice",
+      "prompt": "けんについてまだ分からないのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "帰る日",
+        "行きたい場所",
+        "旅館に泊まるか"
+      ],
+      "correctIndex": 0,
+      "explanation": "帰る日はまだ決めていない。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex07",
+      "type": "input",
+      "prompt": "「不去远山」：遠い山へ____つもりです。",
+      "acceptedAnswers": [
+        "行かない",
+        "いかない"
+      ],
+      "explanation": "否定意向用ない形接つもり。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex08",
+      "type": "input",
+      "prompt": "用本课表示「已排定安排」的名词补全：日曜日に出発する____です。",
+      "acceptedAnswers": [
+        "予定",
+        "よてい"
+      ],
+      "explanation": "动词原形直接接予定。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex09",
+      "type": "order",
+      "prompt": "用词块组成：下个月打算去京都。",
+      "tokens": [
+        "京都へ",
+        "行くつもりです。",
+        "来月、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为来月、京都へ行くつもりです。；否定意向用ない形接つもり。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l27-ri2",
+        "l27-ri5"
+      ]
+    },
+    {
+      "id": "l27-ex10",
+      "type": "order",
+      "prompt": "用词块组成：安排九点出发。",
+      "tokens": [
+        "九時の",
+        "予定です。",
+        "出発は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为出発は九時の予定です。；动词原形直接接予定。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex11",
+      "type": "self",
+      "prompt": "你打算明天去图书馆，但还未预约房间；说明两件事。",
+      "sampleAnswer": "明日は図書館へ行くつもりです。でも、部屋の予約はまだありません。",
+      "explanation": "意图与预约状态分开说明。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex12",
+      "type": "self",
+      "prompt": "已安排周日十点出发，用予定说明。",
+      "sampleAnswer": "日曜日の十時に出発する予定です。",
+      "explanation": "具体已排定时间可以用予定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex13",
+      "type": "self",
+      "prompt": "你不打算在京都过夜，说明否定意向。",
+      "sampleAnswer": "京都には泊まらないつもりです。",
+      "explanation": "用ない形＋つもり，不变成未经历。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex14",
+      "type": "self",
+      "prompt": "对方问你的返程日期，但尚未决定；诚实回应并追问对方。",
+      "sampleAnswer": "まだ決めていません。いつ帰る予定ですか。",
+      "explanation": "将未知说清楚，决めていません在词表例句支持下使用。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你打算明天去图书馆，但还未预约房间；说明两件事。",
+      "choices": [
+        "明日は図書館へ行くつもりです。でも、部屋の予約はまだありません。",
+        "日曜日の十時に出発する予定です。",
+        "京都には泊まらないつもりです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "意图与预约状态分开说明。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：已安排周日十点出发，用予定说明。",
+      "choices": [
+        "京都には泊まらないつもりです。",
+        "まだ決めていません。いつ帰る予定ですか。",
+        "日曜日の十時に出発する予定です。"
+      ],
+      "correctIndex": 2,
+      "explanation": "具体已排定时间可以用予定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你不打算在京都过夜，说明否定意向。",
+      "choices": [
+        "明日は図書館へ行くつもりです。でも、部屋の予約はまだありません。",
+        "京都には泊まらないつもりです。",
+        "まだ決めていません。いつ帰る予定ですか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "用ない形＋つもり，不变成未经历。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：对方问你的返程日期，但尚未决定；诚实回应并追问对方。",
+      "choices": [
+        "まだ決めていません。いつ帰る予定ですか。",
+        "明日は図書館へ行くつもりです。でも、部屋の予約はまだありません。",
+        "日曜日の十時に出発する予定です。"
+      ],
+      "correctIndex": 0,
+      "explanation": "将未知说清楚，决めていません在词表例句支持下使用。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l27-ri9"
+      ]
+    },
+    {
+      "id": "l27-ex19",
+      "type": "self",
+      "prompt": "读例句「来月です。」。先不看词表，用中文说明「来月」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "下个月",
+      "explanation": "本课这里表示“下个月”。例句意思是：是下个月。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l27-ri5"
+      ]
+    },
+    {
+      "id": "l27-ex20",
+      "type": "self",
+      "prompt": "读例句「計画です。」。先不看词表，用中文说明「計画」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "计划",
+      "explanation": "本课这里表示“计划”。例句意思是：是计划。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l27-ri8"
+      ]
+    },
+    {
+      "id": "l27-ex21",
+      "type": "self",
+      "prompt": "读例句「土曜日の九時です。切符はもうあります。」。先不看词表，用中文说明「切符」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "票",
+      "explanation": "本课这里表示“票”。例句意思是：周六九点。已有车票。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l27-ex22",
+      "type": "self",
+      "prompt": "读例句「一晩泊まるつもりです。」。先不看词表，用中文说明「泊まる」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "住宿",
+      "explanation": "本课这里表示“住宿”。例句意思是：打算住一晚。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l27-ri1",
+      "front": "周末打算去哪？",
+      "back": "週末はどこへ行くつもりですか。",
+      "reading": "しゅうまつはどこへいくつもりですか。",
+      "audioId": "synth-word-50ca48fa40ef8391",
+      "kind": "expression"
+    },
+    {
+      "id": "l27-ri2",
+      "front": "打算去京都。",
+      "back": "京都へ行くつもりです。",
+      "reading": "きょうとへいくつもりです。",
+      "audioId": "synth-word-69ebe85e7038a36b",
+      "kind": "expression"
+    },
+    {
+      "id": "l27-ri3",
+      "front": "在京都打算做什么？",
+      "back": "京都で何をするつもりですか。",
+      "reading": "きょうとでなにをするつもりですか。",
+      "audioId": "synth-word-47eedf81544e83d0",
+      "kind": "expression"
+    },
+    {
+      "id": "l27-ri4",
+      "front": "打算去博物馆，但还没预约。",
+      "back": "博物館へ行くつもりです。でも、まだ予約はありません。",
+      "reading": "はくぶつかんへいくつもりです。でも、まだよやくはありません。",
+      "audioId": "synth-word-20500497e5f119e2",
+      "kind": "expression"
+    },
+    {
+      "id": "l27-ri5",
+      "front": "来月在本课是什么意思？",
+      "back": "下个月",
+      "reading": "らいげつ",
+      "audioId": "synth-word-c592977f7d775dd9",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l27-ri6",
+      "front": "来年在本课是什么意思？",
+      "back": "明年",
+      "reading": "らいねん",
+      "audioId": "synth-word-b4c7c3e04d8d6bdc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l27-ri7",
+      "front": "週末在本课是什么意思？",
+      "back": "周末",
+      "reading": "しゅうまつ",
+      "audioId": "synth-word-c3c8921381d8447f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l27-ri8",
+      "front": "計画在本课是什么意思？",
+      "back": "计划",
+      "reading": "けいかく",
+      "audioId": "synth-word-f941b977845089ac",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l27-ri9",
+      "front": "出発在本课是什么意思？",
+      "back": "出发",
+      "reading": "しゅっぱつ",
+      "audioId": "synth-word-f7363fa9a30b300a",
+      "kind": "vocabulary"
+    }
+  ]
+}

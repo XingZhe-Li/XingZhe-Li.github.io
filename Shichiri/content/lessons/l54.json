@@ -1,0 +1,1093 @@
+{
+  "id": "l54",
+  "number": 54,
+  "moduleId": "m11",
+  "title": "转述消息并确认原意",
+  "subtitle": "转述时保留谁说的、何时说的和确定到什么程度。",
+  "revision": 2,
+  "goals": [
+    "区分直接引用与概括转述。",
+    "根据原发言日期解释明日等相对时间。",
+    "保留可能、否定和未定等关键态度。"
+  ],
+  "prerequisites": [
+    "理解第53课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「转述消息并确认原意」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l54-ex01",
+        "l54-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「老师说的“明天”是哪天」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「明日をそのまま送らない」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「转述消息并确认原意」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l54-ex19",
+        "l54-ex20",
+        "l54-ex21",
+        "l54-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到伝言、発言、引用、日時，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用それはいつ聞いた話ですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「转述消息并确认原意」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l54-ex07",
+        "l54-ex08",
+        "l54-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「引用と与转述内容」「转述中的时间与人称」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「转述消息并确认原意」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l54-ex02",
+        "l54-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「转述消息并确认原意」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l54-ex04",
+        "l54-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「明日をそのまま送らない」与「かもしれないを落としたメモ」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「转述消息并确认原意」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l54-ex11",
+        "l54-ex12",
+        "l54-ex13",
+        "l54-ex14",
+        "l54-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「转述消息并确认原意」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l54-ex06",
+        "l54-ex10",
+        "l54-ex17",
+        "l54-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l54-ext10",
+      "title": "转述消息并确认原意 · 10分钟迁移",
+      "instructions": "用10分钟重读「明日をそのまま送らない」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l54-ext15",
+      "title": "转述消息并确认原意 · 15分钟迁移",
+      "instructions": "用15分钟把「かもしれないを落としたメモ」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l54-ext25",
+      "title": "转述消息并确认原意 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l54-ex13",
+        "l54-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l54-d01",
+      "title": "老师说的“明天”是哪天",
+      "context": "今天周三，林核对朋友转述的教室变更消息。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l54-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "友人",
+          "ja": "先生が「明日は教室が変わる」と言っていました。",
+          "kana": "せんせいが「あしたはきょうしつがかわる」といっていました。",
+          "zh": "老师说过明天换教室。"
+        },
+        {
+          "speaker": "林",
+          "ja": "それはいつ聞いた話ですか。",
+          "kana": "それはいつきいたはなしですか。",
+          "zh": "那是什么时候听到的？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "火曜日の授業で聞きました。",
+          "kana": "かようびのじゅぎょうでききました。",
+          "zh": "周二课上听到的。"
+        },
+        {
+          "speaker": "林",
+          "ja": "今日は水曜ですから、変更は今日ということですね。",
+          "kana": "きょうはすいようですから、へんこうはきょうということですね。",
+          "zh": "今天周三，所以今天换，对吧？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "はい。掲示にも水曜は二号室とあります。",
+          "kana": "はい。けいじにもすいようはにごうしつとあります。",
+          "zh": "对，告示也写周三在二号教室。"
+        },
+        {
+          "speaker": "林",
+          "ja": "資料の提出についても何か言っていましたか。",
+          "kana": "しりょうのていしゅつについてもなにかいっていましたか。",
+          "zh": "关于资料提交还说了什么吗？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "締め切りを延ばすかもしれないそうですが、まだ未定です。",
+          "kana": "しめきりをのばすかもしれないそうですが、まだみていです。",
+          "zh": "似乎可能延长截止时间，但还未定。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、延長が決まったとは伝えないようにします。",
+          "kana": "では、えんちょうがきまったとはつたえないようにします。",
+          "zh": "那我不会传成已经决定延期。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "担当者に確認してから、全員へ連絡しましょう。",
+          "kana": "たんとうしゃにかくにんしてから、ぜんいんへれんらくしましょう。",
+          "zh": "向负责人核实后再通知全员吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "元の発言と自分の理解を分けてメモします。",
+          "kana": "もとのはつげんとじぶんのりかいをわけてめもします。",
+          "zh": "我会区分原发言和自己的理解来记录。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l54-v01",
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "传话",
+      "pos": "名词",
+      "example": "今日は水曜日です。友人から、先生が「明日は教室が変わる」と言っていたという伝言を受け取りました。",
+      "exampleMeaning": "今天周三，我收到朋友转述老师说“明天换教室”。",
+      "mastery": "active",
+      "audioId": "synth-word-fd5f22d18f3f8c04"
+    },
+    {
+      "id": "l54-v02",
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "发言",
+      "pos": "名词",
+      "example": "元の発言と自分の理解を分けてメモします。",
+      "exampleMeaning": "我会区分原发言和自己的理解来记录。",
+      "mastery": "active",
+      "audioId": "synth-word-f7d679f4e796af2e"
+    },
+    {
+      "id": "l54-v03",
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "引用",
+      "pos": "名词",
+      "example": "元の発言を引用するだけでは、読む人が同じ時間を思い浮かべるとは限りません。",
+      "exampleMeaning": "只引用原话不保证读者想到同一时间。",
+      "mastery": "active",
+      "audioId": "synth-word-eee68ee5bde9fcc6"
+    },
+    {
+      "id": "l54-v04",
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "日期时间",
+      "pos": "名词",
+      "example": "そこで、変更の日時は今日の水曜日であると確認し、掲示にある二号室へ向かいました。",
+      "exampleMeaning": "于是确认是今天周三变更，去了告示上的二号教室。",
+      "mastery": "active",
+      "audioId": "synth-word-cc634bc1ccfb7967"
+    },
+    {
+      "id": "l54-v05",
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "教室",
+      "pos": "名词",
+      "example": "先生が「明日は教室が変わる」と言っていました。",
+      "exampleMeaning": "老师说过明天换教室。",
+      "mastery": "active",
+      "audioId": "synth-word-ce7f5f0e887d2e60"
+    },
+    {
+      "id": "l54-v06",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "今日は水曜ですから、変更は今日ということですね。",
+      "exampleMeaning": "今天周三，所以今天换，对吧？",
+      "mastery": "active",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l54-v07",
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "老师",
+      "pos": "名词",
+      "example": "先生が「明日は教室が変わる」と言っていました。",
+      "exampleMeaning": "老师说过明天换教室。",
+      "mastery": "active",
+      "audioId": "synth-word-c27949767acb3db5"
+    },
+    {
+      "id": "l54-v08",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系",
+      "pos": "名词",
+      "example": "担当者に確認してから、全員へ連絡しましょう。",
+      "exampleMeaning": "向负责人核实后再通知全员吧。",
+      "mastery": "active",
+      "audioId": "synth-word-82db684775389331"
+    },
+    {
+      "id": "l54-v09",
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "告示",
+      "pos": "名词",
+      "example": "はい。掲示にも水曜は二号室とあります。",
+      "exampleMeaning": "对，告示也写周三在二号教室。",
+      "mastery": "active",
+      "audioId": "synth-word-ace0e07f793c10e8"
+    },
+    {
+      "id": "l54-v10",
+      "word": "原文",
+      "reading": "げんぶん",
+      "meaning": "原文",
+      "pos": "名词",
+      "example": "私は原文と自分の理解を分けてメモし、担当者へ確認する前に確定情報として広めないようにしました。",
+      "exampleMeaning": "我区分原文与理解，核实前不作为确定信息传播。",
+      "mastery": "active",
+      "audioId": "synth-word-ee7e98f4389cf90b"
+    },
+    {
+      "id": "l54-v11",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "内容",
+      "pos": "名词",
+      "example": "全員に連絡する時は、だれがいつ話した内容なのかと、まだ未定の部分を一緒に示すつもりです。",
+      "exampleMeaning": "通知全员时会同时写明谁何时说了什么，以及未定部分。",
+      "mastery": "active",
+      "audioId": "synth-word-fbd7f1150802c72a"
+    },
+    {
+      "id": "l54-v12",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "担当者に確認してから、全員へ連絡しましょう。",
+      "exampleMeaning": "向负责人核实后再通知全员吧。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l54-v13",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者に確認してから、全員へ連絡しましょう。",
+      "exampleMeaning": "向负责人核实后再通知全员吧。",
+      "mastery": "active",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l54-v14",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "最初は木曜日の予定だと思いましたが、友人が聞いたのは火曜日の授業だったことがわかりました。",
+      "exampleMeaning": "最初以为指周四，后来知道朋友在周二课上听到。",
+      "mastery": "active",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l54-v15",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "資料の提出についても何か言っていましたか。",
+      "exampleMeaning": "关于资料提交还说了什么吗？",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l54-v16",
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "提交",
+      "pos": "名词",
+      "example": "資料の提出についても何か言っていましたか。",
+      "exampleMeaning": "关于资料提交还说了什么吗？",
+      "mastery": "active",
+      "audioId": "synth-word-2f1e268ee0d3a390"
+    },
+    {
+      "id": "l54-v17",
+      "word": "締め切り",
+      "reading": "しめきり",
+      "meaning": "截止日期",
+      "pos": "名词",
+      "example": "締め切りを延ばすかもしれないそうですが、まだ未定です。",
+      "exampleMeaning": "似乎可能延长截止时间，但还未定。",
+      "mastery": "active",
+      "audioId": "synth-word-ff25cbbd638e2836"
+    },
+    {
+      "id": "l54-v18",
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "出席",
+      "pos": "名词",
+      "example": "交流会の出席を確認していた時、美和さんは「仕事が長引けば、参加できないかもしれません」と答えました。",
+      "exampleMeaning": "确认交流会出席时，美和说若工作延长，可能不能参加。",
+      "mastery": "active",
+      "audioId": "synth-word-59a3b4d1049ae8f2"
+    },
+    {
+      "id": "l54-v19",
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "缺席",
+      "pos": "名词",
+      "example": "私は急いでいたため、メモに「美和さんは欠席」とだけ書いてしまいました。",
+      "exampleMeaning": "我因着急，只记了美和缺席。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5e17438e5f7d056b"
+    },
+    {
+      "id": "l54-v20",
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaning": "可能性",
+      "pos": "名词",
+      "example": "資料の提出については、締め切りを延ばす可能性があるという話だけで、決定したとは言われていませんでした。",
+      "exampleMeaning": "资料提交只有可能延期的消息，并非已决定。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7e2dbd243e272a4b"
+    },
+    {
+      "id": "l54-v21",
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "意思",
+      "pos": "名词",
+      "example": "元の返事には条件と可能性が含まれており、確定した欠席の意味ではありませんでした。",
+      "exampleMeaning": "原答复含条件和可能，并非确定缺席。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d52d9e8747ea79fa"
+    },
+    {
+      "id": "l54-v22",
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "表达",
+      "pos": "名词",
+      "example": "私は伝え方を謝り、表現を短くする時にも確かさの程度を残す必要があると説明しました。",
+      "exampleMeaning": "我为传达方式道歉，说明简写也需保留确定程度。",
+      "mastery": "recognition",
+      "audioId": "synth-word-fb827ca5984c0bbb"
+    },
+    {
+      "id": "l54-v23",
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "本人",
+      "pos": "名词",
+      "example": "その情報を見た担当者は、本人の席と資料を用意しなくてもよいと判断しました。",
+      "exampleMeaning": "负责人据此判断不用给她留座和资料。",
+      "mastery": "recognition",
+      "audioId": "synth-word-93dcefda27771ac0"
+    },
+    {
+      "id": "l54-v24",
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "信息",
+      "pos": "名词",
+      "example": "私は原文と自分の理解を分けてメモし、担当者へ確認する前に確定情報として広めないようにしました。",
+      "exampleMeaning": "我区分原文与理解，核实前不作为确定信息传播。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5f9a5980ee1e0f1f"
+    },
+    {
+      "id": "l54-v25",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "责任",
+      "pos": "名词",
+      "example": "伝える側にも、相手が誤解せずに行動できる形へ整理する責任があると思いました。",
+      "exampleMeaning": "我认为传话者也有责任整理成别人能不误解地行动的信息。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d459db5732c82fdc"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l54-e1",
+      "ja": "それはいつ聞いた話ですか。",
+      "reading": "それはいつきいたはなしですか。",
+      "meaning": "那是什么时候听到的？",
+      "usage": "追问转述消息的时间与出处",
+      "audioId": "synth-word-ac8b1bbc7105d73c"
+    },
+    {
+      "id": "l54-e2",
+      "ja": "今日は水曜ですから、変更は今日ということですね。",
+      "reading": "きょうはすいようですから、へんこうはきょうということですね。",
+      "meaning": "今天周三，所以今天换，对吧？",
+      "usage": "根据语境换算相对时间并确认",
+      "audioId": "synth-word-58146e1880981835"
+    },
+    {
+      "id": "l54-e3",
+      "ja": "では、延長が決まったとは伝えないようにします。",
+      "reading": "では、えんちょうがきまったとはつたえないようにします。",
+      "meaning": "那我不会传成已经决定延期。",
+      "usage": "避免把可能方案说成已定事实",
+      "audioId": "synth-word-e0497a2369678ec1"
+    },
+    {
+      "id": "l54-e4",
+      "ja": "元の発言と自分の理解を分けてメモします。",
+      "reading": "もとのはつげんとじぶんのりかいをわけてめもします。",
+      "meaning": "我会区分原发言和自己的理解来记录。",
+      "usage": "区分原话与自己的概括",
+      "audioId": "synth-word-c059972e7e30483d"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l54-g1",
+      "title": "引用と与转述内容",
+      "meaning": "标出谁说了什么。",
+      "pattern": "Aが「〜」と言った。／Aは〜と言っていた。",
+      "explanation": "直接引用保留原话；概括转述可改变形式但需保留核心意思、否定和可能性。",
+      "examples": [
+        {
+          "ja": "先生は教室が変わると言いました。",
+          "zh": "老师说教室变更。"
+        },
+        {
+          "ja": "本人は参加できないかもしれないと言っていました。",
+          "zh": "本人说可能无法参加。"
+        }
+      ],
+      "pitfall": "できないかもしれない不能省成确定的欠席。"
+    },
+    {
+      "id": "l54-g2",
+      "title": "转述中的时间与人称",
+      "meaning": "相对表达需回到原发言语境。",
+      "pattern": "火曜の「明日」＝水曜",
+      "explanation": "转述明日、ここ、私时，应说明原发言时间和人物；必要时换具体日期地点。",
+      "examples": [
+        {
+          "ja": "火曜に、翌日の水曜に変わると言いました。",
+          "zh": "周二说次日周三变更。"
+        },
+        {
+          "ja": "先生の「私」は先生自身を指します。",
+          "zh": "老师原话中的我指老师本人。"
+        }
+      ],
+      "pitfall": "不能用转述当天重新解释原话中的明日。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "伝言",
+          "reading": "でんごん",
+          "zh": "传话"
+        },
+        {
+          "ja": "発言",
+          "reading": "はつげん",
+          "zh": "发言"
+        },
+        {
+          "ja": "引用",
+          "reading": "いんよう",
+          "zh": "引用"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l54-r1",
+      "title": "明日をそのまま送らない",
+      "context": "学生核对周二发言和周三通知之间的时间关系。",
+      "ja": "今日は水曜日です。友人から、先生が「明日は教室が変わる」と言っていたという伝言を受け取りました。最初は木曜日の予定だと思いましたが、友人が聞いたのは火曜日の授業だったことがわかりました。そこで、変更の日時は今日の水曜日であると確認し、掲示にある二号室へ向かいました。元の発言を引用するだけでは、読む人が同じ時間を思い浮かべるとは限りません。資料の提出については、締め切りを延ばす可能性があるという話だけで、決定したとは言われていませんでした。私は原文と自分の理解を分けてメモし、担当者へ確認する前に確定情報として広めないようにしました。全員に連絡する時は、だれがいつ話した内容なのかと、まだ未定の部分を一緒に示すつもりです。伝える側にも、相手が誤解せずに行動できる形へ整理する責任があると思いました。",
+      "zh": "今天周三，我收到朋友转述老师说“明天换教室”。最初以为指周四，后来知道朋友在周二课上听到。于是确认是今天周三变更，去了告示上的二号教室。只引用原话不保证读者想到同一时间。资料提交只有可能延期的消息，并非已决定。我区分原文与理解，核实前不作为确定信息传播。通知全员时会同时写明谁何时说了什么，以及未定部分。我认为传话者也有责任整理成别人能不误解地行动的信息。",
+      "audioId": "l54-reading-synth"
+    },
+    {
+      "id": "l54-r2",
+      "title": "かもしれないを落としたメモ",
+      "context": "参加与否尚未确定，转述却把可能改成了断言。",
+      "ja": "交流会の出席を確認していた時、美和さんは「仕事が長引けば、参加できないかもしれません」と答えました。私は急いでいたため、メモに「美和さんは欠席」とだけ書いてしまいました。その情報を見た担当者は、本人の席と資料を用意しなくてもよいと判断しました。後で本人から、仕事が終わったので参加できるという連絡があり、準備をやり直すことになりました。元の返事には条件と可能性が含まれており、確定した欠席の意味ではありませんでした。私は伝え方を謝り、表現を短くする時にも確かさの程度を残す必要があると説明しました。引用した言葉の一部だけを取り出すと、文全体の意味が逆に伝わることもあります。今後は、曖昧な点を本人に聞き、未定と欠席を別の欄で管理します。",
+      "zh": "确认交流会出席时，美和说若工作延长，可能不能参加。我因着急，只记了美和缺席。负责人据此判断不用给她留座和资料。后来本人说工作结束能来，只好重新准备。原答复含条件和可能，并非确定缺席。我为传达方式道歉，说明简写也需保留确定程度。只摘取原话部分，甚至可能传反整体意思。今后会问本人不清楚处，将未定与缺席分栏管理。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l54-ex01",
+      "type": "choice",
+      "prompt": "对话当天是星期几？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l54-dialogue-synth",
+      "choices": [
+        "周二",
+        "周三",
+        "周四"
+      ],
+      "correctIndex": 1,
+      "explanation": "林明确说今日は水曜。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex02",
+      "type": "choice",
+      "prompt": "主阅读能否宣布截止时间已经延长？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l54-reading-synth",
+      "choices": [
+        "不能，仍未决定",
+        "能，已无限延期",
+        "只能宣布提前"
+      ],
+      "correctIndex": 0,
+      "explanation": "保留可能性而非已定。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex03",
+      "type": "choice",
+      "prompt": "老师周二说的明日是何时？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "周三",
+        "周四",
+        "下周二"
+      ],
+      "correctIndex": 0,
+      "explanation": "相对日期以原发言时点解释。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l54-ri6"
+      ]
+    },
+    {
+      "id": "l54-ex04",
+      "type": "choice",
+      "prompt": "提交期限的消息目前是什么性质？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "已经确定无限延长",
+        "已提前到周一",
+        "可能延期但未确定"
+      ],
+      "correctIndex": 2,
+      "explanation": "可能性不能省成决定。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex05",
+      "type": "choice",
+      "prompt": "最初记录有什么错误？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "把会场写成二号室",
+        "把可能不能参加写成确定缺席",
+        "把老师姓名写错"
+      ],
+      "correctIndex": 1,
+      "explanation": "丢掉条件与可能性。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex06",
+      "type": "choice",
+      "prompt": "未来如何管理？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "将未定与缺席分开",
+        "删除所有本人联络",
+        "只看最早消息不更新"
+      ],
+      "correctIndex": 0,
+      "explanation": "结尾提出分类和核实。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex07",
+      "type": "input",
+      "prompt": "标记引用：先生は教室が変わる＿＿言いました。",
+      "acceptedAnswers": [
+        "と",
+        "って"
+      ],
+      "explanation": "と是基础书面与口头引用助词；って也能口头转述，较随意，不是语言错误。正式整理消息时优先用と。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l54-ri7",
+        "l54-ri9"
+      ]
+    },
+    {
+      "id": "l54-ex08",
+      "type": "order",
+      "prompt": "保留原话中的可能性。",
+      "tokens": [
+        "言っていました",
+        "。",
+        "参加できないかもしれないと",
+        "美和さんは"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "不能省掉かもしれない。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex09",
+      "type": "choice",
+      "prompt": "周一说“明天来”，周三转述时应如何避免误解？",
+      "choices": [
+        "いつ聞いても明日は同じ日です。",
+        "月曜の発言では、火曜に来る予定でした。",
+        "明日来るので木曜です。"
+      ],
+      "correctIndex": 1,
+      "explanation": "需用原发言时点或具体日期。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l54-ri6"
+      ]
+    },
+    {
+      "id": "l54-ex10",
+      "type": "input",
+      "prompt": "补表示未确定的结构：参加できない＿＿しれません。",
+      "acceptedAnswers": [
+        "かも"
+      ],
+      "explanation": "かもしれない不是确定否定。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex11",
+      "type": "self",
+      "prompt": "今天周三，转述老师周二说“明天换教室”，写清日期。",
+      "sampleAnswer": "先生は火曜に、水曜から教室を変えると言っていました。今日は二号室です。",
+      "explanation": "避免原样复制明日造成新歧义。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri9"
+      ]
+    },
+    {
+      "id": "l54-ex12",
+      "type": "self",
+      "prompt": "朋友说可能迟到，向组织者转达，保留不确定性。",
+      "sampleAnswer": "友人は仕事によって遅れるかもしれないと言っています。まだ確定ではありません。",
+      "explanation": "不直接宣布必定迟到。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex13",
+      "type": "self",
+      "prompt": "你错误把未定记作缺席，写道歉与修正。",
+      "sampleAnswer": "可能性の話を欠席と書いてしまい、申し訳ありません。本人に確認し、未定として直します。",
+      "explanation": "承认信息处理错误并具体修正。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l54-ex14",
+      "type": "self",
+      "prompt": "比较两篇材料，指出转述时最需保留的两类信息。",
+      "sampleAnswer": "一つは発言した時の日時です。もう一つは条件や可能性など、どこまで確定しているかです。",
+      "explanation": "时间语境和确定程度都重要。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri6",
+        "l54-ri8"
+      ]
+    },
+    {
+      "id": "l54-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「それはいつ聞いた話ですか。」主要用于什么？",
+      "choices": [
+        "追问转述消息的时间与出处",
+        "根据语境换算相对时间并确认",
+        "避免把可能方案说成已定事实"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“那是什么时候听到的？”。结合前后交流，其作用是：追问转述消息的时间与出处",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri1"
+      ]
+    },
+    {
+      "id": "l54-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「今日は水曜ですから、変更は今日ということですね。」主要用于什么？",
+      "choices": [
+        "避免把可能方案说成已定事实",
+        "区分原话与自己的概括",
+        "根据语境换算相对时间并确认"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“今天周三，所以今天换，对吧？”。结合前后交流，其作用是：根据语境换算相对时间并确认",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri2"
+      ]
+    },
+    {
+      "id": "l54-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、延長が決まったとは伝えないようにします。」主要用于什么？",
+      "choices": [
+        "追问转述消息的时间与出处",
+        "避免把可能方案说成已定事实",
+        "区分原话与自己的概括"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“那我不会传成已经决定延期。”。结合前后交流，其作用是：避免把可能方案说成已定事实",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri3"
+      ]
+    },
+    {
+      "id": "l54-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「元の発言と自分の理解を分けてメモします。」主要用于什么？",
+      "choices": [
+        "区分原话与自己的概括",
+        "追问转述消息的时间与出处",
+        "根据语境换算相对时间并确认"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我会区分原发言和自己的理解来记录。”。结合前后交流，其作用是：区分原话与自己的概括",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l54-ri4",
+        "l54-ri6"
+      ]
+    },
+    {
+      "id": "l54-ex19",
+      "type": "self",
+      "prompt": "读例句「今日は水曜日です。友人から、先生が「明日は教室が変わる」と言っていたという伝言を受け取りました。」。先不看词表，用中文说明「伝言」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "传话",
+      "explanation": "本课这里表示“传话”。例句意思是：今天周三，我收到朋友转述老师说“明天换教室”。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l54-ri5",
+        "l54-ri9"
+      ]
+    },
+    {
+      "id": "l54-ex20",
+      "type": "self",
+      "prompt": "读例句「そこで、変更の日時は今日の水曜日であると確認し、掲示にある二号室へ向かいました。」。先不看词表，用中文说明「日時」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "日期时间",
+      "explanation": "本课这里表示“日期时间”。例句意思是：于是确认是今天周三变更，去了告示上的二号教室。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l54-ri8",
+        "l54-ri9"
+      ]
+    },
+    {
+      "id": "l54-ex21",
+      "type": "self",
+      "prompt": "读例句「先生が「明日は教室が変わる」と言っていました。」。先不看词表，用中文说明「先生」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "老师",
+      "explanation": "本课这里表示“老师”。例句意思是：老师说过明天换教室。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l54-ri9"
+      ]
+    },
+    {
+      "id": "l54-ex22",
+      "type": "self",
+      "prompt": "读例句「私は原文と自分の理解を分けてメモし、担当者へ確認する前に確定情報として広めないようにしました。」。先不看词表，用中文说明「原文」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "原文",
+      "explanation": "本课这里表示“原文”。例句意思是：我区分原文与理解，核实前不作为确定信息传播。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l54-ri1",
+      "front": "那是什么时候听到的？",
+      "back": "それはいつ聞いた話ですか。",
+      "reading": "それはいつきいたはなしですか。",
+      "audioId": "synth-word-ac8b1bbc7105d73c",
+      "kind": "expression"
+    },
+    {
+      "id": "l54-ri2",
+      "front": "今天周三，所以今天换，对吧？",
+      "back": "今日は水曜ですから、変更は今日ということですね。",
+      "reading": "きょうはすいようですから、へんこうはきょうということですね。",
+      "audioId": "synth-word-58146e1880981835",
+      "kind": "expression"
+    },
+    {
+      "id": "l54-ri3",
+      "front": "那我不会传成已经决定延期。",
+      "back": "では、延長が決まったとは伝えないようにします。",
+      "reading": "では、えんちょうがきまったとはつたえないようにします。",
+      "audioId": "synth-word-e0497a2369678ec1",
+      "kind": "expression"
+    },
+    {
+      "id": "l54-ri4",
+      "front": "我会区分原发言和自己的理解来记录。",
+      "back": "元の発言と自分の理解を分けてメモします。",
+      "reading": "もとのはつげんとじぶんのりかいをわけてめもします。",
+      "audioId": "synth-word-c059972e7e30483d",
+      "kind": "expression"
+    },
+    {
+      "id": "l54-ri5",
+      "front": "伝言在本课是什么意思？",
+      "back": "传话",
+      "reading": "でんごん",
+      "audioId": "synth-word-fd5f22d18f3f8c04",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l54-ri6",
+      "front": "発言在本课是什么意思？",
+      "back": "发言",
+      "reading": "はつげん",
+      "audioId": "synth-word-f7d679f4e796af2e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l54-ri7",
+      "front": "引用在本课是什么意思？",
+      "back": "引用",
+      "reading": "いんよう",
+      "audioId": "synth-word-eee68ee5bde9fcc6",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l54-ri8",
+      "front": "日時在本课是什么意思？",
+      "back": "日期时间",
+      "reading": "にちじ",
+      "audioId": "synth-word-cc634bc1ccfb7967",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l54-ri9",
+      "front": "教室在本课是什么意思？",
+      "back": "教室",
+      "reading": "きょうしつ",
+      "audioId": "synth-word-ce7f5f0e887d2e60",
+      "kind": "vocabulary"
+    }
+  ]
+}

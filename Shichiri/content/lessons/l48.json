@@ -1,0 +1,1116 @@
+{
+  "id": "l48",
+  "number": 48,
+  "moduleId": "m10",
+  "title": "区分过程、结果与持续",
+  "subtitle": "正在做、做好后留下的状态、刚做完，不是同一个时间视角。",
+  "revision": 2,
+  "goals": [
+    "区分动作进行与结果持续。",
+    "识别てある背后的有意准备。",
+    "比较ところ与ばかり表达的阶段和主观距离。"
+  ],
+  "prerequisites": [
+    "理解第47课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「区分过程、结果与持续」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l48-ex01",
+        "l48-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「会议室准备到哪一步」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「見える状態と準備の理由」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「区分过程、结果与持续」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l48-ex19",
+        "l48-ex20",
+        "l48-ex21",
+        "l48-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到会議室、準備、資料、椅子，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用今、資料を並べているところです。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「区分过程、结果与持续」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l48-ex07",
+        "l48-ex08",
+        "l48-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「自他动词与结果状态」「ところ描述阶段」「ばかり的主观新近」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「区分过程、结果与持续」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l48-ex02",
+        "l48-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「区分过程、结果与持续」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l48-ex04",
+        "l48-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「見える状態と準備の理由」与「先月引っ越したばかり」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「区分过程、结果与持续」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l48-ex11",
+        "l48-ex12",
+        "l48-ex13",
+        "l48-ex14",
+        "l48-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「区分过程、结果与持续」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l48-ex06",
+        "l48-ex10",
+        "l48-ex17",
+        "l48-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l48-ext10",
+      "title": "区分过程、结果与持续 · 10分钟迁移",
+      "instructions": "用10分钟重读「見える状態と準備の理由」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l48-ext15",
+      "title": "区分过程、结果与持续 · 15分钟迁移",
+      "instructions": "用15分钟把「先月引っ越したばかり」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l48-ext25",
+      "title": "区分过程、结果与持续 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l48-ex13",
+        "l48-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l48-d01",
+      "title": "会议室准备到哪一步",
+      "context": "两位负责者核对场地，一位看到现状，另一位说明准备目的。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l48-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "会議室の準備は終わりましたか。",
+          "kana": "かいぎしつのじゅんびはおわりましたか。",
+          "zh": "会议室准备好了吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "今、資料を並べているところです。",
+          "kana": "いま、しりょうをならべているところです。",
+          "zh": "正在摆资料。"
+        },
+        {
+          "speaker": "林",
+          "ja": "椅子はもう並んでいますね。",
+          "kana": "いすはもうならんでいますね。",
+          "zh": "椅子已经排好了。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "はい。参加者の人数に合わせて並べてあります。",
+          "kana": "はい。さんかしゃのにんずうにあわせてならべてあります。",
+          "zh": "是的，按参加人数安排好了。"
+        },
+        {
+          "speaker": "林",
+          "ja": "窓が開いていますが、このままでいいですか。",
+          "kana": "まどがあいていますが、このままでいいですか。",
+          "zh": "窗户开着，这样可以吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "休憩まで閉めておきましょう。風で資料が飛びます。",
+          "kana": "きゅうけいまでしめておきましょう。かぜでしりょうがとびます。",
+          "zh": "先关到休息时吧，风会吹走资料。"
+        },
+        {
+          "speaker": "林",
+          "ja": "入口の案内も確認しました。",
+          "kana": "いりぐちのあんないもかくにんしました。",
+          "zh": "入口指引也检查了。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "ありがとうございます。掃除は今終わったところです。",
+          "kana": "ありがとうございます。そうじはいまおわったところです。",
+          "zh": "谢谢，清扫刚完成。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、電気をつけて最終確認をします。",
+          "kana": "では、でんきをつけてさいしゅうかくにんをします。",
+          "zh": "那开灯作最后检查。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "私は会場へ連絡するところです。",
+          "kana": "わたしはかいじょうへれんらくするところです。",
+          "zh": "我正准备联系会场。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l48-v01",
+      "word": "会議室",
+      "reading": "かいぎしつ",
+      "meaning": "会议室",
+      "pos": "名词",
+      "example": "会議室の準備は終わりましたか。",
+      "exampleMeaning": "会议室准备好了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-e8663373f0ebac7f"
+    },
+    {
+      "id": "l48-v02",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "pos": "名词",
+      "example": "会議室の準備は終わりましたか。",
+      "exampleMeaning": "会议室准备好了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ba4012c7fd216ad8"
+    },
+    {
+      "id": "l48-v03",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "今、資料を並べているところです。",
+      "exampleMeaning": "正在摆资料。",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l48-v04",
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "椅子",
+      "pos": "名词",
+      "example": "椅子はもう並んでいますね。",
+      "exampleMeaning": "椅子已经排好了。",
+      "mastery": "active",
+      "audioId": "synth-word-c5231ee58326faf9"
+    },
+    {
+      "id": "l48-v05",
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "参加者",
+      "pos": "名词",
+      "example": "はい。参加者の人数に合わせて並べてあります。",
+      "exampleMeaning": "是的，按参加人数安排好了。",
+      "mastery": "active",
+      "audioId": "synth-word-b402ab2a931b5595"
+    },
+    {
+      "id": "l48-v06",
+      "word": "人数",
+      "reading": "にんずう",
+      "meaning": "人数",
+      "pos": "名词",
+      "example": "はい。参加者の人数に合わせて並べてあります。",
+      "exampleMeaning": "是的，按参加人数安排好了。",
+      "mastery": "active",
+      "audioId": "synth-word-d1aab84551c86f4a"
+    },
+    {
+      "id": "l48-v07",
+      "word": "窓",
+      "reading": "まど",
+      "meaning": "窗户",
+      "pos": "名词",
+      "example": "窓が開いていますが、このままでいいですか。",
+      "exampleMeaning": "窗户开着，这样可以吗？",
+      "mastery": "active",
+      "audioId": "synth-word-5a1f3e95aae2187b"
+    },
+    {
+      "id": "l48-v08",
+      "word": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "休息",
+      "pos": "名词",
+      "example": "休憩まで閉めておきましょう。風で資料が飛びます。",
+      "exampleMeaning": "先关到休息时吧，风会吹走资料。",
+      "mastery": "active",
+      "audioId": "synth-word-c35f3647a6f2f4ee"
+    },
+    {
+      "id": "l48-v09",
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "风",
+      "pos": "名词",
+      "example": "休憩まで閉めておきましょう。風で資料が飛びます。",
+      "exampleMeaning": "先关到休息时吧，风会吹走资料。",
+      "mastery": "active",
+      "audioId": "synth-word-b110a12def275850"
+    },
+    {
+      "id": "l48-v10",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "入口",
+      "pos": "名词",
+      "example": "入口の案内も確認しました。",
+      "exampleMeaning": "入口指引也检查了。",
+      "mastery": "active",
+      "audioId": "synth-word-192b082f803d15bf"
+    },
+    {
+      "id": "l48-v11",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "指引",
+      "pos": "名词",
+      "example": "入口の案内も確認しました。",
+      "exampleMeaning": "入口指引也检查了。",
+      "mastery": "active",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    },
+    {
+      "id": "l48-v12",
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaning": "打扫",
+      "pos": "名词",
+      "example": "ありがとうございます。掃除は今終わったところです。",
+      "exampleMeaning": "谢谢，清扫刚完成。",
+      "mastery": "active",
+      "audioId": "synth-word-6af991e4f1fbffbe"
+    },
+    {
+      "id": "l48-v13",
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "电灯；电",
+      "pos": "名词",
+      "example": "では、電気をつけて最終確認をします。",
+      "exampleMeaning": "那开灯作最后检查。",
+      "mastery": "active",
+      "audioId": "synth-word-72b2e28fc241333a"
+    },
+    {
+      "id": "l48-v14",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "入口の案内も確認しました。",
+      "exampleMeaning": "入口指引也检查了。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l48-v15",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "会场",
+      "pos": "名词",
+      "example": "私は会場へ連絡するところです。",
+      "exampleMeaning": "我正准备联系会场。",
+      "mastery": "active",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l48-v16",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者は参加者の人数を確認し、後ろの人にも画面が見えるように椅子を並べてありました。",
+      "exampleMeaning": "负责人确认人数，为让后排看清画面特意安排了椅子。",
+      "mastery": "active",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l48-v17",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "掃除は終わったところで、電気と案内を確認すれば準備が整う予定です。",
+      "exampleMeaning": "清扫刚结束，检查灯和指引后预计就准备齐了。",
+      "mastery": "active",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l48-v18",
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "状态",
+      "pos": "名词",
+      "example": "ただ椅子が並んでいると言えば見える状態の説明ですが、並べてあると言うと準備の意図が伝わります。",
+      "exampleMeaning": "仅说椅子排着是在描述可见状态，说排列好了则传达准备意图。",
+      "mastery": "active",
+      "audioId": "synth-word-15a84d1fc4f0cb1c"
+    },
+    {
+      "id": "l48-v19",
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "工作",
+      "pos": "名词",
+      "example": "資料を配る作業はまだ途中で、もう一人が机の上へ並べているところでした。",
+      "exampleMeaning": "分发资料还在进行，另一人正在桌上摆放。",
+      "mastery": "recognition",
+      "audioId": "synth-word-099c76db41d939b7"
+    },
+    {
+      "id": "l48-v20",
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "途中",
+      "pos": "名词",
+      "example": "資料を配る作業はまだ途中で、もう一人が机の上へ並べているところでした。",
+      "exampleMeaning": "分发资料还在进行，另一人正在桌上摆放。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ac081d47acad0135"
+    },
+    {
+      "id": "l48-v21",
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "结果",
+      "pos": "名词",
+      "example": "結果の状態、作業の進み具合、次の行動を分けて伝えると、引き継ぎがわかりやすくなります。",
+      "exampleMeaning": "区分结果、进展和下一行动，会让交接更清楚。",
+      "mastery": "recognition",
+      "audioId": "synth-word-076cfdfce4ef3cf9"
+    },
+    {
+      "id": "l48-v22",
+      "word": "引っ越し",
+      "reading": "ひっこし",
+      "meaning": "搬家",
+      "pos": "名词",
+      "example": "私は先月この町へ引っ越しましたが、友人には「引っ越したばかりです」と話しています。",
+      "exampleMeaning": "我上月搬到这座城市，但仍对朋友说刚搬来。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6b50ca696473382a"
+    },
+    {
+      "id": "l48-v23",
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "生活",
+      "pos": "名词",
+      "example": "一か月という時間が過ぎても、生活に必要な手続きが残り、近所の店にもまだ詳しくないからです。",
+      "exampleMeaning": "虽然过了一个月，但生活手续未完，也不熟悉附近店铺。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d1cdc2a4f5b30846"
+    },
+    {
+      "id": "l48-v24",
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "附近；邻里",
+      "pos": "名词",
+      "example": "一か月という時間が過ぎても、生活に必要な手続きが残り、近所の店にもまだ詳しくないからです。",
+      "exampleMeaning": "虽然过了一个月，但生活手续未完，也不熟悉附近店铺。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a58d28617c5759a2"
+    },
+    {
+      "id": "l48-v25",
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "手续",
+      "pos": "名词",
+      "example": "一か月という時間が過ぎても、生活に必要な手続きが残り、近所の店にもまだ詳しくないからです。",
+      "exampleMeaning": "虽然过了一个月，但生活手续未完，也不熟悉附近店铺。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d0c9e7bbab248365"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l48-e1",
+      "ja": "今、資料を並べているところです。",
+      "reading": "いま、しりょうをならべているところです。",
+      "meaning": "正在摆资料。",
+      "usage": "说明动作正进行到哪一步",
+      "audioId": "synth-word-52c9b7ad5b26bce6"
+    },
+    {
+      "id": "l48-e2",
+      "ja": "はい。参加者の人数に合わせて並べてあります。",
+      "reading": "はい。さんかしゃのにんずうにあわせてならべてあります。",
+      "meaning": "是的，按参加人数安排好了。",
+      "usage": "说明结果状态来自有意安排",
+      "audioId": "synth-word-c9d251865fefb4cc"
+    },
+    {
+      "id": "l48-e3",
+      "ja": "ありがとうございます。掃除は今終わったところです。",
+      "reading": "ありがとうございます。そうじはいまおわったところです。",
+      "meaning": "谢谢，清扫刚完成。",
+      "usage": "报告刚刚完成的动作",
+      "audioId": "synth-word-68390c1ea17ef292"
+    },
+    {
+      "id": "l48-e4",
+      "ja": "私は会場へ連絡するところです。",
+      "reading": "わたしはかいじょうへれんらくするところです。",
+      "meaning": "我正准备联系会场。",
+      "usage": "说明马上要开始的行动",
+      "audioId": "synth-word-1a78a9d857594847"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l48-g1",
+      "title": "自他动词与结果状态",
+      "meaning": "分清发生状态与人为安排。",
+      "pattern": "窓が開いている。／窓が開けてある。",
+      "explanation": "開く是自动词，開ける是他动词。ている可述结果持续；てある常提示有人为目的完成并留在该状态。",
+      "examples": [
+        {
+          "ja": "窓が開いています。",
+          "zh": "窗户开着。"
+        },
+        {
+          "ja": "資料が置いてあります。",
+          "zh": "资料已特意放好。"
+        }
+      ],
+      "pitfall": "ている不总是正在动作；知道窗开着不代表知道谁开。"
+    },
+    {
+      "id": "l48-g2",
+      "title": "ところ描述阶段",
+      "meaning": "从行动前、进行中、刚结束观察事件。",
+      "pattern": "するところ／しているところ／したところ",
+      "explanation": "ところ把注意力放在当前阶段，结合时态识别，不把所有形式都理解成地点。",
+      "examples": [
+        {
+          "ja": "今から説明するところです。",
+          "zh": "正要开始说明。"
+        },
+        {
+          "ja": "説明が終わったところです。",
+          "zh": "说明刚结束。"
+        }
+      ],
+      "pitfall": "辞书形ところ不是已经完成。"
+    },
+    {
+      "id": "l48-g3",
+      "title": "ばかり的主观新近",
+      "meaning": "时间长短依说话人的判断。",
+      "pattern": "引っ越したばかりです。",
+      "explanation": "たばかり表示自己觉得刚做过，未必刚发生几秒钟；たところ更聚焦刚结束的现场。",
+      "examples": [
+        {
+          "ja": "先月引っ越したばかりです。",
+          "zh": "上个月才搬来。"
+        },
+        {
+          "ja": "まだ慣れていないので、始めたばかりだと感じます。",
+          "zh": "还不熟悉，所以觉得才刚开始。"
+        }
+      ],
+      "pitfall": "不要把ばかり误当严格计时单位。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "会議室",
+          "reading": "かいぎしつ",
+          "zh": "会议室"
+        },
+        {
+          "ja": "準備",
+          "reading": "じゅんび",
+          "zh": "准备"
+        },
+        {
+          "ja": "資料",
+          "reading": "しりょう",
+          "zh": "资料"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l48-r1",
+      "title": "見える状態と準備の理由",
+      "context": "会议室负责人留下的交接说明。",
+      "ja": "会議室に入ると、椅子が並び、入口には案内が置いてありました。担当者は参加者の人数を確認し、後ろの人にも画面が見えるように椅子を並べてありました。ただ椅子が並んでいると言えば見える状態の説明ですが、並べてあると言うと準備の意図が伝わります。資料を配る作業はまだ途中で、もう一人が机の上へ並べているところでした。窓は開いていましたが、だれが開けたのかまでは確認できていません。風で紙が飛ぶ可能性があったので、休憩までは閉めておくことにしました。掃除は終わったところで、電気と案内を確認すれば準備が整う予定です。結果の状態、作業の進み具合、次の行動を分けて伝えると、引き継ぎがわかりやすくなります。人数が変われば、椅子も調整します。",
+      "zh": "进入会议室，椅子排好了，入口放好了指引。负责人确认人数，为让后排看清画面特意安排了椅子。仅说椅子排着是在描述可见状态，说排列好了则传达准备意图。分发资料还在进行，另一人正在桌上摆放。窗开着，但尚不知谁打开。因风可能吹走纸张，决定先关到休息时。清扫刚结束，检查灯和指引后预计就准备齐了。区分结果、进展和下一行动，会让交接更清楚。人数变更时也会调整座位。",
+      "audioId": "l48-reading-synth"
+    },
+    {
+      "id": "l48-r2",
+      "title": "先月引っ越したばかり",
+      "context": "“刚搬来”表达的是说话人的生活经验，不一定是客观几分钟内。",
+      "ja": "私は先月この町へ引っ越しましたが、友人には「引っ越したばかりです」と話しています。一か月という時間が過ぎても、生活に必要な手続きが残り、近所の店にもまだ詳しくないからです。一方、今日役所から帰った時には「住所の手続きが終わったところです」と言いました。その場では、今さっき終えた出来事の直後であることを伝えたかったのです。友人は二つの表現を同じ長さだと思い、先月のことを今日のことだと勘違いしました。私は引っ越しの日付と、まだ慣れていないという気持ちを分けて説明しました。新しい場所では、時間だけでなく、できることがどれくらい増えたかも大切だと感じます。次に状況を伝える時は、必要なら具体的な日付も一緒に言うつもりです。",
+      "zh": "我上月搬到这座城市，但仍对朋友说刚搬来。虽然过了一个月，但生活手续未完，也不熟悉附近店铺。另一方面，今天从办事处回来时说地址手续刚办完。那时是想强调刚结束这一现场时点。朋友以为两个表达对应同样时长，把上月事情误认为今天。我区分具体搬家日期和仍未适应的感受作了说明。我觉得在新地方，不仅时间长短，能力增长多少也重要。以后说明情况时，必要会同时说具体日期。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l48-ex01",
+      "type": "choice",
+      "prompt": "资料摆放处于哪一步？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l48-dialogue-synth",
+      "choices": [
+        "正在摆",
+        "昨天全部完成",
+        "完全没开始"
+      ],
+      "correctIndex": 0,
+      "explanation": "並べているところ。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l48-ri7"
+      ]
+    },
+    {
+      "id": "l48-ex02",
+      "type": "choice",
+      "prompt": "主阅读窗户暂时怎样处理？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l48-reading-synth",
+      "choices": [
+        "休息前先关着",
+        "立刻拆除",
+        "不检查一直开"
+      ],
+      "correctIndex": 0,
+      "explanation": "决定闭めておく到休息时。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex03",
+      "type": "choice",
+      "prompt": "摆椅子的意图是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "让后排也看清画面",
+        "挡住全部入口",
+        "因为没人参加"
+      ],
+      "correctIndex": 0,
+      "explanation": "原文说明人数和视线安排。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l48-ri8"
+      ]
+    },
+    {
+      "id": "l48-ex04",
+      "type": "choice",
+      "prompt": "仅凭窗开着能否确定开窗者？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "能，必定是林",
+        "能，必定是最后来的人",
+        "不能，尚未确认"
+      ],
+      "correctIndex": 2,
+      "explanation": "状态不等于执行者信息。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex05",
+      "type": "choice",
+      "prompt": "为什么一个月后仍说引っ越したばかり？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "故意否认日期",
+        "主观上生活尚未适应",
+        "实际今天才搬"
+      ],
+      "correctIndex": 1,
+      "explanation": "ばかり不表示精确分钟数。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex06",
+      "type": "choice",
+      "prompt": "“終わったところ”对应什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "当天刚办完地址手续",
+        "上月所有生活已熟悉",
+        "明天准备开始搬家"
+      ],
+      "correctIndex": 0,
+      "explanation": "对应现场刚结束的动作。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l48-ri6"
+      ]
+    },
+    {
+      "id": "l48-ex07",
+      "type": "input",
+      "prompt": "用本课表示人为准备后状态仍在的结构，礼貌非过去形：机に資料が置いて＿＿。",
+      "acceptedAnswers": [
+        "あります"
+      ],
+      "explanation": "てある提示有意安排并留状态。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l48-ri6",
+        "l48-ri7"
+      ]
+    },
+    {
+      "id": "l48-ex08",
+      "type": "order",
+      "prompt": "表达正准备开始说明。",
+      "tokens": [
+        "ところです",
+        "。",
+        "説明する",
+        "今から"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "辞书形ところ表示即将进行。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l48-ri6"
+      ]
+    },
+    {
+      "id": "l48-ex09",
+      "type": "choice",
+      "prompt": "哪句不能理解成“正在开窗这个动作”？",
+      "choices": [
+        "今、窓を開けています。",
+        "窓が開いています。",
+        "窓を開けているところです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一句自动词ている通常是开着的结果。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex10",
+      "type": "input",
+      "prompt": "表达上月才搬来：先月引っ越した＿＿です。",
+      "acceptedAnswers": [
+        "ばかり",
+        "ばっかり"
+      ],
+      "explanation": "たばかり表示说话人主观认为做完不久，不必是刚刚；ばっかり是较口语的变体。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex11",
+      "type": "self",
+      "prompt": "交接时说明椅子已准备好，资料仍在摆。写两句区分结果与进行。",
+      "sampleAnswer": "椅子は並べてあります。資料は今並べているところです。",
+      "explanation": "两个状态不要合为全部完成。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri6",
+        "l48-ri7",
+        "l48-ri8"
+      ]
+    },
+    {
+      "id": "l48-ex12",
+      "type": "self",
+      "prompt": "你看到门开着，但不知道谁开的。写准确描述。",
+      "sampleAnswer": "ドアが開いています。だれが開けたかは、まだ確認していません。",
+      "explanation": "不从结果推定执行者。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex13",
+      "type": "self",
+      "prompt": "向朋友解释为什么“先月始めたばかり”并不矛盾。",
+      "sampleAnswer": "日付は先月ですが、まだ慣れていないので、自分には始めたばかりと感じます。",
+      "explanation": "区分客观时间与主观新近。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex14",
+      "type": "self",
+      "prompt": "用三句描述你自己一项任务的准备前、进行中、刚结束。",
+      "sampleAnswer": "今から資料を読むところです。今読んでいるところです。読み終わったところです。",
+      "explanation": "保持同一动作的阶段顺序。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri6",
+        "l48-ri7"
+      ]
+    },
+    {
+      "id": "l48-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「今、資料を並べているところです。」主要用于什么？",
+      "choices": [
+        "说明动作正进行到哪一步",
+        "说明结果状态来自有意安排",
+        "报告刚刚完成的动作"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“正在摆资料。”。结合前后交流，其作用是：说明动作正进行到哪一步",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri1",
+        "l48-ri7"
+      ]
+    },
+    {
+      "id": "l48-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。参加者の人数に合わせて並べてあります。」主要用于什么？",
+      "choices": [
+        "报告刚刚完成的动作",
+        "说明马上要开始的行动",
+        "说明结果状态来自有意安排"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“是的，按参加人数安排好了。”。结合前后交流，其作用是：说明结果状态来自有意安排",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri2",
+        "l48-ri9"
+      ]
+    },
+    {
+      "id": "l48-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「ありがとうございます。掃除は今終わったところです。」主要用于什么？",
+      "choices": [
+        "说明动作正进行到哪一步",
+        "报告刚刚完成的动作",
+        "说明马上要开始的行动"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“谢谢，清扫刚完成。”。结合前后交流，其作用是：报告刚刚完成的动作",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri3"
+      ]
+    },
+    {
+      "id": "l48-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「私は会場へ連絡するところです。」主要用于什么？",
+      "choices": [
+        "说明马上要开始的行动",
+        "说明动作正进行到哪一步",
+        "说明结果状态来自有意安排"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我正准备联系会场。”。结合前后交流，其作用是：说明马上要开始的行动",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l48-ri4",
+        "l48-ri6"
+      ]
+    },
+    {
+      "id": "l48-ex19",
+      "type": "self",
+      "prompt": "读例句「会議室の準備は終わりましたか。」。先不看词表，用中文说明「会議室」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "会议室",
+      "explanation": "本课这里表示“会议室”。例句意思是：会议室准备好了吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l48-ri5",
+        "l48-ri6"
+      ]
+    },
+    {
+      "id": "l48-ex20",
+      "type": "self",
+      "prompt": "读例句「椅子はもう並んでいますね。」。先不看词表，用中文说明「椅子」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "椅子",
+      "explanation": "本课这里表示“椅子”。例句意思是：椅子已经排好了。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l48-ri8"
+      ]
+    },
+    {
+      "id": "l48-ex21",
+      "type": "self",
+      "prompt": "读例句「窓が開いていますが、このままでいいですか。」。先不看词表，用中文说明「窓」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "窗户",
+      "explanation": "本课这里表示“窗户”。例句意思是：窗户开着，这样可以吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l48-ex22",
+      "type": "self",
+      "prompt": "读例句「入口の案内も確認しました。」。先不看词表，用中文说明「入口」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "入口",
+      "explanation": "本课这里表示“入口”。例句意思是：入口指引也检查了。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l48-ri1",
+      "front": "正在摆资料。",
+      "back": "今、資料を並べているところです。",
+      "reading": "いま、しりょうをならべているところです。",
+      "audioId": "synth-word-52c9b7ad5b26bce6",
+      "kind": "expression"
+    },
+    {
+      "id": "l48-ri2",
+      "front": "是的，按参加人数安排好了。",
+      "back": "はい。参加者の人数に合わせて並べてあります。",
+      "reading": "はい。さんかしゃのにんずうにあわせてならべてあります。",
+      "audioId": "synth-word-c9d251865fefb4cc",
+      "kind": "expression"
+    },
+    {
+      "id": "l48-ri3",
+      "front": "谢谢，清扫刚完成。",
+      "back": "ありがとうございます。掃除は今終わったところです。",
+      "reading": "ありがとうございます。そうじはいまおわったところです。",
+      "audioId": "synth-word-68390c1ea17ef292",
+      "kind": "expression"
+    },
+    {
+      "id": "l48-ri4",
+      "front": "我正准备联系会场。",
+      "back": "私は会場へ連絡するところです。",
+      "reading": "わたしはかいじょうへれんらくするところです。",
+      "audioId": "synth-word-1a78a9d857594847",
+      "kind": "expression"
+    },
+    {
+      "id": "l48-ri5",
+      "front": "会議室在本课是什么意思？",
+      "back": "会议室",
+      "reading": "かいぎしつ",
+      "audioId": "synth-word-e8663373f0ebac7f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l48-ri6",
+      "front": "準備在本课是什么意思？",
+      "back": "准备",
+      "reading": "じゅんび",
+      "audioId": "synth-word-ba4012c7fd216ad8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l48-ri7",
+      "front": "資料在本课是什么意思？",
+      "back": "资料",
+      "reading": "しりょう",
+      "audioId": "synth-word-291cee7acbc629d5",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l48-ri8",
+      "front": "椅子在本课是什么意思？",
+      "back": "椅子",
+      "reading": "いす",
+      "audioId": "synth-word-c5231ee58326faf9",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l48-ri9",
+      "front": "参加者在本课是什么意思？",
+      "back": "参加者",
+      "reading": "さんかしゃ",
+      "audioId": "synth-word-b402ab2a931b5595",
+      "kind": "vocabulary"
+    }
+  ]
+}

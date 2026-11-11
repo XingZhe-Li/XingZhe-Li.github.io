@@ -1,0 +1,993 @@
+{
+  "id": "l17",
+  "number": 17,
+  "moduleId": "m4",
+  "title": "认识动词原形并学会查词",
+  "subtitle": "从已学礼貌形找到词典条目，不把分组当作背字尾游戏。",
+  "revision": 2,
+  "goals": [
+    "将熟悉动作对应到词典形式。",
+    "认识本课动词的不同对应规律。",
+    "在『查阅读的词典形式』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第16课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「认识动词原形并学会查词」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l17-ex01",
+        "l17-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「查阅读的词典形式」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「词典查词卡」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「认识动词原形并学会查词」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l17-ex19",
+        "l17-ex20",
+        "l17-ex21",
+        "l17-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到辞書、辞書形、形、グループ，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用「読みます」は辞書にありますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「认识动词原形并学会查词」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l17-ex07",
+        "l17-ex08",
+        "l17-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「辞书条目」「分组与例外」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「认识动词原形并学会查词」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l17-ex02",
+        "l17-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「认识动词原形并学会查词」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l17-ex04",
+        "l17-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「词典查词卡」与「另一份查词记录」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「认识动词原形并学会查词」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l17-ex11",
+        "l17-ex12",
+        "l17-ex13",
+        "l17-ex14",
+        "l17-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「认识动词原形并学会查词」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l17-ex06",
+        "l17-ex10",
+        "l17-ex17",
+        "l17-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l17-ext10",
+      "title": "认识动词原形并学会查词 · 10分钟迁移",
+      "instructions": "先听『查阅读的词典形式』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l17-ext15",
+      "title": "认识动词原形并学会查词 · 15分钟迁移",
+      "instructions": "读『词典查词卡』与『另一份查词记录』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你要查読みます，写要找的词条。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l17-ext25",
+      "title": "认识动词原形并学会查词 · 25分钟迁移",
+      "instructions": "用5分钟听『查阅读的词典形式』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你只查到动作意思，想进一步确认例句，写请求。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l17-ex13",
+        "l17-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『查阅读的词典形式』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『词典查词卡』与变体材料的条件。",
+    "关闭说明后，能在情境中使用読みます→読む；食べます→食べる及一组／二组／三组，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l17-d01",
+      "title": "查阅读的词典形式",
+      "context": "对话中的原形是被引用的词条，不是随意对服务人员使用简体。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l17-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "学習者",
+          "ja": "「読みます」は辞書にありますか。",
+          "kana": "よみますはじしょにありますか。",
+          "zh": "词典有読みます吗？"
+        },
+        {
+          "speaker": "先生",
+          "ja": "「読む」です。",
+          "kana": "よむです。",
+          "zh": "查読む。"
+        },
+        {
+          "speaker": "学習者",
+          "ja": "「食べます」は「食べる」ですか。",
+          "kana": "たべますはたべるですか。",
+          "zh": "食べます是食べる吗？"
+        },
+        {
+          "speaker": "先生",
+          "ja": "はい、二グループです。",
+          "kana": "はい、にグループです。",
+          "zh": "是，二组。"
+        },
+        {
+          "speaker": "学習者",
+          "ja": "「帰る」も二グループですか。",
+          "kana": "かえるもにグループですか。",
+          "zh": "帰る也是二组吗？"
+        },
+        {
+          "speaker": "先生",
+          "ja": "いいえ、一グループです。",
+          "kana": "いいえ、いちグループです。",
+          "zh": "不，是一组。"
+        },
+        {
+          "speaker": "学習者",
+          "ja": "「来ます」はどうですか。",
+          "kana": "きますはどうですか。",
+          "zh": "来ます呢？"
+        },
+        {
+          "speaker": "先生",
+          "ja": "辞書形は「来る」です。",
+          "kana": "じしょけいはくるです。",
+          "zh": "辞书形是来る。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l17-v01",
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "词典",
+      "pos": "名词",
+      "example": "「読みます」は辞書にありますか。",
+      "exampleMeaning": "词典有読みます吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ec1e81b2b2a1da82"
+    },
+    {
+      "id": "l17-v02",
+      "word": "辞書形",
+      "reading": "じしょけい",
+      "meaning": "辞书形",
+      "pos": "名词",
+      "example": "辞書形は「来る」です。",
+      "exampleMeaning": "辞书形是来る。",
+      "mastery": "active",
+      "audioId": "synth-word-c1418bef3e27d2bc"
+    },
+    {
+      "id": "l17-v03",
+      "word": "形",
+      "reading": "かたち",
+      "meaning": "形式",
+      "pos": "名词",
+      "example": "辞書形は「来る」です。",
+      "exampleMeaning": "辞书形是来る。",
+      "mastery": "active",
+      "audioId": "synth-word-087dec823000e3ac"
+    },
+    {
+      "id": "l17-v04",
+      "word": "グループ",
+      "reading": "グループ",
+      "meaning": "组",
+      "pos": "名词",
+      "example": "はい、二グループです。",
+      "exampleMeaning": "是，二组。",
+      "mastery": "active",
+      "audioId": "synth-word-b557870c34d276f2"
+    },
+    {
+      "id": "l17-v05",
+      "word": "読む",
+      "reading": "よむ",
+      "meaning": "读",
+      "pos": "动词",
+      "example": "「読む」です。",
+      "exampleMeaning": "查読む。",
+      "mastery": "active",
+      "audioId": "synth-word-c7d45d4469f6a1f3"
+    },
+    {
+      "id": "l17-v06",
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "写",
+      "pos": "动词",
+      "example": "書く。",
+      "exampleMeaning": "写。",
+      "mastery": "active",
+      "audioId": "synth-word-9e6dcc884a676474"
+    },
+    {
+      "id": "l17-v07",
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "买",
+      "pos": "动词",
+      "example": "買う。",
+      "exampleMeaning": "买。",
+      "mastery": "active",
+      "audioId": "synth-word-4ea786bf173f7728"
+    },
+    {
+      "id": "l17-v08",
+      "word": "話す",
+      "reading": "はなす",
+      "meaning": "说话",
+      "pos": "动词",
+      "example": "話す。",
+      "exampleMeaning": "说话。",
+      "mastery": "active",
+      "audioId": "synth-word-3b8c29153a0c08ee"
+    },
+    {
+      "id": "l17-v09",
+      "word": "待つ",
+      "reading": "まつ",
+      "meaning": "等待",
+      "pos": "动词",
+      "example": "待つ。",
+      "exampleMeaning": "等待。",
+      "mastery": "active",
+      "audioId": "synth-word-bf8987233ce5bc8e"
+    },
+    {
+      "id": "l17-v10",
+      "word": "帰る",
+      "reading": "かえる",
+      "meaning": "回去",
+      "pos": "动词",
+      "example": "「帰る」も二グループですか。",
+      "exampleMeaning": "帰る也是二组吗？",
+      "mastery": "active",
+      "audioId": "synth-word-db8ede223687daf4"
+    },
+    {
+      "id": "l17-v11",
+      "word": "食べる",
+      "reading": "たべる",
+      "meaning": "吃",
+      "pos": "动词",
+      "example": "「食べます」は「食べる」ですか。",
+      "exampleMeaning": "食べます是食べる吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-8eaea126229a36c2"
+    },
+    {
+      "id": "l17-v12",
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "看",
+      "pos": "动词",
+      "example": "見る。",
+      "exampleMeaning": "看。",
+      "mastery": "recognition",
+      "audioId": "synth-word-18db3d188be4e29b"
+    },
+    {
+      "id": "l17-v13",
+      "word": "起きる",
+      "reading": "おきる",
+      "meaning": "起床",
+      "pos": "动词",
+      "example": "起きる。",
+      "exampleMeaning": "起床。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2e9f84475f8d0971"
+    },
+    {
+      "id": "l17-v14",
+      "word": "する",
+      "reading": "する",
+      "meaning": "做",
+      "pos": "动词",
+      "example": "する。",
+      "exampleMeaning": "做。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b9cccde128c03719"
+    },
+    {
+      "id": "l17-v15",
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "来",
+      "pos": "动词",
+      "example": "辞書形は「来る」です。",
+      "exampleMeaning": "辞书形是来る。",
+      "mastery": "recognition",
+      "audioId": "synth-word-13c37a2f17ed3467"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l17-e1",
+      "ja": "「読みます」は辞書にありますか。",
+      "reading": "よみますはじしょにありますか。",
+      "meaning": "词典有読みます吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-4c2db72abd6a392c"
+    },
+    {
+      "id": "l17-e2",
+      "ja": "「読む」です。",
+      "reading": "よむです。",
+      "meaning": "查読む。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-65bc30b3b8300d7c"
+    },
+    {
+      "id": "l17-e3",
+      "ja": "「帰る」も二グループですか。",
+      "reading": "かえるもにグループですか。",
+      "meaning": "帰る也是二组吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-42befc686104018e"
+    },
+    {
+      "id": "l17-e4",
+      "ja": "いいえ、一グループです。",
+      "reading": "いいえ、いちグループです。",
+      "meaning": "不，是一组。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b42868b20b823bd0"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l17-g1",
+      "title": "辞书条目",
+      "meaning": "将熟悉动作对应到词典形式。",
+      "pattern": "読みます→読む；食べます→食べる",
+      "explanation": "本课的原形用于查词和观察，不要求立即在正式服务场合改用普通体。先查已学动词。",
+      "examples": [
+        {
+          "ja": "「読みます」の辞書形は「読む」です。",
+          "zh": "読みます的辞书形是読む。"
+        }
+      ],
+      "pitfall": "不是所有动词都去ます加る。"
+    },
+    {
+      "id": "l17-g2",
+      "title": "分组与例外",
+      "meaning": "认识本课动词的不同对应规律。",
+      "pattern": "一组／二组／三组",
+      "explanation": "買う、読む等为一组；食べる、見る等二组；する、来る三组。帰る虽然以る结尾，属于一组。",
+      "examples": [
+        {
+          "ja": "「帰る」は一グループです。",
+          "zh": "帰る是一组动词。"
+        }
+      ],
+      "pitfall": "不能仅凭最后一个る判二组。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "辞書",
+          "reading": "じしょ",
+          "zh": "词典"
+        },
+        {
+          "ja": "辞書形",
+          "reading": "じしょけい",
+          "zh": "辞书形"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l17-r1",
+      "title": "词典查词卡",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "「読みます」の辞書形は「読む」です。「書きます」は「書く」です。「食べます」は「食べる」です。「見ます」は「見る」です。「します」は「する」です。「来ます」は「来る」です。「帰る」は一グループです。最後の「る」だけではグループは決まりません。",
+      "zh": "読みます对应読む，書きます对应書く，食べます对应食べる，見ます对应見る，します对应する，来ます对应来る。帰る是一组。不能仅看最后る判组。最后一句是说明性支持句。",
+      "audioId": "l17-reading-synth"
+    },
+    {
+      "id": "l17-r2",
+      "title": "另一份查词记录",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "「買います」は「買う」です。「話します」は「話す」です。「待ちます」は「待つ」です。「起きます」は「起きる」です。「起きる」は二グループです。「帰る」と「起きる」は同じグループではありません。辞書では意味と例文も確認します。",
+      "zh": "買います→買う，話します→話す，待ちます→待つ，起きます→起きる。起きる二组，与帰る不同。查词时还要核对意思和例句。例文意为例句。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l17-ex01",
+      "type": "choice",
+      "prompt": "帰る属于哪组？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l17-dialogue-synth",
+      "choices": [
+        "一组",
+        "二组",
+        "三组"
+      ],
+      "correctIndex": 0,
+      "explanation": "老师明确纠正为一组。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex02",
+      "type": "choice",
+      "prompt": "查词卡中来ます对应什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l17-reading-synth",
+      "choices": [
+        "来る",
+        "来まする",
+        "来た"
+      ],
+      "correctIndex": 0,
+      "explanation": "来ます对应来る。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l17-ex03",
+      "type": "choice",
+      "prompt": "帰る属于哪组？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "一组",
+        "二组",
+        "三组"
+      ],
+      "correctIndex": 0,
+      "explanation": "老师明确纠正为一组。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex04",
+      "type": "choice",
+      "prompt": "查词卡中来ます对应什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "来る",
+        "来まする",
+        "来た"
+      ],
+      "correctIndex": 0,
+      "explanation": "来ます对应来る。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l17-ex05",
+      "type": "choice",
+      "prompt": "另一记录中起きる属于哪组？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "一组",
+        "二组",
+        "三组"
+      ],
+      "correctIndex": 1,
+      "explanation": "起きるは二グループ。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex06",
+      "type": "choice",
+      "prompt": "只凭末尾る能确定分组吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "能",
+        "不能",
+        "所有都是三组"
+      ],
+      "correctIndex": 1,
+      "explanation": "帰る和起きる分组不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex07",
+      "type": "input",
+      "prompt": "写出食べます的辞书形。",
+      "acceptedAnswers": [
+        "食べる",
+        "たべる"
+      ],
+      "explanation": "食べます对应食べる。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex08",
+      "type": "input",
+      "prompt": "写出します的辞书形。",
+      "acceptedAnswers": [
+        "する"
+      ],
+      "explanation": "する为三组。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l17-ri6",
+        "l17-ri7",
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex09",
+      "type": "order",
+      "prompt": "用词块组成：按词块说明読みます的辞书形（引号形式）。",
+      "tokens": [
+        "辞書形は",
+        "「読む」です。",
+        "「読みます」の"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为読みますの辞書形は読むです。；食べます对应食べる。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex10",
+      "type": "order",
+      "prompt": "用词块组成：按词块说明帰る的分组（引号形式）。",
+      "tokens": [
+        "一グループ",
+        "です。",
+        "「帰る」は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为帰るは一グループです。；する为三组。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l17-ri7",
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex11",
+      "type": "self",
+      "prompt": "你要查読みます，写要找的词条。",
+      "sampleAnswer": "読む",
+      "explanation": "查辞书形。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri6",
+        "l17-ri7",
+        "l17-ri9"
+      ]
+    },
+    {
+      "id": "l17-ex12",
+      "type": "self",
+      "prompt": "提醒同学帰る不是二组。",
+      "sampleAnswer": "「帰る」は二グループではありません。一グループです。",
+      "explanation": "用引用说明词条。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri8"
+      ]
+    },
+    {
+      "id": "l17-ex13",
+      "type": "self",
+      "prompt": "向老师询问見ます的辞书形。",
+      "sampleAnswer": "「見ます」の辞書形は何ですか。",
+      "explanation": "不机械造見まする。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex14",
+      "type": "self",
+      "prompt": "你只查到动作意思，想进一步确认例句，写请求。",
+      "sampleAnswer": "例文をお願いします。",
+      "explanation": "查词不只看译义。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l17-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要查読みます，写要找的词条。",
+      "choices": [
+        "読む",
+        "「帰る」は二グループではありません。一グループです。",
+        "「見ます」の辞書形は何ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "查辞书形。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：提醒同学帰る不是二组。",
+      "choices": [
+        "「見ます」の辞書形は何ですか。",
+        "例文をお願いします。",
+        "「帰る」は二グループではありません。一グループです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "用引用说明词条。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：向老师询问見ます的辞书形。",
+      "choices": [
+        "読む",
+        "「見ます」の辞書形は何ですか。",
+        "例文をお願いします。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不机械造見まする。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri6",
+        "l17-ri7"
+      ]
+    },
+    {
+      "id": "l17-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你只查到动作意思，想进一步确认例句，写请求。",
+      "choices": [
+        "例文をお願いします。",
+        "読む",
+        "「帰る」は二グループではありません。一グループです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "查词不只看译义。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l17-ri8",
+        "l17-ri9"
+      ]
+    },
+    {
+      "id": "l17-ex19",
+      "type": "self",
+      "prompt": "读例句「「読みます」は辞書にありますか。」。先不看词表，用中文说明「辞書」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "词典",
+      "explanation": "本课这里表示“词典”。例句意思是：词典有読みます吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri1",
+        "l17-ri5",
+        "l17-ri9"
+      ]
+    },
+    {
+      "id": "l17-ex20",
+      "type": "self",
+      "prompt": "读例句「はい、二グループです。」。先不看词表，用中文说明「グループ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "组",
+      "explanation": "本课这里表示“组”。例句意思是：是，二组。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri8",
+        "l17-ri9"
+      ]
+    },
+    {
+      "id": "l17-ex21",
+      "type": "self",
+      "prompt": "读例句「買う。」。先不看词表，用中文说明「買う」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "买",
+      "explanation": "本课这里表示“买”。例句意思是：买。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri5",
+        "l17-ri9"
+      ]
+    },
+    {
+      "id": "l17-ex22",
+      "type": "self",
+      "prompt": "读例句「「帰る」も二グループですか。」。先不看词表，用中文说明「帰る」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "回去",
+      "explanation": "本课这里表示“回去”。例句意思是：帰る也是二组吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l17-ri3",
+        "l17-ri5",
+        "l17-ri8"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l17-ri1",
+      "front": "词典有読みます吗？",
+      "back": "「読みます」は辞書にありますか。",
+      "reading": "よみますはじしょにありますか。",
+      "audioId": "synth-word-4c2db72abd6a392c",
+      "kind": "expression"
+    },
+    {
+      "id": "l17-ri2",
+      "front": "查読む。",
+      "back": "「読む」です。",
+      "reading": "よむです。",
+      "audioId": "synth-word-65bc30b3b8300d7c",
+      "kind": "expression"
+    },
+    {
+      "id": "l17-ri3",
+      "front": "帰る也是二组吗？",
+      "back": "「帰る」も二グループですか。",
+      "reading": "かえるもにグループですか。",
+      "audioId": "synth-word-42befc686104018e",
+      "kind": "expression"
+    },
+    {
+      "id": "l17-ri4",
+      "front": "不，是一组。",
+      "back": "いいえ、一グループです。",
+      "reading": "いいえ、いちグループです。",
+      "audioId": "synth-word-b42868b20b823bd0",
+      "kind": "expression"
+    },
+    {
+      "id": "l17-ri5",
+      "front": "辞書在本课是什么意思？",
+      "back": "词典",
+      "reading": "じしょ",
+      "audioId": "synth-word-ec1e81b2b2a1da82",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l17-ri6",
+      "front": "辞書形在本课是什么意思？",
+      "back": "辞书形",
+      "reading": "じしょけい",
+      "audioId": "synth-word-c1418bef3e27d2bc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l17-ri7",
+      "front": "形在本课是什么意思？",
+      "back": "形式",
+      "reading": "かたち",
+      "audioId": "synth-word-087dec823000e3ac",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l17-ri8",
+      "front": "グループ在本课是什么意思？",
+      "back": "组",
+      "reading": "グループ",
+      "audioId": "synth-word-b557870c34d276f2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l17-ri9",
+      "front": "読む在本课是什么意思？",
+      "back": "读",
+      "reading": "よむ",
+      "audioId": "synth-word-c7d45d4469f6a1f3",
+      "kind": "vocabulary"
+    }
+  ]
+}

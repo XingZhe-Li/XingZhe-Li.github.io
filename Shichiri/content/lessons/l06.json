@@ -1,0 +1,983 @@
+{
+  "id": "l06",
+  "number": 6,
+  "moduleId": "m2",
+  "title": "说日常动作",
+  "subtitle": "在早餐和学习安排中说做或不做。",
+  "revision": 2,
+  "goals": [
+    "分清进行的活动与否定的活动。",
+    "说清吃、喝、读的对象。",
+    "在『早餐桌上的选择』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第5课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「说日常动作」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l06-ex01",
+        "l06-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「早餐桌上的选择」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「活动备忘」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「说日常动作」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l06-ex19",
+        "l06-ex20",
+        "l06-ex21",
+        "l06-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到食べます、飲みます、読みます、見ます，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用朝ご飯を食べますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「说日常动作」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l06-ex07",
+        "l06-ex08",
+        "l06-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「礼貌动作肯否」「动作对象」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「说日常动作」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l06-ex02",
+        "l06-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「说日常动作」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l06-ex04",
+        "l06-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「活动备忘」与「米娜的选择」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「说日常动作」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l06-ex11",
+        "l06-ex12",
+        "l06-ex13",
+        "l06-ex14",
+        "l06-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「说日常动作」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l06-ex06",
+        "l06-ex10",
+        "l06-ex17",
+        "l06-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l06-ext10",
+      "title": "说日常动作 · 10分钟迁移",
+      "instructions": "先听『早餐桌上的选择』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l06-ext15",
+      "title": "说日常动作 · 15分钟迁移",
+      "instructions": "读『活动备忘』与『米娜的选择』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：说自己不喝茶，喝水。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l06-ext25",
+      "title": "说日常动作 · 25分钟迁移",
+      "instructions": "用5分钟听『早餐桌上的选择』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：请对方重复没有听清的活动。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l06-ex13",
+        "l06-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『早餐桌上的选择』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『活动备忘』与变体材料的条件。",
+    "关闭说明后，能在情境中使用ます／ません及名词を＋动词，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l06-d01",
+      "title": "早餐桌上的选择",
+      "context": "两位学生确认早餐和活动。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l06-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "ミナ",
+          "ja": "朝ご飯を食べますか。",
+          "kana": "あさごはんをたべますか。",
+          "zh": "吃早餐吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい、パンを食べます。",
+          "kana": "はい、パンをたべます。",
+          "zh": "吃，吃面包。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "お茶を飲みますか。",
+          "kana": "おちゃをのみますか。",
+          "zh": "喝茶吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、水を飲みます。",
+          "kana": "いいえ、みずをのみます。",
+          "zh": "不，喝水。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "新聞を読みますか。",
+          "kana": "しんぶんをよみますか。",
+          "zh": "读报吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、新聞は読みません。",
+          "kana": "いいえ、しんぶんはよみません。",
+          "zh": "不，不读报纸。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "日本語を勉強しますか。",
+          "kana": "にほんごをべんきょうしますか。",
+          "zh": "学日语吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい、本を読みます。",
+          "kana": "はい、ほんをよみます。",
+          "zh": "学，读书。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l06-v01",
+      "word": "食べます",
+      "reading": "たべます",
+      "meaning": "吃",
+      "pos": "动词",
+      "example": "朝ご飯を食べますか。",
+      "exampleMeaning": "吃早餐吗？",
+      "mastery": "active",
+      "audioId": "synth-word-a3812aa0093a94db"
+    },
+    {
+      "id": "l06-v02",
+      "word": "飲みます",
+      "reading": "のみます",
+      "meaning": "喝",
+      "pos": "动词",
+      "example": "お茶を飲みますか。",
+      "exampleMeaning": "喝茶吗？",
+      "mastery": "active",
+      "audioId": "synth-word-028772daed68e908"
+    },
+    {
+      "id": "l06-v03",
+      "word": "読みます",
+      "reading": "よみます",
+      "meaning": "读",
+      "pos": "动词",
+      "example": "新聞を読みますか。",
+      "exampleMeaning": "读报吗？",
+      "mastery": "active",
+      "audioId": "synth-word-388384271ac686e8"
+    },
+    {
+      "id": "l06-v04",
+      "word": "見ます",
+      "reading": "みます",
+      "meaning": "看",
+      "pos": "动词",
+      "example": "見ます。",
+      "exampleMeaning": "看。",
+      "mastery": "active",
+      "audioId": "synth-word-1c884ba753533961"
+    },
+    {
+      "id": "l06-v05",
+      "word": "聞きます",
+      "reading": "ききます",
+      "meaning": "听",
+      "pos": "动词",
+      "example": "聞きます。",
+      "exampleMeaning": "听。",
+      "mastery": "active",
+      "audioId": "synth-word-3fc1aae1e39f30c5"
+    },
+    {
+      "id": "l06-v06",
+      "word": "書きます",
+      "reading": "かきます",
+      "meaning": "写",
+      "pos": "动词",
+      "example": "書きます。",
+      "exampleMeaning": "写。",
+      "mastery": "active",
+      "audioId": "synth-word-79aa3e864365b6fe"
+    },
+    {
+      "id": "l06-v07",
+      "word": "勉強します",
+      "reading": "べんきょうします",
+      "meaning": "学习",
+      "pos": "动词",
+      "example": "日本語を勉強しますか。",
+      "exampleMeaning": "学日语吗？",
+      "mastery": "active",
+      "audioId": "synth-word-89f9fe8a9678ec5f"
+    },
+    {
+      "id": "l06-v08",
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "早餐",
+      "pos": "名词",
+      "example": "朝ご飯を食べますか。",
+      "exampleMeaning": "吃早餐吗？",
+      "mastery": "active",
+      "audioId": "synth-word-f41be570edc509cb"
+    },
+    {
+      "id": "l06-v09",
+      "word": "パン",
+      "reading": "パン",
+      "meaning": "面包",
+      "pos": "名词",
+      "example": "はい、パンを食べます。",
+      "exampleMeaning": "吃，吃面包。",
+      "mastery": "active",
+      "audioId": "synth-word-bdf06aa2b35fea37"
+    },
+    {
+      "id": "l06-v10",
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "米饭、饭",
+      "pos": "名词",
+      "example": "朝ご飯を食べますか。",
+      "exampleMeaning": "吃早餐吗？",
+      "mastery": "active",
+      "audioId": "synth-word-4b9831d58dcef5b6"
+    },
+    {
+      "id": "l06-v11",
+      "word": "水",
+      "reading": "みず",
+      "meaning": "水",
+      "pos": "名词",
+      "example": "いいえ、水を飲みます。",
+      "exampleMeaning": "不，喝水。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2968c0dbae470979"
+    },
+    {
+      "id": "l06-v12",
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "茶",
+      "pos": "名词",
+      "example": "お茶を飲みますか。",
+      "exampleMeaning": "喝茶吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-c790cca44e2499d4"
+    },
+    {
+      "id": "l06-v13",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "音乐",
+      "pos": "名词",
+      "example": "音楽です。",
+      "exampleMeaning": "是音乐。",
+      "mastery": "recognition",
+      "audioId": "synth-word-63bb32c8b29adc03"
+    },
+    {
+      "id": "l06-v14",
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "电影",
+      "pos": "名词",
+      "example": "映画です。",
+      "exampleMeaning": "是电影。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2020a7bf04ecc882"
+    },
+    {
+      "id": "l06-v15",
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "报纸",
+      "pos": "名词",
+      "example": "新聞を読みますか。",
+      "exampleMeaning": "读报吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-9fd01bccf610f6b3"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l06-e1",
+      "ja": "朝ご飯を食べますか。",
+      "reading": "あさごはんをたべますか。",
+      "meaning": "吃早餐吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-e7db6cf5fa8fb493"
+    },
+    {
+      "id": "l06-e2",
+      "ja": "はい、パンを食べます。",
+      "reading": "はい、パンをたべます。",
+      "meaning": "吃，吃面包。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-798495d8315c96fe"
+    },
+    {
+      "id": "l06-e3",
+      "ja": "新聞を読みますか。",
+      "reading": "しんぶんをよみますか。",
+      "meaning": "读报吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-e28aa06a12aece8b"
+    },
+    {
+      "id": "l06-e4",
+      "ja": "いいえ、新聞は読みません。",
+      "reading": "いいえ、しんぶんはよみません。",
+      "meaning": "不，不读报纸。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-49e4284a64175dc2"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l06-g1",
+      "title": "礼貌动作肯否",
+      "meaning": "分清进行的活动与否定的活动。",
+      "pattern": "ます／ません",
+      "explanation": "ます形式在本课表示礼貌动作；ません否定动作。先不要求从辞书形变换。",
+      "examples": [
+        {
+          "ja": "新聞は読みません。",
+          "zh": "不读报纸。"
+        }
+      ],
+      "pitfall": "不做不是已经做完。"
+    },
+    {
+      "id": "l06-g2",
+      "title": "动作对象",
+      "meaning": "说清吃、喝、读的对象。",
+      "pattern": "名词を＋动词",
+      "explanation": "を作助词读お；动词需与对象意义相配。",
+      "examples": [
+        {
+          "ja": "パンを食べます。",
+          "zh": "吃面包。"
+        }
+      ],
+      "pitfall": "水通常与飲みます搭配。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "食べます",
+          "reading": "たべます",
+          "zh": "吃"
+        },
+        {
+          "ja": "飲みます",
+          "reading": "のみます",
+          "zh": "喝"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l06-r1",
+      "title": "活动备忘",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "私は朝ご飯を食べます。パンを食べます。お茶は飲みません。水を飲みます。新聞は読みません。日本語の本を読みます。音楽を聞きます。映画は見ません。名前をノートに書きます。このノートは私のです。",
+      "zh": "我吃早餐和面包。不喝茶，喝水。不读报纸，读日语书，听音乐，不看电影。把名字写在笔记本上。に在此作为写入位置的支持表达。",
+      "audioId": "l06-reading-synth"
+    },
+    {
+      "id": "l06-r2",
+      "title": "米娜的选择",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ミナさんはご飯を食べます。お茶を飲みます。水は飲みません。新聞を読みます。映画を見ます。日本語は勉強しません。英語を勉強します。音楽は聞きません。ミナさんの本は机の上にあります。これは活動のメモです。",
+      "zh": "米娜吃米饭，喝茶，不喝水。读报、看电影，不学日语而学英语。不听音乐，书在桌上。这是活动备忘。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l06-ex01",
+      "type": "choice",
+      "prompt": "林选择喝什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l06-dialogue-synth",
+      "choices": [
+        "水",
+        "茶",
+        "没有说"
+      ],
+      "correctIndex": 0,
+      "explanation": "水を飲みます。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l06-ri6"
+      ]
+    },
+    {
+      "id": "l06-ex02",
+      "type": "choice",
+      "prompt": "备忘中林不做什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l06-reading-synth",
+      "choices": [
+        "读日语书",
+        "看电影",
+        "听音乐"
+      ],
+      "correctIndex": 1,
+      "explanation": "映画は見ません。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l06-ri7",
+        "l06-ri8",
+        "l06-ri9"
+      ]
+    },
+    {
+      "id": "l06-ex03",
+      "type": "choice",
+      "prompt": "林选择喝什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "水",
+        "茶",
+        "没有说"
+      ],
+      "correctIndex": 0,
+      "explanation": "水を飲みます。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri6"
+      ]
+    },
+    {
+      "id": "l06-ex04",
+      "type": "choice",
+      "prompt": "备忘中林不做什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "读日语书",
+        "看电影",
+        "听音乐"
+      ],
+      "correctIndex": 1,
+      "explanation": "映画は見ません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri7",
+        "l06-ri8",
+        "l06-ri9"
+      ]
+    },
+    {
+      "id": "l06-ex05",
+      "type": "choice",
+      "prompt": "米娜学习哪种语言？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "日语",
+        "英语",
+        "都不学"
+      ],
+      "correctIndex": 1,
+      "explanation": "英語を勉強します。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l06-ex06",
+      "type": "choice",
+      "prompt": "米娜是否听音乐？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不听",
+        "听",
+        "未说明"
+      ],
+      "correctIndex": 0,
+      "explanation": "音楽は聞きません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri9"
+      ]
+    },
+    {
+      "id": "l06-ex07",
+      "type": "input",
+      "prompt": "将飲みます改为礼貌否定。",
+      "acceptedAnswers": [
+        "飲みません",
+        "のみません"
+      ],
+      "explanation": "ます换为ません。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l06-ri6"
+      ]
+    },
+    {
+      "id": "l06-ex08",
+      "type": "input",
+      "prompt": "填写对象助词：本＿＿読みます。",
+      "acceptedAnswers": [
+        "を"
+      ],
+      "explanation": "を标记对象。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex09",
+      "type": "order",
+      "prompt": "用词块组成：不读报纸。",
+      "tokens": [
+        "読みません。",
+        "新聞は"
+      ],
+      "correctOrder": [
+        1,
+        0
+      ],
+      "explanation": "完整句为新聞は読みません。；ます换为ません。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex10",
+      "type": "order",
+      "prompt": "用词块组成：吃面包。",
+      "tokens": [
+        "食べます。",
+        "パンを"
+      ],
+      "correctOrder": [
+        1,
+        0
+      ],
+      "explanation": "完整句为パンを食べます。；を标记对象。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l06-ri5"
+      ]
+    },
+    {
+      "id": "l06-ex11",
+      "type": "self",
+      "prompt": "说自己不喝茶，喝水。",
+      "sampleAnswer": "お茶は飲みません。水を飲みます。",
+      "explanation": "否定与实际选择分开。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri6"
+      ]
+    },
+    {
+      "id": "l06-ex12",
+      "type": "self",
+      "prompt": "询问对方读不读报。",
+      "sampleAnswer": "新聞を読みますか。",
+      "explanation": "问题对应活动。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri3",
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex13",
+      "type": "self",
+      "prompt": "说明自己学日语。",
+      "sampleAnswer": "日本語を勉強します。",
+      "explanation": "对象与动作匹配。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l06-ex14",
+      "type": "self",
+      "prompt": "请对方重复没有听清的活动。",
+      "sampleAnswer": "もう一度お願いします。",
+      "explanation": "不把未知当肯定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri9"
+      ]
+    },
+    {
+      "id": "l06-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说自己不喝茶，喝水。",
+      "choices": [
+        "お茶は飲みません。水を飲みます。",
+        "新聞を読みますか。",
+        "日本語を勉強します。"
+      ],
+      "correctIndex": 0,
+      "explanation": "否定与实际选择分开。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri3",
+        "l06-ri6",
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：询问对方读不读报。",
+      "choices": [
+        "日本語を勉強します。",
+        "もう一度お願いします。",
+        "新聞を読みますか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "问题对应活动。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri3",
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明自己学日语。",
+      "choices": [
+        "お茶は飲みません。水を飲みます。",
+        "日本語を勉強します。",
+        "もう一度お願いします。"
+      ],
+      "correctIndex": 1,
+      "explanation": "对象与动作匹配。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri6"
+      ]
+    },
+    {
+      "id": "l06-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：请对方重复没有听清的活动。",
+      "choices": [
+        "もう一度お願いします。",
+        "お茶は飲みません。水を飲みます。",
+        "新聞を読みますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不把未知当肯定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l06-ri3",
+        "l06-ri6",
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex19",
+      "type": "self",
+      "prompt": "读例句「朝ご飯を食べますか。」。先不看词表，用中文说明「食べます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "吃",
+      "explanation": "本课这里表示“吃”。例句意思是：吃早餐吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri1",
+        "l06-ri5",
+        "l06-ri7"
+      ]
+    },
+    {
+      "id": "l06-ex20",
+      "type": "self",
+      "prompt": "读例句「見ます。」。先不看词表，用中文说明「見ます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "看",
+      "explanation": "本课这里表示“看”。例句意思是：看。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri7",
+        "l06-ri8"
+      ]
+    },
+    {
+      "id": "l06-ex21",
+      "type": "self",
+      "prompt": "读例句「日本語を勉強しますか。」。先不看词表，用中文说明「勉強します」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "学习",
+      "explanation": "本课这里表示“学习”。例句意思是：学日语吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri7",
+        "l06-ri8"
+      ]
+    },
+    {
+      "id": "l06-ex22",
+      "type": "self",
+      "prompt": "读例句「朝ご飯を食べますか。」。先不看词表，用中文说明「ご飯」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "米饭、饭",
+      "explanation": "本课这里表示“米饭、饭”。例句意思是：吃早餐吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l06-ri1",
+        "l06-ri5",
+        "l06-ri7"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l06-ri1",
+      "front": "吃早餐吗？",
+      "back": "朝ご飯を食べますか。",
+      "reading": "あさごはんをたべますか。",
+      "audioId": "synth-word-e7db6cf5fa8fb493",
+      "kind": "expression"
+    },
+    {
+      "id": "l06-ri2",
+      "front": "吃，吃面包。",
+      "back": "はい、パンを食べます。",
+      "reading": "はい、パンをたべます。",
+      "audioId": "synth-word-798495d8315c96fe",
+      "kind": "expression"
+    },
+    {
+      "id": "l06-ri3",
+      "front": "读报吗？",
+      "back": "新聞を読みますか。",
+      "reading": "しんぶんをよみますか。",
+      "audioId": "synth-word-e28aa06a12aece8b",
+      "kind": "expression"
+    },
+    {
+      "id": "l06-ri4",
+      "front": "不，不读报纸。",
+      "back": "いいえ、新聞は読みません。",
+      "reading": "いいえ、しんぶんはよみません。",
+      "audioId": "synth-word-49e4284a64175dc2",
+      "kind": "expression"
+    },
+    {
+      "id": "l06-ri5",
+      "front": "食べます在本课是什么意思？",
+      "back": "吃",
+      "reading": "たべます",
+      "audioId": "synth-word-a3812aa0093a94db",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l06-ri6",
+      "front": "飲みます在本课是什么意思？",
+      "back": "喝",
+      "reading": "のみます",
+      "audioId": "synth-word-028772daed68e908",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l06-ri7",
+      "front": "読みます在本课是什么意思？",
+      "back": "读",
+      "reading": "よみます",
+      "audioId": "synth-word-388384271ac686e8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l06-ri8",
+      "front": "見ます在本课是什么意思？",
+      "back": "看",
+      "reading": "みます",
+      "audioId": "synth-word-1c884ba753533961",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l06-ri9",
+      "front": "聞きます在本课是什么意思？",
+      "back": "听",
+      "reading": "ききます",
+      "audioId": "synth-word-3fc1aae1e39f30c5",
+      "kind": "vocabulary"
+    }
+  ]
+}

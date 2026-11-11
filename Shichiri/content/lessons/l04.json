@@ -1,0 +1,972 @@
+{
+  "id": "l04",
+  "number": 4,
+  "moduleId": "m1",
+  "title": "数量、价格与简单购买",
+  "subtitle": "先问单价和数量，再确认合计。",
+  "revision": 2,
+  "goals": [
+    "询问本课物品的价格。",
+    "在购买请求中说清数量。",
+    "在『买笔和橡皮』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第3课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「数量、价格与简单购买」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l04-ex01",
+        "l04-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「买笔和橡皮」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「柜台价格与订单」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「数量、价格与简单购买」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l04-ex19",
+        "l04-ex20",
+        "l04-ex21",
+        "l04-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到一つ、二つ、三つ、いくつ，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用このペンはいくらですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「数量、价格与简单购买」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l04-ex07",
+        "l04-ex08",
+        "l04-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「价格疑问」「数量请求」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「数量、价格与简单购买」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l04-ex02",
+        "l04-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「数量、价格与简单购买」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l04-ex04",
+        "l04-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「柜台价格与订单」与「另一份订单」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「数量、价格与简单购买」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l04-ex11",
+        "l04-ex12",
+        "l04-ex13",
+        "l04-ex14",
+        "l04-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「数量、价格与简单购买」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l04-ex06",
+        "l04-ex10",
+        "l04-ex17",
+        "l04-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l04-ext10",
+      "title": "数量、价格与简单购买 · 10分钟迁移",
+      "instructions": "先听『买笔和橡皮』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l04-ext15",
+      "title": "数量、价格与简单购买 · 15分钟迁移",
+      "instructions": "读『柜台价格与订单』与『另一份订单』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你要买三支笔，写请求。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l04-ext25",
+      "title": "数量、价格与简单购买 · 25分钟迁移",
+      "instructions": "用5分钟听『买笔和橡皮』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：店员说三件，实际要两件，写更正。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l04-ex13",
+        "l04-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『买笔和橡皮』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『柜台价格与订单』与变体材料的条件。",
+    "关闭说明后，能在情境中使用物品はいくらですか及物品を＋数量＋ください，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l04-d01",
+      "title": "买笔和橡皮",
+      "context": "文具柜台价格明确；来客买的是少量物品。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l04-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "このペンはいくらですか。",
+          "kana": "このペンはいくらですか。",
+          "zh": "这支笔多少钱？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "百円です。",
+          "kana": "ひゃくえんです。",
+          "zh": "一百日元。"
+        },
+        {
+          "speaker": "客",
+          "ja": "ペンを二つください。",
+          "kana": "ペンをふたつください。",
+          "zh": "请给我两支笔。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "二つですね。",
+          "kana": "ふたつですね。",
+          "zh": "两支，对吧。"
+        },
+        {
+          "speaker": "客",
+          "ja": "はい。消しゴムはいくらですか。",
+          "kana": "はい。けしゴムはいくらですか。",
+          "zh": "对。橡皮多少钱？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "百円です。",
+          "kana": "ひゃくえんです。",
+          "zh": "一百日元。"
+        },
+        {
+          "speaker": "客",
+          "ja": "消しゴムを一つお願いします。",
+          "kana": "けしゴムをひとつおねがいします。",
+          "zh": "请给我一块橡皮。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "全部で三百円です。",
+          "kana": "ぜんぶでさんびゃくえんです。",
+          "zh": "总共三百日元。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l04-v01",
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "一个",
+      "pos": "数量词",
+      "example": "消しゴムを一つお願いします。",
+      "exampleMeaning": "请给我一块橡皮。",
+      "mastery": "active",
+      "audioId": "synth-word-7924eae62e502657"
+    },
+    {
+      "id": "l04-v02",
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "两个",
+      "pos": "数量词",
+      "example": "ペンを二つください。",
+      "exampleMeaning": "请给我两支笔。",
+      "mastery": "active",
+      "audioId": "synth-word-d2e83a540f7d3992"
+    },
+    {
+      "id": "l04-v03",
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "三个",
+      "pos": "数量词",
+      "example": "三つ。",
+      "exampleMeaning": "三个。",
+      "mastery": "active",
+      "audioId": "synth-word-36275c30c477c204"
+    },
+    {
+      "id": "l04-v04",
+      "word": "いくつ",
+      "reading": "いくつ",
+      "meaning": "几个",
+      "pos": "疑问词",
+      "example": "いくつ。",
+      "exampleMeaning": "几个。",
+      "mastery": "active",
+      "audioId": "synth-word-1879c73016720e47"
+    },
+    {
+      "id": "l04-v05",
+      "word": "いくら",
+      "reading": "いくら",
+      "meaning": "多少钱",
+      "pos": "疑问词",
+      "example": "このペンはいくらですか。",
+      "exampleMeaning": "这支笔多少钱？",
+      "mastery": "active",
+      "audioId": "synth-word-fe5842b3c9358d15"
+    },
+    {
+      "id": "l04-v06",
+      "word": "円",
+      "reading": "えん",
+      "meaning": "日元",
+      "pos": "名词",
+      "example": "百円です。",
+      "exampleMeaning": "一百日元。",
+      "mastery": "active",
+      "audioId": "synth-word-062c6db8e2f1b2fb"
+    },
+    {
+      "id": "l04-v07",
+      "word": "百円",
+      "reading": "ひゃくえん",
+      "meaning": "一百日元",
+      "pos": "名词",
+      "example": "百円です。",
+      "exampleMeaning": "一百日元。",
+      "mastery": "active",
+      "audioId": "synth-word-4eaa772d654c05c5"
+    },
+    {
+      "id": "l04-v08",
+      "word": "二百円",
+      "reading": "にひゃくえん",
+      "meaning": "二百日元",
+      "pos": "名词",
+      "example": "二百円です。",
+      "exampleMeaning": "是二百日元。",
+      "mastery": "active",
+      "audioId": "synth-word-8345353b50809292"
+    },
+    {
+      "id": "l04-v09",
+      "word": "三百円",
+      "reading": "さんびゃくえん",
+      "meaning": "三百日元",
+      "pos": "名词",
+      "example": "全部で三百円です。",
+      "exampleMeaning": "总共三百日元。",
+      "mastery": "active",
+      "audioId": "synth-word-758029eea9f76206"
+    },
+    {
+      "id": "l04-v10",
+      "word": "五百円",
+      "reading": "ごひゃくえん",
+      "meaning": "五百日元",
+      "pos": "名词",
+      "example": "五百円です。",
+      "exampleMeaning": "是五百日元。",
+      "mastery": "active",
+      "audioId": "synth-word-badd4ed1428ab3b8"
+    },
+    {
+      "id": "l04-v11",
+      "word": "ペン",
+      "reading": "ペン",
+      "meaning": "笔",
+      "pos": "名词",
+      "example": "このペンはいくらですか。",
+      "exampleMeaning": "这支笔多少钱？",
+      "mastery": "recognition",
+      "audioId": "synth-word-7b6cfbf6a3dc7eee"
+    },
+    {
+      "id": "l04-v12",
+      "word": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "橡皮",
+      "pos": "名词",
+      "example": "はい。消しゴムはいくらですか。",
+      "exampleMeaning": "对。橡皮多少钱？",
+      "mastery": "recognition",
+      "audioId": "synth-word-70f2b50f4b2e0efa"
+    },
+    {
+      "id": "l04-v13",
+      "word": "袋",
+      "reading": "ふくろ",
+      "meaning": "袋子",
+      "pos": "名词",
+      "example": "袋です。",
+      "exampleMeaning": "是袋子。",
+      "mastery": "recognition",
+      "audioId": "synth-word-22e764550eeee024"
+    },
+    {
+      "id": "l04-v14",
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "全部、合计",
+      "pos": "名词",
+      "example": "全部で三百円です。",
+      "exampleMeaning": "总共三百日元。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a99fc155331ff8ff"
+    },
+    {
+      "id": "l04-v15",
+      "word": "ください",
+      "reading": "ください",
+      "meaning": "请给我",
+      "pos": "固定表达",
+      "example": "ペンを二つください。",
+      "exampleMeaning": "请给我两支笔。",
+      "mastery": "recognition",
+      "audioId": "synth-word-1fa87ba0242f5907"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l04-e1",
+      "ja": "このペンはいくらですか。",
+      "reading": "このペンはいくらですか。",
+      "meaning": "这支笔多少钱？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-fc80d10eb423e067"
+    },
+    {
+      "id": "l04-e2",
+      "ja": "百円です。",
+      "reading": "ひゃくえんです。",
+      "meaning": "一百日元。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-3148a06b632e0842"
+    },
+    {
+      "id": "l04-e3",
+      "ja": "はい。消しゴムはいくらですか。",
+      "reading": "はい。けしゴムはいくらですか。",
+      "meaning": "对。橡皮多少钱？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b30bcbdd631b9462"
+    },
+    {
+      "id": "l04-e4",
+      "ja": "百円です。",
+      "reading": "ひゃくえんです。",
+      "meaning": "一百日元。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-3148a06b632e0842"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l04-g1",
+      "title": "价格疑问",
+      "meaning": "询问本课物品的价格。",
+      "pattern": "物品はいくらですか",
+      "explanation": "いくら问金额，円表示日元。材料中的数词读法由本课词表支持。",
+      "examples": [
+        {
+          "ja": "ペンは百円です。",
+          "zh": "笔一百日元。"
+        }
+      ],
+      "pitfall": "区分单价与合计。"
+    },
+    {
+      "id": "l04-g2",
+      "title": "数量请求",
+      "meaning": "在购买请求中说清数量。",
+      "pattern": "物品を＋数量＋ください",
+      "explanation": "先把物品を…ください整体使用，数量放在ください前。一つ、二つ、三つ分别是1、2、3件。",
+      "examples": [
+        {
+          "ja": "ペンを二つください。",
+          "zh": "请给我两支笔。"
+        }
+      ],
+      "pitfall": "数量不是金额。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "一つ",
+          "reading": "ひとつ",
+          "zh": "一个"
+        },
+        {
+          "ja": "二つ",
+          "reading": "ふたつ",
+          "zh": "两个"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l04-r1",
+      "title": "柜台价格与订单",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ペンは一つ百円です。ノートは一つ二百円です。消しゴムは一つ百円です。りんさんはペンを二つ、消しゴムを一つお願いします。全部で三百円です。ノートの数はゼロです。袋は一つ十円です。",
+      "zh": "笔100、笔记本200、橡皮100日元。林要两支笔一块橡皮，合计300日元。笔记本数量零，袋子10日元。十读じゅう，ゼロ是零，材料支持理解。",
+      "audioId": "l04-reading-synth"
+    },
+    {
+      "id": "l04-r2",
+      "title": "另一份订单",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ミナさんはノートを二つ、ペンを一つお願いします。ノートは一つ二百円、ペンは一つ百円です。全部で五百円です。消しゴムはゼロです。袋は一つです。これはミナさんの買い物の記録です。りんさんの記録ではありません。",
+      "zh": "米娜要两本笔记本、一支笔，合计500日元。没有橡皮，袋子一个。这是米娜而不是林的购物记录。買い物是购物，記録是记录。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l04-ex01",
+      "type": "choice",
+      "prompt": "来客最后要几块橡皮？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l04-dialogue-synth",
+      "choices": [
+        "一块",
+        "两块",
+        "三块"
+      ],
+      "correctIndex": 0,
+      "explanation": "消しゴムを一つ。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l04-ri5"
+      ]
+    },
+    {
+      "id": "l04-ex02",
+      "type": "choice",
+      "prompt": "林要了几本笔记本？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l04-reading-synth",
+      "choices": [
+        "两本",
+        "一本",
+        "零本"
+      ],
+      "correctIndex": 2,
+      "explanation": "ノートの数はゼロ。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l04-ex03",
+      "type": "choice",
+      "prompt": "来客最后要几块橡皮？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "一块",
+        "两块",
+        "三块"
+      ],
+      "correctIndex": 0,
+      "explanation": "消しゴムを一つ。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l04-ri5"
+      ]
+    },
+    {
+      "id": "l04-ex04",
+      "type": "choice",
+      "prompt": "林要了几本笔记本？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "两本",
+        "一本",
+        "零本"
+      ],
+      "correctIndex": 2,
+      "explanation": "ノートの数はゼロ。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l04-ex05",
+      "type": "choice",
+      "prompt": "另一订单合计多少？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "300日元",
+        "500日元",
+        "200日元"
+      ],
+      "correctIndex": 1,
+      "explanation": "全部で五百円。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l04-ex06",
+      "type": "choice",
+      "prompt": "米娜没有买哪件？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "笔",
+        "笔记本",
+        "橡皮"
+      ],
+      "correctIndex": 2,
+      "explanation": "消しゴムはゼロ。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l04-ex07",
+      "type": "input",
+      "prompt": "填询价词：これは＿＿ですか。",
+      "acceptedAnswers": [
+        "いくら",
+        "おいくら"
+      ],
+      "explanation": "いくら对应金额。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex08",
+      "type": "input",
+      "prompt": "写出二つ的读音。",
+      "acceptedAnswers": [
+        "ふたつ"
+      ],
+      "explanation": "二つ读ふたつ。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l04-ri6"
+      ]
+    },
+    {
+      "id": "l04-ex09",
+      "type": "order",
+      "prompt": "用词块组成：这个多少钱？",
+      "tokens": [
+        "いくら",
+        "ですか。",
+        "これは"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为これはいくらですか。；いくら对应金额。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex10",
+      "type": "order",
+      "prompt": "用词块组成：请给我两支笔。",
+      "tokens": [
+        "二つ",
+        "ください。",
+        "ペンを"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为ペンを二つください。；二つ读ふたつ。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l04-ri6"
+      ]
+    },
+    {
+      "id": "l04-ex11",
+      "type": "self",
+      "prompt": "你要买三支笔，写请求。",
+      "sampleAnswer": "ペンを三つください。",
+      "explanation": "物品和数量都明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri7"
+      ]
+    },
+    {
+      "id": "l04-ex12",
+      "type": "self",
+      "prompt": "想问笔记本单价。",
+      "sampleAnswer": "このノートはいくらですか。",
+      "explanation": "询问金额。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex13",
+      "type": "self",
+      "prompt": "金额没听清，先修复交流。",
+      "sampleAnswer": "もう一度お願いします。",
+      "explanation": "不猜价格。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l04-ex14",
+      "type": "self",
+      "prompt": "店员说三件，实际要两件，写更正。",
+      "sampleAnswer": "いいえ、二つです。",
+      "explanation": "否定后给正确数量。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri6"
+      ]
+    },
+    {
+      "id": "l04-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要买三支笔，写请求。",
+      "choices": [
+        "ペンを三つください。",
+        "このノートはいくらですか。",
+        "もう一度お願いします。"
+      ],
+      "correctIndex": 0,
+      "explanation": "物品和数量都明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri7",
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：想问笔记本单价。",
+      "choices": [
+        "もう一度お願いします。",
+        "いいえ、二つです。",
+        "このノートはいくらですか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "询问金额。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri6",
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：金额没听清，先修复交流。",
+      "choices": [
+        "ペンを三つください。",
+        "もう一度お願いします。",
+        "いいえ、二つです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不猜价格。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri6",
+        "l04-ri7"
+      ]
+    },
+    {
+      "id": "l04-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：店员说三件，实际要两件，写更正。",
+      "choices": [
+        "いいえ、二つです。",
+        "ペンを三つください。",
+        "このノートはいくらですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "否定后给正确数量。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l04-ri6",
+        "l04-ri7",
+        "l04-ri9"
+      ]
+    },
+    {
+      "id": "l04-ex19",
+      "type": "self",
+      "prompt": "读例句「消しゴムを一つお願いします。」。先不看词表，用中文说明「一つ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "一个",
+      "explanation": "本课这里表示“一个”。例句意思是：请给我一块橡皮。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l04-ri5"
+      ]
+    },
+    {
+      "id": "l04-ex20",
+      "type": "self",
+      "prompt": "读例句「いくつ。」。先不看词表，用中文说明「いくつ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "几个",
+      "explanation": "本课这里表示“几个”。例句意思是：几个。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l04-ri8"
+      ]
+    },
+    {
+      "id": "l04-ex21",
+      "type": "self",
+      "prompt": "读例句「百円です。」。先不看词表，用中文说明「百円」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "一百日元",
+      "explanation": "本课这里表示“一百日元”。例句意思是：一百日元。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l04-ri2",
+        "l04-ri4"
+      ]
+    },
+    {
+      "id": "l04-ex22",
+      "type": "self",
+      "prompt": "读例句「五百円です。」。先不看词表，用中文说明「五百円」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "五百日元",
+      "explanation": "本课这里表示“五百日元”。例句意思是：是五百日元。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l04-ri2",
+        "l04-ri4"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l04-ri1",
+      "front": "这支笔多少钱？",
+      "back": "このペンはいくらですか。",
+      "reading": "このペンはいくらですか。",
+      "audioId": "synth-word-fc80d10eb423e067",
+      "kind": "expression"
+    },
+    {
+      "id": "l04-ri2",
+      "front": "一百日元。",
+      "back": "百円です。",
+      "reading": "ひゃくえんです。",
+      "audioId": "synth-word-3148a06b632e0842",
+      "kind": "expression"
+    },
+    {
+      "id": "l04-ri3",
+      "front": "对。橡皮多少钱？",
+      "back": "はい。消しゴムはいくらですか。",
+      "reading": "はい。けしゴムはいくらですか。",
+      "audioId": "synth-word-b30bcbdd631b9462",
+      "kind": "expression"
+    },
+    {
+      "id": "l04-ri4",
+      "front": "一百日元。",
+      "back": "百円です。",
+      "reading": "ひゃくえんです。",
+      "audioId": "synth-word-3148a06b632e0842",
+      "kind": "expression"
+    },
+    {
+      "id": "l04-ri5",
+      "front": "一つ在本课是什么意思？",
+      "back": "一个",
+      "reading": "ひとつ",
+      "audioId": "synth-word-7924eae62e502657",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l04-ri6",
+      "front": "二つ在本课是什么意思？",
+      "back": "两个",
+      "reading": "ふたつ",
+      "audioId": "synth-word-d2e83a540f7d3992",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l04-ri7",
+      "front": "三つ在本课是什么意思？",
+      "back": "三个",
+      "reading": "みっつ",
+      "audioId": "synth-word-36275c30c477c204",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l04-ri8",
+      "front": "いくつ在本课是什么意思？",
+      "back": "几个",
+      "reading": "いくつ",
+      "audioId": "synth-word-1879c73016720e47",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l04-ri9",
+      "front": "いくら在本课是什么意思？",
+      "back": "多少钱",
+      "reading": "いくら",
+      "audioId": "synth-word-fe5842b3c9358d15",
+      "kind": "vocabulary"
+    }
+  ]
+}

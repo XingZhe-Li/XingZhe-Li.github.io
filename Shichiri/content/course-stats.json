@@ -1,0 +1,17 @@
+{
+  "lessons": 100,
+  "blocks": 700,
+  "vocabularyEntries": 2400,
+  "uniqueWordReadings": 1049,
+  "expressions": 432,
+  "grammarEntries": 246,
+  "readings": 204,
+  "exercises": 2208,
+  "listeningExercises": 207,
+  "diagnostics": 13,
+  "diagnosticExercises": 130,
+  "audioFiles": 1552,
+  "humanAudio": 19,
+  "syntheticAudio": 1533,
+  "audioBytes": 104789445
+}

@@ -1,0 +1,956 @@
+{
+  "id": "l34",
+  "number": 34,
+  "moduleId": "m7",
+  "title": "住宿与服务请求",
+  "subtitle": "说明预订信息、寄存需求及房间里具体的问题",
+  "revision": 2,
+  "goals": [
+    "提供预订姓名、入住晚数并核对服务时段",
+    "说明故障对象和现象，再请求处理",
+    "在『提前到达与房间故障』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第33课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「住宿与服务请求」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l34-ex01",
+        "l34-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「提前到达与房间故障」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「滞在中の確認メモ」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「住宿与服务请求」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l34-ex19",
+        "l34-ex20",
+        "l34-ex21",
+        "l34-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到宿泊、予約名、一泊、二泊，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用りんの名前で予約しています。二泊です。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「住宿与服务请求」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l34-ex07",
+        "l34-ex08",
+        "l34-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「用预订与时间信息办理入住」「以具体状态提出服务请求」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「住宿与服务请求」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l34-ex02",
+        "l34-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「住宿与服务请求」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l34-ex04",
+        "l34-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「滞在中の確認メモ」与「違う問題を伝える」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「住宿与服务请求」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l34-ex11",
+        "l34-ex12",
+        "l34-ex13",
+        "l34-ex14",
+        "l34-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「住宿与服务请求」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l34-ex06",
+        "l34-ex10",
+        "l34-ex17",
+        "l34-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l34-ext10",
+      "title": "住宿与服务请求 · 10分钟迁移",
+      "instructions": "先听『提前到达与房间故障』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l34-ext15",
+      "title": "住宿与服务请求 · 15分钟迁移",
+      "instructions": "读『滞在中の確認メモ』与『違う問題を伝える』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你有两晚的预订，预订名是みな；在前台说明。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l34-ext25",
+      "title": "住宿与服务请求 · 25分钟迁移",
+      "instructions": "用5分钟听『提前到达与房间故障』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：工作人员说现在会去检查空调；你想知道约需多久，写追问。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l34-ex13",
+        "l34-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『提前到达与房间故障』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『滞在中の確認メモ』与变体材料的条件。",
+    "关闭说明后，能在情境中使用名前で予約しています／N泊です及Nが動きません／Nが出ません＋確認してください，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l34-d01",
+      "title": "提前到达与房间故障",
+      "context": "虚构旅馆，旅客先寄行李，入住后联络前台。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l34-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "りんの名前で予約しています。二泊です。",
+          "kana": "りんのなまえでよやくしています。にはくです。",
+          "zh": "用小林的名字预订了，住两晚。"
+        },
+        {
+          "speaker": "係",
+          "ja": "ありがとうございます。チェックインは三時からです。",
+          "kana": "ありがとうございます。ちぇっくいんはさんじからです。",
+          "zh": "谢谢，三点起办理入住。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "今、荷物を預けてもいいですか。",
+          "kana": "いま、にもつをあずけてもいいですか。",
+          "zh": "现在可以寄存行李吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい。フロントでお預かりします。",
+          "kana": "はい。ふろんとでおあずかりします。",
+          "zh": "可以，在前台为您保管。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "ありがとうございます。朝食は何時からですか。",
+          "kana": "ありがとうございます。ちょうしょくはなんじからですか。",
+          "zh": "谢谢，早餐几点开始？"
+        },
+        {
+          "speaker": "係",
+          "ja": "七時から九時までです。",
+          "kana": "しちじからくじまでです。",
+          "zh": "七点到九点。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "すみません、部屋のエアコンが動きません。",
+          "kana": "すみません、へやのえあこんがうごきません。",
+          "zh": "不好意思，房间空调不运转。"
+        },
+        {
+          "speaker": "係",
+          "ja": "申し訳ありません。今から確認します。",
+          "kana": "もうしわけありません。いまからかくにんします。",
+          "zh": "很抱歉，现在过去确认。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l34-v01",
+      "word": "宿泊",
+      "reading": "しゅくはく",
+      "meaning": "住宿",
+      "pos": "名词",
+      "example": "宿泊です。",
+      "exampleMeaning": "是住宿。",
+      "mastery": "active",
+      "audioId": "synth-word-11fb5b8269c73b81"
+    },
+    {
+      "id": "l34-v02",
+      "word": "予約名",
+      "reading": "よやくめい",
+      "meaning": "预订姓名",
+      "pos": "名词",
+      "example": "予約名です。",
+      "exampleMeaning": "是预订姓名。",
+      "mastery": "active",
+      "audioId": "synth-word-6284107d986c9e14"
+    },
+    {
+      "id": "l34-v03",
+      "word": "一泊",
+      "reading": "いっぱく",
+      "meaning": "一晚",
+      "pos": "名词",
+      "example": "一泊です。",
+      "exampleMeaning": "是一晚。",
+      "mastery": "active",
+      "audioId": "synth-word-9d3f22e2523a9f9d"
+    },
+    {
+      "id": "l34-v04",
+      "word": "二泊",
+      "reading": "にはく",
+      "meaning": "两晚",
+      "pos": "名词",
+      "example": "りんの名前で予約しています。二泊です。",
+      "exampleMeaning": "用小林的名字预订了，住两晚。",
+      "mastery": "active",
+      "audioId": "synth-word-e35e62dbbfd5c208"
+    },
+    {
+      "id": "l34-v05",
+      "word": "朝食",
+      "reading": "ちょうしょく",
+      "meaning": "早餐",
+      "pos": "名词",
+      "example": "ありがとうございます。朝食は何時からですか。",
+      "exampleMeaning": "谢谢，早餐几点开始？",
+      "mastery": "active",
+      "audioId": "synth-word-9d30e8699b40de67"
+    },
+    {
+      "id": "l34-v06",
+      "word": "鍵",
+      "reading": "かぎ",
+      "meaning": "钥匙",
+      "pos": "名词",
+      "example": "鍵です。",
+      "exampleMeaning": "是钥匙。",
+      "mastery": "active",
+      "audioId": "synth-word-738957ac60bf4851"
+    },
+    {
+      "id": "l34-v07",
+      "word": "フロント",
+      "reading": "ふろんと",
+      "meaning": "前台",
+      "pos": "名词",
+      "example": "はい。フロントでお預かりします。",
+      "exampleMeaning": "可以，在前台为您保管。",
+      "mastery": "active",
+      "audioId": "synth-word-7ea31a27567f2fec"
+    },
+    {
+      "id": "l34-v08",
+      "word": "エアコン",
+      "reading": "えあこん",
+      "meaning": "空调",
+      "pos": "名词",
+      "example": "すみません、部屋のエアコンが動きません。",
+      "exampleMeaning": "不好意思，房间空调不运转。",
+      "mastery": "active",
+      "audioId": "synth-word-c7a119ee764a4876"
+    },
+    {
+      "id": "l34-v09",
+      "word": "お湯",
+      "reading": "おゆ",
+      "meaning": "热水",
+      "pos": "名词",
+      "example": "お湯です。",
+      "exampleMeaning": "是热水。",
+      "mastery": "active",
+      "audioId": "synth-word-008409c85194e045"
+    },
+    {
+      "id": "l34-v10",
+      "word": "タオル",
+      "reading": "たおる",
+      "meaning": "毛巾",
+      "pos": "名词",
+      "example": "タオルです。",
+      "exampleMeaning": "是毛巾。",
+      "mastery": "active",
+      "audioId": "synth-word-8869f45ffbabd11e"
+    },
+    {
+      "id": "l34-v11",
+      "word": "預ける",
+      "reading": "あずける",
+      "meaning": "寄存",
+      "pos": "二类动词",
+      "example": "荷物を預けてもいいですか。",
+      "exampleMeaning": "可以寄存行李吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-8aa24341dab6557f"
+    },
+    {
+      "id": "l34-v12",
+      "word": "動く",
+      "reading": "うごく",
+      "meaning": "运转",
+      "pos": "一类动词",
+      "example": "エアコンが動きません。",
+      "exampleMeaning": "空调不运转。",
+      "mastery": "recognition",
+      "audioId": "synth-word-705f66660dae8d6d"
+    },
+    {
+      "id": "l34-v13",
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "出来",
+      "pos": "二类动词",
+      "example": "お湯が出ません。",
+      "exampleMeaning": "不出热水。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2e0956a35cf4e562"
+    },
+    {
+      "id": "l34-v14",
+      "word": "替える",
+      "reading": "かえる",
+      "meaning": "更换",
+      "pos": "二类动词",
+      "example": "タオルを替えてください。",
+      "exampleMeaning": "请换毛巾。",
+      "mastery": "recognition",
+      "audioId": "synth-word-db8ede223687daf4"
+    },
+    {
+      "id": "l34-v15",
+      "word": "確認する",
+      "reading": "かくにんする",
+      "meaning": "确认",
+      "pos": "三类动词",
+      "example": "予約を確認します。",
+      "exampleMeaning": "确认预订。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f80bebd8581cbe0f"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l34-e1",
+      "ja": "りんの名前で予約しています。二泊です。",
+      "reading": "りんのなまえでよやくしています。にはくです。",
+      "meaning": "用小林的名字预订了，住两晚。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-4be60b25bc39f051"
+    },
+    {
+      "id": "l34-e2",
+      "ja": "ありがとうございます。チェックインは三時からです。",
+      "reading": "ありがとうございます。ちぇっくいんはさんじからです。",
+      "meaning": "谢谢，三点起办理入住。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-3c6d90a5bf69c26a"
+    },
+    {
+      "id": "l34-e3",
+      "ja": "ありがとうございます。朝食は何時からですか。",
+      "reading": "ありがとうございます。ちょうしょくはなんじからですか。",
+      "meaning": "谢谢，早餐几点开始？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-4d187ac0b4e1a349"
+    },
+    {
+      "id": "l34-e4",
+      "ja": "七時から九時までです。",
+      "reading": "しちじからくじまでです。",
+      "meaning": "七点到九点。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-628799cf8f6c8f82"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l34-g1",
+      "title": "用预订与时间信息办理入住",
+      "meaning": "提供预订姓名、入住晚数并核对服务时段",
+      "pattern": "名前で予約しています／N泊です",
+      "explanation": "予約しています在此表示已有预约的状态。予約したいです是想预约，二者不可互换。姓名使用自己实际预订名。",
+      "examples": [
+        {
+          "ja": "りんの名前で予約しています。",
+          "zh": "用小林的名字预订了。"
+        }
+      ],
+      "pitfall": "「一泊」是住一晚，不是一天内任意次数出入。"
+    },
+    {
+      "id": "l34-g2",
+      "title": "以具体状态提出服务请求",
+      "meaning": "说明故障对象和现象，再请求处理",
+      "pattern": "Nが動きません／Nが出ません＋確認してください",
+      "explanation": "仅说だめです信息不足。先说哪件设施不运转，再问能否确认。只报告观察到的现象，不自行诊断原因。",
+      "examples": [
+        {
+          "ja": "部屋のエアコンが動きません。確認してください。",
+          "zh": "房间空调不运转，请确认一下。"
+        }
+      ],
+      "pitfall": "お湯がありません与お湯が出ません含义不同；水龙头不出热水用后者。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "宿泊",
+          "reading": "しゅくはく",
+          "zh": "住宿"
+        },
+        {
+          "ja": "予約名",
+          "reading": "よやくめい",
+          "zh": "预订姓名"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l34-r1",
+      "title": "滞在中の確認メモ",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "りんさんは同じ宿に二泊します。チェックインは三時からですが、それより前に荷物をフロントに預けることができます。朝食は七時から九時までです。部屋に入った後、エアコンが動きませんでした。りんさんはフロントへ連絡しました。係の人は今から確認します。修理が終わったかは、まだ分かりません。",
+      "zh": "小林在同一旅馆住两晚。三点起入住，在此之前能将行李寄存前台。早餐七点到九点。入房后空调不运转，联络前台，对方现在去检查，还不知道是否已修好。",
+      "audioId": "l34-reading-synth"
+    },
+    {
+      "id": "l34-r2",
+      "title": "違う問題を伝える",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "さらさんは一泊だけ泊まります。夜、部屋のお湯が出ませんでした。水は出ます。タオルはあります。さらさんは「お湯が出ません。確認してもらえますか」とフロントに電話しました。係の人は別の部屋を用意しました。さらさんは荷物を持って、新しい部屋へ行きました。",
+      "zh": "莎拉只住一晚。晚上房间不出热水，但有冷水，有毛巾。打电话给前台说“出不了热水，能帮忙检查吗？”工作人员准备了另一间房，莎拉带行李换到新房。（てもらえますか为服务请求的识别表达。）"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l34-ex01",
+      "type": "choice",
+      "prompt": "りんは何泊予約していますか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l34-dialogue-synth",
+      "choices": [
+        "二泊",
+        "一泊",
+        "三泊"
+      ],
+      "correctIndex": 0,
+      "explanation": "最初に二泊ですと伝えている。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l34-ri7",
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex02",
+      "type": "choice",
+      "prompt": "エアコンの問題について最後に確かなのはどれですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l34-reading-synth",
+      "choices": [
+        "修理が終わった",
+        "係の人がこれから確認する",
+        "新しい部屋に移った"
+      ],
+      "correctIndex": 1,
+      "explanation": "今から確認する段階で、修理完了は不明。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex03",
+      "type": "choice",
+      "prompt": "りんは何泊予約していますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "二泊",
+        "一泊",
+        "三泊"
+      ],
+      "correctIndex": 0,
+      "explanation": "最初に二泊ですと伝えている。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l34-ri7",
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex04",
+      "type": "choice",
+      "prompt": "エアコンの問題について最後に確かなのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "修理が終わった",
+        "係の人がこれから確認する",
+        "新しい部屋に移った"
+      ],
+      "correctIndex": 1,
+      "explanation": "今から確認する段階で、修理完了は不明。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex05",
+      "type": "choice",
+      "prompt": "さらの部屋の問題は何ですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "タオルがない",
+        "水が全く出ない",
+        "お湯が出ない"
+      ],
+      "correctIndex": 2,
+      "explanation": "冷水は出るが熱水が出ない。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex06",
+      "type": "choice",
+      "prompt": "さらは最後にどうしましたか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "別の部屋へ移った",
+        "そのまま寝た",
+        "宿を出て帰った"
+      ],
+      "correctIndex": 0,
+      "explanation": "荷物を持って新しい部屋へ行った。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex07",
+      "type": "input",
+      "prompt": "「住两晚」：____です。",
+      "acceptedAnswers": [
+        "二泊",
+        "にはく",
+        "2泊"
+      ],
+      "explanation": "二泊读にはく，数量需与预订一致。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex08",
+      "type": "input",
+      "prompt": "「热水出不来」：お湯が____。",
+      "acceptedAnswers": [
+        "出ません",
+        "でません"
+      ],
+      "explanation": "描述实际未出水的状态。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex09",
+      "type": "order",
+      "prompt": "用词块组成：用小林的名字预订了。",
+      "tokens": [
+        "予約して",
+        "います。",
+        "りんの名前で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为りんの名前で予約しています。；二泊读にはく，数量需与预订一致。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex10",
+      "type": "order",
+      "prompt": "用词块组成：房间空调不运转，请确认一下。",
+      "tokens": [
+        "動きません。",
+        "確認してください。",
+        "部屋のエアコンが"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为部屋のエアコンが動きません。確認してください。；描述实际未出水的状态。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex11",
+      "type": "self",
+      "prompt": "你有两晚的预订，预订名是みな；在前台说明。",
+      "sampleAnswer": "みなの名前で予約しています。二泊です。",
+      "explanation": "已有预约使用状态表达，不再说想预约。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex12",
+      "type": "self",
+      "prompt": "你中午到达，入住三点才开始；询问能否先寄存行李。",
+      "sampleAnswer": "チェックインの前に、荷物を預けてもいいですか。",
+      "explanation": "请求具体服务，避免把寄存等同于提前入住。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex13",
+      "type": "self",
+      "prompt": "房间有冷水但没热水；报告并请求确认。",
+      "sampleAnswer": "部屋のお湯が出ません。確認してください。",
+      "explanation": "报告现象，不猜热水器坏的原因。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex14",
+      "type": "self",
+      "prompt": "工作人员说现在会去检查空调；你想知道约需多久，写追问。",
+      "sampleAnswer": "ありがとうございます。どのくらいかかりますか。",
+      "explanation": "未修好前问预计所需时间，比误认已完成更合适。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你有两晚的预订，预订名是みな；在前台说明。",
+      "choices": [
+        "みなの名前で予約しています。二泊です。",
+        "チェックインの前に、荷物を預けてもいいですか。",
+        "部屋のお湯が出ません。確認してください。"
+      ],
+      "correctIndex": 0,
+      "explanation": "已有预约使用状态表达，不再说想预约。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你中午到达，入住三点才开始；询问能否先寄存行李。",
+      "choices": [
+        "部屋のお湯が出ません。確認してください。",
+        "ありがとうございます。どのくらいかかりますか。",
+        "チェックインの前に、荷物を預けてもいいですか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "请求具体服务，避免把寄存等同于提前入住。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：房间有冷水但没热水；报告并请求确认。",
+      "choices": [
+        "みなの名前で予約しています。二泊です。",
+        "部屋のお湯が出ません。確認してください。",
+        "ありがとうございます。どのくらいかかりますか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "报告现象，不猜热水器坏的原因。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：工作人员说现在会去检查空调；你想知道约需多久，写追问。",
+      "choices": [
+        "ありがとうございます。どのくらいかかりますか。",
+        "みなの名前で予約しています。二泊です。",
+        "チェックインの前に、荷物を預けてもいいですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "未修好前问预计所需时间，比误认已完成更合适。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex19",
+      "type": "self",
+      "prompt": "读例句「宿泊です。」。先不看词表，用中文说明「宿泊」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "住宿",
+      "explanation": "本课这里表示“住宿”。例句意思是：是住宿。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l34-ri5"
+      ]
+    },
+    {
+      "id": "l34-ex20",
+      "type": "self",
+      "prompt": "读例句「りんの名前で予約しています。二泊です。」。先不看词表，用中文说明「二泊」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "两晚",
+      "explanation": "本课这里表示“两晚”。例句意思是：用小林的名字预订了，住两晚。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l34-ri1",
+        "l34-ri8"
+      ]
+    },
+    {
+      "id": "l34-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。フロントでお預かりします。」。先不看词表，用中文说明「フロント」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "前台",
+      "explanation": "本课这里表示“前台”。例句意思是：可以，在前台为您保管。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l34-ex22",
+      "type": "self",
+      "prompt": "读例句「タオルです。」。先不看词表，用中文说明「タオル」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "毛巾",
+      "explanation": "本课这里表示“毛巾”。例句意思是：是毛巾。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l34-ri1",
+      "front": "用小林的名字预订了，住两晚。",
+      "back": "りんの名前で予約しています。二泊です。",
+      "reading": "りんのなまえでよやくしています。にはくです。",
+      "audioId": "synth-word-4be60b25bc39f051",
+      "kind": "expression"
+    },
+    {
+      "id": "l34-ri2",
+      "front": "谢谢，三点起办理入住。",
+      "back": "ありがとうございます。チェックインは三時からです。",
+      "reading": "ありがとうございます。ちぇっくいんはさんじからです。",
+      "audioId": "synth-word-3c6d90a5bf69c26a",
+      "kind": "expression"
+    },
+    {
+      "id": "l34-ri3",
+      "front": "谢谢，早餐几点开始？",
+      "back": "ありがとうございます。朝食は何時からですか。",
+      "reading": "ありがとうございます。ちょうしょくはなんじからですか。",
+      "audioId": "synth-word-4d187ac0b4e1a349",
+      "kind": "expression"
+    },
+    {
+      "id": "l34-ri4",
+      "front": "七点到九点。",
+      "back": "七時から九時までです。",
+      "reading": "しちじからくじまでです。",
+      "audioId": "synth-word-628799cf8f6c8f82",
+      "kind": "expression"
+    },
+    {
+      "id": "l34-ri5",
+      "front": "宿泊在本课是什么意思？",
+      "back": "住宿",
+      "reading": "しゅくはく",
+      "audioId": "synth-word-11fb5b8269c73b81",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l34-ri6",
+      "front": "予約名在本课是什么意思？",
+      "back": "预订姓名",
+      "reading": "よやくめい",
+      "audioId": "synth-word-6284107d986c9e14",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l34-ri7",
+      "front": "一泊在本课是什么意思？",
+      "back": "一晚",
+      "reading": "いっぱく",
+      "audioId": "synth-word-9d3f22e2523a9f9d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l34-ri8",
+      "front": "二泊在本课是什么意思？",
+      "back": "两晚",
+      "reading": "にはく",
+      "audioId": "synth-word-e35e62dbbfd5c208",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l34-ri9",
+      "front": "朝食在本课是什么意思？",
+      "back": "早餐",
+      "reading": "ちょうしょく",
+      "audioId": "synth-word-9d30e8699b40de67",
+      "kind": "vocabulary"
+    }
+  ]
+}

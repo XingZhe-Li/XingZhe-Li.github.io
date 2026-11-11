@@ -1,0 +1,1244 @@
+{
+  "id": "l02",
+  "number": 2,
+  "moduleId": "m1",
+  "title": "介绍自己与询问身份",
+  "subtitle": "用七个20分钟学习块，把姓名、身份和来源放进短交流，并在没听清时主动确认。",
+  "revision": 2,
+  "goals": [
+    "阅读或听辨简单姓名和身份介绍，区分谁是学生、谁是公司职员。",
+    "使用姓名＋です、身份＋です组织自己的简短介绍。",
+    "理解お名前は和〜ですか，并使用简单回应交换信息。"
+  ],
+  "prerequisites": [
+    "完成l01，能识别はい、いいえ及请重复的表达。",
+    "本课使用键盘输入、拼句和听辨，不要求出声。例子中的リン是虚构姓名，可以替换为自己的姓名。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "辨认一段介绍在做什么",
+      "description": "识别开头、姓名、身份和结束语，先理解整段交流的功能，再组织自己的版本。",
+      "sections": [
+        "dialogue",
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l02-ex01",
+        "l02-ex02",
+        "l02-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "拆解原创介绍",
+          "instructions": "阅读本课原创对话，标出初次问候、姓名、身份和结束语；先不看中文，把每一部分对应到交流目的。本段暂无配音。",
+          "minutes": 7,
+          "section": "dialogue"
+        },
+        {
+          "title": "把词汇放回人物",
+          "instructions": "从词表找到私、名前、大学生和はじめまして，按需播放已配的独立朗读。用虚构人物替换姓名，保持自称时不加さん。",
+          "minutes": 5,
+          "section": "vocabulary"
+        },
+        {
+          "title": "选择后独立组织",
+          "instructions": "完成练习01、02、18；开放回答先写两三句，再对照示例检查姓名和身份是否清楚。",
+          "minutes": 8,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "把名字和身份放进句子",
+      "description": "理解Nです与ですか，并根据对方问的是身份还是姓名作答。",
+      "sections": [
+        "grammar",
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l02-ex03",
+        "l02-ex04",
+        "l02-ex23"
+      ],
+      "tasks": [
+        {
+          "title": "看清陈述和提问的差别",
+          "instructions": "阅读名词句和疑问句说明，比较学生です与学生ですか；给姓名、学生和会社員各配一个适合的陈述句。",
+          "minutes": 6,
+          "section": "grammar"
+        },
+        {
+          "title": "不照抄完成句子",
+          "instructions": "完成练习03、04、23；拼句要能解释か的作用，填写身份时先确认说话人的设定。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "闭卷回忆再核对",
+          "instructions": "只看复习卡03、06提示，写出陈述与提问各一句；再展开答案，记录自己漏掉的是词汇还是句末形式。",
+          "minutes": 4,
+          "section": "review"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "追踪人物与信息边界",
+      "description": "区分谁在介绍谁，并把句子明确给出的信息和自己猜测的信息分开。",
+      "sections": [
+        "grammar",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l02-ex05",
+        "l02-ex06",
+        "l02-ex20"
+      ],
+      "tasks": [
+        {
+          "title": "观察は和さん的作用",
+          "instructions": "阅读本课语法及人物对话，标出每句的话题和身份；比较自称与称呼他人时さん是否出现。",
+          "minutes": 6,
+          "section": "grammar"
+        },
+        {
+          "title": "用三人卡追踪人物",
+          "instructions": "阅读「三个人的签到信息」，给三人分别填写身份；不根据姓名或国籍猜测学校、城市和语言能力。",
+          "minutes": 5,
+          "section": "reading"
+        },
+        {
+          "title": "检查称呼、读音与推断",
+          "instructions": "完成练习05、06、20。说明は在当前句子里为什么读wa，并写一项材料没有提供的信息。",
+          "minutes": 9,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "在重复之后准确回答姓名",
+      "description": "先识别对方是在问姓名还是身份；没听清时请重复，重复后再回答具体问题。",
+      "sections": [
+        "reading",
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l02-ex07",
+        "l02-ex08",
+        "l02-ex15",
+        "l02-ex21"
+      ],
+      "tasks": [
+        {
+          "title": "检查登记问答的轮次",
+          "instructions": "阅读「登记问题需要分别回答」，逐个标出姓名、身份、国籍三个问题；第一次不理解时，先选交流修复表达。",
+          "minutes": 5,
+          "section": "reading"
+        },
+        {
+          "title": "听辨和分支回应",
+          "instructions": "完成练习07、08、15、21。音频先抓姓名，开放题写两轮自己的回应，明确区分“请重复”和“重复后回答”两个动作。",
+          "minutes": 11,
+          "section": "practice"
+        },
+        {
+          "title": "从提示调用表达",
+          "instructions": "用复习卡02、04、08做闭卷回忆，分别写姓名回答、询问姓名、请求重复。只回看自己没有写出的部分。",
+          "minutes": 4,
+          "section": "review"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "从介绍卡与录音提取事实",
+      "description": "同时提取姓名和身份，比较文字与录音能够支持的信息，不要求猜出未知国名。",
+      "sections": [
+        "reading",
+        "practice",
+        "vocabulary"
+      ],
+      "exerciseIds": [
+        "l02-ex09",
+        "l02-ex10",
+        "l02-ex17",
+        "l02-ex19",
+        "l02-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "读出人物差异",
+          "instructions": "阅读林的介绍卡、两个人的身份和三人签到信息，各写一行“谁／身份／国籍是否明确”；没有提供的信息留空。",
+          "minutes": 6,
+          "section": "reading"
+        },
+        {
+          "title": "完成混合信息题",
+          "instructions": "完成练习09、10、17、19、22。真人介绍先听开头和结尾判断任务；阅读题要把人物和身份正确配对。",
+          "minutes": 11,
+          "section": "practice"
+        },
+        {
+          "title": "补查最少量词汇",
+          "instructions": "只查刚才影响判断的身份或姓名词，不额外扩大词表；对照读音确认是未认出词，还是把人物关系看错。",
+          "minutes": 3,
+          "section": "vocabulary"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "从空白完成短介绍与登记",
+      "description": "在材料关闭后写自己的介绍，再按不同问题逐轮回答，避免对所有提问都说同一句。",
+      "sections": [
+        "review",
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l02-ex11",
+        "l02-ex12",
+        "l02-ex25"
+      ],
+      "tasks": [
+        {
+          "title": "回忆句子骨架",
+          "instructions": "只看复习卡01、02、03、05的中文提示，写初次问候、姓名、身份和结束语；对照后保留自己自然的版本。",
+          "minutes": 4,
+          "section": "review"
+        },
+        {
+          "title": "完成不看范句的表达",
+          "instructions": "完成练习11、12、25。先打字组织，再展开答案；按问题逐项核对姓名、身份与国籍，不要求机械添加每个信息。",
+          "minutes": 12,
+          "section": "practice"
+        },
+        {
+          "title": "按错误回查结构",
+          "instructions": "针对自己的回答，只查名词句、疑问句或さん的相关说明；把一条错误改成正确且与前一句相接的回答。",
+          "minutes": 4,
+          "section": "grammar"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "换人物与新音频检验迁移",
+      "description": "在新人物、新姓氏和不同提问顺序下，继续提取信息并组织合适回应。",
+      "sections": [
+        "review",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l02-ex13",
+        "l02-ex14",
+        "l02-ex16",
+        "l02-ex24",
+        "l02-ex26"
+      ],
+      "tasks": [
+        {
+          "title": "先列要抓取的信息",
+          "instructions": "关闭文本，写下初次介绍可出现的姓名、身份、来源和结束语；提醒自己不必听懂所有词才开始提取事实。",
+          "minutes": 3,
+          "section": "review"
+        },
+        {
+          "title": "完成新人物和真人录音变体",
+          "instructions": "完成练习13、14、16、24、26。音频先独立输入或选择姓名；文字题确认问题在谈谁，再回答。",
+          "minutes": 13,
+          "section": "practice"
+        },
+        {
+          "title": "按标准记录证据",
+          "instructions": "分别写一条听辨、阅读和文字应答的成功证据及一项待修正内容；材料是否看过与能否独立回应分开记录，暂不判定口语。",
+          "minutes": 4,
+          "section": "review"
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "l02-d01",
+      "title": "初次认识另一位旅客",
+      "context": "原创教学对话，现配合成教学朗读；真人素材另见听辨练习。在住处的公共休息区，两个初次见面的人简单介绍自己。人物姓名均为虚构。",
+      "lines": [
+        {
+          "speaker": "萨拉",
+          "ja": "はじめまして。サラです。",
+          "kana": "はじめまして。サラです。",
+          "zh": "初次见面。我叫萨拉。"
+        },
+        {
+          "speaker": "林",
+          "ja": "はじめまして。リンです。",
+          "kana": "はじめまして。リンです。",
+          "zh": "初次见面。我叫林。"
+        },
+        {
+          "speaker": "萨拉",
+          "ja": "リンさんは学生ですか。",
+          "kana": "リンさんはがくせいですか。",
+          "zh": "林同学，你是学生吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい、大学生です。サラさんは？",
+          "kana": "はい、だいがくせいです。サラさんは？",
+          "zh": "是的，我是大学生。萨拉，你呢？"
+        },
+        {
+          "speaker": "萨拉",
+          "ja": "会社員です。よろしくお願いします。",
+          "kana": "かいしゃいんです。よろしくおねがいします。",
+          "zh": "我是公司职员。请多关照。"
+        },
+        {
+          "speaker": "林",
+          "ja": "よろしくお願いします。",
+          "kana": "よろしくおねがいします。",
+          "zh": "请多关照。"
+        }
+      ],
+      "audioId": "l02-d01-synth"
+    },
+    {
+      "id": "l02-d02",
+      "title": "没听清姓名",
+      "context": "原创教学对话，现配合成教学朗读。登记时工作人员询问姓名，你第一次没听清，使用上一课的表达后再回答。ですね先理解为向你确认。",
+      "lines": [
+        {
+          "speaker": "工作人员",
+          "ja": "お名前は？",
+          "kana": "おなまえは？",
+          "zh": "请问您的姓名是？"
+        },
+        {
+          "speaker": "林",
+          "ja": "すみません。もう一度お願いします。",
+          "kana": "すみません。もういちどおねがいします。",
+          "zh": "不好意思，请再说一次。"
+        },
+        {
+          "speaker": "工作人员",
+          "ja": "お名前は？",
+          "kana": "おなまえは？",
+          "zh": "请问您的姓名是？"
+        },
+        {
+          "speaker": "林",
+          "ja": "リンです。",
+          "kana": "リンです。",
+          "zh": "我叫林。"
+        },
+        {
+          "speaker": "工作人员",
+          "ja": "リンさんですね。",
+          "kana": "リンさんですね。",
+          "zh": "您是林，对吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい、そうです。",
+          "kana": "はい、そうです。",
+          "zh": "对，是的。"
+        }
+      ],
+      "audioId": "l02-d02-synth"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l02-v01",
+      "word": "私",
+      "reading": "わたし",
+      "meaning": "我",
+      "pos": "代词",
+      "example": "私は大学生です。",
+      "exampleMeaning": "我是大学生。",
+      "mastery": "active",
+      "audioId": "irodori-word-watashi"
+    },
+    {
+      "id": "l02-v02",
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "名字；姓名",
+      "pos": "名词",
+      "example": "お名前は？",
+      "exampleMeaning": "请问您的姓名是？",
+      "mastery": "active",
+      "audioId": "irodori-word-namae"
+    },
+    {
+      "id": "l02-v03",
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "学生",
+      "pos": "名词",
+      "example": "学生ですか。",
+      "exampleMeaning": "你是学生吗？",
+      "mastery": "active",
+      "audioId": "synth-word-48a911df5f4f5715"
+    },
+    {
+      "id": "l02-v04",
+      "word": "大学生",
+      "reading": "だいがくせい",
+      "meaning": "大学生",
+      "pos": "名词",
+      "example": "はい、大学生です。",
+      "exampleMeaning": "是的，我是大学生。",
+      "mastery": "active",
+      "audioId": "synth-word-a0e8b958a1e58a14"
+    },
+    {
+      "id": "l02-v05",
+      "word": "会社員",
+      "reading": "かいしゃいん",
+      "meaning": "公司职员",
+      "pos": "名词",
+      "example": "サラさんは会社員です。",
+      "exampleMeaning": "萨拉是公司职员。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3270e3eb26db0108"
+    },
+    {
+      "id": "l02-v06",
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "老师；本课用于识别教师身份",
+      "pos": "名词",
+      "example": "田中さんは先生です。",
+      "exampleMeaning": "田中是一名老师。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c27949767acb3db5"
+    },
+    {
+      "id": "l02-v07",
+      "word": "中国",
+      "reading": "ちゅうごく",
+      "meaning": "中国",
+      "pos": "专有名词",
+      "example": "中国です。",
+      "exampleMeaning": "是中国。（回答国家信息时）",
+      "mastery": "active",
+      "audioId": "synth-word-11d64915bc741572"
+    },
+    {
+      "id": "l02-v08",
+      "word": "日本",
+      "reading": "にほん",
+      "meaning": "日本",
+      "pos": "专有名词",
+      "example": "日本です。",
+      "exampleMeaning": "是日本。（回答国家信息时）",
+      "mastery": "active",
+      "audioId": "synth-word-9f4e5153870c791c"
+    },
+    {
+      "id": "l02-v09",
+      "word": "中国人",
+      "reading": "ちゅうごくじん",
+      "meaning": "中国人",
+      "pos": "名词",
+      "example": "私は中国人です。",
+      "exampleMeaning": "我是中国人。",
+      "mastery": "active",
+      "audioId": "synth-word-20d1235713559d99"
+    },
+    {
+      "id": "l02-v10",
+      "word": "日本人",
+      "reading": "にほんじん",
+      "meaning": "日本人",
+      "pos": "名词",
+      "example": "田中さんは日本人です。",
+      "exampleMeaning": "田中是日本人。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8066842e8b718c67"
+    },
+    {
+      "id": "l02-v11",
+      "word": "〜さん",
+      "reading": "さん",
+      "meaning": "接在别人姓名后的一般礼貌称呼",
+      "pos": "接尾词",
+      "example": "リンさんは学生ですか。",
+      "exampleMeaning": "林同学，你是学生吗？",
+      "mastery": "active",
+      "audioId": "synth-word-490f2ba124f19e3f"
+    },
+    {
+      "id": "l02-v12",
+      "word": "はじめまして",
+      "reading": "はじめまして",
+      "meaning": "初次见面",
+      "pos": "固定表达",
+      "example": "はじめまして。リンです。",
+      "exampleMeaning": "初次见面。我叫林。",
+      "mastery": "active",
+      "audioId": "irodori-word-hajimemashite"
+    },
+    {
+      "id": "l02-v13",
+      "word": "よろしくお願いします",
+      "reading": "よろしくおねがいします",
+      "meaning": "请多关照；本课用于结束初次介绍",
+      "pos": "固定表达",
+      "example": "大学生です。よろしくお願いします。",
+      "exampleMeaning": "我是大学生。请多关照。",
+      "mastery": "active",
+      "audioId": "irodori-word-yoroshiku"
+    },
+    {
+      "id": "l02-v14",
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "工作",
+      "pos": "名词",
+      "example": "お仕事は？",
+      "exampleMeaning": "请问您从事什么工作？",
+      "mastery": "recognition",
+      "audioId": "synth-word-11783ef0da645e3d"
+    },
+    {
+      "id": "l02-v15",
+      "word": "出身",
+      "reading": "しゅっしん",
+      "meaning": "出身地；来自哪里",
+      "pos": "名词",
+      "example": "ご出身は？",
+      "exampleMeaning": "请问您来自哪里？",
+      "mastery": "recognition",
+      "audioId": "irodori-word-shusshin"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l02-p01",
+      "ja": "はじめまして。",
+      "reading": "はじめまして。",
+      "meaning": "初次见面。",
+      "usage": "第一次认识某人时使用；不是每天见面都用的问候。",
+      "audioId": "synth-word-3fb6cc865310eef5"
+    },
+    {
+      "id": "l02-p02",
+      "ja": "リンです。",
+      "reading": "リンです。",
+      "meaning": "我叫林。",
+      "usage": "用自己的姓名替换リン。自我介绍时不在自己的名字后加さん。",
+      "audioId": "synth-word-e7754af426675a18"
+    },
+    {
+      "id": "l02-p03",
+      "ja": "大学生です。",
+      "reading": "だいがくせいです。",
+      "meaning": "我是大学生。",
+      "usage": "用于介绍自己的身份，也可以回答学生ですか。",
+      "audioId": "synth-word-4ab3013359c3abe0"
+    },
+    {
+      "id": "l02-p04",
+      "ja": "お名前は？",
+      "reading": "おなまえは？",
+      "meaning": "请问您的姓名是？",
+      "usage": "在明确交换姓名的情境中自然使用。お使表达礼貌，は提示正在询问的主题。",
+      "audioId": "synth-word-4a999ca62aa5a511"
+    },
+    {
+      "id": "l02-p05",
+      "ja": "よろしくお願いします。",
+      "reading": "よろしくおねがいします。",
+      "meaning": "请多关照。",
+      "usage": "初次介绍的结束语之一。这里作为整句理解，不逐字硬译。",
+      "audioId": "synth-word-98d2d6f7a1949c53"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l02-g01",
+      "title": "用名词＋です介绍，用ですか询问",
+      "meaning": "礼貌地说明姓名或身份，或者询问对方是否具有某身份。",
+      "pattern": "姓名／身份＋です。→ 身份＋ですか。",
+      "explanation": "リンです可在介绍情境中表示我叫林；大学生です表示我是大学生。句末加か可构成礼貌疑问，如学生ですか。回答肯定时可说はい、大学生です。本课不要求展开全部否定和时态变化。",
+      "examples": [
+        {
+          "ja": "リンです。大学生です。",
+          "zh": "我叫林。我是大学生。"
+        },
+        {
+          "ja": "学生ですか。はい、大学生です。",
+          "zh": "你是学生吗？是的，我是大学生。"
+        },
+        {
+          "ja": "会社員ですか。いいえ、大学生です。",
+          "zh": "你是公司职员吗？不是，我是大学生。"
+        }
+      ],
+      "pitfall": "自我介绍说リンです，不说リンさんです。さん用在别人姓名后；不是“我是”的一部分。"
+    },
+    {
+      "id": "l02-g02",
+      "title": "用は说明在谈谁；明确时可以省略",
+      "meaning": "标明句子的话题，并理解省略后仍然在谈同一个人。",
+      "pattern": "私は＋身份＋です。／姓名＋さんは＋身份＋です。",
+      "explanation": "私は大学生です中的は是话题标记，写は，读わ。已经知道在谈谁时可以说大学生です，不必每句都加私は。对话中的サラさんは？承接前面的身份话题，意思是萨拉你呢。",
+      "examples": [
+        {
+          "ja": "私は大学生です。",
+          "zh": "我是大学生。"
+        },
+        {
+          "ja": "サラさんは会社員です。",
+          "zh": "萨拉是公司职员。"
+        },
+        {
+          "ja": "サラさんは？会社員です。",
+          "zh": "萨拉，你呢？我是公司职员。"
+        }
+      ],
+      "pitfall": "は在这里读わ，但不是所有单词里的は都读わ。例如はじめまして开头仍读ha。不要把会社員误当成前一个人的身份，要先确认话题是谁。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "助词は的读音",
+      "description": "话题助词写は但读わ。单词里的は仍按单词读音处理。读音栏保留正常日文书写，不会把所有助词は改写成わ。",
+      "examples": [
+        {
+          "ja": "私は",
+          "reading": "わたしは（发音：わたしわ）",
+          "zh": "至于我；我是……"
+        },
+        {
+          "ja": "はじめまして",
+          "reading": "はじめまして",
+          "zh": "初次见面；开头は读ha"
+        }
+      ]
+    },
+    {
+      "title": "学生、会社員里的连续假名",
+      "description": "先注意长短与节拍，不要求出声。がくせい和せんせい里的えい通常接近长え；会社員的しゃ是拗音，いん仍要留意ん的一拍。",
+      "examples": [
+        {
+          "ja": "学生",
+          "reading": "がくせい",
+          "zh": "学生"
+        },
+        {
+          "ja": "会社員",
+          "reading": "かいしゃいん",
+          "zh": "公司职员"
+        },
+        {
+          "ja": "先生",
+          "reading": "せんせい",
+          "zh": "老师"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l02-r01",
+      "title": "林的介绍卡",
+      "context": "读完再判断身份和国籍，不必先把每个汉字写出来。",
+      "ja": "はじめまして。リンです。\n中国人です。大学生です。\nよろしくお願いします。",
+      "kana": "はじめまして。リンです。\nちゅうごくじんです。だいがくせいです。\nよろしくおねがいします。",
+      "zh": "初次见面。我叫林。\n我是中国人，是大学生。\n请多关照。",
+      "audioId": "l02-reading-synth"
+    },
+    {
+      "id": "l02-r02",
+      "title": "两个人，不同身份",
+      "context": "以下为学习用虚构人物信息。注意姓名后的は标明在谈谁。",
+      "ja": "リンさんは大学生です。\nサラさんは会社員です。",
+      "kana": "リンさんはだいがくせいです。\nサラさんはかいしゃいんです。",
+      "zh": "林是大学生。\n萨拉是公司职员。"
+    },
+    {
+      "id": "l02-r03",
+      "title": "三个人的签到信息",
+      "context": "原创文字材料，暂无配音。人物均为虚构；只提取姓名和身份，不补充材料没有给出的国籍、学校或工作地点。",
+      "ja": "ミナさんは大学生です。\nサラさんは会社員です。\n田中さんは先生です。",
+      "kana": "ミナさんはだいがくせいです。\nサラさんはかいしゃいんです。\nたなかさんはせんせいです。",
+      "zh": "米娜是大学生。\n萨拉是公司职员。\n田中是老师。"
+    },
+    {
+      "id": "l02-r04",
+      "title": "登记问题需要分别回答",
+      "context": "原创文字材料，暂无配音。以下身份与国籍均为练习设定。A连续问三个不同问题，B根据每个问题回答。",
+      "ja": "A：お名前は？\nB：チェンです。\nA：学生ですか。\nB：はい、大学生です。\nA：日本人ですか。\nB：いいえ、中国人です。",
+      "kana": "A：おなまえは？\nB：チェンです。\nA：がくせいですか。\nB：はい、だいがくせいです。\nA：にほんじんですか。\nB：いいえ、ちゅうごくじんです。",
+      "zh": "A：请问姓名？\nB：我叫陈。\nA：是学生吗？\nB：是，是大学生。\nA：是日本人吗？\nB：不，是中国人。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l02-ex01",
+      "type": "choice",
+      "prompt": "“はじめまして”最适合什么时候使用？",
+      "choices": [
+        "第一次认识一个人",
+        "每天早上见同一位同学",
+        "请对方把话再说一次"
+      ],
+      "correctIndex": 0,
+      "explanation": "这是初次见面的表达，不能替代日常每次见面的问候。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri01"
+      ]
+    },
+    {
+      "id": "l02-ex02",
+      "type": "choice",
+      "prompt": "阅读：“リンです。大学生です。”这位说话人介绍了什么？",
+      "choices": [
+        "名字叫大学生",
+        "名字是林，身份是大学生",
+        "林是他的老师"
+      ],
+      "correctIndex": 1,
+      "explanation": "在自我介绍情境中，リンです说明姓名，大学生です说明身份。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri03"
+      ]
+    },
+    {
+      "id": "l02-ex03",
+      "type": "order",
+      "prompt": "组成“你是学生吗？”",
+      "tokens": [
+        "か",
+        "学生",
+        "。",
+        "です"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "explanation": "学生ですか。用か构成疑问。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l02-ri06"
+      ]
+    },
+    {
+      "id": "l02-ex04",
+      "type": "input",
+      "prompt": "你是大学生。补充对方提问后的回答：学生ですか。→ はい、＿＿です。只填身份。",
+      "acceptedAnswers": [
+        "大学生",
+        "だいがくせい"
+      ],
+      "sampleAnswer": "大学生",
+      "explanation": "大学生是学生的一种，回答はい、大学生です自然且具体。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri03"
+      ]
+    },
+    {
+      "id": "l02-ex05",
+      "type": "choice",
+      "prompt": "你用虚构姓名リン介绍自己，哪句最适合？",
+      "choices": [
+        "リンさんです。",
+        "リンです。",
+        "リンはさんです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "自我介绍不在自己的名字后加さん。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02"
+      ]
+    },
+    {
+      "id": "l02-ex06",
+      "type": "choice",
+      "prompt": "“私は大学生です”里的话题助词は读什么？",
+      "choices": [
+        "ha",
+        "wa",
+        "ga"
+      ],
+      "correctIndex": 1,
+      "explanation": "话题助词は写ha对应的假名，但发音为wa。はじめまして里的は不适用这条助词规则。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l02-ri07"
+      ]
+    },
+    {
+      "id": "l02-ex07",
+      "type": "choice",
+      "prompt": "工作人员问“お名前は？”你叫林，最合适的回答是？",
+      "choices": [
+        "リンです。",
+        "ゆっくりお願いします。",
+        "学生ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "お名前は在询问姓名，回答姓名＋です。若确实没听清，才先请求放慢或重复。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri04"
+      ]
+    },
+    {
+      "id": "l02-ex08",
+      "type": "choice",
+      "prompt": "登记时没有听清对方的问题，你应该先怎样处理？",
+      "choices": [
+        "随意输入一个身份",
+        "直接用はい确认所有信息",
+        "すみません。もう一度お願いします。"
+      ],
+      "correctIndex": 2,
+      "explanation": "复用上一课的请重复表达，比猜测对方在问姓名还是身份更可靠。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri08"
+      ]
+    },
+    {
+      "id": "l02-ex09",
+      "type": "choice",
+      "prompt": "阅读：“はじめまして。リンです。中国人です。大学生です。”哪项符合介绍？",
+      "choices": [
+        "林是中国人，身份是大学生",
+        "林是日本人，身份是公司职员",
+        "林在向别人询问名字"
+      ],
+      "correctIndex": 0,
+      "explanation": "中国人是国籍信息，大学生是身份；这里没有说明在哪一所大学。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri03",
+        "l02-ri09"
+      ]
+    },
+    {
+      "id": "l02-ex10",
+      "type": "choice",
+      "prompt": "阅读：“リンさんは大学生です。サラさんは会社員です。”谁是公司职员？",
+      "choices": [
+        "リンさん",
+        "サラさん",
+        "两人都是"
+      ],
+      "correctIndex": 1,
+      "explanation": "会社員前的话题是サラさん。判断身份时要先确认句子在谈谁。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri07",
+        "l02-ri10"
+      ]
+    },
+    {
+      "id": "l02-ex11",
+      "type": "order",
+      "prompt": "组成“我是大学生”。这题使用完整话题形式。",
+      "tokens": [
+        "大学生",
+        "。",
+        "私",
+        "です",
+        "は"
+      ],
+      "correctOrder": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ],
+      "explanation": "私は大学生です。情境明确时也可直接说大学生です，但本题练习完整话题结构。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l02-ri03",
+        "l02-ri07"
+      ]
+    },
+    {
+      "id": "l02-ex12",
+      "type": "self",
+      "prompt": "不要求出声，用两三句日语打字介绍自己的姓名和身份，并以初次见面的结束语收尾。可用汉字姓名。",
+      "sampleAnswer": "リンです。大学生です。よろしくお願いします。",
+      "explanation": "检查三件事：姓名后没有加さん；身份后有です；结束语使用よろしくお願いします。姓名、国籍和身份按真实情况替换，不要求与示例逐字相同。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri03",
+        "l02-ri05"
+      ]
+    },
+    {
+      "id": "l02-ex13",
+      "type": "choice",
+      "prompt": "新人物卡：“田中さんは先生です。リンさんは大学生です。”问“田中さんは学生ですか”，根据卡片应选哪个回答？",
+      "choices": [
+        "はい、大学生です。",
+        "いいえ、先生です。",
+        "リンです。"
+      ],
+      "correctIndex": 1,
+      "explanation": "问题询问田中，不是林。依卡片，田中是老师，回答いいえ、先生です。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri06",
+        "l02-ri07"
+      ]
+    },
+    {
+      "id": "l02-ex14",
+      "type": "choice",
+      "prompt": "新对话：A“大学生です。サラさんは？”B“会社員です。”B介绍的是谁的身份？",
+      "choices": [
+        "A的身份",
+        "B，也就是サラ自己的身份",
+        "两人的共同身份"
+      ],
+      "correctIndex": 1,
+      "explanation": "サラさんは在这里承接身份话题，意思是萨拉你呢。B回答自己的身份，公司职员不是对A身份的更正。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri07",
+        "l02-ri10"
+      ]
+    },
+    {
+      "id": "l02-ex15",
+      "type": "choice",
+      "prompt": "播放真人介绍，听说话人说出的姓名。是哪一个？先答题再看原文。",
+      "context": "背景：一个人初次自我介绍。本题只抓姓名；国家名和から来ました不要求现在掌握。",
+      "audioId": "irodori-l03-01",
+      "choices": [
+        "トン",
+        "リン",
+        "サラ"
+      ],
+      "correctIndex": 0,
+      "explanation": "说话人说トンです，姓名是トン。タイから来ました介绍来自泰国，属于之后会扩展的内容。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l02-ri02"
+      ]
+    },
+    {
+      "id": "l02-ex16",
+      "type": "choice",
+      "prompt": "播放另一段新的真人介绍，说话人的姓名是哪一个？",
+      "context": "背景：介绍中使用了私は。只抓姓名，不需要听懂全部国家信息。",
+      "audioId": "irodori-l03-03",
+      "choices": [
+        "ヤミン",
+        "マルシア",
+        "パク"
+      ],
+      "correctIndex": 1,
+      "explanation": "音频中说私はマルシアです，姓名是マルシア。注意姓名在です之前，私は帮助标明在介绍自己。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri07"
+      ]
+    },
+    {
+      "id": "l02-ex17",
+      "type": "choice",
+      "prompt": "播放真人短句，判断整段话主要在完成什么交流任务。",
+      "context": "不需要认识每个词。留意开头和结尾是否出现本课学过的表达。",
+      "audioId": "irodori-l03-02",
+      "choices": [
+        "询问列车时间",
+        "请求对方在表格写名字",
+        "初次见面时自我介绍"
+      ],
+      "correctIndex": 2,
+      "explanation": "はじめまして和よろしくお願いします构成初次介绍的常见开头与结束，ヤミンです说明姓名。未知国家名不妨碍判断主要目的。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l02-ri01",
+        "l02-ri05"
+      ]
+    },
+    {
+      "id": "l02-ex18",
+      "type": "self",
+      "prompt": "按虚构人物设定写一段初次介绍：姓名ミナ，身份大学生。写两三句日语，以本课结束语收尾；先不看表达表。",
+      "sampleAnswer": "ミナです。大学生です。よろしくお願いします。",
+      "explanation": "检查是否介绍了姓名和身份，姓名后没有给自己加さん，并有适合初次介绍的结束语。可加はじめまして，也可用完整的私は结构。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri03",
+        "l02-ri05"
+      ]
+    },
+    {
+      "id": "l02-ex19",
+      "type": "input",
+      "prompt": "阅读三人卡：ミナさんは大学生です。サラさんは会社員です。田中さんは先生です。谁是老师？只填姓名，可加さん。",
+      "acceptedAnswers": [
+        "田中",
+        "田中さん",
+        "たなか",
+        "たなかさん"
+      ],
+      "sampleAnswer": "田中さん",
+      "explanation": "先生前的话题是田中さん；不能把另两人的身份移到田中身上。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri07"
+      ]
+    },
+    {
+      "id": "l02-ex20",
+      "type": "choice",
+      "prompt": "介绍卡只写“中国人です。大学生です。”哪一项不能仅凭这两句确定？",
+      "choices": [
+        "这位人物是大学生",
+        "这位人物是中国人",
+        "这位人物就读于日本的大学"
+      ],
+      "correctIndex": 2,
+      "explanation": "国籍和身份均已给出，但没有提供学校或就读国家。日语句子使用在哪里，不等于人物一定在哪里读书。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri03",
+        "l02-ri09"
+      ]
+    },
+    {
+      "id": "l02-ex21",
+      "type": "self",
+      "prompt": "登记分支：A第一次问问题时你没听清；请先写一句请求重复。A重复“お名前は？”后，你用虚构姓名チェン作答。写出两轮自己的日语回应。",
+      "sampleAnswer": "すみません。もう一度お願いします。\nチェンです。",
+      "explanation": "第一轮先修复理解，第二轮回答姓名。只重复请求却一直不提供姓名，或第一次没懂就说はい，都没有完成当前任务。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri04",
+        "l02-ri08"
+      ]
+    },
+    {
+      "id": "l02-ex22",
+      "type": "choice",
+      "prompt": "阅读：A“学生ですか。”B“いいえ、会社員です。”哪项符合B的回答？",
+      "choices": [
+        "B否定学生身份，并介绍自己是公司职员",
+        "B说自己既是学生又是公司职员",
+        "B还没有回答身份问题"
+      ],
+      "correctIndex": 0,
+      "explanation": "いいえ先否定问题中的学生身份，会社員です随后给出实际身份。两部分必须放在同一轮交流里理解。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l02-ri06",
+        "l02-ri10"
+      ]
+    },
+    {
+      "id": "l02-ex23",
+      "type": "input",
+      "prompt": "按练习设定，你是公司职员。A问“会社員ですか。”请补全“はい、＿＿です。”只填身份。",
+      "acceptedAnswers": [
+        "会社員",
+        "かいしゃいん"
+      ],
+      "sampleAnswer": "会社員",
+      "explanation": "问题和设定一致，はい确认，再用会社員です明确身份。此处不能回答姓名或大学生。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri10"
+      ]
+    },
+    {
+      "id": "l02-ex24",
+      "type": "input",
+      "prompt": "播放新的真人介绍。说话人开头说出的姓氏是什么？只填片假名姓氏，不必填写全名。",
+      "acceptedAnswers": [
+        "パク",
+        "ぱく"
+      ],
+      "sampleAnswer": "パク",
+      "explanation": "音频开头为パクです，接着说明全名パク・ソンジン。抓住开头的姓氏即可；未知来源表达不妨碍当前提取任务。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l02-ri02"
+      ],
+      "audioId": "irodori-l03-04",
+      "context": "官方录音另有来自韩国的信息，本题不要求掌握国名。先听后输入，再展开原文核对。"
+    },
+    {
+      "id": "l02-ex25",
+      "type": "self",
+      "prompt": "按虚构人物设定，从空白逐轮回答：你叫チェン，是中国人、公司职员。A依次问“お名前は？”“学生ですか。”“日本人ですか。”每个问题写一句日语回答，不要照抄阅读中的大学生身份。",
+      "sampleAnswer": "チェンです。\nいいえ、会社員です。\nいいえ、中国人です。",
+      "explanation": "三个问题分别问姓名、身份、国籍。检查你是否根据设定更改了大学生这个旧答案；允许完整话题形式及意思相同的礼貌回答。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l02-ri02",
+        "l02-ri06",
+        "l02-ri09",
+        "l02-ri10"
+      ]
+    },
+    {
+      "id": "l02-ex26",
+      "type": "input",
+      "prompt": "播放真人介绍。只记录说话人的姓名，不必记录国家名或全文。",
+      "acceptedAnswers": [
+        "ヤミン",
+        "やみん"
+      ],
+      "sampleAnswer": "ヤミン",
+      "explanation": "音频说ヤミンです。要抓取的是姓名，不是跟读全文，也不要求写出未知国家名称。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l02-ri02"
+      ],
+      "audioId": "irodori-l03-02",
+      "context": "先关闭音频文本，最多重播三遍；作答后分别记录首次、重播或看文本才辨认出的部分。"
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l02-ri01",
+      "front": "第一次认识一个人，说“初次见面”。",
+      "back": "はじめまして。",
+      "reading": "はじめまして。",
+      "kind": "expression",
+      "audioId": "synth-word-3fb6cc865310eef5"
+    },
+    {
+      "id": "l02-ri02",
+      "front": "用虚构姓名リン介绍自己；注意是否加さん。",
+      "back": "リンです。自称时不加さん。",
+      "reading": "リンです。",
+      "kind": "expression",
+      "audioId": "synth-word-e7754af426675a18"
+    },
+    {
+      "id": "l02-ri03",
+      "front": "介绍身份：我是大学生。",
+      "back": "大学生です。／私は大学生です。",
+      "reading": "だいがくせいです。／わたしはだいがくせいです。",
+      "kind": "expression",
+      "audioId": "synth-word-4ab3013359c3abe0"
+    },
+    {
+      "id": "l02-ri04",
+      "front": "在交换姓名的情境中询问对方姓名。",
+      "back": "お名前は？",
+      "reading": "おなまえは？",
+      "kind": "expression",
+      "audioId": "synth-word-4a999ca62aa5a511"
+    },
+    {
+      "id": "l02-ri05",
+      "front": "简短自我介绍结束时，说“请多关照”。",
+      "back": "よろしくお願いします。",
+      "reading": "よろしくおねがいします。",
+      "kind": "expression",
+      "audioId": "synth-word-98d2d6f7a1949c53"
+    },
+    {
+      "id": "l02-ri06",
+      "front": "询问：你是学生吗？",
+      "back": "学生ですか。",
+      "reading": "がくせいですか。",
+      "kind": "expression"
+    },
+    {
+      "id": "l02-ri07",
+      "front": "理解“サラさんは会社員です”：谁是什么身份？は在这里怎样读？",
+      "back": "萨拉是公司职员。话题助词は读wa。",
+      "reading": "サラさんはかいしゃいんです。",
+      "kind": "expression"
+    },
+    {
+      "id": "l02-ri08",
+      "front": "没听清登记问题时，请再说一次。",
+      "back": "すみません。もう一度お願いします。",
+      "reading": "すみません。もういちどおねがいします。",
+      "kind": "expression",
+      "audioId": "synth-word-09414bab61325624"
+    },
+    {
+      "id": "l02-ri09",
+      "front": "中国人：读音和意义。",
+      "back": "中国人；中国国籍的人。",
+      "reading": "ちゅうごくじん",
+      "kind": "vocabulary",
+      "audioId": "synth-word-20d1235713559d99"
+    },
+    {
+      "id": "l02-ri10",
+      "front": "会社員：读音和意义。",
+      "back": "公司职员。",
+      "reading": "かいしゃいん",
+      "kind": "vocabulary",
+      "audioId": "synth-word-3270e3eb26db0108"
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l02-ext10",
+      "title": "两段介绍的事实提取表",
+      "minutes": 10,
+      "section": "practice",
+      "instructions": "使用练习15和24对应的两段官方真人录音，先不展开文本，各听最多三遍。做两行表，写出“姓名／明确听出的其他信息／仍未知”；只在听出时填写身份或来源，不按声音和姓名猜国籍。核对原文后圈出误听处。产出：两行事实表＋一条仍需重听的信息。",
+      "exerciseIds": [
+        "l02-ex15",
+        "l02-ex24"
+      ]
+    },
+    {
+      "id": "l02-ext15",
+      "title": "同一人物，三种介绍方式",
+      "minutes": 15,
+      "section": "reading",
+      "instructions": "材料用「林的介绍卡」和「登记问题需要分别回答」，两者均为原创文字、暂无配音。以虚构人物チェン（中国人、公司职员）为设定，分别写：初次认识时的三四句介绍、只被问姓名时的一句回答、被误认为学生时的一轮更正。产出：三种长度不同但信息一致的版本，并标出哪些信息因问题不同而省略。",
+      "exerciseIds": []
+    },
+    {
+      "id": "l02-ext25",
+      "title": "换提问顺序的登记交流",
+      "minutes": 25,
+      "section": "practice",
+      "instructions": "先用5分钟完成练习25，关闭词表；再用5分钟把人物改为ミナ（日本人、大学生），根据同样问题重写回答。随后用5分钟听练习26，独立抓姓名；再用5分钟读「三个人的签到信息」，各写一句“谁是什么身份”。最后用5分钟对照解析，检查姓名、国籍、身份是否串人以及有没有给自己加さん。产出：两组各三轮回应、一个听到的姓名、三条身份记录和一条修正理由。仅音频部分计入听辨，文字材料不冒充听力，口语暂不评估。",
+      "exerciseIds": [
+        "l02-ex25",
+        "l02-ex26"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看原文听两段不同人物的真人自我介绍，能记录被问到的姓名，并把听不出的来源信息标为未知而非猜测。",
+    "阅读含三个虚构人物的短材料后，准确配对姓名与身份，能指出材料没有给出的学校、城市或国籍信息。",
+    "关闭词表，用文字完成包含姓名、身份和礼貌结束语的简短介绍；能省略不必要的话题，不在自己姓名后加さん。",
+    "面对新人物设定和变化后的提问顺序，能分别回答姓名、身份与国籍，并在未听清时先请求重复再作答；本课验收只覆盖听辨、阅读和文字回应，现场口语尚未测试。"
+  ]
+}

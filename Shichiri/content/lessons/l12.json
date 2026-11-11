@@ -1,0 +1,981 @@
+{
+  "id": "l12",
+  "number": 12,
+  "moduleId": "m3",
+  "title": "描述地方与人物",
+  "subtitle": "为安静、热闹与方便等特点选对对象和修饰形式。",
+  "revision": 2,
+  "goals": [
+    "描述地方和人物的性质。",
+    "辨认并组织名词前的性质说明。",
+    "在『寻找安静房间』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第11课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「描述地方与人物」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l12-ex01",
+        "l12-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「寻找安静房间」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「小旅店的介绍」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「描述地方与人物」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l12-ex19",
+        "l12-ex20",
+        "l12-ex21",
+        "l12-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到静か、にぎやか、便利、不便，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用この部屋は静かですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「描述地方与人物」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l12-ex07",
+        "l12-ex08",
+        "l12-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「な形容词肯否」「修饰名词」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「描述地方与人物」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l12-ex02",
+        "l12-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「描述地方与人物」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l12-ex04",
+        "l12-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「小旅店的介绍」与「郊外学习室」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「描述地方与人物」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l12-ex11",
+        "l12-ex12",
+        "l12-ex13",
+        "l12-ex14",
+        "l12-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「描述地方与人物」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l12-ex06",
+        "l12-ex10",
+        "l12-ex17",
+        "l12-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l12-ext10",
+      "title": "描述地方与人物 · 10分钟迁移",
+      "instructions": "先听『寻找安静房间』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l12-ext15",
+      "title": "描述地方与人物 · 15分钟迁移",
+      "instructions": "读『小旅店的介绍』与『郊外学习室』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你想描述安静的房间，写一句。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l12-ext25",
+      "title": "描述地方与人物 · 25分钟迁移",
+      "instructions": "用5分钟听『寻找安静房间』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：朋友把有名当成安静，你要另行确认。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l12-ex13",
+        "l12-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『寻找安静房间』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『小旅店的介绍』与变体材料的条件。",
+    "关闭说明后，能在情境中使用静かです／静かじゃないです及な形容词＋な＋名词，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l12-d01",
+      "title": "寻找安静房间",
+      "context": "旅客只比较房间特点，不使用未学的比较结构。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l12-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "この部屋は静かですか。",
+          "kana": "このへやはしずかですか。",
+          "zh": "这房间安静吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、静かです。",
+          "kana": "はい、しずかです。",
+          "zh": "安静。"
+        },
+        {
+          "speaker": "客",
+          "ja": "駅の近くですか。",
+          "kana": "えきのちかくですか。",
+          "zh": "在车站附近吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、便利です。",
+          "kana": "はい、べんりです。",
+          "zh": "是，很方便。"
+        },
+        {
+          "speaker": "客",
+          "ja": "あのホテルも静かですか。",
+          "kana": "あのホテルもしずかですか。",
+          "zh": "那酒店也安静吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "いいえ、にぎやかです。",
+          "kana": "いいえ、にぎやかです。",
+          "zh": "不，很热闹。"
+        },
+        {
+          "speaker": "客",
+          "ja": "このホテルの人は親切ですか。",
+          "kana": "このホテルのひとはしんせつですか。",
+          "zh": "这酒店的人亲切吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、親切な人です。",
+          "kana": "はい、しんせつなひとです。",
+          "zh": "是，亲切的人。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l12-v01",
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "安静",
+      "pos": "な形容词",
+      "example": "この部屋は静かです。",
+      "exampleMeaning": "房间安静。",
+      "mastery": "active",
+      "audioId": "synth-word-e421285ac2ff158b"
+    },
+    {
+      "id": "l12-v02",
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "meaning": "热闹",
+      "pos": "な形容词",
+      "example": "駅はにぎやかです。",
+      "exampleMeaning": "车站热闹。",
+      "mastery": "active",
+      "audioId": "synth-word-8bbd4b468319ed12"
+    },
+    {
+      "id": "l12-v03",
+      "word": "便利",
+      "reading": "べんり",
+      "meaning": "方便",
+      "pos": "な形容词",
+      "example": "この町は便利です。",
+      "exampleMeaning": "这城镇方便。",
+      "mastery": "active",
+      "audioId": "synth-word-0ea939c89769cf93"
+    },
+    {
+      "id": "l12-v04",
+      "word": "不便",
+      "reading": "ふべん",
+      "meaning": "不方便",
+      "pos": "な形容词",
+      "example": "ここは不便です。",
+      "exampleMeaning": "这里不方便。",
+      "mastery": "active",
+      "audioId": "synth-word-9bc0443ffd548adb"
+    },
+    {
+      "id": "l12-v05",
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "亲切",
+      "pos": "な形容词",
+      "example": "先生は親切です。",
+      "exampleMeaning": "老师亲切。",
+      "mastery": "active",
+      "audioId": "synth-word-a32f46381cce2bfd"
+    },
+    {
+      "id": "l12-v06",
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "精神好",
+      "pos": "な形容词",
+      "example": "友達は元気です。",
+      "exampleMeaning": "朋友精神好。",
+      "mastery": "active",
+      "audioId": "synth-word-c7675a468cba06ee"
+    },
+    {
+      "id": "l12-v07",
+      "word": "きれい",
+      "reading": "きれい",
+      "meaning": "漂亮、干净",
+      "pos": "な形容词",
+      "example": "部屋はきれいです。",
+      "exampleMeaning": "房间干净。",
+      "mastery": "active",
+      "audioId": "synth-word-0813294cb2fc4868"
+    },
+    {
+      "id": "l12-v08",
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "有名",
+      "pos": "な形容词",
+      "example": "有名な店です。",
+      "exampleMeaning": "是有名的店。",
+      "mastery": "active",
+      "audioId": "synth-word-85759d5aa0deeb43"
+    },
+    {
+      "id": "l12-v09",
+      "word": "町",
+      "reading": "まち",
+      "meaning": "城镇",
+      "pos": "名词",
+      "example": "町です。",
+      "exampleMeaning": "是城镇。",
+      "mastery": "active",
+      "audioId": "synth-word-a3975b4a436dcb79"
+    },
+    {
+      "id": "l12-v10",
+      "word": "部屋",
+      "reading": "へや",
+      "meaning": "房间",
+      "pos": "名词",
+      "example": "この部屋は静かですか。",
+      "exampleMeaning": "这房间安静吗？",
+      "mastery": "active",
+      "audioId": "synth-word-fe1f346d51b4a7a8"
+    },
+    {
+      "id": "l12-v11",
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "人",
+      "pos": "名词",
+      "example": "このホテルの人は親切ですか。",
+      "exampleMeaning": "这酒店的人亲切吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-8ba8890fb917ec8a"
+    },
+    {
+      "id": "l12-v12",
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "附近",
+      "pos": "名词",
+      "example": "駅の近くですか。",
+      "exampleMeaning": "在车站附近吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-da03ca2c25857584"
+    },
+    {
+      "id": "l12-v13",
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "酒店",
+      "pos": "名词",
+      "example": "あのホテルも静かですか。",
+      "exampleMeaning": "那酒店也安静吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-4571b65e12c2af2e"
+    },
+    {
+      "id": "l12-v14",
+      "word": "道",
+      "reading": "みち",
+      "meaning": "道路",
+      "pos": "名词",
+      "example": "道です。",
+      "exampleMeaning": "是道路。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3338e8559d5640df"
+    },
+    {
+      "id": "l12-v15",
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "印象",
+      "pos": "名词",
+      "example": "印象です。",
+      "exampleMeaning": "是印象。",
+      "mastery": "recognition",
+      "audioId": "synth-word-40d9bb31be8b292a"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l12-e1",
+      "ja": "この部屋は静かですか。",
+      "reading": "このへやはしずかですか。",
+      "meaning": "这房间安静吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-f2d84bf88925f26e"
+    },
+    {
+      "id": "l12-e2",
+      "ja": "はい、静かです。",
+      "reading": "はい、しずかです。",
+      "meaning": "安静。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-8f05fb1b525e20ea"
+    },
+    {
+      "id": "l12-e3",
+      "ja": "あのホテルも静かですか。",
+      "reading": "あのホテルもしずかですか。",
+      "meaning": "那酒店也安静吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-8953e57973164f30"
+    },
+    {
+      "id": "l12-e4",
+      "ja": "いいえ、にぎやかです。",
+      "reading": "いいえ、にぎやかです。",
+      "meaning": "不，很热闹。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-248c6addd8133e41"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l12-g1",
+      "title": "な形容词肯否",
+      "meaning": "描述地方和人物的性质。",
+      "pattern": "静かです／静かじゃないです",
+      "explanation": "な形容词在です前不加な，否定用じゃないです。きれい虽以い结尾，也属于这类。",
+      "examples": [
+        {
+          "ja": "この町は静かじゃないです。",
+          "zh": "这个城镇不安静。"
+        }
+      ],
+      "pitfall": "きれい不变成きれくない。"
+    },
+    {
+      "id": "l12-g2",
+      "title": "修饰名词",
+      "meaning": "辨认并组织名词前的性质说明。",
+      "pattern": "な形容词＋な＋名词",
+      "explanation": "静かな部屋、親切な人；い形容词则直接接名词，如小さい部屋。",
+      "examples": [
+        {
+          "ja": "静かな部屋です。",
+          "zh": "是安静的房间。"
+        }
+      ],
+      "pitfall": "不能把な插在所有形容词后。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "静か",
+          "reading": "しずか",
+          "zh": "安静"
+        },
+        {
+          "ja": "にぎやか",
+          "reading": "にぎやか",
+          "zh": "热闹"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l12-r1",
+      "title": "小旅店的介绍",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "このホテルの部屋は静かです。駅の近くです。とても便利です。部屋は小さいです。でも、きれいです。ホテルの人は親切です。あのホテルはにぎやかです。静かな部屋ではありません。このホテルは有名なホテルではありません。",
+      "zh": "本酒店房间安静，近车站，很方便。房间小但干净，工作人员亲切。另家酒店热闹，不是安静房间。本酒店并不有名。",
+      "audioId": "l12-reading-synth"
+    },
+    {
+      "id": "l12-r2",
+      "title": "郊外学习室",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この町は静かです。駅の近くではありません。とても便利ではありません。図書室はきれいです。先生は親切です。先生は今日も元気です。広い部屋はにぎやかです。小さい部屋は静かです。有名な店はこの町にはありません。",
+      "zh": "城镇安静但不近车站，不是很方便。阅览室干净，老师亲切有精神。大房间热闹，小房间安静。这里没有有名商店。広い意为宽敞，支持词。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l12-ex01",
+      "type": "choice",
+      "prompt": "对话中这里的房间是否安静？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l12-dialogue-synth",
+      "choices": [
+        "是",
+        "不，是热闹",
+        "未说明"
+      ],
+      "correctIndex": 0,
+      "explanation": "静かです。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l12-ri5",
+        "l12-ri6"
+      ]
+    },
+    {
+      "id": "l12-ex02",
+      "type": "choice",
+      "prompt": "小旅店是否有名？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l12-reading-synth",
+      "choices": [
+        "有名",
+        "不有名",
+        "无法判断"
+      ],
+      "correctIndex": 1,
+      "explanation": "有名なホテルではありません。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l12-ex03",
+      "type": "choice",
+      "prompt": "对话中这里的房间是否安静？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "是",
+        "不，是热闹",
+        "未说明"
+      ],
+      "correctIndex": 0,
+      "explanation": "静かです。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l12-ri5",
+        "l12-ri6"
+      ]
+    },
+    {
+      "id": "l12-ex04",
+      "type": "choice",
+      "prompt": "小旅店是否有名？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "有名",
+        "不有名",
+        "无法判断"
+      ],
+      "correctIndex": 1,
+      "explanation": "有名なホテルではありません。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l12-ex05",
+      "type": "choice",
+      "prompt": "郊外学习室近车站吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "近",
+        "不近",
+        "只有老师近"
+      ],
+      "correctIndex": 1,
+      "explanation": "駅の近くではありません。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l12-ex06",
+      "type": "choice",
+      "prompt": "郊外哪个房间安静？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "小房间",
+        "大房间",
+        "两者都"
+      ],
+      "correctIndex": 0,
+      "explanation": "小さい部屋は静か。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l12-ri5"
+      ]
+    },
+    {
+      "id": "l12-ex07",
+      "type": "input",
+      "prompt": "把便利です变为本课否定。",
+      "acceptedAnswers": [
+        "便利じゃないです",
+        "便利ではないです",
+        "便利ではありません",
+        "便利じゃありません",
+        "べんりじゃないです",
+        "べんりではないです",
+        "べんりではありません",
+        "べんりじゃありません"
+      ],
+      "explanation": "な形容词用じゃないです。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l12-ri7"
+      ]
+    },
+    {
+      "id": "l12-ex08",
+      "type": "input",
+      "prompt": "填修饰连接：親切＿＿人です。",
+      "acceptedAnswers": [
+        "な"
+      ],
+      "explanation": "な形容词修饰名词用な。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l12-ri9"
+      ]
+    },
+    {
+      "id": "l12-ex09",
+      "type": "order",
+      "prompt": "用词块组成：这个城镇不方便。",
+      "tokens": [
+        "便利じゃない",
+        "です。",
+        "この町は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为この町は便利じゃないです。；な形容词用じゃないです。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l12-ri7",
+        "l12-ri8"
+      ]
+    },
+    {
+      "id": "l12-ex10",
+      "type": "order",
+      "prompt": "用词块组成：是亲切的人。",
+      "tokens": [
+        "人",
+        "です。",
+        "親切な"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为親切な人です。；な形容词修饰名词用な。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l12-ri9"
+      ]
+    },
+    {
+      "id": "l12-ex11",
+      "type": "self",
+      "prompt": "你想描述安静的房间，写一句。",
+      "sampleAnswer": "静かな部屋です。",
+      "explanation": "名词前用な。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5"
+      ]
+    },
+    {
+      "id": "l12-ex12",
+      "type": "self",
+      "prompt": "告诉朋友这里不方便。",
+      "sampleAnswer": "ここは便利じゃないです。",
+      "explanation": "性质否定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri7",
+        "l12-ri8"
+      ]
+    },
+    {
+      "id": "l12-ex13",
+      "type": "self",
+      "prompt": "问工作人员房间干不干净。",
+      "sampleAnswer": "部屋はきれいですか。",
+      "explanation": "きれい是な形容词。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l12-ex14",
+      "type": "self",
+      "prompt": "朋友把有名当成安静，你要另行确认。",
+      "sampleAnswer": "静かですか。",
+      "explanation": "有名不能推出安静。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5"
+      ]
+    },
+    {
+      "id": "l12-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你想描述安静的房间，写一句。",
+      "choices": [
+        "静かな部屋です。",
+        "ここは便利じゃないです。",
+        "部屋はきれいですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "名词前用な。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5",
+        "l12-ri7"
+      ]
+    },
+    {
+      "id": "l12-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：告诉朋友这里不方便。",
+      "choices": [
+        "部屋はきれいですか。",
+        "静かですか。",
+        "ここは便利じゃないです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "性质否定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5",
+        "l12-ri7",
+        "l12-ri8"
+      ]
+    },
+    {
+      "id": "l12-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问工作人员房间干不干净。",
+      "choices": [
+        "静かな部屋です。",
+        "部屋はきれいですか。",
+        "静かですか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "きれい是な形容词。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5"
+      ]
+    },
+    {
+      "id": "l12-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友把有名当成安静，你要另行确认。",
+      "choices": [
+        "静かですか。",
+        "静かな部屋です。",
+        "ここは便利じゃないです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "有名不能推出安静。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l12-ri5",
+        "l12-ri7"
+      ]
+    },
+    {
+      "id": "l12-ex19",
+      "type": "self",
+      "prompt": "读例句「この部屋は静かです。」。先不看词表，用中文说明「静か」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "安静",
+      "explanation": "本课这里表示“安静”。例句意思是：房间安静。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l12-ri5"
+      ]
+    },
+    {
+      "id": "l12-ex20",
+      "type": "self",
+      "prompt": "读例句「ここは不便です。」。先不看词表，用中文说明「不便」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "不方便",
+      "explanation": "本课这里表示“不方便”。例句意思是：这里不方便。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l12-ri7",
+        "l12-ri8"
+      ]
+    },
+    {
+      "id": "l12-ex21",
+      "type": "self",
+      "prompt": "读例句「部屋はきれいです。」。先不看词表，用中文说明「きれい」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "漂亮、干净",
+      "explanation": "本课这里表示“漂亮、干净”。例句意思是：房间干净。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l12-ex22",
+      "type": "self",
+      "prompt": "读例句「この部屋は静かですか。」。先不看词表，用中文说明「部屋」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "房间",
+      "explanation": "本课这里表示“房间”。例句意思是：这房间安静吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l12-ri1",
+        "l12-ri5"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l12-ri1",
+      "front": "这房间安静吗？",
+      "back": "この部屋は静かですか。",
+      "reading": "このへやはしずかですか。",
+      "audioId": "synth-word-f2d84bf88925f26e",
+      "kind": "expression"
+    },
+    {
+      "id": "l12-ri2",
+      "front": "安静。",
+      "back": "はい、静かです。",
+      "reading": "はい、しずかです。",
+      "audioId": "synth-word-8f05fb1b525e20ea",
+      "kind": "expression"
+    },
+    {
+      "id": "l12-ri3",
+      "front": "那酒店也安静吗？",
+      "back": "あのホテルも静かですか。",
+      "reading": "あのホテルもしずかですか。",
+      "audioId": "synth-word-8953e57973164f30",
+      "kind": "expression"
+    },
+    {
+      "id": "l12-ri4",
+      "front": "不，很热闹。",
+      "back": "いいえ、にぎやかです。",
+      "reading": "いいえ、にぎやかです。",
+      "audioId": "synth-word-248c6addd8133e41",
+      "kind": "expression"
+    },
+    {
+      "id": "l12-ri5",
+      "front": "静か在本课是什么意思？",
+      "back": "安静",
+      "reading": "しずか",
+      "audioId": "synth-word-e421285ac2ff158b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l12-ri6",
+      "front": "にぎやか在本课是什么意思？",
+      "back": "热闹",
+      "reading": "にぎやか",
+      "audioId": "synth-word-8bbd4b468319ed12",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l12-ri7",
+      "front": "便利在本课是什么意思？",
+      "back": "方便",
+      "reading": "べんり",
+      "audioId": "synth-word-0ea939c89769cf93",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l12-ri8",
+      "front": "不便在本课是什么意思？",
+      "back": "不方便",
+      "reading": "ふべん",
+      "audioId": "synth-word-9bc0443ffd548adb",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l12-ri9",
+      "front": "親切在本课是什么意思？",
+      "back": "亲切",
+      "reading": "しんせつ",
+      "audioId": "synth-word-a32f46381cce2bfd",
+      "kind": "vocabulary"
+    }
+  ]
+}

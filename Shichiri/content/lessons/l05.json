@@ -1,0 +1,976 @@
+{
+  "id": "l05",
+  "number": 5,
+  "moduleId": "m1",
+  "title": "寻找人、物和地点",
+  "subtitle": "在学习空间分清人和物的位置。",
+  "revision": 2,
+  "goals": [
+    "按对象选择存在表达。",
+    "根据参照物和方位找到物品。",
+    "在『找老师与钥匙』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第4课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「寻找人、物和地点」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l05-ex01",
+        "l05-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「找老师与钥匙」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「学习空间位置单」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「寻找人、物和地点」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l05-ex19",
+        "l05-ex20",
+        "l05-ex21",
+        "l05-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到ここ、そこ、あそこ、どこ，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用先生はどこですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「寻找人、物和地点」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l05-ex07",
+        "l05-ex08",
+        "l05-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「存在动词」「参照位置」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「寻找人、物和地点」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l05-ex02",
+        "l05-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「寻找人、物和地点」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l05-ex04",
+        "l05-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「学习空间位置单」与「隔壁房间」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「寻找人、物和地点」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l05-ex11",
+        "l05-ex12",
+        "l05-ex13",
+        "l05-ex14",
+        "l05-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「寻找人、物和地点」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l05-ex06",
+        "l05-ex10",
+        "l05-ex17",
+        "l05-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l05-ext10",
+      "title": "寻找人、物和地点 · 10分钟迁移",
+      "instructions": "先听『找老师与钥匙』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l05-ext15",
+      "title": "寻找人、物和地点 · 15分钟迁移",
+      "instructions": "读『学习空间位置单』与『隔壁房间』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：问洗手间在哪里。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l05-ext25",
+      "title": "寻找人、物和地点 · 25分钟迁移",
+      "instructions": "用5分钟听『找老师与钥匙』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：未听清位置，写请求重复。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l05-ex13",
+        "l05-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『找老师与钥匙』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『学习空间位置单』与变体材料的条件。",
+    "关闭说明后，能在情境中使用物は場所にあります／人は場所にいます及名词の上／下／隣，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l05-d01",
+      "title": "找老师与钥匙",
+      "context": "访客先找人，再确认物的位置。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l05-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "先生はどこですか。",
+          "kana": "せんせいはどこですか。",
+          "zh": "老师在哪里？"
+        },
+        {
+          "speaker": "係",
+          "ja": "図書室にいます。",
+          "kana": "としょしつにいます。",
+          "zh": "在阅览室。"
+        },
+        {
+          "speaker": "客",
+          "ja": "図書室はあそこですか。",
+          "kana": "としょしつはあそこですか。",
+          "zh": "阅览室是远处那里吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい。入口の隣です。",
+          "kana": "はい。いりぐちのとなりです。",
+          "zh": "对，在入口旁。"
+        },
+        {
+          "speaker": "客",
+          "ja": "かぎはどこですか。",
+          "kana": "かぎはどこですか。",
+          "zh": "钥匙在哪里？"
+        },
+        {
+          "speaker": "係",
+          "ja": "受付の机の上にあります。",
+          "kana": "うけつけのつくえのうえにあります。",
+          "zh": "在接待桌上。"
+        },
+        {
+          "speaker": "客",
+          "ja": "このかぎですか。",
+          "kana": "このかぎですか。",
+          "zh": "是这把钥匙吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、そうです。",
+          "kana": "はい、そうです。",
+          "zh": "是的。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l05-v01",
+      "word": "ここ",
+      "reading": "ここ",
+      "meaning": "这里",
+      "pos": "指示词",
+      "example": "ここ。",
+      "exampleMeaning": "这里。",
+      "mastery": "active",
+      "audioId": "synth-word-af2697eb0f9caf05"
+    },
+    {
+      "id": "l05-v02",
+      "word": "そこ",
+      "reading": "そこ",
+      "meaning": "那里、近对方",
+      "pos": "指示词",
+      "example": "図書室はあそこですか。",
+      "exampleMeaning": "阅览室是远处那里吗？",
+      "mastery": "active",
+      "audioId": "synth-word-1504684fab55410b"
+    },
+    {
+      "id": "l05-v03",
+      "word": "あそこ",
+      "reading": "あそこ",
+      "meaning": "远处那里",
+      "pos": "指示词",
+      "example": "図書室はあそこですか。",
+      "exampleMeaning": "阅览室是远处那里吗？",
+      "mastery": "active",
+      "audioId": "synth-word-8db250b4837d7968"
+    },
+    {
+      "id": "l05-v04",
+      "word": "どこ",
+      "reading": "どこ",
+      "meaning": "哪里",
+      "pos": "疑问词",
+      "example": "先生はどこですか。",
+      "exampleMeaning": "老师在哪里？",
+      "mastery": "active",
+      "audioId": "synth-word-9b96972322d0a83d"
+    },
+    {
+      "id": "l05-v05",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "接待处",
+      "pos": "名词",
+      "example": "受付の机の上にあります。",
+      "exampleMeaning": "在接待桌上。",
+      "mastery": "active",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l05-v06",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "入口",
+      "pos": "名词",
+      "example": "はい。入口の隣です。",
+      "exampleMeaning": "对，在入口旁。",
+      "mastery": "active",
+      "audioId": "synth-word-192b082f803d15bf"
+    },
+    {
+      "id": "l05-v07",
+      "word": "図書室",
+      "reading": "としょしつ",
+      "meaning": "阅览室",
+      "pos": "名词",
+      "example": "図書室にいます。",
+      "exampleMeaning": "在阅览室。",
+      "mastery": "active",
+      "audioId": "synth-word-0e692385bd2cf23a"
+    },
+    {
+      "id": "l05-v08",
+      "word": "机",
+      "reading": "つくえ",
+      "meaning": "桌子",
+      "pos": "名词",
+      "example": "受付の机の上にあります。",
+      "exampleMeaning": "在接待桌上。",
+      "mastery": "active",
+      "audioId": "synth-word-c2c25e47aef50e6b"
+    },
+    {
+      "id": "l05-v09",
+      "word": "いす",
+      "reading": "いす",
+      "meaning": "椅子",
+      "pos": "名词",
+      "example": "いすです。",
+      "exampleMeaning": "是椅子。",
+      "mastery": "active",
+      "audioId": "synth-word-c5231ee58326faf9"
+    },
+    {
+      "id": "l05-v10",
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "上面",
+      "pos": "名词",
+      "example": "受付の机の上にあります。",
+      "exampleMeaning": "在接待桌上。",
+      "mastery": "active",
+      "audioId": "synth-word-e4f4abfdc8644610"
+    },
+    {
+      "id": "l05-v11",
+      "word": "下",
+      "reading": "した",
+      "meaning": "下面",
+      "pos": "名词",
+      "example": "下です。",
+      "exampleMeaning": "是下面。",
+      "mastery": "recognition",
+      "audioId": "synth-word-07997df0171169e2"
+    },
+    {
+      "id": "l05-v12",
+      "word": "隣",
+      "reading": "となり",
+      "meaning": "旁边",
+      "pos": "名词",
+      "example": "はい。入口の隣です。",
+      "exampleMeaning": "对，在入口旁。",
+      "mastery": "recognition",
+      "audioId": "synth-word-4cb0f25cd1288c2a"
+    },
+    {
+      "id": "l05-v13",
+      "word": "あります",
+      "reading": "あります",
+      "meaning": "有、在（物）",
+      "pos": "动词",
+      "example": "受付の机の上にあります。",
+      "exampleMeaning": "在接待桌上。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8773d6d280f70d71"
+    },
+    {
+      "id": "l05-v14",
+      "word": "います",
+      "reading": "います",
+      "meaning": "有、在（人）",
+      "pos": "动词",
+      "example": "図書室にいます。",
+      "exampleMeaning": "在阅览室。",
+      "mastery": "recognition",
+      "audioId": "synth-word-df8738b3726aa0d8"
+    },
+    {
+      "id": "l05-v15",
+      "word": "トイレ",
+      "reading": "トイレ",
+      "meaning": "洗手间",
+      "pos": "名词",
+      "example": "トイレです。",
+      "exampleMeaning": "是洗手间。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f5fdc2570097a1d8"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l05-e1",
+      "ja": "先生はどこですか。",
+      "reading": "せんせいはどこですか。",
+      "meaning": "老师在哪里？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-79975e53bba6c434"
+    },
+    {
+      "id": "l05-e2",
+      "ja": "図書室にいます。",
+      "reading": "としょしつにいます。",
+      "meaning": "在阅览室。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-fc529e4ac0ce47c6"
+    },
+    {
+      "id": "l05-e3",
+      "ja": "かぎはどこですか。",
+      "reading": "かぎはどこですか。",
+      "meaning": "钥匙在哪里？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-1a01b6e2dbdabaa1"
+    },
+    {
+      "id": "l05-e4",
+      "ja": "受付の机の上にあります。",
+      "reading": "うけつけのつくえのうえにあります。",
+      "meaning": "在接待桌上。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-745afa1cdc437cf8"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l05-g1",
+      "title": "存在动词",
+      "meaning": "按对象选择存在表达。",
+      "pattern": "物は場所にあります／人は場所にいます",
+      "explanation": "钥匙、书等物用あります，人用います。先练已知对象的位置。",
+      "examples": [
+        {
+          "ja": "先生は図書室にいます。",
+          "zh": "老师在阅览室。"
+        }
+      ],
+      "pitfall": "人不能用あります。"
+    },
+    {
+      "id": "l05-g2",
+      "title": "参照位置",
+      "meaning": "根据参照物和方位找到物品。",
+      "pattern": "名词の上／下／隣",
+      "explanation": "先确认参照物，再确认上、下、隣；存在地点后用に。",
+      "examples": [
+        {
+          "ja": "かぎは机の上にあります。",
+          "zh": "钥匙在桌上。"
+        }
+      ],
+      "pitfall": "不能把桌上与桌下混同。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "ここ",
+          "reading": "ここ",
+          "zh": "这里"
+        },
+        {
+          "ja": "そこ",
+          "reading": "そこ",
+          "zh": "那里、近对方"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l05-r1",
+      "title": "学习空间位置单",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "先生は図書室にいます。ミナさんは受付にいます。受付の隣にトイレがあります。入口はあそこです。図書室は入口の隣です。本は机の上にあります。かばんはいすの下にあります。かぎは受付の机の上にあります。",
+      "zh": "老师在阅览室，米娜在接待处。洗手间在接待处旁。入口在远处，阅览室在入口旁。书在桌上，包在椅子下，钥匙在接待桌上。",
+      "audioId": "l05-reading-synth"
+    },
+    {
+      "id": "l05-r2",
+      "title": "隔壁房间",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この部屋に先生はいません。先生は隣の部屋にいます。ミナさんはここにいます。かばんは机の下にあります。本は机の上です。この部屋にかぎはありません。かぎは受付にあります。トイレはこの部屋の隣ではありません。",
+      "zh": "老师不在本房间，在隔壁。米娜在这里。包在桌下，书在桌上。本房间没有钥匙，钥匙在接待处。洗手间不在旁边。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l05-ex01",
+      "type": "choice",
+      "prompt": "老师在哪里？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l05-dialogue-synth",
+      "choices": [
+        "阅览室",
+        "接待处",
+        "洗手间"
+      ],
+      "correctIndex": 0,
+      "explanation": "図書室にいます。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l05-ri2",
+        "l05-ri8",
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex02",
+      "type": "choice",
+      "prompt": "包在哪里？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l05-reading-synth",
+      "choices": [
+        "桌上",
+        "椅子下",
+        "入口旁"
+      ],
+      "correctIndex": 1,
+      "explanation": "いすの下。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l05-ri8"
+      ]
+    },
+    {
+      "id": "l05-ex03",
+      "type": "choice",
+      "prompt": "老师在哪里？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "阅览室",
+        "接待处",
+        "洗手间"
+      ],
+      "correctIndex": 0,
+      "explanation": "図書室にいます。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri2",
+        "l05-ri8",
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex04",
+      "type": "choice",
+      "prompt": "包在哪里？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "桌上",
+        "椅子下",
+        "入口旁"
+      ],
+      "correctIndex": 1,
+      "explanation": "いすの下。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri8"
+      ]
+    },
+    {
+      "id": "l05-ex05",
+      "type": "choice",
+      "prompt": "变体中老师是否在本房间？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "在",
+        "不在，在隔壁",
+        "未知"
+      ],
+      "correctIndex": 1,
+      "explanation": "明确否定本房间。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l05-ex06",
+      "type": "choice",
+      "prompt": "变体中钥匙在哪里？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "接待处",
+        "桌下",
+        "洗手间"
+      ],
+      "correctIndex": 0,
+      "explanation": "かぎは受付。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri8",
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex07",
+      "type": "input",
+      "prompt": "根据「老师在这里」补全礼貌存在表达：先生はここに＿＿。",
+      "acceptedAnswers": [
+        "います"
+      ],
+      "explanation": "人物用います。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l05-ri5"
+      ]
+    },
+    {
+      "id": "l05-ex08",
+      "type": "input",
+      "prompt": "填助词：机の上＿＿あります。",
+      "acceptedAnswers": [
+        "に"
+      ],
+      "explanation": "位置后用に。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l05-ex09",
+      "type": "order",
+      "prompt": "用词块组成：老师在阅览室。",
+      "tokens": [
+        "図書室に",
+        "います。",
+        "先生は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为先生は図書室にいます。；人物用います。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l05-ri2"
+      ]
+    },
+    {
+      "id": "l05-ex10",
+      "type": "order",
+      "prompt": "用词块组成：钥匙在桌上。",
+      "tokens": [
+        "机の上に",
+        "あります。",
+        "かぎは"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为かぎは机の上にあります。；位置后用に。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l05-ex11",
+      "type": "self",
+      "prompt": "问洗手间在哪里。",
+      "sampleAnswer": "トイレはどこですか。",
+      "explanation": "明确要找的地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri8"
+      ]
+    },
+    {
+      "id": "l05-ex12",
+      "type": "self",
+      "prompt": "告诉朋友米娜在接待处。",
+      "sampleAnswer": "ミナさんは受付にいます。",
+      "explanation": "人物用います。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex13",
+      "type": "self",
+      "prompt": "对方说桌上，但物在桌下，写更正。",
+      "sampleAnswer": "いいえ、机の下です。",
+      "explanation": "保留方位差异。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l05-ex14",
+      "type": "self",
+      "prompt": "未听清位置，写请求重复。",
+      "sampleAnswer": "もう一度お願いします。",
+      "explanation": "先修复理解。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l05-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问洗手间在哪里。",
+      "choices": [
+        "トイレはどこですか。",
+        "ミナさんは受付にいます。",
+        "いいえ、机の下です。"
+      ],
+      "correctIndex": 0,
+      "explanation": "明确要找的地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri8",
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：告诉朋友米娜在接待处。",
+      "choices": [
+        "いいえ、机の下です。",
+        "もう一度お願いします。",
+        "ミナさんは受付にいます。"
+      ],
+      "correctIndex": 2,
+      "explanation": "人物用います。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：对方说桌上，但物在桌下，写更正。",
+      "choices": [
+        "トイレはどこですか。",
+        "いいえ、机の下です。",
+        "もう一度お願いします。"
+      ],
+      "correctIndex": 1,
+      "explanation": "保留方位差异。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri8"
+      ]
+    },
+    {
+      "id": "l05-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：未听清位置，写请求重复。",
+      "choices": [
+        "もう一度お願いします。",
+        "トイレはどこですか。",
+        "ミナさんは受付にいます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "先修复理解。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l05-ri8",
+        "l05-ri9"
+      ]
+    },
+    {
+      "id": "l05-ex19",
+      "type": "self",
+      "prompt": "读例句「ここ。」。先不看词表，用中文说明「ここ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "这里",
+      "explanation": "本课这里表示“这里”。例句意思是：这里。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri5"
+      ]
+    },
+    {
+      "id": "l05-ex20",
+      "type": "self",
+      "prompt": "读例句「先生はどこですか。」。先不看词表，用中文说明「どこ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "哪里",
+      "explanation": "本课这里表示“哪里”。例句意思是：老师在哪里？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri1",
+        "l05-ri5",
+        "l05-ri8"
+      ]
+    },
+    {
+      "id": "l05-ex21",
+      "type": "self",
+      "prompt": "读例句「図書室にいます。」。先不看词表，用中文说明「図書室」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "阅览室",
+      "explanation": "本课这里表示“阅览室”。例句意思是：在阅览室。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri2",
+        "l05-ri5"
+      ]
+    },
+    {
+      "id": "l05-ex22",
+      "type": "self",
+      "prompt": "读例句「受付の机の上にあります。」。先不看词表，用中文说明「上」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "上面",
+      "explanation": "本课这里表示“上面”。例句意思是：在接待桌上。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l05-ri4",
+        "l05-ri5",
+        "l05-ri9"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l05-ri1",
+      "front": "老师在哪里？",
+      "back": "先生はどこですか。",
+      "reading": "せんせいはどこですか。",
+      "audioId": "synth-word-79975e53bba6c434",
+      "kind": "expression"
+    },
+    {
+      "id": "l05-ri2",
+      "front": "在阅览室。",
+      "back": "図書室にいます。",
+      "reading": "としょしつにいます。",
+      "audioId": "synth-word-fc529e4ac0ce47c6",
+      "kind": "expression"
+    },
+    {
+      "id": "l05-ri3",
+      "front": "钥匙在哪里？",
+      "back": "かぎはどこですか。",
+      "reading": "かぎはどこですか。",
+      "audioId": "synth-word-1a01b6e2dbdabaa1",
+      "kind": "expression"
+    },
+    {
+      "id": "l05-ri4",
+      "front": "在接待桌上。",
+      "back": "受付の机の上にあります。",
+      "reading": "うけつけのつくえのうえにあります。",
+      "audioId": "synth-word-745afa1cdc437cf8",
+      "kind": "expression"
+    },
+    {
+      "id": "l05-ri5",
+      "front": "ここ在本课是什么意思？",
+      "back": "这里",
+      "reading": "ここ",
+      "audioId": "synth-word-af2697eb0f9caf05",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l05-ri6",
+      "front": "そこ在本课是什么意思？",
+      "back": "那里、近对方",
+      "reading": "そこ",
+      "audioId": "synth-word-1504684fab55410b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l05-ri7",
+      "front": "あそこ在本课是什么意思？",
+      "back": "远处那里",
+      "reading": "あそこ",
+      "audioId": "synth-word-8db250b4837d7968",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l05-ri8",
+      "front": "どこ在本课是什么意思？",
+      "back": "哪里",
+      "reading": "どこ",
+      "audioId": "synth-word-9b96972322d0a83d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l05-ri9",
+      "front": "受付在本课是什么意思？",
+      "back": "接待处",
+      "reading": "うけつけ",
+      "audioId": "synth-word-8309c02e7ebd8ae7",
+      "kind": "vocabulary"
+    }
+  ]
+}

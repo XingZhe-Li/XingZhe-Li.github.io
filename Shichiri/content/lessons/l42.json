@@ -1,0 +1,1107 @@
+{
+  "id": "l42",
+  "number": 42,
+  "moduleId": "m9",
+  "title": "表达给予、接受与帮助",
+  "subtitle": "同一份帮助，可以从给予者或接受者的视角说明。",
+  "revision": 2,
+  "goals": [
+    "跟踪谁为谁做事，区分くれる、もらう和あげる。",
+    "在请求帮助时考虑对方的时间和负担。",
+    "从另一位当事人的角度复述同一事件。"
+  ],
+  "prerequisites": [
+    "理解第41课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「表达给予、接受与帮助」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l42-ex01",
+        "l42-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「搬家时的帮忙」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「午前だけの手伝い」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「表达给予、接受与帮助」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l42-ex19",
+        "l42-ex20",
+        "l42-ex21",
+        "l42-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到引っ越し、荷物、友達、車，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用土曜に引っ越します。車を出してもらえますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「表达给予、接受与帮助」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l42-ex07",
+        "l42-ex08",
+        "l42-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「くれる与もらう的视角」「あげる与请求帮助」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「表达给予、接受与帮助」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l42-ex02",
+        "l42-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「表达给予、接受与帮助」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l42-ex04",
+        "l42-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「午前だけの手伝い」与「案内してくれた先輩」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「表达给予、接受与帮助」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l42-ex11",
+        "l42-ex12",
+        "l42-ex13",
+        "l42-ex14",
+        "l42-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「表达给予、接受与帮助」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l42-ex06",
+        "l42-ex10",
+        "l42-ex17",
+        "l42-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l42-ext10",
+      "title": "表达给予、接受与帮助 · 10分钟迁移",
+      "instructions": "用10分钟重读「午前だけの手伝い」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l42-ext15",
+      "title": "表达给予、接受与帮助 · 15分钟迁移",
+      "instructions": "用15分钟把「案内してくれた先輩」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l42-ext25",
+      "title": "表达给予、接受与帮助 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l42-ex13",
+        "l42-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l42-d01",
+      "title": "搬家时的帮忙",
+      "context": "林需要搬箱子，朋友愿意帮忙，但只有上午有空。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l42-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "土曜に引っ越します。車を出してもらえますか。",
+          "kana": "どようにひっこします。くるまをだしてもらえますか。",
+          "zh": "周六搬家，可以请你开车帮忙吗？"
+        },
+        {
+          "speaker": "健",
+          "ja": "午前なら手伝えます。荷物は多いですか。",
+          "kana": "ごぜんならてつだえます。にもつはおおいですか。",
+          "zh": "上午能帮忙，行李多吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "段ボールが六つです。箱は玄関に置いておきます。",
+          "kana": "だんぼーるがむっつです。はこはげんかんにおいておきます。",
+          "zh": "六个纸箱，会提前放在玄关。"
+        },
+        {
+          "speaker": "健",
+          "ja": "台所の物も運びますか。",
+          "kana": "だいどころのものもはこびますか。",
+          "zh": "厨房东西也搬吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "それは別の友達が運んでくれます。",
+          "kana": "それはべつのともだちがはこんでくれます。",
+          "zh": "那个另一位朋友会帮我搬。"
+        },
+        {
+          "speaker": "健",
+          "ja": "わかりました。雨なら入口で待っています。",
+          "kana": "わかりました。あめならいりぐちでまっています。",
+          "zh": "明白，下雨的话我在入口等。"
+        },
+        {
+          "speaker": "林",
+          "ja": "助かります。お礼に昼ご飯を作りたいです。",
+          "kana": "たすかります。おれいにひるごはんをつくりたいです。",
+          "zh": "帮大忙了，想做午饭致谢。"
+        },
+        {
+          "speaker": "健",
+          "ja": "ありがとう。でも午後は都合が悪いので、先に帰ります。",
+          "kana": "ありがとう。でもごごはつごうがわるいので、さきにかえります。",
+          "zh": "谢谢，但下午有事，得先回去。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、あとで改めてお礼をします。時間は連絡しますね。",
+          "kana": "では、あとであらためておれいをします。じかんはれんらくしますね。",
+          "zh": "那之后再正式致谢，会联系时间。"
+        },
+        {
+          "speaker": "健",
+          "ja": "無理のない予定にしましょう。",
+          "kana": "むりのないよていにしましょう。",
+          "zh": "安排得别太勉强吧。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l42-v01",
+      "word": "引っ越し",
+      "reading": "ひっこし",
+      "meaning": "搬家",
+      "pos": "名词",
+      "example": "土曜に引っ越します。車を出してもらえますか。",
+      "exampleMeaning": "周六搬家，可以请你开车帮忙吗？",
+      "mastery": "active",
+      "audioId": "synth-word-6b50ca696473382a"
+    },
+    {
+      "id": "l42-v02",
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "行李；物品",
+      "pos": "名词",
+      "example": "午前なら手伝えます。荷物は多いですか。",
+      "exampleMeaning": "上午能帮忙，行李多吗？",
+      "mastery": "active",
+      "audioId": "synth-word-c1bc9c45a9737752"
+    },
+    {
+      "id": "l42-v03",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "pos": "名词",
+      "example": "それは別の友達が運んでくれます。",
+      "exampleMeaning": "那个另一位朋友会帮我搬。",
+      "mastery": "active",
+      "audioId": "synth-word-090a89bc15fda3bd"
+    },
+    {
+      "id": "l42-v04",
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "车",
+      "pos": "名词",
+      "example": "土曜に引っ越します。車を出してもらえますか。",
+      "exampleMeaning": "周六搬家，可以请你开车帮忙吗？",
+      "mastery": "active",
+      "audioId": "synth-word-e1192d669b304c6a"
+    },
+    {
+      "id": "l42-v05",
+      "word": "段ボール",
+      "reading": "だんぼーる",
+      "meaning": "纸箱",
+      "pos": "名词",
+      "example": "段ボールが六つです。箱は玄関に置いておきます。",
+      "exampleMeaning": "六个纸箱，会提前放在玄关。",
+      "mastery": "active",
+      "audioId": "synth-word-2f8eaa856a17129c"
+    },
+    {
+      "id": "l42-v06",
+      "word": "箱",
+      "reading": "はこ",
+      "meaning": "箱子",
+      "pos": "名词",
+      "example": "段ボールが六つです。箱は玄関に置いておきます。",
+      "exampleMeaning": "六个纸箱，会提前放在玄关。",
+      "mastery": "active",
+      "audioId": "synth-word-8e8315aaa9584b06"
+    },
+    {
+      "id": "l42-v07",
+      "word": "玄関",
+      "reading": "げんかん",
+      "meaning": "玄关",
+      "pos": "名词",
+      "example": "段ボールが六つです。箱は玄関に置いておきます。",
+      "exampleMeaning": "六个纸箱，会提前放在玄关。",
+      "mastery": "active",
+      "audioId": "synth-word-60d17030b902106b"
+    },
+    {
+      "id": "l42-v08",
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "厨房",
+      "pos": "名词",
+      "example": "台所の物も運びますか。",
+      "exampleMeaning": "厨房东西也搬吗？",
+      "mastery": "active",
+      "audioId": "synth-word-e14a87527ffba18a"
+    },
+    {
+      "id": "l42-v09",
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "帮忙",
+      "pos": "名词",
+      "example": "雨が強くなる前に作業を終えたかったので、手伝いの人数と担当も先に決めました。",
+      "exampleMeaning": "为在雨变大前做完，提前定了帮忙人数和分工。",
+      "mastery": "active",
+      "audioId": "synth-word-373f5d6bd33445fa"
+    },
+    {
+      "id": "l42-v10",
+      "word": "お礼",
+      "reading": "おれい",
+      "meaning": "谢意；回礼",
+      "pos": "名词",
+      "example": "助かります。お礼に昼ご飯を作りたいです。",
+      "exampleMeaning": "帮大忙了，想做午饭致谢。",
+      "mastery": "active",
+      "audioId": "synth-word-07f83005bc2ace93"
+    },
+    {
+      "id": "l42-v11",
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "雨",
+      "pos": "名词",
+      "example": "わかりました。雨なら入口で待っています。",
+      "exampleMeaning": "明白，下雨的话我在入口等。",
+      "mastery": "active",
+      "audioId": "synth-word-da749fbe0ec9c603"
+    },
+    {
+      "id": "l42-v12",
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "上午",
+      "pos": "名词",
+      "example": "午前なら手伝えます。荷物は多いですか。",
+      "exampleMeaning": "上午能帮忙，行李多吗？",
+      "mastery": "active",
+      "audioId": "synth-word-7436e1589b064e67"
+    },
+    {
+      "id": "l42-v13",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "下午",
+      "pos": "名词",
+      "example": "ありがとう。でも午後は都合が悪いので、先に帰ります。",
+      "exampleMeaning": "谢谢，但下午有事，得先回去。",
+      "mastery": "active",
+      "audioId": "synth-word-a781a119e4a034f7"
+    },
+    {
+      "id": "l42-v14",
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "时间安排；方便与否",
+      "pos": "名词",
+      "example": "ありがとう。でも午後は都合が悪いので、先に帰ります。",
+      "exampleMeaning": "谢谢，但下午有事，得先回去。",
+      "mastery": "active",
+      "audioId": "synth-word-b292f4280f41d900"
+    },
+    {
+      "id": "l42-v15",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系",
+      "pos": "名词",
+      "example": "では、あとで改めてお礼をします。時間は連絡しますね。",
+      "exampleMeaning": "那之后再正式致谢，会联系时间。",
+      "mastery": "active",
+      "audioId": "synth-word-82db684775389331"
+    },
+    {
+      "id": "l42-v16",
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "车站",
+      "pos": "名词",
+      "example": "入学したばかりの時、私は教室の場所がわからず、駅の出口で困っていました。",
+      "exampleMeaning": "刚入学时，我不知道教室位置，在车站出口犯难。",
+      "mastery": "active",
+      "audioId": "synth-word-8754aeb54e9fe5ec"
+    },
+    {
+      "id": "l42-v17",
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "学长；前辈",
+      "pos": "名词",
+      "example": "その時、先輩が大学まで案内してくれて、授業に遅れずに着くことができました。",
+      "exampleMeaning": "当时前辈带我到大学，让我没有迟到。",
+      "mastery": "active",
+      "audioId": "synth-word-18e057fc807a2347"
+    },
+    {
+      "id": "l42-v18",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "引导",
+      "pos": "名词",
+      "example": "その時、先輩が大学まで案内してくれて、授業に遅れずに着くことができました。",
+      "exampleMeaning": "当时前辈带我到大学，让我没有迟到。",
+      "mastery": "active",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    },
+    {
+      "id": "l42-v19",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "資料の準備は友達に手伝ってもらいましたが、説明は自分で行いました。",
+      "exampleMeaning": "朋友帮助准备资料，但说明由我自己完成。",
+      "mastery": "recognition",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l42-v20",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "pos": "名词",
+      "example": "資料の準備は友達に手伝ってもらいましたが、説明は自分で行いました。",
+      "exampleMeaning": "朋友帮助准备资料，但说明由我自己完成。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ba4012c7fd216ad8"
+    },
+    {
+      "id": "l42-v21",
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "负责的人；分工",
+      "pos": "名词",
+      "example": "雨が強くなる前に作業を終えたかったので、手伝いの人数と担当も先に決めました。",
+      "exampleMeaning": "为在雨变大前做完，提前定了帮忙人数和分工。",
+      "mastery": "recognition",
+      "audioId": "synth-word-dfae24e20c53efbc"
+    },
+    {
+      "id": "l42-v22",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "資料の準備は友達に手伝ってもらいましたが、説明は自分で行いました。",
+      "exampleMeaning": "朋友帮助准备资料，但说明由我自己完成。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l42-v23",
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "工作；作业",
+      "pos": "名词",
+      "example": "雨が強くなる前に作業を終えたかったので、手伝いの人数と担当も先に決めました。",
+      "exampleMeaning": "为在雨变大前做完，提前定了帮忙人数和分工。",
+      "mastery": "recognition",
+      "audioId": "synth-word-099c76db41d939b7"
+    },
+    {
+      "id": "l42-v24",
+      "word": "人数",
+      "reading": "にんずう",
+      "meaning": "人数",
+      "pos": "名词",
+      "example": "雨が強くなる前に作業を終えたかったので、手伝いの人数と担当も先に決めました。",
+      "exampleMeaning": "为在雨变大前做完，提前定了帮忙人数和分工。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d1aab84551c86f4a"
+    },
+    {
+      "id": "l42-v25",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "pos": "名词",
+      "example": "健さんとの約束は午前だけで、午後に食事まで付き合ってもらう予定ではありませんでした。",
+      "exampleMeaning": "约定只在上午帮忙，并非下午还要陪吃饭。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7f966c1b4f81617f"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l42-e1",
+      "ja": "土曜に引っ越します。車を出してもらえますか。",
+      "reading": "どようにひっこします。くるまをだしてもらえますか。",
+      "meaning": "周六搬家，可以请你开车帮忙吗？",
+      "usage": "征求对方是否愿意提供具体帮助",
+      "audioId": "synth-word-80ef97d2f1da1207"
+    },
+    {
+      "id": "l42-e2",
+      "ja": "それは別の友達が運んでくれます。",
+      "reading": "それはべつのともだちがはこんでくれます。",
+      "meaning": "那个另一位朋友会帮我搬。",
+      "usage": "从受助者一方说明别人做出的帮助",
+      "audioId": "synth-word-4d8aa681fd171af1"
+    },
+    {
+      "id": "l42-e3",
+      "ja": "助かります。お礼に昼ご飯を作りたいです。",
+      "reading": "たすかります。おれいにひるごはんをつくりたいです。",
+      "meaning": "帮大忙了，想做午饭致谢。",
+      "usage": "表达感谢并提出回馈",
+      "audioId": "synth-word-450d2359464c9c4e"
+    },
+    {
+      "id": "l42-e4",
+      "ja": "ありがとう。でも午後は都合が悪いので、先に帰ります。",
+      "reading": "ありがとう。でもごごはつごうがわるいので、さきにかえります。",
+      "meaning": "谢谢，但下午有事，得先回去。",
+      "usage": "感谢对方同时保留自己的时间限制",
+      "audioId": "synth-word-fca45d37f0c9dffa"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l42-g1",
+      "title": "くれる与もらう的视角",
+      "meaning": "同一帮助分别以帮助者或受助者为话题。",
+      "pattern": "友達が運んでくれた。／私は友達に運んでもらった。",
+      "explanation": "くれる常指别人为我方做事；もらう让接受帮助的人作主语，に标记提供者。",
+      "examples": [
+        {
+          "ja": "健さんが車を出してくれました。",
+          "zh": "健帮我开了车。"
+        },
+        {
+          "ja": "私は健さんに荷物を運んでもらいました。",
+          "zh": "我请健帮忙搬了东西。"
+        }
+      ],
+      "pitfall": "不能仅换动词而不改变相应人物关系。"
+    },
+    {
+      "id": "l42-g2",
+      "title": "あげる与请求帮助",
+      "meaning": "表达为他人做事时注意关系与语气。",
+      "pattern": "〜てあげる。／〜てもらえますか。",
+      "explanation": "あげる可叙述我方为别人做事，但直接对对方强调有时显得施恩。请求时说明具体动作并留拒绝空间。",
+      "examples": [
+        {
+          "ja": "私は友達に地図を描いてあげました。",
+          "zh": "我帮朋友画了地图。"
+        },
+        {
+          "ja": "駅まで案内してもらえますか。",
+          "zh": "能请你带我到车站吗？"
+        }
+      ],
+      "pitfall": "不要把もらう误解成一定收费，也不必当面强调自分がしてあげた。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "引っ越し",
+          "reading": "ひっこし",
+          "zh": "搬家"
+        },
+        {
+          "ja": "荷物",
+          "reading": "にもつ",
+          "zh": "行李；物品"
+        },
+        {
+          "ja": "友達",
+          "reading": "ともだち",
+          "zh": "朋友"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l42-r1",
+      "title": "午前だけの手伝い",
+      "context": "搬家后写给另一位朋友的记录，注意谁帮助谁及承诺范围。",
+      "ja": "引っ越しの日、健さんが車を出してくれたので、大きな荷物を一度に運べました。私は前の晩に段ボールへ物を入れ、箱を玄関の近くにまとめておきました。台所の物は別の友達が運んでくれたため、健さんに全部を頼まずにすみました。雨が強くなる前に作業を終えたかったので、手伝いの人数と担当も先に決めました。健さんとの約束は午前だけで、午後に食事まで付き合ってもらう予定ではありませんでした。私はお礼に昼ご飯を作るつもりでしたが、相手の都合を聞いて別の日に変更しました。助けてもらったからこそ、感謝だけでなく、相手の時間を尊重することも必要だと思います。終わってから短い連絡を送り、具体的に何が助かったのかを伝えました。",
+      "zh": "搬家当天，健开车帮忙，让大件物品一次运完。我前晚把东西装箱，集中放在玄关附近。厨房物品由另一位朋友搬，不用把全部工作都拜托健。为在雨变大前做完，提前定了帮忙人数和分工。约定只在上午帮忙，并非下午还要陪吃饭。我原想做午饭致谢，听到他的安排后改为另一天。正因受到帮助，不仅要感谢，也需尊重对方时间。结束后发了简短信息，具体说明哪些帮助很有用。",
+      "audioId": "l42-reading-synth"
+    },
+    {
+      "id": "l42-r2",
+      "title": "案内してくれた先輩",
+      "context": "同一所大学里，受助者后来也承担了帮助别人的角色。",
+      "ja": "入学したばかりの時、私は教室の場所がわからず、駅の出口で困っていました。その時、先輩が大学まで案内してくれて、授業に遅れずに着くことができました。私は先輩に地図も描いてもらい、よく使う建物の名前をメモに残しました。数か月後、新しい留学生が来た時には、私が案内の担当になりました。資料の準備は友達に手伝ってもらいましたが、説明は自分で行いました。相手が困っていることを先に聞き、必要のない情報を一度に話さないようにしました。自分が受けた助けと同じ内容を、そのまま全員に渡せばよいわけではありません。今回は歩くのが難しい人もいたので、別の移動方法を一緒に考えました。誰が何を必要としているかを確認することで、助け方も変わりました。",
+      "zh": "刚入学时，我不知道教室位置，在车站出口犯难。当时前辈带我到大学，让我没有迟到。我还请前辈画了地图，记下常用建筑名称。几个月后新留学生来时，轮到我负责引导。朋友帮助准备资料，但说明由我自己完成。我先问对方困在哪里，不一次性讲不需要的信息。并不是把自己得到的帮助原样提供给所有人就好。这次有人步行困难，便一起考虑其他交通方式。确认谁需要什么，帮助的方法也随之变化。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l42-ex01",
+      "type": "choice",
+      "prompt": "健什么时候必须离开？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l42-dialogue-synth",
+      "choices": [
+        "上午开始前",
+        "下午有事所以先回去",
+        "必须一直留到晚上"
+      ],
+      "correctIndex": 1,
+      "explanation": "他说午後は都合が悪いので先に帰る。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex02",
+      "type": "choice",
+      "prompt": "主阅读台所物品由谁搬？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l42-reading-synth",
+      "choices": [
+        "另一位朋友",
+        "全部由健",
+        "作者完全没搬"
+      ],
+      "correctIndex": 0,
+      "explanation": "材料明确分担，而非全交给健。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex03",
+      "type": "choice",
+      "prompt": "健承诺的帮忙范围是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "上午搬运",
+        "全天包括聚餐",
+        "只提供纸箱不出车"
+      ],
+      "correctIndex": 0,
+      "explanation": "约定只到上午。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri8",
+        "l42-ri9"
+      ]
+    },
+    {
+      "id": "l42-ex04",
+      "type": "choice",
+      "prompt": "为什么另约时间表达谢意？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "作者不再感谢他",
+        "所有东西都没搬完",
+        "健下午已有安排"
+      ],
+      "correctIndex": 2,
+      "explanation": "感谢不能覆盖对方时间条件。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex05",
+      "type": "choice",
+      "prompt": "作者后来负责什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "收费出租车辆",
+        "为新留学生引导",
+        "替前辈参加考试"
+      ],
+      "correctIndex": 1,
+      "explanation": "文中说自己成为案内担当。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri8"
+      ]
+    },
+    {
+      "id": "l42-ex06",
+      "type": "choice",
+      "prompt": "为何不能原样复制过去的帮助？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "新来者需求与行动条件不同",
+        "旧地图肯定全部错误",
+        "所有人都拒绝帮助"
+      ],
+      "correctIndex": 0,
+      "explanation": "例子中有人步行困难，需要不同方案。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex07",
+      "type": "input",
+      "prompt": "从受助者视角补空：私は友達＿＿駅まで案内してもらいました。",
+      "acceptedAnswers": [
+        "に",
+        "から"
+      ],
+      "explanation": "に标示帮助的提供者；から在这里也能表达从朋友那里得到引导。主线先掌握Vてもらう的授受视角。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex08",
+      "type": "order",
+      "prompt": "表达朋友为我搬了箱子。",
+      "tokens": [
+        "くれました",
+        "。",
+        "運んで",
+        "箱を",
+        "友達が"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "くれる以帮助者为动作主体。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex09",
+      "type": "choice",
+      "prompt": "原句“先輩が私に説明してくれた”换视角后哪句一致？",
+      "choices": [
+        "私は先輩に説明してあげた。",
+        "私は先輩に説明してもらった。",
+        "先輩は私に説明してもらった。"
+      ],
+      "correctIndex": 1,
+      "explanation": "换视角不能颠倒帮助方向。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex10",
+      "type": "input",
+      "prompt": "礼貌请求：資料を確認して＿＿ますか。（请你帮我确认）",
+      "acceptedAnswers": [
+        "もらえ",
+        "くれ",
+        "いただけ",
+        "頂け"
+      ],
+      "explanation": "確認してもらえますか、くれますか、いただけますか都可请求对方确认，授受视角和礼貌距离不同。自由请求不只有一种自然说法。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex11",
+      "type": "self",
+      "prompt": "朋友只答应上午帮忙，你想致谢但不延长承诺。写回应。",
+      "sampleAnswer": "午前中、手伝ってくれてありがとう。お礼は別の日にさせてください。",
+      "explanation": "尊重原时间范围，不默认需留下吃饭。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex12",
+      "type": "self",
+      "prompt": "把“友達が地図を描いてくれました”从自己的受助视角重述。",
+      "sampleAnswer": "私は友達に地図を描いてもらいました。",
+      "explanation": "主语与に的对应正确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex13",
+      "type": "self",
+      "prompt": "你想帮助行动不便的新同学，先写一句确认需求的询问。",
+      "sampleAnswer": "駅から歩くのは大丈夫ですか。必要なら別の方法を一緒に考えます。",
+      "explanation": "先确认需要，不直接决定如何帮。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex14",
+      "type": "self",
+      "prompt": "给曾帮助你的人写两句具体感谢，避免只有空泛称赞。",
+      "sampleAnswer": "駅まで案内してくれて、ありがとうございました。おかげで授業に間に合いました。",
+      "explanation": "指出具体行为和产生的帮助。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l42-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「土曜に引っ越します。車を出してもらえますか。」主要用于什么？",
+      "choices": [
+        "征求对方是否愿意提供具体帮助",
+        "从受助者一方说明别人做出的帮助",
+        "表达感谢并提出回馈"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“周六搬家，可以请你开车帮忙吗？”。结合前后交流，其作用是：征求对方是否愿意提供具体帮助",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri1",
+        "l42-ri5",
+        "l42-ri8"
+      ]
+    },
+    {
+      "id": "l42-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「それは別の友達が運んでくれます。」主要用于什么？",
+      "choices": [
+        "表达感谢并提出回馈",
+        "感谢对方同时保留自己的时间限制",
+        "从受助者一方说明别人做出的帮助"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“那个另一位朋友会帮我搬。”。结合前后交流，其作用是：从受助者一方说明别人做出的帮助",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri2",
+        "l42-ri7"
+      ]
+    },
+    {
+      "id": "l42-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「助かります。お礼に昼ご飯を作りたいです。」主要用于什么？",
+      "choices": [
+        "征求对方是否愿意提供具体帮助",
+        "表达感谢并提出回馈",
+        "感谢对方同时保留自己的时间限制"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“帮大忙了，想做午饭致谢。”。结合前后交流，其作用是：表达感谢并提出回馈",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri3"
+      ]
+    },
+    {
+      "id": "l42-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「ありがとう。でも午後は都合が悪いので、先に帰ります。」主要用于什么？",
+      "choices": [
+        "感谢对方同时保留自己的时间限制",
+        "征求对方是否愿意提供具体帮助",
+        "从受助者一方说明别人做出的帮助"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“谢谢，但下午有事，得先回去。”。结合前后交流，其作用是：感谢对方同时保留自己的时间限制",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l42-ri4"
+      ]
+    },
+    {
+      "id": "l42-ex19",
+      "type": "self",
+      "prompt": "读例句「土曜に引っ越します。車を出してもらえますか。」。先不看词表，用中文说明「引っ越し」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "搬家",
+      "explanation": "本课这里表示“搬家”。例句意思是：周六搬家，可以请你开车帮忙吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri1",
+        "l42-ri5",
+        "l42-ri8"
+      ]
+    },
+    {
+      "id": "l42-ex20",
+      "type": "self",
+      "prompt": "读例句「土曜に引っ越します。車を出してもらえますか。」。先不看词表，用中文说明「車」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "车",
+      "explanation": "本课这里表示“车”。例句意思是：周六搬家，可以请你开车帮忙吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri1",
+        "l42-ri5",
+        "l42-ri8"
+      ]
+    },
+    {
+      "id": "l42-ex21",
+      "type": "self",
+      "prompt": "读例句「段ボールが六つです。箱は玄関に置いておきます。」。先不看词表，用中文说明「玄関」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "玄关",
+      "explanation": "本课这里表示“玄关”。例句意思是：六个纸箱，会提前放在玄关。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri9"
+      ]
+    },
+    {
+      "id": "l42-ex22",
+      "type": "self",
+      "prompt": "读例句「助かります。お礼に昼ご飯を作りたいです。」。先不看词表，用中文说明「お礼」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "谢意；回礼",
+      "explanation": "本课这里表示“谢意；回礼”。例句意思是：帮大忙了，想做午饭致谢。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l42-ri3"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l42-ri1",
+      "front": "周六搬家，可以请你开车帮忙吗？",
+      "back": "土曜に引っ越します。車を出してもらえますか。",
+      "reading": "どようにひっこします。くるまをだしてもらえますか。",
+      "audioId": "synth-word-80ef97d2f1da1207",
+      "kind": "expression"
+    },
+    {
+      "id": "l42-ri2",
+      "front": "那个另一位朋友会帮我搬。",
+      "back": "それは別の友達が運んでくれます。",
+      "reading": "それはべつのともだちがはこんでくれます。",
+      "audioId": "synth-word-4d8aa681fd171af1",
+      "kind": "expression"
+    },
+    {
+      "id": "l42-ri3",
+      "front": "帮大忙了，想做午饭致谢。",
+      "back": "助かります。お礼に昼ご飯を作りたいです。",
+      "reading": "たすかります。おれいにひるごはんをつくりたいです。",
+      "audioId": "synth-word-450d2359464c9c4e",
+      "kind": "expression"
+    },
+    {
+      "id": "l42-ri4",
+      "front": "谢谢，但下午有事，得先回去。",
+      "back": "ありがとう。でも午後は都合が悪いので、先に帰ります。",
+      "reading": "ありがとう。でもごごはつごうがわるいので、さきにかえります。",
+      "audioId": "synth-word-fca45d37f0c9dffa",
+      "kind": "expression"
+    },
+    {
+      "id": "l42-ri5",
+      "front": "引っ越し在本课是什么意思？",
+      "back": "搬家",
+      "reading": "ひっこし",
+      "audioId": "synth-word-6b50ca696473382a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l42-ri6",
+      "front": "荷物在本课是什么意思？",
+      "back": "行李；物品",
+      "reading": "にもつ",
+      "audioId": "synth-word-c1bc9c45a9737752",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l42-ri7",
+      "front": "友達在本课是什么意思？",
+      "back": "朋友",
+      "reading": "ともだち",
+      "audioId": "synth-word-090a89bc15fda3bd",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l42-ri8",
+      "front": "車在本课是什么意思？",
+      "back": "车",
+      "reading": "くるま",
+      "audioId": "synth-word-e1192d669b304c6a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l42-ri9",
+      "front": "段ボール在本课是什么意思？",
+      "back": "纸箱",
+      "reading": "だんぼーる",
+      "audioId": "synth-word-2f8eaa856a17129c",
+      "kind": "vocabulary"
+    }
+  ]
+}

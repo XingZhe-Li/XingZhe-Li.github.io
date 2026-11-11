@@ -1,0 +1,1109 @@
+{
+  "id": "l51",
+  "number": 51,
+  "moduleId": "m11",
+  "title": "理解正式服务中的敬语",
+  "subtitle": "先听懂服务人员在做什么，再用自己能掌握的礼貌表达回应。",
+  "revision": 2,
+  "goals": [
+    "从常见敬语识别来访、询问、查看与等候动作。",
+    "区分尊敬与谦让所指的人物方向。",
+    "在正式接待中保留姓名、用件与预约条件。"
+  ],
+  "prerequisites": [
+    "理解第50课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「理解正式服务中的敬语」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l51-ex01",
+        "l51-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「资料馆的预约来访」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「受付で確認すること」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「理解正式服务中的敬语」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l51-ex19",
+        "l51-ex20",
+        "l51-ex21",
+        "l51-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到訪問、予約、受付、用件，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用ご用件を伺ってもよろしいですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「理解正式服务中的敬语」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l51-ex07",
+        "l51-ex08",
+        "l51-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「尊敬与谦让的方向」「服务表达与简单回应」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「理解正式服务中的敬语」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l51-ex02",
+        "l51-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「理解正式服务中的敬语」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l51-ex04",
+        "l51-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「受付で確認すること」与「会社への電話で聞いた言葉」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「理解正式服务中的敬语」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l51-ex11",
+        "l51-ex12",
+        "l51-ex13",
+        "l51-ex14",
+        "l51-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「理解正式服务中的敬语」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l51-ex06",
+        "l51-ex10",
+        "l51-ex17",
+        "l51-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l51-ext10",
+      "title": "理解正式服务中的敬语 · 10分钟迁移",
+      "instructions": "用10分钟重读「受付で確認すること」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l51-ext15",
+      "title": "理解正式服务中的敬语 · 15分钟迁移",
+      "instructions": "用15分钟把「会社への電話で聞いた言葉」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l51-ext25",
+      "title": "理解正式服务中的敬语 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l51-ex13",
+        "l51-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l51-d01",
+      "title": "资料馆的预约来访",
+      "context": "林按预约来资料馆咨询。接待员使用敬语，林不必模仿全部形式。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l51-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "受付",
+          "ja": "本日はお越しいただき、ありがとうございます。",
+          "kana": "ほんじつはおこしいただき、ありがとうございます。",
+          "zh": "感谢今天来访。"
+        },
+        {
+          "speaker": "林",
+          "ja": "二時に予約した林です。",
+          "kana": "にじによやくしたりんです。",
+          "zh": "我是预约两点的林。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "ご用件を伺ってもよろしいですか。",
+          "kana": "ごようけんをうかがってもよろしいですか。",
+          "zh": "可以询问来意吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "地域の写真資料について相談したいです。",
+          "kana": "ちいきのしゃしんしりょうについてそうだんしたいです。",
+          "zh": "想咨询本地区照片资料。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "担当者はただいま席を外しております。少々お待ちください。",
+          "kana": "たんとうしゃはただいませきをはずしております。しょうしょうおまちください。",
+          "zh": "负责人暂时离席，请稍等。"
+        },
+        {
+          "speaker": "林",
+          "ja": "わかりました。こちらで待てばいいですか。",
+          "kana": "わかりました。こちらでまてばいいですか。",
+          "zh": "明白，在这等就可以吗？"
+        },
+        {
+          "speaker": "受付",
+          "ja": "はい。先に予約の確認書を拝見してもよろしいでしょうか。",
+          "kana": "はい。さきによやくのかくにんしょをはいけんしてもよろしいでしょうか。",
+          "zh": "可以，可以先看预约确认书吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい、どうぞ。質問のメモもあります。",
+          "kana": "はい、どうぞ。しつもんのめももあります。",
+          "zh": "请看，也准备了问题备忘。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "担当者がお戻りになりましたら、ご案内いたします。",
+          "kana": "たんとうしゃがおもどりになりましたら、ごあんないいたします。",
+          "zh": "负责人回来后为您引导。"
+        },
+        {
+          "speaker": "林",
+          "ja": "ありがとうございます。不明な点はもう一度確認します。",
+          "kana": "ありがとうございます。ふめいなてんはもういちどかくにんします。",
+          "zh": "谢谢，不清楚的地方我会再确认。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l51-v01",
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "访问",
+      "pos": "名词",
+      "example": "予約した資料館を訪問した時、受付では氏名と用件を確認されました。",
+      "exampleMeaning": "预约来访资料馆时，前台确认姓名与来意。",
+      "mastery": "active",
+      "audioId": "synth-word-bd7fc8b3d604234b"
+    },
+    {
+      "id": "l51-v02",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "二時に予約した林です。",
+      "exampleMeaning": "我是预约两点的林。",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l51-v03",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "接待处",
+      "pos": "名词",
+      "example": "予約した資料館を訪問した時、受付では氏名と用件を確認されました。",
+      "exampleMeaning": "预约来访资料馆时，前台确认姓名与来意。",
+      "mastery": "active",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l51-v04",
+      "word": "用件",
+      "reading": "ようけん",
+      "meaning": "事情；来意",
+      "pos": "名词",
+      "example": "ご用件を伺ってもよろしいですか。",
+      "exampleMeaning": "可以询问来意吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ee62f6d07498541e"
+    },
+    {
+      "id": "l51-v05",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "地域の写真資料について相談したいです。",
+      "exampleMeaning": "想咨询本地区照片资料。",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l51-v06",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者はただいま席を外しております。少々お待ちください。",
+      "exampleMeaning": "负责人暂时离席，请稍等。",
+      "mastery": "active",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l51-v07",
+      "word": "席",
+      "reading": "せき",
+      "meaning": "座位",
+      "pos": "名词",
+      "example": "担当者はただいま席を外しております。少々お待ちください。",
+      "exampleMeaning": "负责人暂时离席，请稍等。",
+      "mastery": "active",
+      "audioId": "synth-word-1fe73de283feddd9"
+    },
+    {
+      "id": "l51-v08",
+      "word": "確認書",
+      "reading": "かくにんしょ",
+      "meaning": "确认书",
+      "pos": "名词",
+      "example": "はい。先に予約の確認書を拝見してもよろしいでしょうか。",
+      "exampleMeaning": "可以，可以先看预约确认书吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ffe20a05ae4f8662"
+    },
+    {
+      "id": "l51-v09",
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "问题",
+      "pos": "名词",
+      "example": "はい、どうぞ。質問のメモもあります。",
+      "exampleMeaning": "请看，也准备了问题备忘。",
+      "mastery": "active",
+      "audioId": "synth-word-f2e8175baf9fe144"
+    },
+    {
+      "id": "l51-v10",
+      "word": "メモ",
+      "reading": "めも",
+      "meaning": "备忘",
+      "pos": "名词",
+      "example": "はい、どうぞ。質問のメモもあります。",
+      "exampleMeaning": "请看，也准备了问题备忘。",
+      "mastery": "active",
+      "audioId": "synth-word-d2b497ca07e7762b"
+    },
+    {
+      "id": "l51-v11",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "引导",
+      "pos": "名词",
+      "example": "担当者がお戻りになりましたら、ご案内いたします。",
+      "exampleMeaning": "负责人回来后为您引导。",
+      "mastery": "active",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    },
+    {
+      "id": "l51-v12",
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "姓名",
+      "pos": "名词",
+      "example": "予約した資料館を訪問した時、受付では氏名と用件を確認されました。",
+      "exampleMeaning": "预约来访资料馆时，前台确认姓名与来意。",
+      "mastery": "active",
+      "audioId": "synth-word-8e333c7746ffe85f"
+    },
+    {
+      "id": "l51-v13",
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "本人",
+      "pos": "名词",
+      "example": "私は相手に自分の予約の確認書と質問のメモを見せ、本人確認のために身分証も準備しました。",
+      "exampleMeaning": "我向对方出示预约确认书与问题备忘，也准备身份凭证。",
+      "mastery": "active",
+      "audioId": "synth-word-93dcefda27771ac0"
+    },
+    {
+      "id": "l51-v14",
+      "word": "身分証",
+      "reading": "みぶんしょう",
+      "meaning": "身份证明",
+      "pos": "名词",
+      "example": "私は相手に自分の予約の確認書と質問のメモを見せ、本人確認のために身分証も準備しました。",
+      "exampleMeaning": "我向对方出示预约确认书与问题备忘，也准备身份凭证。",
+      "mastery": "active",
+      "audioId": "synth-word-d496f524b0a4798d"
+    },
+    {
+      "id": "l51-v15",
+      "word": "館内",
+      "reading": "かんない",
+      "meaning": "馆内",
+      "pos": "名词",
+      "example": "館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。",
+      "exampleMeaning": "虽然说明很礼貌，我仍因陌生表达再次询问意思。",
+      "mastery": "active",
+      "audioId": "synth-word-69969c3faae29406"
+    },
+    {
+      "id": "l51-v16",
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "手续",
+      "pos": "名词",
+      "example": "館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。",
+      "exampleMeaning": "虽然说明很礼貌，我仍因陌生表达再次询问意思。",
+      "mastery": "active",
+      "audioId": "synth-word-d0c9e7bbab248365"
+    },
+    {
+      "id": "l51-v17",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。",
+      "exampleMeaning": "虽然说明很礼貌，我仍因陌生表达再次询问意思。",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l51-v18",
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaning": "礼貌；仔细",
+      "pos": "な形容词",
+      "example": "館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。",
+      "exampleMeaning": "虽然说明很礼貌，我仍因陌生表达再次询问意思。",
+      "mastery": "active",
+      "audioId": "synth-word-ed1a855c5a73d651"
+    },
+    {
+      "id": "l51-v19",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "目的",
+      "pos": "名词",
+      "example": "受付では、敬語を同じ長さで返すことより、訪問の目的と必要な情報を明確にすることが大切でした。",
+      "exampleMeaning": "接待中重要的是说明目的和必要信息，而非用同样长的敬语回答。",
+      "mastery": "recognition",
+      "audioId": "synth-word-25315c650c32d50c"
+    },
+    {
+      "id": "l51-v20",
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "对方",
+      "pos": "名词",
+      "example": "私は相手に自分の予約の確認書と質問のメモを見せ、本人確認のために身分証も準備しました。",
+      "exampleMeaning": "我向对方出示预约确认书与问题备忘，也准备身份凭证。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e0fd4f4bf5e65ddd"
+    },
+    {
+      "id": "l51-v21",
+      "word": "社員",
+      "reading": "しゃいん",
+      "meaning": "公司职员",
+      "pos": "名词",
+      "example": "これは私が外出するという話ではなく、電話を受けた会社の社員についての説明です。",
+      "exampleMeaning": "这不是说我外出，而是在说明接电话公司的员工。",
+      "mastery": "recognition",
+      "audioId": "synth-word-36813dafacc38a6a"
+    },
+    {
+      "id": "l51-v22",
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "公司",
+      "pos": "名词",
+      "example": "会社へ訪問時間を確認する電話をした時、「担当の者はただいま外出しております」と言われました。",
+      "exampleMeaning": "打电话确认访公司时间时，对方说负责人暂时外出。",
+      "mastery": "recognition",
+      "audioId": "synth-word-672380738778a901"
+    },
+    {
+      "id": "l51-v23",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "pos": "名词",
+      "example": "私は約束の時間が変わったのかも確認しましたが、予約そのものは変更されていませんでした。",
+      "exampleMeaning": "我也确认约定时间是否更改，但预约本身没有变。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7f966c1b4f81617f"
+    },
+    {
+      "id": "l51-v24",
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "时间",
+      "pos": "名词",
+      "example": "会社へ訪問時間を確認する電話をした時、「担当の者はただいま外出しております」と言われました。",
+      "exampleMeaning": "打电话确认访公司时间时，对方说负责人暂时外出。",
+      "mastery": "recognition",
+      "audioId": "synth-word-920958520c38245f"
+    },
+    {
+      "id": "l51-v25",
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "表达",
+      "pos": "名词",
+      "example": "館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。",
+      "exampleMeaning": "虽然说明很礼貌，我仍因陌生表达再次询问意思。",
+      "mastery": "recognition",
+      "audioId": "synth-word-fb827ca5984c0bbb"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l51-e1",
+      "ja": "ご用件を伺ってもよろしいですか。",
+      "reading": "ごようけんをうかがってもよろしいですか。",
+      "meaning": "可以询问来意吗？",
+      "usage": "接待员礼貌询问来访目的",
+      "audioId": "synth-word-a1a16af13b549e62"
+    },
+    {
+      "id": "l51-e2",
+      "ja": "担当者はただいま席を外しております。少々お待ちください。",
+      "reading": "たんとうしゃはただいませきをはずしております。しょうしょうおまちください。",
+      "meaning": "负责人暂时离席，请稍等。",
+      "usage": "说明暂时无法接待并请求等候",
+      "audioId": "synth-word-f40c33e65504fda3"
+    },
+    {
+      "id": "l51-e3",
+      "ja": "はい。先に予約の確認書を拝見してもよろしいでしょうか。",
+      "reading": "はい。さきによやくのかくにんしょをはいけんしてもよろしいでしょうか。",
+      "meaning": "可以，可以先看预约确认书吗？",
+      "usage": "接待员征得许可后查看资料",
+      "audioId": "synth-word-695fbc29926ebcd7"
+    },
+    {
+      "id": "l51-e4",
+      "ja": "担当者がお戻りになりましたら、ご案内いたします。",
+      "reading": "たんとうしゃがおもどりになりましたら、ごあんないいたします。",
+      "meaning": "负责人回来后为您引导。",
+      "usage": "说明后续由接待方负责引导",
+      "audioId": "synth-word-75946ed354da9647"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l51-g1",
+      "title": "尊敬与谦让的方向",
+      "meaning": "根据人物关系识别动作。",
+      "pattern": "いらっしゃる／おっしゃる；伺う／拝見する",
+      "explanation": "尊敬抬高对方等人的动作；谦让用于自己一方的动作对对方的礼貌关系。先问谁在来、问、说或看。",
+      "examples": [
+        {
+          "ja": "お客様は何時にいらっしゃいますか。",
+          "zh": "客人几点来？"
+        },
+        {
+          "ja": "確認書を拝見します。",
+          "zh": "我看一下确认书。"
+        }
+      ],
+      "pitfall": "不要只把敬语当成普通词替换表而忽略动作主体。"
+    },
+    {
+      "id": "l51-g2",
+      "title": "服务表达与简单回应",
+      "meaning": "听懂完整敬语不等于必须同样复杂地回答。",
+      "pattern": "少々お待ちください。→はい、ここで待ちます。",
+      "explanation": "回应应对应动作和条件。客人可用清楚的です／ます，没听懂时先确认。",
+      "examples": [
+        {
+          "ja": "こちらでお待ちください。",
+          "zh": "请在这里等。"
+        },
+        {
+          "ja": "はい。こちらで待てばいいですか。",
+          "zh": "好的，在这里等就可以吗？"
+        }
+      ],
+      "pitfall": "礼貌形式再长，也需抓住实际指示，不是全部回答はい。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "訪問",
+          "reading": "ほうもん",
+          "zh": "访问"
+        },
+        {
+          "ja": "予約",
+          "reading": "よやく",
+          "zh": "预约"
+        },
+        {
+          "ja": "受付",
+          "reading": "うけつけ",
+          "zh": "接待处"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l51-r1",
+      "title": "受付で確認すること",
+      "context": "资料馆的教学用来访说明，按人物动作理解敬语。",
+      "ja": "予約した資料館を訪問した時、受付では氏名と用件を確認されました。担当者は一時的に席を外していたため、私は入口近くで少し待つことになりました。「確認書を拝見します」と言ったのは受付の人で、書類を見るのも受付の人です。私は相手に自分の予約の確認書と質問のメモを見せ、本人確認のために身分証も準備しました。館内の手続きについて丁寧な説明がありましたが、知らない表現があったので、その意味を聞き直しました。受付では、敬語を同じ長さで返すことより、訪問の目的と必要な情報を明確にすることが大切でした。担当者が戻った後、私は相談の席へ案内され、準備した資料について質問できました。相手の行為と自分に求められた行動を分けると、長い説明も理解しやすくなります。",
+      "zh": "预约来访资料馆时，前台确认姓名与来意。负责人暂时离席，我在入口附近稍等。说拝見的是接待员，看文件的也是接待员。我向对方出示预约确认书与问题备忘，也准备身份凭证。虽然说明很礼貌，我仍因陌生表达再次询问意思。接待中重要的是说明目的和必要信息，而非用同样长的敬语回答。负责人回来后，我被带到咨询座位，询问准备的资料。区分对方行为与要求自己的行动，长说明也更好懂。",
+      "audioId": "l51-reading-synth"
+    },
+    {
+      "id": "l51-r2",
+      "title": "会社への電話で聞いた言葉",
+      "context": "电话中需区分员工说自己一方还是来访者。",
+      "ja": "会社へ訪問時間を確認する電話をした時、「担当の者はただいま外出しております」と言われました。これは私が外出するという話ではなく、電話を受けた会社の社員についての説明です。続いて「お戻りになったら電話してください」と私が言いかけましたが、名前と連絡先を先に伝えました。相手は「戻りましたら、こちらからご連絡いたします」と答え、折り返す役割を引き受けました。私は約束の時間が変わったのかも確認しましたが、予約そのものは変更されていませんでした。言葉が丁寧でも、まだ確認されていないことまで決まったと思ってはいけません。最後に、相手の名前と電話を待つ時間の目安をメモして、やり取りを終えました。敬語の形だけを覚えるより、だれが次に何をするかを確かめることが役に立ちました。",
+      "zh": "打电话确认访公司时间时，对方说负责人暂时外出。这不是说我外出，而是在说明接电话公司的员工。我本想先说回来请致电，但先留下姓名与联系方式。对方回答回来后由我们联系，承担回电责任。我也确认约定时间是否更改，但预约本身没有变。即使语言礼貌，也不能把未确认事项当成已定。最后记下对方姓名和等回电的大致时间，结束通话。比只记敬语形式，更有用的是确认谁接下来做什么。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l51-ex01",
+      "type": "choice",
+      "prompt": "负责人回来前林需做什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l51-dialogue-synth",
+      "choices": [
+        "在指定位置等候",
+        "立刻离开",
+        "自行进入所有档案室"
+      ],
+      "correctIndex": 0,
+      "explanation": "请等候，之后会引导。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex02",
+      "type": "choice",
+      "prompt": "主阅读强调什么比同样长的敬语更重要？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l51-reading-synth",
+      "choices": [
+        "访问信息与实际动作清楚",
+        "每句更复杂",
+        "绝不提问"
+      ],
+      "correctIndex": 0,
+      "explanation": "目的和信息明确比模仿长度重要。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l51-ri5"
+      ]
+    },
+    {
+      "id": "l51-ex03",
+      "type": "choice",
+      "prompt": "“拝見します”中谁查看确认书？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "接待员",
+        "来访者替接待员看",
+        "预约系统自动删除"
+      ],
+      "correctIndex": 0,
+      "explanation": "语境主体为受付一方。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri6",
+        "l51-ri7"
+      ]
+    },
+    {
+      "id": "l51-ex04",
+      "type": "choice",
+      "prompt": "作者遇到陌生表达怎样处理？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "因为礼貌就全部答应",
+        "取消全部预约",
+        "询问意思并确认"
+      ],
+      "correctIndex": 2,
+      "explanation": "听懂动作比模仿长度更重要。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri6"
+      ]
+    },
+    {
+      "id": "l51-ex05",
+      "type": "choice",
+      "prompt": "“外出しております”说明谁外出？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所有公司员工",
+        "公司负责人",
+        "打电话的来访者"
+      ],
+      "correctIndex": 1,
+      "explanation": "指担当の者，不是来访者。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex06",
+      "type": "choice",
+      "prompt": "电话后是否已变更预约？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有，预约本身未变",
+        "已改到明天",
+        "预约被自动取消"
+      ],
+      "correctIndex": 0,
+      "explanation": "文章明确预约未变化。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri6"
+      ]
+    },
+    {
+      "id": "l51-ex07",
+      "type": "input",
+      "prompt": "接待员谦让地说看资料：資料を＿＿します。",
+      "acceptedAnswers": [
+        "拝見",
+        "はいけん"
+      ],
+      "explanation": "拝見する是自己一方的看。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l51-ri9"
+      ]
+    },
+    {
+      "id": "l51-ex08",
+      "type": "order",
+      "prompt": "用简单礼貌表达确认等候地点。",
+      "tokens": [
+        "いいですか",
+        "。",
+        "待てば",
+        "こちらで"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "回应应确认实际动作。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex09",
+      "type": "choice",
+      "prompt": "“戻りましたら、こちらから連絡します”说明谁下一步联系？",
+      "choices": [
+        "无人会再联系",
+        "接电话的公司一方",
+        "来访者必须立刻再打"
+      ],
+      "correctIndex": 1,
+      "explanation": "こちら指说话公司一方。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex10",
+      "type": "input",
+      "prompt": "尊敬地问客人几点来：何時に＿＿ますか。",
+      "acceptedAnswers": [
+        "いらっしゃい",
+        "お越しになり",
+        "おこしになり",
+        "おいでになり",
+        "お見えになり",
+        "おみえになり",
+        "来られ",
+        "こられ"
+      ],
+      "explanation": "何時にいらっしゃいますか是本课基础说法。お越しになりますか、おいでになりますか、来られますか等也可尊敬地询问来访，具体场合语感不同。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex11",
+      "type": "self",
+      "prompt": "听到很长敬语但只明白要等候，写一句简单确认地点的话。",
+      "sampleAnswer": "すみません。こちらで待てばいいですか。",
+      "explanation": "无需模仿复杂敬语，先确认动作。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex12",
+      "type": "self",
+      "prompt": "接待员要看预约确认书，你有纸本和问题备忘。写回应。",
+      "sampleAnswer": "はい、こちらが確認書です。質問のメモも用意しています。",
+      "explanation": "提供所需资料，不答非所问。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri6",
+        "l51-ri9"
+      ]
+    },
+    {
+      "id": "l51-ex13",
+      "type": "self",
+      "prompt": "电话中负责人外出，你需要保留原预约，写两句确认。",
+      "sampleAnswer": "予約の時間は変わっていませんか。戻られたら、ご連絡をいただけますか。",
+      "explanation": "分别确认预约与后续联系。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri6"
+      ]
+    },
+    {
+      "id": "l51-ex14",
+      "type": "self",
+      "prompt": "解释为什么礼貌回应不等于对所有未知内容说はい。",
+      "sampleAnswer": "丁寧に返事をしても、内容がわからなければ確認が必要です。次に何をするかを聞き直します。",
+      "explanation": "理解与礼貌是两个维度。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l51-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「ご用件を伺ってもよろしいですか。」主要用于什么？",
+      "choices": [
+        "接待员礼貌询问来访目的",
+        "说明暂时无法接待并请求等候",
+        "接待员征得许可后查看资料"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“可以询问来意吗？”。结合前后交流，其作用是：接待员礼貌询问来访目的",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri1",
+        "l51-ri8",
+        "l51-ri9"
+      ]
+    },
+    {
+      "id": "l51-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「担当者はただいま席を外しております。少々お待ちください。」主要用于什么？",
+      "choices": [
+        "接待员征得许可后查看资料",
+        "说明后续由接待方负责引导",
+        "说明暂时无法接待并请求等候"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“负责人暂时离席，请稍等。”。结合前后交流，其作用是：说明暂时无法接待并请求等候",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri2",
+        "l51-ri9"
+      ]
+    },
+    {
+      "id": "l51-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。先に予約の確認書を拝見してもよろしいでしょうか。」主要用于什么？",
+      "choices": [
+        "接待员礼貌询问来访目的",
+        "接待员征得许可后查看资料",
+        "说明后续由接待方负责引导"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“可以，可以先看预约确认书吗？”。结合前后交流，其作用是：接待员征得许可后查看资料",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri3",
+        "l51-ri6",
+        "l51-ri9"
+      ]
+    },
+    {
+      "id": "l51-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「担当者がお戻りになりましたら、ご案内いたします。」主要用于什么？",
+      "choices": [
+        "说明后续由接待方负责引导",
+        "接待员礼貌询问来访目的",
+        "说明暂时无法接待并请求等候"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“负责人回来后为您引导。”。结合前后交流，其作用是：说明后续由接待方负责引导",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l51-ri4"
+      ]
+    },
+    {
+      "id": "l51-ex19",
+      "type": "self",
+      "prompt": "读例句「予約した資料館を訪問した時、受付では氏名と用件を確認されました。」。先不看词表，用中文说明「訪問」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "访问",
+      "explanation": "本课这里表示“访问”。例句意思是：预约来访资料馆时，前台确认姓名与来意。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri5",
+        "l51-ri6",
+        "l51-ri7"
+      ]
+    },
+    {
+      "id": "l51-ex20",
+      "type": "self",
+      "prompt": "读例句「ご用件を伺ってもよろしいですか。」。先不看词表，用中文说明「用件」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "事情；来意",
+      "explanation": "本课这里表示“事情；来意”。例句意思是：可以询问来意吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri1",
+        "l51-ri8"
+      ]
+    },
+    {
+      "id": "l51-ex21",
+      "type": "self",
+      "prompt": "读例句「担当者はただいま席を外しております。少々お待ちください。」。先不看词表，用中文说明「席」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "座位",
+      "explanation": "本课这里表示“座位”。例句意思是：负责人暂时离席，请稍等。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l51-ri2"
+      ]
+    },
+    {
+      "id": "l51-ex22",
+      "type": "self",
+      "prompt": "读例句「はい、どうぞ。質問のメモもあります。」。先不看词表，用中文说明「メモ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "备忘",
+      "explanation": "本课这里表示“备忘”。例句意思是：请看，也准备了问题备忘。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l51-ri1",
+      "front": "可以询问来意吗？",
+      "back": "ご用件を伺ってもよろしいですか。",
+      "reading": "ごようけんをうかがってもよろしいですか。",
+      "audioId": "synth-word-a1a16af13b549e62",
+      "kind": "expression"
+    },
+    {
+      "id": "l51-ri2",
+      "front": "负责人暂时离席，请稍等。",
+      "back": "担当者はただいま席を外しております。少々お待ちください。",
+      "reading": "たんとうしゃはただいませきをはずしております。しょうしょうおまちください。",
+      "audioId": "synth-word-f40c33e65504fda3",
+      "kind": "expression"
+    },
+    {
+      "id": "l51-ri3",
+      "front": "可以，可以先看预约确认书吗？",
+      "back": "はい。先に予約の確認書を拝見してもよろしいでしょうか。",
+      "reading": "はい。さきによやくのかくにんしょをはいけんしてもよろしいでしょうか。",
+      "audioId": "synth-word-695fbc29926ebcd7",
+      "kind": "expression"
+    },
+    {
+      "id": "l51-ri4",
+      "front": "负责人回来后为您引导。",
+      "back": "担当者がお戻りになりましたら、ご案内いたします。",
+      "reading": "たんとうしゃがおもどりになりましたら、ごあんないいたします。",
+      "audioId": "synth-word-75946ed354da9647",
+      "kind": "expression"
+    },
+    {
+      "id": "l51-ri5",
+      "front": "訪問在本课是什么意思？",
+      "back": "访问",
+      "reading": "ほうもん",
+      "audioId": "synth-word-bd7fc8b3d604234b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l51-ri6",
+      "front": "予約在本课是什么意思？",
+      "back": "预约",
+      "reading": "よやく",
+      "audioId": "synth-word-bc9e89d9e02e195e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l51-ri7",
+      "front": "受付在本课是什么意思？",
+      "back": "接待处",
+      "reading": "うけつけ",
+      "audioId": "synth-word-8309c02e7ebd8ae7",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l51-ri8",
+      "front": "用件在本课是什么意思？",
+      "back": "事情；来意",
+      "reading": "ようけん",
+      "audioId": "synth-word-ee62f6d07498541e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l51-ri9",
+      "front": "資料在本课是什么意思？",
+      "back": "资料",
+      "reading": "しりょう",
+      "audioId": "synth-word-291cee7acbc629d5",
+      "kind": "vocabulary"
+    }
+  ]
+}

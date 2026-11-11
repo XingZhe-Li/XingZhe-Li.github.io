@@ -1,0 +1,1098 @@
+{
+  "id": "l52",
+  "number": 52,
+  "moduleId": "m11",
+  "title": "委婉提出请求与说明困难",
+  "subtitle": "先给必要背景，再提出清楚、可拒绝的请求。",
+  "revision": 2,
+  "goals": [
+    "理解のですが如何提示背景与请求。",
+    "用ていただけますか提出具体协助。",
+    "区分礼貌程度与对方必须答应的义务。"
+  ],
+  "prerequisites": [
+    "理解第51课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「委婉提出请求与说明困难」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l52-ex01",
+        "l52-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「少量急件能否印刷」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「急いでいても条件は確認する」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「委婉提出请求与说明困难」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l52-ex19",
+        "l52-ex20",
+        "l52-ex21",
+        "l52-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到原稿、印刷、希望、部数，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用原稿の印刷をお願いしたいのですが。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「委婉提出请求与说明困难」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l52-ex07",
+        "l52-ex08",
+        "l52-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「のですが引出背景」「ていただけますか与否定请求」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「委婉提出请求与说明困难」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l52-ex02",
+        "l52-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「委婉提出请求与说明困难」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l52-ex04",
+        "l52-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「急いでいても条件は確認する」与「理由を伝えても決定は別」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「委婉提出请求与说明困难」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l52-ex11",
+        "l52-ex12",
+        "l52-ex13",
+        "l52-ex14",
+        "l52-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「委婉提出请求与说明困难」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l52-ex06",
+        "l52-ex10",
+        "l52-ex17",
+        "l52-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l52-ext10",
+      "title": "委婉提出请求与说明困难 · 10分钟迁移",
+      "instructions": "用10分钟重读「急いでいても条件は確認する」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l52-ext15",
+      "title": "委婉提出请求与说明困难 · 15分钟迁移",
+      "instructions": "用15分钟把「理由を伝えても決定は別」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l52-ext25",
+      "title": "委婉提出请求与说明困难 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l52-ex13",
+        "l52-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l52-d01",
+      "title": "少量急件能否印刷",
+      "context": "林明天要用海报，但希望先确认店家能否接单及费用。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l52-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "原稿の印刷をお願いしたいのですが。",
+          "kana": "げんこうのいんさつをおねがいしたいのですが。",
+          "zh": "我想委托印刷稿件。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "ご希望の部数と納期を教えてください。",
+          "kana": "ごきぼうのぶすうとのうきをおしえてください。",
+          "zh": "请告知份数和交付日期。"
+        },
+        {
+          "speaker": "林",
+          "ja": "十部で、明日の午後が締め切りです。対応していただけますか。",
+          "kana": "じゅうぶで、あしたのごごがしめきりです。たいおうしていただけますか。",
+          "zh": "十份，明天下午截止，能帮忙处理吗？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "用紙によって準備の時間が変わります。",
+          "kana": "ようしによってじゅんびのじかんがかわります。",
+          "zh": "不同用纸准备时间不同。"
+        },
+        {
+          "speaker": "林",
+          "ja": "急いでいるのですが、料金を確認してから注文したいです。",
+          "kana": "いそいでいるのですが、りょうきんをかくにんしてからちゅうもんしたいです。",
+          "zh": "虽然着急，但想先确认费用再下单。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "普通の紙なら可能です。特別な紙は追加料金がかかります。",
+          "kana": "ふつうのかみならかのうです。とくべつなかみはついかりょうきんがかかります。",
+          "zh": "普通纸可做，特殊纸需加费。"
+        },
+        {
+          "speaker": "林",
+          "ja": "予算が限られているので、見積もりを出していただけませんか。",
+          "kana": "よさんがかぎられているので、みつもりをだしていただけませんか。",
+          "zh": "预算有限，能请您给报价吗？"
+        },
+        {
+          "speaker": "店員",
+          "ja": "はい。条件を二つに分けて説明します。",
+          "kana": "はい。じょうけんをふたつにわけてせつめいします。",
+          "zh": "好的，分两种条件说明。"
+        },
+        {
+          "speaker": "林",
+          "ja": "難しければ別の方法も相談したいです。",
+          "kana": "むずかしければべつのほうほうもそうだんしたいです。",
+          "zh": "若有困难，也想商量其他办法。"
+        },
+        {
+          "speaker": "店員",
+          "ja": "わかりました。返事の前に原稿を確認します。",
+          "kana": "わかりました。へんじのまえにげんこうをかくにんします。",
+          "zh": "明白，答复前先查看原稿。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l52-v01",
+      "word": "原稿",
+      "reading": "げんこう",
+      "meaning": "稿件",
+      "pos": "名词",
+      "example": "原稿の印刷をお願いしたいのですが。",
+      "exampleMeaning": "我想委托印刷稿件。",
+      "mastery": "active",
+      "audioId": "synth-word-32ea2ad6628ee5b3"
+    },
+    {
+      "id": "l52-v02",
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaning": "印刷",
+      "pos": "名词",
+      "example": "原稿の印刷をお願いしたいのですが。",
+      "exampleMeaning": "我想委托印刷稿件。",
+      "mastery": "active",
+      "audioId": "synth-word-f7a0d8097f72df67"
+    },
+    {
+      "id": "l52-v03",
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "希望",
+      "pos": "名词",
+      "example": "ご希望の部数と納期を教えてください。",
+      "exampleMeaning": "请告知份数和交付日期。",
+      "mastery": "active",
+      "audioId": "synth-word-cc4869eea2029f35"
+    },
+    {
+      "id": "l52-v04",
+      "word": "部数",
+      "reading": "ぶすう",
+      "meaning": "份数",
+      "pos": "名词",
+      "example": "ご希望の部数と納期を教えてください。",
+      "exampleMeaning": "请告知份数和交付日期。",
+      "mastery": "active",
+      "audioId": "synth-word-e4f806d6489c682d"
+    },
+    {
+      "id": "l52-v05",
+      "word": "納期",
+      "reading": "のうき",
+      "meaning": "交付日期",
+      "pos": "名词",
+      "example": "ご希望の部数と納期を教えてください。",
+      "exampleMeaning": "请告知份数和交付日期。",
+      "mastery": "active",
+      "audioId": "synth-word-1d5408897cda4793"
+    },
+    {
+      "id": "l52-v06",
+      "word": "締め切り",
+      "reading": "しめきり",
+      "meaning": "截止日期",
+      "pos": "名词",
+      "example": "十部で、明日の午後が締め切りです。対応していただけますか。",
+      "exampleMeaning": "十份，明天下午截止，能帮忙处理吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ff25cbbd638e2836"
+    },
+    {
+      "id": "l52-v07",
+      "word": "対応",
+      "reading": "たいおう",
+      "meaning": "应对；处理",
+      "pos": "名词",
+      "example": "十部で、明日の午後が締め切りです。対応していただけますか。",
+      "exampleMeaning": "十份，明天下午截止，能帮忙处理吗？",
+      "mastery": "active",
+      "audioId": "synth-word-333f7a1ec772629b"
+    },
+    {
+      "id": "l52-v08",
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "纸张",
+      "pos": "名词",
+      "example": "用紙によって準備の時間が変わります。",
+      "exampleMeaning": "不同用纸准备时间不同。",
+      "mastery": "active",
+      "audioId": "synth-word-77c51ad827af2cb3"
+    },
+    {
+      "id": "l52-v09",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "急いでいるのですが、料金を確認してから注文したいです。",
+      "exampleMeaning": "虽然着急，但想先确认费用再下单。",
+      "mastery": "active",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l52-v10",
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "订单；下单",
+      "pos": "名词",
+      "example": "急いでいるのですが、料金を確認してから注文したいです。",
+      "exampleMeaning": "虽然着急，但想先确认费用再下单。",
+      "mastery": "active",
+      "audioId": "synth-word-42841e3db3fb4e80"
+    },
+    {
+      "id": "l52-v11",
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "追加",
+      "pos": "名词",
+      "example": "普通の紙なら可能です。特別な紙は追加料金がかかります。",
+      "exampleMeaning": "普通纸可做，特殊纸需加费。",
+      "mastery": "active",
+      "audioId": "synth-word-4ec43b0562b1cf7e"
+    },
+    {
+      "id": "l52-v12",
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "预算",
+      "pos": "名词",
+      "example": "予算が限られているので、見積もりを出していただけませんか。",
+      "exampleMeaning": "预算有限，能请您给报价吗？",
+      "mastery": "active",
+      "audioId": "synth-word-36d74dfe1410f3a8"
+    },
+    {
+      "id": "l52-v13",
+      "word": "見積もり",
+      "reading": "みつもり",
+      "meaning": "报价；估价",
+      "pos": "名词",
+      "example": "予算が限られているので、見積もりを出していただけませんか。",
+      "exampleMeaning": "预算有限，能请您给报价吗？",
+      "mastery": "active",
+      "audioId": "synth-word-81d1a070d3ff01f3"
+    },
+    {
+      "id": "l52-v14",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "はい。条件を二つに分けて説明します。",
+      "exampleMeaning": "好的，分两种条件说明。",
+      "mastery": "active",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l52-v15",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "はい。条件を二つに分けて説明します。",
+      "exampleMeaning": "好的，分两种条件说明。",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l52-v16",
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "方法",
+      "pos": "名词",
+      "example": "難しければ別の方法も相談したいです。",
+      "exampleMeaning": "若有困难，也想商量其他办法。",
+      "mastery": "active",
+      "audioId": "synth-word-59fbe2ef291c66c2"
+    },
+    {
+      "id": "l52-v17",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "商量；咨询",
+      "pos": "名词",
+      "example": "難しければ別の方法も相談したいです。",
+      "exampleMeaning": "若有困难，也想商量其他办法。",
+      "mastery": "active",
+      "audioId": "synth-word-068abc020b722cba"
+    },
+    {
+      "id": "l52-v18",
+      "word": "返事",
+      "reading": "へんじ",
+      "meaning": "答复",
+      "pos": "名词",
+      "example": "わかりました。返事の前に原稿を確認します。",
+      "exampleMeaning": "明白，答复前先查看原稿。",
+      "mastery": "active",
+      "audioId": "synth-word-502087bc50532d3a"
+    },
+    {
+      "id": "l52-v19",
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "委托",
+      "pos": "名词",
+      "example": "大学の展示に使うポスターを印刷するため、私は近くの店舗へ依頼の相談に行きました。",
+      "exampleMeaning": "为印刷大学展示用海报，我到附近门店商量委托。",
+      "mastery": "recognition",
+      "audioId": "synth-word-61b71041a2de8686"
+    },
+    {
+      "id": "l52-v20",
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "具体情况",
+      "pos": "名词",
+      "example": "私は事情を長く話す前に、十部必要で明日の午後に使うことを伝えました。",
+      "exampleMeaning": "我没先长篇讲情况，而先说明要十份、明天下午用。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2c12b7c25ce98cd8"
+    },
+    {
+      "id": "l52-v21",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "難しい条件は変更し、相手が対応できる方法を選ぶことで、無理な負担をかけずに済みました。",
+      "exampleMeaning": "调整困难条件，选择店家能做的方法，避免给人过重负担。",
+      "mastery": "recognition",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l52-v22",
+      "word": "店舗",
+      "reading": "てんぽ",
+      "meaning": "门店",
+      "pos": "名词",
+      "example": "大学の展示に使うポスターを印刷するため、私は近くの店舗へ依頼の相談に行きました。",
+      "exampleMeaning": "为印刷大学展示用海报，我到附近门店商量委托。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d059f6a591c2f949"
+    },
+    {
+      "id": "l52-v23",
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "负担",
+      "pos": "名词",
+      "example": "難しい条件は変更し、相手が対応できる方法を選ぶことで、無理な負担をかけずに済みました。",
+      "exampleMeaning": "调整困难条件，选择店家能做的方法，避免给人过重负担。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0146817726b38ecc"
+    },
+    {
+      "id": "l52-v24",
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "选择",
+      "pos": "名词",
+      "example": "希望と代案を一緒に示すと、相手も選択できる条件がはっきりします。",
+      "exampleMeaning": "同时提供希望与备选，可让对方明确可选条件。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0faf85ac3e2f3d84"
+    },
+    {
+      "id": "l52-v25",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "急いでいるのですが、料金を確認してから注文したいです。",
+      "exampleMeaning": "虽然着急，但想先确认费用再下单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-90be374fbf553392"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l52-e1",
+      "ja": "原稿の印刷をお願いしたいのですが。",
+      "reading": "げんこうのいんさつをおねがいしたいのですが。",
+      "meaning": "我想委托印刷稿件。",
+      "usage": "用背景开启具体委托",
+      "audioId": "synth-word-bbaa2f293ef76912"
+    },
+    {
+      "id": "l52-e2",
+      "ja": "急いでいるのですが、料金を確認してから注文したいです。",
+      "reading": "いそいでいるのですが、りょうきんをかくにんしてからちゅうもんしたいです。",
+      "meaning": "虽然着急，但想先确认费用再下单。",
+      "usage": "说明着急但仍需先确认费用",
+      "audioId": "synth-word-1d80147976e5b32c"
+    },
+    {
+      "id": "l52-e3",
+      "ja": "予算が限られているので、見積もりを出していただけませんか。",
+      "reading": "よさんがかぎられているので、みつもりをだしていただけませんか。",
+      "meaning": "预算有限，能请您给报价吗？",
+      "usage": "礼貌请求报价并交代预算限制",
+      "audioId": "synth-word-522c08b5804b1551"
+    },
+    {
+      "id": "l52-e4",
+      "ja": "難しければ別の方法も相談したいです。",
+      "reading": "むずかしければべつのほうほうもそうだんしたいです。",
+      "meaning": "若有困难，也想商量其他办法。",
+      "usage": "保留对方无法满足时的替代空间",
+      "audioId": "synth-word-6190b1ee39ff5719"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l52-g1",
+      "title": "のですが引出背景",
+      "meaning": "提示后续请求或需要商量的事情。",
+      "pattern": "急いでいるのですが、〜。",
+      "explanation": "のですが可缓和地引出背景，但不能替代具体请求。根据对方需要，只提供相关信息。",
+      "examples": [
+        {
+          "ja": "予定を変更したいのですが、相談できますか。",
+          "zh": "想改计划，可以商量吗？"
+        },
+        {
+          "ja": "予算が少ないのですが、別の方法はありますか。",
+          "zh": "预算少，有其他办法吗？"
+        }
+      ],
+      "pitfall": "不是只说困难就要求对方自动猜出所有需求。"
+    },
+    {
+      "id": "l52-g2",
+      "title": "ていただけますか与否定请求",
+      "meaning": "礼貌询问能否获得对方行动。",
+      "pattern": "確認していただけますか。／いただけませんか。",
+      "explanation": "ていただける是谦让地表达获得协助；否定疑问可更委婉，但核心仍是请求对方做该动作。",
+      "examples": [
+        {
+          "ja": "見積もりを出していただけますか。",
+          "zh": "可以给报价吗？"
+        },
+        {
+          "ja": "もう少し説明していただけませんか。",
+          "zh": "能否再说明一点？"
+        }
+      ],
+      "pitfall": "否定疑问不等于请求对方“不要说明”。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "原稿",
+          "reading": "げんこう",
+          "zh": "稿件"
+        },
+        {
+          "ja": "印刷",
+          "reading": "いんさつ",
+          "zh": "印刷"
+        },
+        {
+          "ja": "希望",
+          "reading": "きぼう",
+          "zh": "希望"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l52-r1",
+      "title": "急いでいても条件は確認する",
+      "context": "委托者记录如何在期限、费用和质量之间作选择。",
+      "ja": "大学の展示に使うポスターを印刷するため、私は近くの店舗へ依頼の相談に行きました。原稿はほぼ完成していましたが、締め切りまで時間が短く、少ない部数でも受けてもらえるか不安でした。私は事情を長く話す前に、十部必要で明日の午後に使うことを伝えました。店員の説明では、普通の用紙なら納期に間に合いますが、特別な紙では準備と追加料金が必要でした。そこで、料金の見積もりを出していただけませんかと頼み、予算に合う条件を比べました。急いでいるからといって、確認せずに注文すると、後で希望と違う結果になるかもしれません。難しい条件は変更し、相手が対応できる方法を選ぶことで、無理な負担をかけずに済みました。丁寧にお願いすることは、どんな依頼でも必ず受けてもらえるという意味ではありません。",
+      "zh": "为印刷大学展示用海报，我到附近门店商量委托。原稿基本完成，但期限很紧，不确定少量是否受理。我没先长篇讲情况，而先说明要十份、明天下午用。店员说普通纸赶得及，特殊纸则需要准备和额外费用。于是礼貌请求报价，比较符合预算的条件。即使着急，不确认就下单可能得到与希望不符的结果。调整困难条件，选择店家能做的方法，避免给人过重负担。礼貌请求并不意味着任何委托都必定被接受。",
+      "audioId": "l52-reading-synth"
+    },
+    {
+      "id": "l52-r2",
+      "title": "理由を伝えても決定は別",
+      "context": "参观者希望改预约，接待方需检查其他人的安排。",
+      "ja": "資料館の予約を変更したくなり、私は受付に「電車が遅れているのですが」と連絡しました。相手は事情を理解してくれましたが、その時点で新しい時間が決まったわけではありません。次の予約があるため、担当者がどこまで対応できるかを確認する必要がありました。私は「三十分遅くしていただけますか。難しければ別の日でもかまいません」と具体的に頼みました。希望と代案を一緒に示すと、相手も選択できる条件がはっきりします。受付からの返事を待っている間は、元の約束が変更済みだと思わないようにしました。最終的には翌日の空いている時間を案内され、日付と開始時刻をもう一度確認しました。背景を説明すること、依頼をすること、変更が承認されることは別々の段階です。",
+      "zh": "想改资料馆预约，我向前台说明电车延误。对方理解情况，但新时间当时并未确定。后面还有预约，需要确认负责人能调整到何种程度。我具体询问能否延后三十分钟，不行也可改日。同时提供希望与备选，可让对方明确可选条件。等前台答复时，我没有把原约定当成已经改好。最终获知次日空档，并再次确认日期和开始时间。说明背景、提出请求和变更获准，是三个不同阶段。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l52-ex01",
+      "type": "choice",
+      "prompt": "店家答复前还需做什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l52-dialogue-synth",
+      "choices": [
+        "确认原稿",
+        "直接收费后不看内容",
+        "拒绝所有少量订单"
+      ],
+      "correctIndex": 0,
+      "explanation": "最后一句先确认原稿。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l52-ri5"
+      ]
+    },
+    {
+      "id": "l52-ex02",
+      "type": "choice",
+      "prompt": "主阅读请求报价前明确了什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l52-reading-synth",
+      "choices": [
+        "份数和使用期限",
+        "不需要任何费用信息",
+        "已经决定用特殊纸"
+      ],
+      "correctIndex": 0,
+      "explanation": "先给十份、明天下午使用条件。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l52-ri8"
+      ]
+    },
+    {
+      "id": "l52-ex03",
+      "type": "choice",
+      "prompt": "店员能按原期限处理哪种条件？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "普通纸",
+        "所有特殊纸不加费",
+        "不看原稿就保证一切"
+      ],
+      "correctIndex": 0,
+      "explanation": "普通纸与特殊纸条件不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l52-ri5"
+      ]
+    },
+    {
+      "id": "l52-ex04",
+      "type": "choice",
+      "prompt": "作者为何先请求报价？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "证明店员必须免费",
+        "已经同意所有加费",
+        "核对预算再选择"
+      ],
+      "correctIndex": 2,
+      "explanation": "预算限制需用报价判断。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex05",
+      "type": "choice",
+      "prompt": "对方理解延误是否等于预约已变？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "等于预约立即取消",
+        "不等于，仍需确认安排",
+        "等于自动延后三十分钟"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章区分理解与批准。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex06",
+      "type": "choice",
+      "prompt": "最终如何解决？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "改到次日空档并再次确认",
+        "让后面所有预约取消",
+        "未经答复自行迟到"
+      ],
+      "correctIndex": 0,
+      "explanation": "最终具体确认新日期与时刻。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex07",
+      "type": "input",
+      "prompt": "礼貌请求确认：確認して＿＿ますか。",
+      "acceptedAnswers": [
+        "いただけ",
+        "頂け",
+        "もらえ",
+        "くれ"
+      ],
+      "explanation": "いただけますか较委婉，もらえますか、くれますか也能构成请求。礼貌距离不同，不应将其他自然请求当成语法错误。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex08",
+      "type": "order",
+      "prompt": "先说明背景再询问方案。",
+      "tokens": [
+        "相談できますか",
+        "。",
+        "、",
+        "予定を変えたいのですが"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "背景不替代明确请求。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex09",
+      "type": "choice",
+      "prompt": "“説明していただけませんか”通常是什么意思？",
+      "choices": [
+        "我已经解释完了",
+        "请您说明一下好吗",
+        "请不要说明"
+      ],
+      "correctIndex": 1,
+      "explanation": "否定疑问是委婉请求。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex10",
+      "type": "input",
+      "prompt": "补背景句：電車が遅れている＿＿、時間を相談したいです。",
+      "acceptedAnswers": [
+        "のですが",
+        "んですが",
+        "ので",
+        "から",
+        "ため"
+      ],
+      "explanation": "のですが用于铺垫困难；ので、から、ため也能说明原因并组成自然句。背景铺垫与直接陈述原因的语气略有差别。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex11",
+      "type": "self",
+      "prompt": "明天下午需十份资料，预算有限。写背景和两个需确认的条件。",
+      "sampleAnswer": "明日の午後に十部必要なのですが、対応していただけますか。料金も確認したいです。",
+      "explanation": "数量、期限、费用均明确。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex12",
+      "type": "self",
+      "prompt": "请求延后三十分钟，并为对方保留拒绝和代案。",
+      "sampleAnswer": "三十分遅くしていただけますか。難しければ別の日を相談したいです。",
+      "explanation": "具体希望与替代空间同时给出。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l52-ri7"
+      ]
+    },
+    {
+      "id": "l52-ex13",
+      "type": "self",
+      "prompt": "对方说理解困难，但还未答复。写一句确认进展。",
+      "sampleAnswer": "事情はご理解いただけたと思いますが、変更できるかはまだ確認中ということですね。",
+      "explanation": "不把理解误当批准。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex14",
+      "type": "self",
+      "prompt": "将“很急，你必须马上做”改成礼貌、可执行的请求。",
+      "sampleAnswer": "急ぎの依頼なのですが、今日中に可能か教えていただけますか。難しければ別の方法も考えます。",
+      "explanation": "尊重可行性，不用礼貌包装强迫。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「原稿の印刷をお願いしたいのですが。」主要用于什么？",
+      "choices": [
+        "用背景开启具体委托",
+        "说明着急但仍需先确认费用",
+        "礼貌请求报价并交代预算限制"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我想委托印刷稿件。”。结合前后交流，其作用是：用背景开启具体委托",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l52-ri1",
+        "l52-ri5",
+        "l52-ri6"
+      ]
+    },
+    {
+      "id": "l52-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「急いでいるのですが、料金を確認してから注文したいです。」主要用于什么？",
+      "choices": [
+        "礼貌请求报价并交代预算限制",
+        "保留对方无法满足时的替代空间",
+        "说明着急但仍需先确认费用"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“虽然着急，但想先确认费用再下单。”。结合前后交流，其作用是：说明着急但仍需先确认费用",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l52-ri2"
+      ]
+    },
+    {
+      "id": "l52-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「予算が限られているので、見積もりを出していただけませんか。」主要用于什么？",
+      "choices": [
+        "用背景开启具体委托",
+        "礼貌请求报价并交代预算限制",
+        "保留对方无法满足时的替代空间"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“预算有限，能请您给报价吗？”。结合前后交流，其作用是：礼貌请求报价并交代预算限制",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l52-ri3"
+      ]
+    },
+    {
+      "id": "l52-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「難しければ別の方法も相談したいです。」主要用于什么？",
+      "choices": [
+        "保留对方无法满足时的替代空间",
+        "用背景开启具体委托",
+        "说明着急但仍需先确认费用"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“若有困难，也想商量其他办法。”。结合前后交流，其作用是：保留对方无法满足时的替代空间",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l52-ri4"
+      ]
+    },
+    {
+      "id": "l52-ex19",
+      "type": "self",
+      "prompt": "读例句「原稿の印刷をお願いしたいのですが。」。先不看词表，用中文说明「原稿」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "稿件",
+      "explanation": "本课这里表示“稿件”。例句意思是：我想委托印刷稿件。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l52-ri1",
+        "l52-ri5",
+        "l52-ri6"
+      ]
+    },
+    {
+      "id": "l52-ex20",
+      "type": "self",
+      "prompt": "读例句「ご希望の部数と納期を教えてください。」。先不看词表，用中文说明「部数」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "份数",
+      "explanation": "本课这里表示“份数”。例句意思是：请告知份数和交付日期。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l52-ri7",
+        "l52-ri8",
+        "l52-ri9"
+      ]
+    },
+    {
+      "id": "l52-ex21",
+      "type": "self",
+      "prompt": "读例句「十部で、明日の午後が締め切りです。対応していただけますか。」。先不看词表，用中文说明「対応」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "应对；处理",
+      "explanation": "本课这里表示“应对；处理”。例句意思是：十份，明天下午截止，能帮忙处理吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l52-ex22",
+      "type": "self",
+      "prompt": "读例句「急いでいるのですが、料金を確認してから注文したいです。」。先不看词表，用中文说明「注文」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "订单；下单",
+      "explanation": "本课这里表示“订单；下单”。例句意思是：虽然着急，但想先确认费用再下单。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l52-ri2"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l52-ri1",
+      "front": "我想委托印刷稿件。",
+      "back": "原稿の印刷をお願いしたいのですが。",
+      "reading": "げんこうのいんさつをおねがいしたいのですが。",
+      "audioId": "synth-word-bbaa2f293ef76912",
+      "kind": "expression"
+    },
+    {
+      "id": "l52-ri2",
+      "front": "虽然着急，但想先确认费用再下单。",
+      "back": "急いでいるのですが、料金を確認してから注文したいです。",
+      "reading": "いそいでいるのですが、りょうきんをかくにんしてからちゅうもんしたいです。",
+      "audioId": "synth-word-1d80147976e5b32c",
+      "kind": "expression"
+    },
+    {
+      "id": "l52-ri3",
+      "front": "预算有限，能请您给报价吗？",
+      "back": "予算が限られているので、見積もりを出していただけませんか。",
+      "reading": "よさんがかぎられているので、みつもりをだしていただけませんか。",
+      "audioId": "synth-word-522c08b5804b1551",
+      "kind": "expression"
+    },
+    {
+      "id": "l52-ri4",
+      "front": "若有困难，也想商量其他办法。",
+      "back": "難しければ別の方法も相談したいです。",
+      "reading": "むずかしければべつのほうほうもそうだんしたいです。",
+      "audioId": "synth-word-6190b1ee39ff5719",
+      "kind": "expression"
+    },
+    {
+      "id": "l52-ri5",
+      "front": "原稿在本课是什么意思？",
+      "back": "稿件",
+      "reading": "げんこう",
+      "audioId": "synth-word-32ea2ad6628ee5b3",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l52-ri6",
+      "front": "印刷在本课是什么意思？",
+      "back": "印刷",
+      "reading": "いんさつ",
+      "audioId": "synth-word-f7a0d8097f72df67",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l52-ri7",
+      "front": "希望在本课是什么意思？",
+      "back": "希望",
+      "reading": "きぼう",
+      "audioId": "synth-word-cc4869eea2029f35",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l52-ri8",
+      "front": "部数在本课是什么意思？",
+      "back": "份数",
+      "reading": "ぶすう",
+      "audioId": "synth-word-e4f806d6489c682d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l52-ri9",
+      "front": "納期在本课是什么意思？",
+      "back": "交付日期",
+      "reading": "のうき",
+      "audioId": "synth-word-1d5408897cda4793",
+      "kind": "vocabulary"
+    }
+  ]
+}

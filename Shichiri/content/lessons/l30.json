@@ -1,0 +1,964 @@
+{
+  "id": "l30",
+  "number": 30,
+  "moduleId": "m6",
+  "title": "表达想法并追问",
+  "subtitle": "将事实、个人判断和对方给出的理由分开",
+  "revision": 2,
+  "goals": [
+    "说明这是自己的想法而非已经证实的事实",
+    "在听到意见时询问理由，区分预测与确认",
+    "在『讨论去展馆的路线』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第29课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「表达想法并追问」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l30-ex01",
+        "l30-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「讨论去展馆的路线」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「予想と案内を分ける」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「表达想法并追问」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l30-ex19",
+        "l30-ex20",
+        "l30-ex21",
+        "l30-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到意見、考え、本当、必要，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用駅からはバスが便利だと思います。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「表达想法并追问」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l30-ex07",
+        "l30-ex08",
+        "l30-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「表达个人判断」「追问依据与确认未知」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「表达想法并追问」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l30-ex02",
+        "l30-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「表达想法并追问」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l30-ex04",
+        "l30-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「予想と案内を分ける」与「店の感想と営業情報」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「表达想法并追问」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l30-ex11",
+        "l30-ex12",
+        "l30-ex13",
+        "l30-ex14",
+        "l30-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「表达想法并追问」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l30-ex06",
+        "l30-ex10",
+        "l30-ex17",
+        "l30-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l30-ext10",
+      "title": "表达想法并追问 · 10分钟迁移",
+      "instructions": "先听『讨论去展馆的路线』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l30-ext15",
+      "title": "表达想法并追问 · 15分钟迁移",
+      "instructions": "读『予想と案内を分ける』与『店の感想と営業情報』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你觉得公交方便，但没有核对周日是否开行；如实说明。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l30-ext25",
+      "title": "表达想法并追问 · 25分钟迁移",
+      "instructions": "用5分钟听『讨论去展馆的路线』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你认为门票不贵，用と思います表达意见。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l30-ex13",
+        "l30-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『讨论去展馆的路线』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『予想と案内を分ける』与变体材料的条件。",
+    "关闭说明后，能在情境中使用普通形＋と思います及どうしてですか／本当ですか，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l30-d01",
+      "title": "讨论去展馆的路线",
+      "context": "两人先给出判断，再检查与接驳车有关的官方案内。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l30-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "みな",
+          "ja": "駅からはバスが便利だと思います。",
+          "kana": "えきからはばすがべんりだとおもいます。",
+          "zh": "我觉得从车站坐公交方便。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "どうしてですか。",
+          "kana": "どうしてですか。",
+          "zh": "为什么？"
+        },
+        {
+          "speaker": "みな",
+          "ja": "入口の前まで行きますから。",
+          "kana": "いりぐちのまえまでいきますから。",
+          "zh": "因为一直到入口前。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "日曜日もありますか。",
+          "kana": "にちようびもありますか。",
+          "zh": "周日也有吗？"
+        },
+        {
+          "speaker": "みな",
+          "ja": "たぶん、あると思います。でも、まだ確認していません。",
+          "kana": "たぶん、あるとおもいます。でも、まだかくにんしていません。",
+          "zh": "大概有，但还没确认。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "この案内を見ましょう。日曜日は休みですね。",
+          "kana": "このあんないをみましょう。にちようびはやすみですね。",
+          "zh": "看这个案内吧，周日停开。"
+        },
+        {
+          "speaker": "みな",
+          "ja": "本当ですね。じゃあ、歩いて行きましょう。",
+          "kana": "ほんとうですね。じゃあ、あるいていきましょう。",
+          "zh": "真的是。那走去吧。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "近いですから、大丈夫だと思います。",
+          "kana": "ちかいですから、だいじょうぶだとおもいます。",
+          "zh": "很近，我觉得没问题。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l30-v01",
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "意见",
+      "pos": "名词",
+      "example": "意見です。",
+      "exampleMeaning": "是意见。",
+      "mastery": "active",
+      "audioId": "synth-word-992380ba3e976db8"
+    },
+    {
+      "id": "l30-v02",
+      "word": "考え",
+      "reading": "かんがえ",
+      "meaning": "想法",
+      "pos": "名词",
+      "example": "考えです。",
+      "exampleMeaning": "是想法。",
+      "mastery": "active",
+      "audioId": "synth-word-55ce271bd45d7633"
+    },
+    {
+      "id": "l30-v03",
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "真的",
+      "pos": "名词",
+      "example": "本当ですね。じゃあ、歩いて行きましょう。",
+      "exampleMeaning": "真的是。那走去吧。",
+      "mastery": "active",
+      "audioId": "synth-word-36a161d199e809f3"
+    },
+    {
+      "id": "l30-v04",
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "必要",
+      "pos": "な形容词",
+      "example": "予約が必要です。",
+      "exampleMeaning": "需要预约。",
+      "mastery": "active",
+      "audioId": "synth-word-dd369eb6a7a16ee9"
+    },
+    {
+      "id": "l30-v05",
+      "word": "便利",
+      "reading": "べんり",
+      "meaning": "方便",
+      "pos": "な形容词",
+      "example": "バスが便利だと思います。",
+      "exampleMeaning": "我觉得公交方便。",
+      "mastery": "active",
+      "audioId": "synth-word-0ea939c89769cf93"
+    },
+    {
+      "id": "l30-v06",
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "安全",
+      "pos": "な形容词",
+      "example": "ここは安全です。",
+      "exampleMeaning": "这里安全。",
+      "mastery": "active",
+      "audioId": "synth-word-4498dcb9f21d283a"
+    },
+    {
+      "id": "l30-v07",
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "想或认为",
+      "pos": "一类动词",
+      "example": "明日は晴れると思います。",
+      "exampleMeaning": "我想明天会晴。",
+      "mastery": "active",
+      "audioId": "synth-word-9fa48c959c479f03"
+    },
+    {
+      "id": "l30-v08",
+      "word": "晴れる",
+      "reading": "はれる",
+      "meaning": "放晴",
+      "pos": "二类动词",
+      "example": "午後は晴れます。",
+      "exampleMeaning": "下午会放晴。",
+      "mastery": "active",
+      "audioId": "synth-word-0cf3a896494be0f8"
+    },
+    {
+      "id": "l30-v09",
+      "word": "分かる",
+      "reading": "わかる",
+      "meaning": "知道或明白",
+      "pos": "一类动词",
+      "example": "理由が分かります。",
+      "exampleMeaning": "知道原因。",
+      "mastery": "active",
+      "audioId": "synth-word-da952b942fdf6547"
+    },
+    {
+      "id": "l30-v10",
+      "word": "どうして",
+      "reading": "どうして",
+      "meaning": "为什么",
+      "pos": "疑问词",
+      "example": "どうしてですか。",
+      "exampleMeaning": "为什么？",
+      "mastery": "active",
+      "audioId": "synth-word-73aa1225f673fb59"
+    },
+    {
+      "id": "l30-v11",
+      "word": "たぶん",
+      "reading": "たぶん",
+      "meaning": "大概",
+      "pos": "副词",
+      "example": "たぶん、明日は休みです。",
+      "exampleMeaning": "大概明天休业。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2290d8da7447dbf5"
+    },
+    {
+      "id": "l30-v12",
+      "word": "本当に",
+      "reading": "ほんとうに",
+      "meaning": "真的",
+      "pos": "副词",
+      "example": "本当に便利です。",
+      "exampleMeaning": "真的很方便。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8011b195c9392f1e"
+    },
+    {
+      "id": "l30-v13",
+      "word": "なるほど",
+      "reading": "なるほど",
+      "meaning": "原来如此",
+      "pos": "应答词",
+      "example": "なるほど、分かりました。",
+      "exampleMeaning": "原来如此，我明白了。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9efec0ba738c5916"
+    },
+    {
+      "id": "l30-v14",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "たぶん、あると思います。でも、まだ確認していません。",
+      "exampleMeaning": "大概有，但还没确认。",
+      "mastery": "recognition",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l30-v15",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "介绍或指引",
+      "pos": "名词",
+      "example": "この案内を見ましょう。日曜日は休みですね。",
+      "exampleMeaning": "看这个案内吧，周日停开。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l30-e1",
+      "ja": "駅からはバスが便利だと思います。",
+      "reading": "えきからはばすがべんりだとおもいます。",
+      "meaning": "我觉得从车站坐公交方便。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-8d9e7fc418ab3f41"
+    },
+    {
+      "id": "l30-e2",
+      "ja": "どうしてですか。",
+      "reading": "どうしてですか。",
+      "meaning": "为什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-083ce325e5a2a6b8"
+    },
+    {
+      "id": "l30-e3",
+      "ja": "たぶん、あると思います。でも、まだ確認していません。",
+      "reading": "たぶん、あるとおもいます。でも、まだかくにんしていません。",
+      "meaning": "大概有，但还没确认。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-2c5c74d0b1e6ca4f"
+    },
+    {
+      "id": "l30-e4",
+      "ja": "この案内を見ましょう。日曜日は休みですね。",
+      "reading": "このあんないをみましょう。にちようびはやすみですね。",
+      "meaning": "看这个案内吧，周日停开。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-07f36ab263db350b"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l30-g1",
+      "title": "表达个人判断",
+      "meaning": "说明这是自己的想法而非已经证实的事实",
+      "pattern": "普通形＋と思います",
+      "explanation": "动词普通形直接接と；名词和な形容词肯定要だ：便利だと思います。い形容词不加だ。",
+      "examples": [
+        {
+          "ja": "バスが便利だと思います。",
+          "zh": "我觉得公交方便。"
+        }
+      ],
+      "pitfall": "便利と思います在本课省掉必要的だ；高いだと思います则多了だ。"
+    },
+    {
+      "id": "l30-g2",
+      "title": "追问依据与确认未知",
+      "meaning": "在听到意见时询问理由，区分预测与确认",
+      "pattern": "どうしてですか／本当ですか",
+      "explanation": "どうして询问原因；本当ですか核实意外信息。对方说たぶん不是确定事实，行动前可查正式案内。",
+      "examples": [
+        {
+          "ja": "どうしてバスが便利だと思いますか。",
+          "zh": "为什么觉得公交方便？"
+        }
+      ],
+      "pitfall": "不要把对方「と思います」改述成确定时刻表。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "意見",
+          "reading": "いけん",
+          "zh": "意见"
+        },
+        {
+          "ja": "考え",
+          "reading": "かんがえ",
+          "zh": "想法"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l30-r1",
+      "title": "予想と案内を分ける",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "みなさんは、駅から会場までバスが便利だと思いました。入口の前まで行くからです。日曜日もバスがあると思いましたが、まだ確認していませんでした。りんさんと案内を見ると、日曜日は休みでした。二人は近いから歩いて行くことにしました。「たぶん」は確定した情報ではありません。",
+      "zh": "美奈觉得从车站到会场公交方便，因为能到入口前。她认为周日大概也有，但还没确认。和小林查看案内后发现周日停开。两人因距离近决定走去。“大概”不是确定信息。（ことにしました在此是“决定”的支持表达。）",
+      "audioId": "l30-reading-synth"
+    },
+    {
+      "id": "l30-r2",
+      "title": "店の感想と営業情報",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "けんさんは小さい食堂がいいと思っています。安くて静かだからです。さらさんは、明日はその店が休みだと思っています。でも、店の営業日をまだ調べていません。二人は明日の昼に行きたいです。さらさんは電話で確認してから、店を決めるつもりです。今は営業するかどうか分かりません。",
+      "zh": "健觉得小食堂好，因为便宜又安静。莎拉觉得店明天休业，但还没查营业日。两人想明天中午去。莎拉打算电话确认后再决定。现在还不知道是否营业。（かどうか表示“是否”，在此支持理解。）"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l30-ex01",
+      "type": "choice",
+      "prompt": "みなが最初にバスを勧めた理由はどれですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l30-dialogue-synth",
+      "choices": [
+        "入口の前まで行く",
+        "日曜日だけ無料",
+        "友達が運転する"
+      ],
+      "correctIndex": 0,
+      "explanation": "便利な理由は入口の前まで行くこと。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex02",
+      "type": "choice",
+      "prompt": "案内で確認できた日曜日のバスはどうですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l30-reading-synth",
+      "choices": [
+        "予約が必要",
+        "休み",
+        "朝だけある"
+      ],
+      "correctIndex": 1,
+      "explanation": "案内は日曜日休みで、最初の予想と違う。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l30-ri8"
+      ]
+    },
+    {
+      "id": "l30-ex03",
+      "type": "choice",
+      "prompt": "みなが最初にバスを勧めた理由はどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "入口の前まで行く",
+        "日曜日だけ無料",
+        "友達が運転する"
+      ],
+      "correctIndex": 0,
+      "explanation": "便利な理由は入口の前まで行くこと。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex04",
+      "type": "choice",
+      "prompt": "案内で確認できた日曜日のバスはどうですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "予約が必要",
+        "休み",
+        "朝だけある"
+      ],
+      "correctIndex": 1,
+      "explanation": "案内は日曜日休みで、最初の予想と違う。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l30-ri8"
+      ]
+    },
+    {
+      "id": "l30-ex05",
+      "type": "choice",
+      "prompt": "けんが小さい食堂を好む理由はどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "近くて有名",
+        "広くて明るい",
+        "安くて静か"
+      ],
+      "correctIndex": 2,
+      "explanation": "安くて静かだからとある。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex06",
+      "type": "choice",
+      "prompt": "食堂の明日の営業について今言えるのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "まだ確認できていない",
+        "必ず休み",
+        "必ず営業する"
+      ],
+      "correctIndex": 0,
+      "explanation": "さらの判断は未確認で、電話確認はこれから。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex07",
+      "type": "input",
+      "prompt": "「我觉得这家店安静」：この店は静か____と思います。",
+      "acceptedAnswers": [
+        "だ"
+      ],
+      "explanation": "な形容词肯定普通体为静かだ。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex08",
+      "type": "input",
+      "prompt": "问对方理由：____ですか。",
+      "acceptedAnswers": [
+        "どうして",
+        "なぜ",
+        "何故",
+        "どういう理由"
+      ],
+      "explanation": "どうして、なぜ都可询问原因；也接受自然的どういう理由ですか。不是询问地点。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex09",
+      "type": "order",
+      "prompt": "用词块组成：我觉得这条路近。",
+      "tokens": [
+        "近いと",
+        "思います。",
+        "この道は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为この道は近いと思います。；な形容词肯定普通体为静かだ。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex10",
+      "type": "order",
+      "prompt": "用词块组成：为什么这样想？",
+      "tokens": [
+        "そう",
+        "思いますか。",
+        "どうして"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为どうしてそう思いますか。；どうして询问为什么，不是どこ的地点。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex11",
+      "type": "self",
+      "prompt": "你觉得公交方便，但没有核对周日是否开行；如实说明。",
+      "sampleAnswer": "バスが便利だと思います。でも、日曜日もあるか、まだ確認していません。",
+      "explanation": "个人意见与待确认信息分开；か在此嵌入是否，不强制要求模仿。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5",
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex12",
+      "type": "self",
+      "prompt": "对方说这家店好，你想知道理由；写追问。",
+      "sampleAnswer": "どうしてそう思いますか。",
+      "explanation": "询问意见依据，而不是强迫对方确认你的猜测。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5"
+      ]
+    },
+    {
+      "id": "l30-ex13",
+      "type": "self",
+      "prompt": "案内确认了周日休业；更正自己先前说周日开门的预测。",
+      "sampleAnswer": "すみません、日曜日は休みです。この案内で確認しました。",
+      "explanation": "引用已核对资料，明确修正。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex14",
+      "type": "self",
+      "prompt": "你认为门票不贵，用と思います表达意见。",
+      "sampleAnswer": "チケットは高くないと思います。",
+      "explanation": "否定い形容词普通形直接接と，不加だ。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5"
+      ]
+    },
+    {
+      "id": "l30-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你觉得公交方便，但没有核对周日是否开行；如实说明。",
+      "choices": [
+        "バスが便利だと思います。でも、日曜日もあるか、まだ確認していません。",
+        "どうしてそう思いますか。",
+        "すみません、日曜日は休みです。この案内で確認しました。"
+      ],
+      "correctIndex": 0,
+      "explanation": "个人意见与待确认信息分开；か在此嵌入是否，不强制要求模仿。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5",
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：对方说这家店好，你想知道理由；写追问。",
+      "choices": [
+        "すみません、日曜日は休みです。この案内で確認しました。",
+        "チケットは高くないと思います。",
+        "どうしてそう思いますか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "询问意见依据，而不是强迫对方确认你的猜测。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5"
+      ]
+    },
+    {
+      "id": "l30-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：案内确认了周日休业；更正自己先前说周日开门的预测。",
+      "choices": [
+        "バスが便利だと思います。でも、日曜日もあるか、まだ確認していません。",
+        "すみません、日曜日は休みです。この案内で確認しました。",
+        "チケットは高くないと思います。"
+      ],
+      "correctIndex": 1,
+      "explanation": "引用已核对资料，明确修正。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你认为门票不贵，用と思います表达意见。",
+      "choices": [
+        "チケットは高くないと思います。",
+        "バスが便利だと思います。でも、日曜日もあるか、まだ確認していません。",
+        "どうしてそう思いますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "否定い形容词普通形直接接と，不加だ。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l30-ri5",
+        "l30-ri9"
+      ]
+    },
+    {
+      "id": "l30-ex19",
+      "type": "self",
+      "prompt": "读例句「意見です。」。先不看词表，用中文说明「意見」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "意见",
+      "explanation": "本课这里表示“意见”。例句意思是：是意见。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l30-ri5"
+      ]
+    },
+    {
+      "id": "l30-ex20",
+      "type": "self",
+      "prompt": "读例句「予約が必要です。」。先不看词表，用中文说明「必要」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "必要",
+      "explanation": "本课这里表示“必要”。例句意思是：需要预约。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l30-ri8"
+      ]
+    },
+    {
+      "id": "l30-ex21",
+      "type": "self",
+      "prompt": "读例句「明日は晴れると思います。」。先不看词表，用中文说明「思う」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "想或认为",
+      "explanation": "本课这里表示“想或认为”。例句意思是：我想明天会晴。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l30-ex22",
+      "type": "self",
+      "prompt": "读例句「どうしてですか。」。先不看词表，用中文说明「どうして」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "为什么",
+      "explanation": "本课这里表示“为什么”。例句意思是：为什么？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l30-ri2"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l30-ri1",
+      "front": "我觉得从车站坐公交方便。",
+      "back": "駅からはバスが便利だと思います。",
+      "reading": "えきからはばすがべんりだとおもいます。",
+      "audioId": "synth-word-8d9e7fc418ab3f41",
+      "kind": "expression"
+    },
+    {
+      "id": "l30-ri2",
+      "front": "为什么？",
+      "back": "どうしてですか。",
+      "reading": "どうしてですか。",
+      "audioId": "synth-word-083ce325e5a2a6b8",
+      "kind": "expression"
+    },
+    {
+      "id": "l30-ri3",
+      "front": "大概有，但还没确认。",
+      "back": "たぶん、あると思います。でも、まだ確認していません。",
+      "reading": "たぶん、あるとおもいます。でも、まだかくにんしていません。",
+      "audioId": "synth-word-2c5c74d0b1e6ca4f",
+      "kind": "expression"
+    },
+    {
+      "id": "l30-ri4",
+      "front": "看这个案内吧，周日停开。",
+      "back": "この案内を見ましょう。日曜日は休みですね。",
+      "reading": "このあんないをみましょう。にちようびはやすみですね。",
+      "audioId": "synth-word-07f36ab263db350b",
+      "kind": "expression"
+    },
+    {
+      "id": "l30-ri5",
+      "front": "意見在本课是什么意思？",
+      "back": "意见",
+      "reading": "いけん",
+      "audioId": "synth-word-992380ba3e976db8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l30-ri6",
+      "front": "考え在本课是什么意思？",
+      "back": "想法",
+      "reading": "かんがえ",
+      "audioId": "synth-word-55ce271bd45d7633",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l30-ri7",
+      "front": "本当在本课是什么意思？",
+      "back": "真的",
+      "reading": "ほんとう",
+      "audioId": "synth-word-36a161d199e809f3",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l30-ri8",
+      "front": "必要在本课是什么意思？",
+      "back": "必要",
+      "reading": "ひつよう",
+      "audioId": "synth-word-dd369eb6a7a16ee9",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l30-ri9",
+      "front": "便利在本课是什么意思？",
+      "back": "方便",
+      "reading": "べんり",
+      "audioId": "synth-word-0ea939c89769cf93",
+      "kind": "vocabulary"
+    }
+  ]
+}

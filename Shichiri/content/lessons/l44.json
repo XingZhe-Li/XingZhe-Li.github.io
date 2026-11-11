@@ -1,0 +1,1098 @@
+{
+  "id": "l44",
+  "number": 44,
+  "moduleId": "m9",
+  "title": "说明安排与让人做事",
+  "subtitle": "使役既可能表示指示，也可能表示允许；判断谁行动、谁决定。",
+  "revision": 2,
+  "goals": [
+    "识别使役形并跟踪指示者与行动者。",
+    "根据语境区分安排、允许和强制。",
+    "提出合理的自主选择请求并说明条件。"
+  ],
+  "prerequisites": [
+    "理解第43课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「说明安排与让人做事」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l44-ex01",
+        "l44-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「调查活动怎么分工」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「自分で決める調査」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「说明安排与让人做事」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l44-ex19",
+        "l44-ex20",
+        "l44-ex21",
+        "l44-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到交通、調査、班長、計画，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用役割は自分たちで決めさせてください。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「说明安排与让人做事」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l44-ex07",
+        "l44-ex08",
+        "l44-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「使役形与人物关系」「允许与强制依赖情境」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「说明安排与让人做事」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l44-ex02",
+        "l44-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「说明安排与让人做事」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l44-ex04",
+        "l44-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「自分で決める調査」与「新人に任せる前に」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「说明安排与让人做事」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l44-ex11",
+        "l44-ex12",
+        "l44-ex13",
+        "l44-ex14",
+        "l44-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「说明安排与让人做事」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l44-ex06",
+        "l44-ex10",
+        "l44-ex17",
+        "l44-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l44-ext10",
+      "title": "说明安排与让人做事 · 10分钟迁移",
+      "instructions": "用10分钟重读「自分で決める調査」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l44-ext15",
+      "title": "说明安排与让人做事 · 15分钟迁移",
+      "instructions": "用15分钟把「新人に任せる前に」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l44-ext25",
+      "title": "说明安排与让人做事 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l44-ex13",
+        "l44-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l44-d01",
+      "title": "调查活动怎么分工",
+      "context": "老师安排小组调查，但学生希望自主决定角色。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l44-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "先生",
+          "ja": "来週は町の交通を調査します。班長に計画を発表させます。",
+          "kana": "らいしゅうはまちのこうつうをちょうさします。はんちょうにけいかくをはっぴょうさせます。",
+          "zh": "下周调查城市交通，让组长报告计划。"
+        },
+        {
+          "speaker": "学生",
+          "ja": "役割は自分たちで決めさせてください。",
+          "kana": "やくわりはじぶんたちできめさせてください。",
+          "zh": "请允许我们自行决定角色。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "いいですよ。ただし、安全のルールは守ってください。",
+          "kana": "いいですよ。ただし、あんぜんのるーるはまもってください。",
+          "zh": "可以，但要遵守安全规则。"
+        },
+        {
+          "speaker": "学生",
+          "ja": "写真を撮る係と、記録を書く係を分けてもいいですか。",
+          "kana": "しゃしんをとるかかりと、きろくをかくかかりをわけてもいいですか。",
+          "zh": "可以把拍照和记录的职责分开吗？"
+        },
+        {
+          "speaker": "先生",
+          "ja": "はい。全員に一つずつ仕事を担当させてください。",
+          "kana": "はい。ぜんいんにひとつずつしごとをたんとうさせてください。",
+          "zh": "可以，请让每人负责一项工作。"
+        },
+        {
+          "speaker": "学生",
+          "ja": "移動が難しい人には、教室で資料を調べてもらいます。",
+          "kana": "いどうがむずかしいひとには、きょうしつでしりょうをしらべてもらいます。",
+          "zh": "行动困难的人在教室查资料。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "よいと思います。無理に外へ行かせる必要はありません。",
+          "kana": "よいとおもいます。むりにそとへいかせるひつようはありません。",
+          "zh": "我觉得很好，不必勉强让他外出。"
+        },
+        {
+          "speaker": "学生",
+          "ja": "休憩の時間も計画に入れます。",
+          "kana": "きゅうけいのじかんもけいかくにいれます。",
+          "zh": "休息时间也纳入计划。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "最後に、班ごとに結果を説明させます。",
+          "kana": "さいごに、はんごとにけっかをせつめいさせます。",
+          "zh": "最后让各组说明结果。"
+        },
+        {
+          "speaker": "学生",
+          "ja": "わかりました。目的と条件をみんなに伝えます。",
+          "kana": "わかりました。もくてきとじょうけんをみんなにつたえます。",
+          "zh": "明白，会向大家传达目的与条件。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l44-v01",
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "交通",
+      "pos": "名词",
+      "example": "来週は町の交通を調査します。班長に計画を発表させます。",
+      "exampleMeaning": "下周调查城市交通，让组长报告计划。",
+      "mastery": "active",
+      "audioId": "synth-word-ab697952cf9c5bff"
+    },
+    {
+      "id": "l44-v02",
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "调查",
+      "pos": "名词",
+      "example": "来週は町の交通を調査します。班長に計画を発表させます。",
+      "exampleMeaning": "下周调查城市交通，让组长报告计划。",
+      "mastery": "active",
+      "audioId": "synth-word-4e03f03f0f6f30f8"
+    },
+    {
+      "id": "l44-v03",
+      "word": "班長",
+      "reading": "はんちょう",
+      "meaning": "组长",
+      "pos": "名词",
+      "example": "来週は町の交通を調査します。班長に計画を発表させます。",
+      "exampleMeaning": "下周调查城市交通，让组长报告计划。",
+      "mastery": "active",
+      "audioId": "synth-word-b2edb4db3770e922"
+    },
+    {
+      "id": "l44-v04",
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "来週は町の交通を調査します。班長に計画を発表させます。",
+      "exampleMeaning": "下周调查城市交通，让组长报告计划。",
+      "mastery": "active",
+      "audioId": "synth-word-f941b977845089ac"
+    },
+    {
+      "id": "l44-v05",
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "报告",
+      "pos": "名词",
+      "example": "来週は町の交通を調査します。班長に計画を発表させます。",
+      "exampleMeaning": "下周调查城市交通，让组长报告计划。",
+      "mastery": "active",
+      "audioId": "synth-word-f459427f169ff3d7"
+    },
+    {
+      "id": "l44-v06",
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "角色；分工",
+      "pos": "名词",
+      "example": "役割は自分たちで決めさせてください。",
+      "exampleMeaning": "请允许我们自行决定角色。",
+      "mastery": "active",
+      "audioId": "synth-word-3ca5101ece1e1c27"
+    },
+    {
+      "id": "l44-v07",
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "安全",
+      "pos": "名词",
+      "example": "いいですよ。ただし、安全のルールは守ってください。",
+      "exampleMeaning": "可以，但要遵守安全规则。",
+      "mastery": "active",
+      "audioId": "synth-word-4498dcb9f21d283a"
+    },
+    {
+      "id": "l44-v08",
+      "word": "ルール",
+      "reading": "るーる",
+      "meaning": "规则",
+      "pos": "名词",
+      "example": "いいですよ。ただし、安全のルールは守ってください。",
+      "exampleMeaning": "可以，但要遵守安全规则。",
+      "mastery": "active",
+      "audioId": "synth-word-864c39eaa3aa537e"
+    },
+    {
+      "id": "l44-v09",
+      "word": "係",
+      "reading": "かかり",
+      "meaning": "负责某事的人",
+      "pos": "名词",
+      "example": "写真を撮る係と、記録を書く係を分けてもいいですか。",
+      "exampleMeaning": "可以把拍照和记录的职责分开吗？",
+      "mastery": "active",
+      "audioId": "synth-word-5cfe75329acbeb6e"
+    },
+    {
+      "id": "l44-v10",
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "记录",
+      "pos": "名词",
+      "example": "写真を撮る係と、記録を書く係を分けてもいいですか。",
+      "exampleMeaning": "可以把拍照和记录的职责分开吗？",
+      "mastery": "active",
+      "audioId": "synth-word-b817e5799cbc6fb5"
+    },
+    {
+      "id": "l44-v11",
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "全体",
+      "pos": "名词",
+      "example": "はい。全員に一つずつ仕事を担当させてください。",
+      "exampleMeaning": "可以，请让每人负责一项工作。",
+      "mastery": "active",
+      "audioId": "synth-word-01ed5da50971fd00"
+    },
+    {
+      "id": "l44-v12",
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "负责",
+      "pos": "名词",
+      "example": "はい。全員に一つずつ仕事を担当させてください。",
+      "exampleMeaning": "可以，请让每人负责一项工作。",
+      "mastery": "active",
+      "audioId": "synth-word-dfae24e20c53efbc"
+    },
+    {
+      "id": "l44-v13",
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "移动",
+      "pos": "名词",
+      "example": "移動が難しい人には、教室で資料を調べてもらいます。",
+      "exampleMeaning": "行动困难的人在教室查资料。",
+      "mastery": "active",
+      "audioId": "synth-word-8fcfe5fca4771f62"
+    },
+    {
+      "id": "l44-v14",
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "教室",
+      "pos": "名词",
+      "example": "移動が難しい人には、教室で資料を調べてもらいます。",
+      "exampleMeaning": "行动困难的人在教室查资料。",
+      "mastery": "active",
+      "audioId": "synth-word-ce7f5f0e887d2e60"
+    },
+    {
+      "id": "l44-v15",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "移動が難しい人には、教室で資料を調べてもらいます。",
+      "exampleMeaning": "行动困难的人在教室查资料。",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l44-v16",
+      "word": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "休息",
+      "pos": "名词",
+      "example": "休憩の時間も計画に入れます。",
+      "exampleMeaning": "休息时间也纳入计划。",
+      "mastery": "active",
+      "audioId": "synth-word-c35f3647a6f2f4ee"
+    },
+    {
+      "id": "l44-v17",
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "结果",
+      "pos": "名词",
+      "example": "最後に、班ごとに結果を説明させます。",
+      "exampleMeaning": "最后让各组说明结果。",
+      "mastery": "active",
+      "audioId": "synth-word-076cfdfce4ef3cf9"
+    },
+    {
+      "id": "l44-v18",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "目的",
+      "pos": "名词",
+      "example": "わかりました。目的と条件をみんなに伝えます。",
+      "exampleMeaning": "明白，会向大家传达目的与条件。",
+      "mastery": "active",
+      "audioId": "synth-word-25315c650c32d50c"
+    },
+    {
+      "id": "l44-v19",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "わかりました。目的と条件をみんなに伝えます。",
+      "exampleMeaning": "明白，会向大家传达目的与条件。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l44-v20",
+      "word": "研修",
+      "reading": "けんしゅう",
+      "meaning": "培训",
+      "pos": "名词",
+      "example": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。",
+      "exampleMeaning": "咖啡馆培训中，店长让新人练习接单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6f69be40d8c7a7df"
+    },
+    {
+      "id": "l44-v21",
+      "word": "店長",
+      "reading": "てんちょう",
+      "meaning": "店长",
+      "pos": "名词",
+      "example": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。",
+      "exampleMeaning": "咖啡馆培训中，店长让新人练习接单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f2a0d7a8bb0a764b"
+    },
+    {
+      "id": "l44-v22",
+      "word": "新人",
+      "reading": "しんじん",
+      "meaning": "新人",
+      "pos": "名词",
+      "example": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。",
+      "exampleMeaning": "咖啡馆培训中，店长让新人练习接单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7dff5c4270fa6042"
+    },
+    {
+      "id": "l44-v23",
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "练习",
+      "pos": "名词",
+      "example": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。",
+      "exampleMeaning": "咖啡馆培训中，店长让新人练习接单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9bbdbdf6c5c4ffd6"
+    },
+    {
+      "id": "l44-v24",
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "订单；点单",
+      "pos": "名词",
+      "example": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。",
+      "exampleMeaning": "咖啡馆培训中，店长让新人练习接单。",
+      "mastery": "recognition",
+      "audioId": "synth-word-42841e3db3fb4e80"
+    },
+    {
+      "id": "l44-v25",
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "失败；失误",
+      "pos": "名词",
+      "example": "店長は失敗を責めるためではなく、困った時に確認できるように準備させたと説明しました。",
+      "exampleMeaning": "店长说明准备练习并非为责怪失误，而是让遇到困难时能确认。",
+      "mastery": "recognition",
+      "audioId": "synth-word-44dd6f82731ca691"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l44-e1",
+      "ja": "役割は自分たちで決めさせてください。",
+      "reading": "やくわりはじぶんたちできめさせてください。",
+      "meaning": "请允许我们自行决定角色。",
+      "usage": "请求允许自己作出选择",
+      "audioId": "synth-word-8eba518a0de4040b"
+    },
+    {
+      "id": "l44-e2",
+      "ja": "いいですよ。ただし、安全のルールは守ってください。",
+      "reading": "いいですよ。ただし、あんぜんのるーるはまもってください。",
+      "meaning": "可以，但要遵守安全规则。",
+      "usage": "在允许的同时限定必要条件",
+      "audioId": "synth-word-44f2a8eb11ea9b35"
+    },
+    {
+      "id": "l44-e3",
+      "ja": "よいと思います。無理に外へ行かせる必要はありません。",
+      "reading": "よいとおもいます。むりにそとへいかせるひつようはありません。",
+      "meaning": "我觉得很好，不必勉强让他外出。",
+      "usage": "说明不应强迫某人采取不合适行动",
+      "audioId": "synth-word-f61e1d3e7d19b4f2"
+    },
+    {
+      "id": "l44-e4",
+      "ja": "わかりました。目的と条件をみんなに伝えます。",
+      "reading": "わかりました。もくてきとじょうけんをみんなにつたえます。",
+      "meaning": "明白，会向大家传达目的与条件。",
+      "usage": "确认将共同条件传达给全体",
+      "audioId": "synth-word-41c0cc97d12088ac"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l44-g1",
+      "title": "使役形与人物关系",
+      "meaning": "表达让某人做事的安排。",
+      "pattern": "行く→行かせる／決める→決めさせる／する→させる",
+      "explanation": "一类う段改あ段加せる，二类去る加させる。先找决定者，再找实际行动者。",
+      "examples": [
+        {
+          "ja": "先生は班長に計画を発表させます。",
+          "zh": "老师让组长报告计划。"
+        },
+        {
+          "ja": "店長は新人に練習させました。",
+          "zh": "店长让新人练习。"
+        }
+      ],
+      "pitfall": "不要把使役主语误认为亲自行动的人。"
+    },
+    {
+      "id": "l44-g2",
+      "title": "允许与强制依赖情境",
+      "meaning": "同一形式不总表示勉强。",
+      "pattern": "〜させてください。／無理に〜させる。",
+      "explanation": "请求させてください常表示请允许我做；無理に等词提示违背意愿。不能只凭形态判断态度。",
+      "examples": [
+        {
+          "ja": "自分で選ばせてください。",
+          "zh": "请让我自己选。"
+        },
+        {
+          "ja": "無理に参加させないでください。",
+          "zh": "请不要强迫参加。"
+        }
+      ],
+      "pitfall": "使役不自动等于处罚，也不自动等于自愿。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "交通",
+          "reading": "こうつう",
+          "zh": "交通"
+        },
+        {
+          "ja": "調査",
+          "reading": "ちょうさ",
+          "zh": "调查"
+        },
+        {
+          "ja": "班長",
+          "reading": "はんちょう",
+          "zh": "组长"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l44-r1",
+      "title": "自分で決める調査",
+      "context": "小组成员说明老师安排与自主选择之间的分界。",
+      "ja": "先生は町の交通を調査する活動で、各班の班長に最初の計画を発表させました。目的は全員が調査に関わることで、同じ役割を全員にさせることではありません。私たちは写真を撮る係、記録を書く係、資料を調べる係に分かれました。移動が難しい人もいたので、無理に外へ行かせず、教室でできる担当を相談しました。先生は安全のルールと集合の条件を示しましたが、細かい作業の順番は自分たちで決めさせてくれました。休憩を入れる時間も計画に書いたため、仕事を急がせすぎずにすみました。最後はそれぞれの結果を持ち寄り、班全体で一つの説明にまとめました。何を決めてよく、何を変えてはいけないかが明確だと、自主的に動きやすいと感じました。",
+      "zh": "老师在城市交通调查中，让各组长先报告计划。目的是全体参与，而非让大家做相同工作。我们分成拍照、记录和查资料的角色。有人行动困难，因此不勉强外出，而商量教室能做的工作。老师提出安全规则和集合条件，但允许我们自行决定细节顺序。因计划写了休息时间，不必过度催促工作。最后汇集各自结果，由全组整合成一份说明。我觉得明确哪些能自主决定、哪些不能改，有助于自主行动。",
+      "audioId": "l44-reading-synth"
+    },
+    {
+      "id": "l44-r2",
+      "title": "新人に任せる前に",
+      "context": "店长和新人对同一培训安排的理解不同。",
+      "ja": "喫茶店の研修で、店長は新人に注文を聞く練習をさせました。最初から一人で客を担当させたのではなく、先輩が客の役になって確認しました。新人は「早く一人で働かせてほしい」と言いましたが、注文を聞き直す表現にまだ自信がありませんでした。店長は失敗を責めるためではなく、困った時に確認できるように準備させたと説明しました。ただし、説明せずに何度も同じ練習をさせると、相手には理由が伝わりません。二人は、何ができたら次の段階へ進むかを一緒に決めました。練習の後、新人は短い注文から担当し、先輩は近くで必要な時だけ手伝いました。任せることと放っておくことは違い、練習させることと強制することも同じではありません。次も同じ基準で成長を確認します。",
+      "zh": "咖啡馆培训中，店长让新人练习接单。并非开始就让新人独自接待客人，而是由前辈扮客人练习。新人想尽快独立工作，但对重新询问订单的表达尚无信心。店长说明准备练习并非为责怪失误，而是让遇到困难时能确认。但不解释理由、反复让做同样练习，无法让对方理解。两人共同决定达到什么标准再进入下一阶段。练习后，新人从简单订单开始，前辈只在需要时协助。授权不同于放任，安排练习也不等同于强制。下次也按相同标准确认进步。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l44-ex01",
+      "type": "choice",
+      "prompt": "谁决定具体分工？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l44-dialogue-synth",
+      "choices": [
+        "只能由老师决定",
+        "学生可以自行决定",
+        "由陌生参加者决定"
+      ],
+      "correctIndex": 1,
+      "explanation": "老师允许自己决定角色。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex02",
+      "type": "choice",
+      "prompt": "主阅读中行动困难者如何参与？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l44-reading-synth",
+      "choices": [
+        "教室查资料",
+        "被取消参与",
+        "被强迫外出"
+      ],
+      "correctIndex": 0,
+      "explanation": "按条件安排了室内任务。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex03",
+      "type": "choice",
+      "prompt": "调查的目标是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "让全员以适合的角色参与",
+        "让每人做完全相同任务",
+        "只让组长独自完成"
+      ],
+      "correctIndex": 0,
+      "explanation": "原文明确区分共同参与和同工。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l44-ri6",
+        "l44-ri7"
+      ]
+    },
+    {
+      "id": "l44-ex04",
+      "type": "choice",
+      "prompt": "老师让学生自主决定什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "是否遵守安全规则",
+        "是否报告任何结果",
+        "细节工作顺序"
+      ],
+      "correctIndex": 2,
+      "explanation": "规则是固定条件，细节可自主。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l44-ri9"
+      ]
+    },
+    {
+      "id": "l44-ex05",
+      "type": "choice",
+      "prompt": "新人最初如何练接单？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "只背店名不实践",
+        "前辈扮客人练习",
+        "直接独自接所有客人"
+      ],
+      "correctIndex": 1,
+      "explanation": "文章明确先做角色练习。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex06",
+      "type": "choice",
+      "prompt": "双方为避免无止境重复做了什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "共同确定进入下一阶段的标准",
+        "取消所有培训",
+        "把失误归罪给顾客"
+      ],
+      "correctIndex": 0,
+      "explanation": "共同标准让练习有清楚目标。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex07",
+      "type": "input",
+      "prompt": "把「行く」改为礼貌非过去使役形：子供を外へ＿＿。",
+      "acceptedAnswers": [
+        "行かせます",
+        "いかせます"
+      ],
+      "explanation": "行く→行かせる。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex08",
+      "type": "order",
+      "prompt": "表达老师让组长报告计划。",
+      "tokens": [
+        "発表させます",
+        "。",
+        "計画を",
+        "班長に",
+        "先生は"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "组长是实际报告的人。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l44-ri7",
+        "l44-ri8",
+        "l44-ri9"
+      ]
+    },
+    {
+      "id": "l44-ex09",
+      "type": "choice",
+      "prompt": "哪句主要在请求允许自己做？",
+      "choices": [
+        "無理に働かせました。",
+        "自分で決めさせてください。",
+        "全員に同じことをさせました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "させてください常表达让我做。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex10",
+      "type": "input",
+      "prompt": "把二类动词「決める」改为普通体非过去使役形：決め＿＿。",
+      "acceptedAnswers": [
+        "させる"
+      ],
+      "explanation": "二类去る加させる。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex11",
+      "type": "self",
+      "prompt": "你希望自主分工，但承诺遵守安全条件。向老师写请求。",
+      "sampleAnswer": "安全のルールは守ります。役割は自分たちで決めさせてください。",
+      "explanation": "自主选择与共同边界并存。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri1"
+      ]
+    },
+    {
+      "id": "l44-ex12",
+      "type": "self",
+      "prompt": "同伴行动不便，写一个不强迫外出的替代安排。",
+      "sampleAnswer": "無理に外へ行かせず、教室で資料を調べてもらう方法を相談します。",
+      "explanation": "按能力和条件分担，不排除参与。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex13",
+      "type": "self",
+      "prompt": "作为店长，解释为何先安排角色练习。",
+      "sampleAnswer": "聞き直す時に困らないように、先輩と練習してから短い注文を担当してもらいます。",
+      "explanation": "说明准备目的与渐进授权。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l44-ex14",
+      "type": "self",
+      "prompt": "把“老师让组长发言”中的两个人物责任说明清楚。",
+      "sampleAnswer": "発表をするのは班長です。発表するように決めたのは先生です。",
+      "explanation": "区分决定者与行动者。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri7",
+        "l44-ri9"
+      ]
+    },
+    {
+      "id": "l44-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「役割は自分たちで決めさせてください。」主要用于什么？",
+      "choices": [
+        "请求允许自己作出选择",
+        "在允许的同时限定必要条件",
+        "说明不应强迫某人采取不合适行动"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“请允许我们自行决定角色。”。结合前后交流，其作用是：请求允许自己作出选择",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri1"
+      ]
+    },
+    {
+      "id": "l44-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「いいですよ。ただし、安全のルールは守ってください。」主要用于什么？",
+      "choices": [
+        "说明不应强迫某人采取不合适行动",
+        "确认将共同条件传达给全体",
+        "在允许的同时限定必要条件"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“可以，但要遵守安全规则。”。结合前后交流，其作用是：在允许的同时限定必要条件",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri2"
+      ]
+    },
+    {
+      "id": "l44-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「よいと思います。無理に外へ行かせる必要はありません。」主要用于什么？",
+      "choices": [
+        "请求允许自己作出选择",
+        "说明不应强迫某人采取不合适行动",
+        "确认将共同条件传达给全体"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“我觉得很好，不必勉强让他外出。”。结合前后交流，其作用是：说明不应强迫某人采取不合适行动",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri3"
+      ]
+    },
+    {
+      "id": "l44-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「わかりました。目的と条件をみんなに伝えます。」主要用于什么？",
+      "choices": [
+        "确认将共同条件传达给全体",
+        "请求允许自己作出选择",
+        "在允许的同时限定必要条件"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“明白，会向大家传达目的与条件。”。结合前后交流，其作用是：确认将共同条件传达给全体",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l44-ri4"
+      ]
+    },
+    {
+      "id": "l44-ex19",
+      "type": "self",
+      "prompt": "读例句「来週は町の交通を調査します。班長に計画を発表させます。」。先不看词表，用中文说明「交通」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "交通",
+      "explanation": "本课这里表示“交通”。例句意思是：下周调查城市交通，让组长报告计划。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l44-ri5",
+        "l44-ri6",
+        "l44-ri7"
+      ]
+    },
+    {
+      "id": "l44-ex20",
+      "type": "self",
+      "prompt": "读例句「来週は町の交通を調査します。班長に計画を発表させます。」。先不看词表，用中文说明「計画」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "计划",
+      "explanation": "本课这里表示“计划”。例句意思是：下周调查城市交通，让组长报告计划。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l44-ri5",
+        "l44-ri6",
+        "l44-ri7"
+      ]
+    },
+    {
+      "id": "l44-ex21",
+      "type": "self",
+      "prompt": "读例句「いいですよ。ただし、安全のルールは守ってください。」。先不看词表，用中文说明「安全」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "安全",
+      "explanation": "本课这里表示“安全”。例句意思是：可以，但要遵守安全规则。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l44-ri2"
+      ]
+    },
+    {
+      "id": "l44-ex22",
+      "type": "self",
+      "prompt": "读例句「写真を撮る係と、記録を書く係を分けてもいいですか。」。先不看词表，用中文说明「記録」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "记录",
+      "explanation": "本课这里表示“记录”。例句意思是：可以把拍照和记录的职责分开吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l44-ri1",
+      "front": "请允许我们自行决定角色。",
+      "back": "役割は自分たちで決めさせてください。",
+      "reading": "やくわりはじぶんたちできめさせてください。",
+      "audioId": "synth-word-8eba518a0de4040b",
+      "kind": "expression"
+    },
+    {
+      "id": "l44-ri2",
+      "front": "可以，但要遵守安全规则。",
+      "back": "いいですよ。ただし、安全のルールは守ってください。",
+      "reading": "いいですよ。ただし、あんぜんのるーるはまもってください。",
+      "audioId": "synth-word-44f2a8eb11ea9b35",
+      "kind": "expression"
+    },
+    {
+      "id": "l44-ri3",
+      "front": "我觉得很好，不必勉强让他外出。",
+      "back": "よいと思います。無理に外へ行かせる必要はありません。",
+      "reading": "よいとおもいます。むりにそとへいかせるひつようはありません。",
+      "audioId": "synth-word-f61e1d3e7d19b4f2",
+      "kind": "expression"
+    },
+    {
+      "id": "l44-ri4",
+      "front": "明白，会向大家传达目的与条件。",
+      "back": "わかりました。目的と条件をみんなに伝えます。",
+      "reading": "わかりました。もくてきとじょうけんをみんなにつたえます。",
+      "audioId": "synth-word-41c0cc97d12088ac",
+      "kind": "expression"
+    },
+    {
+      "id": "l44-ri5",
+      "front": "交通在本课是什么意思？",
+      "back": "交通",
+      "reading": "こうつう",
+      "audioId": "synth-word-ab697952cf9c5bff",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l44-ri6",
+      "front": "調査在本课是什么意思？",
+      "back": "调查",
+      "reading": "ちょうさ",
+      "audioId": "synth-word-4e03f03f0f6f30f8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l44-ri7",
+      "front": "班長在本课是什么意思？",
+      "back": "组长",
+      "reading": "はんちょう",
+      "audioId": "synth-word-b2edb4db3770e922",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l44-ri8",
+      "front": "計画在本课是什么意思？",
+      "back": "计划",
+      "reading": "けいかく",
+      "audioId": "synth-word-f941b977845089ac",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l44-ri9",
+      "front": "発表在本课是什么意思？",
+      "back": "报告",
+      "reading": "はっぴょう",
+      "audioId": "synth-word-f459427f169ff3d7",
+      "kind": "vocabulary"
+    }
+  ]
+}

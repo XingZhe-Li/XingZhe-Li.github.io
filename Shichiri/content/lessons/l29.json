@@ -1,0 +1,968 @@
+{
+  "id": "l29",
+  "number": 29,
+  "moduleId": "m6",
+  "title": "描述具体的人、物和地方",
+  "subtitle": "用短句限定名词，找到对方真正指的对象",
+  "revision": 2,
+  "goals": [
+    "用正在做或做过的事限定具体对象",
+    "从限定语判断动作主体和被限定对象",
+    "在『在人群中找到联系人』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第28课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「描述具体的人、物和地方」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l29-ex01",
+        "l29-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「在人群中找到联系人」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「入口で待つ人」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「描述具体的人、物和地方」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l29-ex19",
+        "l29-ex20",
+        "l29-ex21",
+        "l29-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到人、場所、建物、眼鏡，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用昨日会った人はどの人ですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「描述具体的人、物和地方」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l29-ex07",
+        "l29-ex08",
+        "l29-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「动词短句限定名词」「名词限定中的信息关系」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「描述具体的人、物和地方」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l29-ex02",
+        "l29-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「描述具体的人、物和地方」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l29-ex04",
+        "l29-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「入口で待つ人」与「返す本を間違えない」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「描述具体的人、物和地方」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l29-ex11",
+        "l29-ex12",
+        "l29-ex13",
+        "l29-ex14",
+        "l29-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「描述具体的人、物和地方」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l29-ex06",
+        "l29-ex10",
+        "l29-ex17",
+        "l29-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l29-ext10",
+      "title": "描述具体的人、物和地方 · 10分钟迁移",
+      "instructions": "先听『在人群中找到联系人』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l29-ext15",
+      "title": "描述具体的人、物和地方 · 15分钟迁移",
+      "instructions": "读『入口で待つ人』与『返す本を間違えない』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你要找正在读红书的人，用「…人です」说明。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l29-ext25",
+      "title": "描述具体的人、物和地方 · 25分钟迁移",
+      "instructions": "用5分钟听『在人群中找到联系人』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你描述的店是朋友工作的店，位于车站前；写两句。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l29-ex13",
+        "l29-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『在人群中找到联系人』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『入口で待つ人』与变体材料的条件。",
+    "关闭说明后，能在情境中使用V普通形＋名詞及人がV普通形＋名詞，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l29-d01",
+      "title": "在人群中找到联系人",
+      "context": "车站入口有几个人，朋友通过衣物和正在做的事指认联系人。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l29-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "昨日会った人はどの人ですか。",
+          "kana": "きのうあったひとはどのひとですか。",
+          "zh": "昨天见过的人是哪一位？"
+        },
+        {
+          "speaker": "みな",
+          "ja": "赤い袋を持っている人です。",
+          "kana": "あかいふくろをもっているひとです。",
+          "zh": "是拿着红袋子的人。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "青い帽子の人ですか。",
+          "kana": "あおいぼうしのひとですか。",
+          "zh": "是戴蓝帽子的人吗？"
+        },
+        {
+          "speaker": "みな",
+          "ja": "いいえ、白い服を着ている人です。",
+          "kana": "いいえ、しろいふくをきているひとです。",
+          "zh": "不是，是穿白衣服的人。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "眼鏡をかけている人ですね。",
+          "kana": "めがねをかけているひとですね。",
+          "zh": "是戴眼镜的人吧。"
+        },
+        {
+          "speaker": "みな",
+          "ja": "はい。あの人が働いている店へ行きます。",
+          "kana": "はい。あのひとがはたらいているみせへいきます。",
+          "zh": "对。我们要去那个人工作的店。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "入口の近くにある店ですか。",
+          "kana": "いりぐちのちかくにあるみせですか。",
+          "zh": "是入口附近的店吗？"
+        },
+        {
+          "speaker": "みな",
+          "ja": "そうです。昨日話した喫茶店です。",
+          "kana": "そうです。きのうはなしたきっさてんです。",
+          "zh": "是的，是昨天聊过的咖啡店。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l29-v01",
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "人",
+      "pos": "名词",
+      "example": "昨日会った人はどの人ですか。",
+      "exampleMeaning": "昨天见过的人是哪一位？",
+      "mastery": "active",
+      "audioId": "synth-word-8ba8890fb917ec8a"
+    },
+    {
+      "id": "l29-v02",
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "地方",
+      "pos": "名词",
+      "example": "場所です。",
+      "exampleMeaning": "是地方。",
+      "mastery": "active",
+      "audioId": "synth-word-fd102ac2db594815"
+    },
+    {
+      "id": "l29-v03",
+      "word": "建物",
+      "reading": "たてもの",
+      "meaning": "建筑",
+      "pos": "名词",
+      "example": "建物です。",
+      "exampleMeaning": "是建筑。",
+      "mastery": "active",
+      "audioId": "synth-word-ed882c60588d45ea"
+    },
+    {
+      "id": "l29-v04",
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "眼镜",
+      "pos": "名词",
+      "example": "眼鏡をかけている人ですね。",
+      "exampleMeaning": "是戴眼镜的人吧。",
+      "mastery": "active",
+      "audioId": "synth-word-51c74538f87b4dec"
+    },
+    {
+      "id": "l29-v05",
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "帽子",
+      "pos": "名词",
+      "example": "青い帽子の人ですか。",
+      "exampleMeaning": "是戴蓝帽子的人吗？",
+      "mastery": "active",
+      "audioId": "synth-word-c83cbf48a6a80217"
+    },
+    {
+      "id": "l29-v06",
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "蓝色的",
+      "pos": "い形容词",
+      "example": "青い帽子です。",
+      "exampleMeaning": "是蓝帽子。",
+      "mastery": "active",
+      "audioId": "synth-word-994e545141a74e12"
+    },
+    {
+      "id": "l29-v07",
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "红色的",
+      "pos": "い形容词",
+      "example": "赤い袋です。",
+      "exampleMeaning": "是红袋子。",
+      "mastery": "active",
+      "audioId": "synth-word-4841cac2f385d1c6"
+    },
+    {
+      "id": "l29-v08",
+      "word": "白い",
+      "reading": "しろい",
+      "meaning": "白色的",
+      "pos": "い形容词",
+      "example": "白い建物です。",
+      "exampleMeaning": "是白色建筑。",
+      "mastery": "active",
+      "audioId": "synth-word-7a2ef1f654e225b3"
+    },
+    {
+      "id": "l29-v09",
+      "word": "着る",
+      "reading": "きる",
+      "meaning": "穿上衣",
+      "pos": "二类动词",
+      "example": "白い服を着ています。",
+      "exampleMeaning": "穿着白衣服。",
+      "mastery": "active",
+      "audioId": "synth-word-106f5b02c9a4b443"
+    },
+    {
+      "id": "l29-v10",
+      "word": "かける",
+      "reading": "かける",
+      "meaning": "戴眼镜",
+      "pos": "二类动词",
+      "example": "眼鏡をかけています。",
+      "exampleMeaning": "戴着眼镜。",
+      "mastery": "active",
+      "audioId": "synth-word-e35c3f94be8fcb78"
+    },
+    {
+      "id": "l29-v11",
+      "word": "持つ",
+      "reading": "もつ",
+      "meaning": "拿或带",
+      "pos": "一类动词",
+      "example": "赤い袋を持っています。",
+      "exampleMeaning": "拿着红袋子。",
+      "mastery": "recognition",
+      "audioId": "synth-word-944caee0a5ae889e"
+    },
+    {
+      "id": "l29-v12",
+      "word": "会う",
+      "reading": "あう",
+      "meaning": "见面",
+      "pos": "一类动词",
+      "example": "昨日会った人です。",
+      "exampleMeaning": "是昨天见过的人。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5447fdb341d9250f"
+    },
+    {
+      "id": "l29-v13",
+      "word": "貸す",
+      "reading": "かす",
+      "meaning": "借出",
+      "pos": "一类动词",
+      "example": "本を貸します。",
+      "exampleMeaning": "把书借给别人。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a44281c1a89e08b1"
+    },
+    {
+      "id": "l29-v14",
+      "word": "借りる",
+      "reading": "かりる",
+      "meaning": "借入",
+      "pos": "二类动词",
+      "example": "図書館で本を借りました。",
+      "exampleMeaning": "从图书馆借了书。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5af506e8c8f56d82"
+    },
+    {
+      "id": "l29-v15",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "入口",
+      "pos": "名词",
+      "example": "入口の近くにある店ですか。",
+      "exampleMeaning": "是入口附近的店吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-192b082f803d15bf"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l29-e1",
+      "ja": "昨日会った人はどの人ですか。",
+      "reading": "きのうあったひとはどのひとですか。",
+      "meaning": "昨天见过的人是哪一位？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-54ba11594801382a"
+    },
+    {
+      "id": "l29-e2",
+      "ja": "赤い袋を持っている人です。",
+      "reading": "あかいふくろをもっているひとです。",
+      "meaning": "是拿着红袋子的人。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b655e628392ea456"
+    },
+    {
+      "id": "l29-e3",
+      "ja": "眼鏡をかけている人ですね。",
+      "reading": "めがねをかけているひとですね。",
+      "meaning": "是戴眼镜的人吧。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-6c1debe5b04d8970"
+    },
+    {
+      "id": "l29-e4",
+      "ja": "はい。あの人が働いている店へ行きます。",
+      "reading": "はい。あのひとがはたらいているみせへいきます。",
+      "meaning": "对。我们要去那个人工作的店。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-8b8610f226a898ff"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l29-g1",
+      "title": "动词短句限定名词",
+      "meaning": "用正在做或做过的事限定具体对象",
+      "pattern": "V普通形＋名詞",
+      "explanation": "把人或物的说明放在名词前，不加の：昨日会った人。短句中的主语用が，本课用已明确的人物。",
+      "examples": [
+        {
+          "ja": "赤い袋を持っている人です。",
+          "zh": "是拿红袋子的人。"
+        }
+      ],
+      "pitfall": "昨日会ったの人错误；从句直接修饰名词。"
+    },
+    {
+      "id": "l29-g2",
+      "title": "名词限定中的信息关系",
+      "meaning": "从限定语判断动作主体和被限定对象",
+      "pattern": "人がV普通形＋名詞",
+      "explanation": "りんさんが読んでいる本中，读书的是りん，被谈论的是书。读解时先找最后的名词，再找前面限定。",
+      "examples": [
+        {
+          "ja": "みなさんが働いている店です。",
+          "zh": "是美奈工作的店。"
+        }
+      ],
+      "pitfall": "从句中的が不要机械换为主句话题は；两者结构作用不同。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "人",
+          "reading": "ひと",
+          "zh": "人"
+        },
+        {
+          "ja": "場所",
+          "reading": "ばしょ",
+          "zh": "地方"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l29-r1",
+      "title": "入口で待つ人",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "昨日りんさんとみなさんが会った人は、今、駅の入口にいます。赤い袋を持っていて、白い服を着ています。眼鏡もかけています。青い帽子の人ではありません。その人が働いている店は入口の近くにある喫茶店です。二人は昨日、その喫茶店の話をしました。",
+      "zh": "昨天小林和美奈见过的人，现在在车站入口。他拿红袋子、穿白衣服，也戴眼镜，不是戴蓝帽子的人。他工作的店是入口附近的咖啡店。两人昨天聊过这间咖啡店。",
+      "audioId": "l29-reading-synth"
+    },
+    {
+      "id": "l29-r2",
+      "title": "返す本を間違えない",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "机の上に本が三冊あります。青い本は、さらさんが図書館で借りた本です。赤い本は、昨日友達がさらさんに貸した本です。白い本は、さらさんが買った本です。今日、図書館に返す本は青い本だけです。友達の本は明日返します。白い本は返しません。",
+      "zh": "桌上有三本书。蓝书是莎拉从图书馆借的，红书是朋友昨天借给她的，白书是她自己买的。今天只向图书馆还蓝书，明天还朋友的书，白书不用还。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l29-ex01",
+      "type": "choice",
+      "prompt": "昨日会った人は何を持っていますか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l29-dialogue-synth",
+      "choices": [
+        "赤い袋",
+        "青い帽子",
+        "白い本"
+      ],
+      "correctIndex": 0,
+      "explanation": "赤い袋を持っている人と説明された。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri9"
+      ]
+    },
+    {
+      "id": "l29-ex02",
+      "type": "choice",
+      "prompt": "その人が働いている場所はどこですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l29-reading-synth",
+      "choices": [
+        "図書館",
+        "入口近くの喫茶店",
+        "駅の外のホテル"
+      ],
+      "correctIndex": 1,
+      "explanation": "入口の近くにある喫茶店と確認。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri6"
+      ]
+    },
+    {
+      "id": "l29-ex03",
+      "type": "choice",
+      "prompt": "昨日会った人は何を持っていますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "赤い袋",
+        "青い帽子",
+        "白い本"
+      ],
+      "correctIndex": 0,
+      "explanation": "赤い袋を持っている人と説明された。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri9"
+      ]
+    },
+    {
+      "id": "l29-ex04",
+      "type": "choice",
+      "prompt": "その人が働いている場所はどこですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "図書館",
+        "入口近くの喫茶店",
+        "駅の外のホテル"
+      ],
+      "correctIndex": 1,
+      "explanation": "入口の近くにある喫茶店と確認。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri6"
+      ]
+    },
+    {
+      "id": "l29-ex05",
+      "type": "choice",
+      "prompt": "今日図書館に返す本は何色ですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "赤",
+        "白",
+        "青"
+      ],
+      "correctIndex": 2,
+      "explanation": "青い本が図書館の本で、今日返すのはそれだけ。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex06",
+      "type": "choice",
+      "prompt": "白い本は誰のものですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "さらが買った本",
+        "友達が貸した本",
+        "図書館の本"
+      ],
+      "correctIndex": 0,
+      "explanation": "さらが買った本で返却しない。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex07",
+      "type": "input",
+      "prompt": "「昨天买的书」：昨日____本。",
+      "acceptedAnswers": [
+        "買った",
+        "かった"
+      ],
+      "explanation": "过去普通体直接修饰本。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex08",
+      "type": "input",
+      "prompt": "「美奈工作的店」：みなさん____働いている店。",
+      "acceptedAnswers": [
+        "が"
+      ],
+      "explanation": "限定短句内明确动作主体用が。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex09",
+      "type": "order",
+      "prompt": "用词块组成：读昨天买的书。",
+      "tokens": [
+        "買った本を",
+        "読みます。",
+        "昨日"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为昨日買った本を読みます。；过去普通体直接修饰本。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex10",
+      "type": "order",
+      "prompt": "用词块组成：这是朋友借给我的书。",
+      "tokens": [
+        "友達が貸した",
+        "本です。",
+        "これは"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为これは友達が貸した本です。；限定短句内明确动作主体用が。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex11",
+      "type": "self",
+      "prompt": "你要找正在读红书的人，用「…人です」说明。",
+      "sampleAnswer": "赤い本を読んでいる人です。",
+      "explanation": "动作进行的普通体放在人前，颜色限定书。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5"
+      ]
+    },
+    {
+      "id": "l29-ex12",
+      "type": "self",
+      "prompt": "你要归还昨天从图书馆借的书，用一句话说明。",
+      "sampleAnswer": "昨日図書館で借りた本を返します。",
+      "explanation": "借りた限定本；主句返します说明下一步。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex13",
+      "type": "self",
+      "prompt": "对方指的人有两位，你想确认是否是戴眼镜的人；写询问。",
+      "sampleAnswer": "眼鏡をかけている人ですか。",
+      "explanation": "用可观察特征确认，不凭空使用名字。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri8"
+      ]
+    },
+    {
+      "id": "l29-ex14",
+      "type": "self",
+      "prompt": "你描述的店是朋友工作的店，位于车站前；写两句。",
+      "sampleAnswer": "友達が働いている店です。駅の前にあります。",
+      "explanation": "限定句里が标动作主体，第二句补位置。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要找正在读红书的人，用「…人です」说明。",
+      "choices": [
+        "赤い本を読んでいる人です。",
+        "昨日図書館で借りた本を返します。",
+        "眼鏡をかけている人ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "动作进行的普通体放在人前，颜色限定书。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri8"
+      ]
+    },
+    {
+      "id": "l29-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你要归还昨天从图书馆借的书，用一句话说明。",
+      "choices": [
+        "眼鏡をかけている人ですか。",
+        "友達が働いている店です。駅の前にあります。",
+        "昨日図書館で借りた本を返します。"
+      ],
+      "correctIndex": 2,
+      "explanation": "借りた限定本；主句返します说明下一步。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri8"
+      ]
+    },
+    {
+      "id": "l29-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：对方指的人有两位，你想确认是否是戴眼镜的人；写询问。",
+      "choices": [
+        "赤い本を読んでいる人です。",
+        "眼鏡をかけている人ですか。",
+        "友達が働いている店です。駅の前にあります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "用可观察特征确认，不凭空使用名字。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5",
+        "l29-ri8"
+      ]
+    },
+    {
+      "id": "l29-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你描述的店是朋友工作的店，位于车站前；写两句。",
+      "choices": [
+        "友達が働いている店です。駅の前にあります。",
+        "赤い本を読んでいる人です。",
+        "昨日図書館で借りた本を返します。"
+      ],
+      "correctIndex": 0,
+      "explanation": "限定句里が标动作主体，第二句补位置。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l29-ri5"
+      ]
+    },
+    {
+      "id": "l29-ex19",
+      "type": "self",
+      "prompt": "读例句「昨日会った人はどの人ですか。」。先不看词表，用中文说明「人」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "人",
+      "explanation": "本课这里表示“人”。例句意思是：昨天见过的人是哪一位？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l29-ri1",
+        "l29-ri5"
+      ]
+    },
+    {
+      "id": "l29-ex20",
+      "type": "self",
+      "prompt": "读例句「眼鏡をかけている人ですね。」。先不看词表，用中文说明「眼鏡」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "眼镜",
+      "explanation": "本课这里表示“眼镜”。例句意思是：是戴眼镜的人吧。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l29-ri3",
+        "l29-ri5",
+        "l29-ri8"
+      ]
+    },
+    {
+      "id": "l29-ex21",
+      "type": "self",
+      "prompt": "读例句「赤い袋です。」。先不看词表，用中文说明「赤い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "红色的",
+      "explanation": "本课这里表示“红色的”。例句意思是：是红袋子。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l29-ex22",
+      "type": "self",
+      "prompt": "读例句「眼鏡をかけています。」。先不看词表，用中文说明「かける」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "戴眼镜",
+      "explanation": "本课这里表示“戴眼镜”。例句意思是：戴着眼镜。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l29-ri8"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l29-ri1",
+      "front": "昨天见过的人是哪一位？",
+      "back": "昨日会った人はどの人ですか。",
+      "reading": "きのうあったひとはどのひとですか。",
+      "audioId": "synth-word-54ba11594801382a",
+      "kind": "expression"
+    },
+    {
+      "id": "l29-ri2",
+      "front": "是拿着红袋子的人。",
+      "back": "赤い袋を持っている人です。",
+      "reading": "あかいふくろをもっているひとです。",
+      "audioId": "synth-word-b655e628392ea456",
+      "kind": "expression"
+    },
+    {
+      "id": "l29-ri3",
+      "front": "是戴眼镜的人吧。",
+      "back": "眼鏡をかけている人ですね。",
+      "reading": "めがねをかけているひとですね。",
+      "audioId": "synth-word-6c1debe5b04d8970",
+      "kind": "expression"
+    },
+    {
+      "id": "l29-ri4",
+      "front": "对。我们要去那个人工作的店。",
+      "back": "はい。あの人が働いている店へ行きます。",
+      "reading": "はい。あのひとがはたらいているみせへいきます。",
+      "audioId": "synth-word-8b8610f226a898ff",
+      "kind": "expression"
+    },
+    {
+      "id": "l29-ri5",
+      "front": "人在本课是什么意思？",
+      "back": "人",
+      "reading": "ひと",
+      "audioId": "synth-word-8ba8890fb917ec8a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l29-ri6",
+      "front": "場所在本课是什么意思？",
+      "back": "地方",
+      "reading": "ばしょ",
+      "audioId": "synth-word-fd102ac2db594815",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l29-ri7",
+      "front": "建物在本课是什么意思？",
+      "back": "建筑",
+      "reading": "たてもの",
+      "audioId": "synth-word-ed882c60588d45ea",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l29-ri8",
+      "front": "眼鏡在本课是什么意思？",
+      "back": "眼镜",
+      "reading": "めがね",
+      "audioId": "synth-word-51c74538f87b4dec",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l29-ri9",
+      "front": "帽子在本课是什么意思？",
+      "back": "帽子",
+      "reading": "ぼうし",
+      "audioId": "synth-word-c83cbf48a6a80217",
+      "kind": "vocabulary"
+    }
+  ]
+}

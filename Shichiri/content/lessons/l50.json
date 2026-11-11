@@ -1,0 +1,1122 @@
+{
+  "id": "l50",
+  "number": 50,
+  "moduleId": "m10",
+  "title": "谈目标、习惯与变化",
+  "subtitle": "把目标落实为可持续的方法，并区分主动计划与能力变化。",
+  "revision": 2,
+  "goals": [
+    "区分ために与ように表达的目标。",
+    "用意向形说明打算，并描述日常调整。",
+    "根据成果与负担改变方法，不只累计学习时间。"
+  ],
+  "prerequisites": [
+    "理解第49课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「谈目标、习惯与变化」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l50-ex01",
+        "l50-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「从读懂案内开始」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「時間よりもできることを見る」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「谈目标、习惯与变化」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l50-ex19",
+        "l50-ex20",
+        "l50-ex21",
+        "l50-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到目標、留学、案内、日記，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用留学するために、準備しています。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「谈目标、习惯与变化」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l50-ex07",
+        "l50-ex08",
+        "l50-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「ために与ように的目标」「ようになる与ようにする」「意向形表达打算」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「谈目标、习惯与变化」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l50-ex02",
+        "l50-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「谈目标、习惯与变化」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l50-ex04",
+        "l50-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「時間よりもできることを見る」与「朝に変えた小さな習慣」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「谈目标、习惯与变化」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l50-ex11",
+        "l50-ex12",
+        "l50-ex13",
+        "l50-ex14",
+        "l50-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「谈目标、习惯与变化」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l50-ex06",
+        "l50-ex10",
+        "l50-ex17",
+        "l50-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l50-ext10",
+      "title": "谈目标、习惯与变化 · 10分钟迁移",
+      "instructions": "用10分钟重读「時間よりもできることを見る」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l50-ext15",
+      "title": "谈目标、习惯与变化 · 15分钟迁移",
+      "instructions": "用15分钟把「朝に変えた小さな習慣」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l50-ext25",
+      "title": "谈目标、习惯与变化 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l50-ex13",
+        "l50-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l50-d01",
+      "title": "从读懂案内开始",
+      "context": "林想为留学准备日语，老师问他具体希望能做什么。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l50-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "先生",
+          "ja": "日本語を勉強する目標は何ですか。",
+          "kana": "にほんごをべんきょうするもくひょうはなんですか。",
+          "zh": "学日语的目标是什么？"
+        },
+        {
+          "speaker": "林",
+          "ja": "留学するために、準備しています。",
+          "kana": "りゅうがくするために、じゅんびしています。",
+          "zh": "为了留学在做准备。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "生活の中では何ができるようになりたいですか。",
+          "kana": "せいかつのなかではなにができるようになりたいですか。",
+          "zh": "生活中希望能做到什么？"
+        },
+        {
+          "speaker": "林",
+          "ja": "案内を自分で読めるようになりたいです。",
+          "kana": "あんないをじぶんでよめるようになりたいです。",
+          "zh": "希望能自己读懂指南。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "毎日、どんな方法を使っていますか。",
+          "kana": "まいにち、どんなほうほうをつかっていますか。",
+          "zh": "每天用什么方法？"
+        },
+        {
+          "speaker": "林",
+          "ja": "通学中に短い記事を読もうと思っています。",
+          "kana": "つうがくちゅうにみじかいきじをよもうとおもっています。",
+          "zh": "打算通学时读短文章。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "意味を調べた後で、内容を思い出す練習もするといいですね。",
+          "kana": "いみをしらべたあとで、ないようをおもいだすれんしゅうもするといいですね。",
+          "zh": "查意思后，也可练回忆内容。"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい。読んだ理由と理解できた点を日記に記録します。",
+          "kana": "はい。よんだりゆうとりかいできたてんをにっきにきろくします。",
+          "zh": "好的，把阅读理由和理解之处记进日记。"
+        },
+        {
+          "speaker": "先生",
+          "ja": "続けるために、負担が大きければ計画を変えましょう。",
+          "kana": "つづけるために、ふたんがおおきければけいかくをかえましょう。",
+          "zh": "为了坚持，负担过大就调整计划。"
+        },
+        {
+          "speaker": "林",
+          "ja": "時間だけでなく、できることの変化を確認するようにします。",
+          "kana": "じかんだけでなく、できることのへんかをかくにんするようにします。",
+          "zh": "会不仅看时间，也检查能做到什么的变化。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l50-v01",
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "目标",
+      "pos": "名词",
+      "example": "日本語を勉強する目標は何ですか。",
+      "exampleMeaning": "学日语的目标是什么？",
+      "mastery": "active",
+      "audioId": "synth-word-43e63335bfd3f647"
+    },
+    {
+      "id": "l50-v02",
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "留学",
+      "pos": "名词",
+      "example": "留学するために、準備しています。",
+      "exampleMeaning": "为了留学在做准备。",
+      "mastery": "active",
+      "audioId": "synth-word-0e8cb077b22633bf"
+    },
+    {
+      "id": "l50-v03",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "指南",
+      "pos": "名词",
+      "example": "案内を自分で読めるようになりたいです。",
+      "exampleMeaning": "希望能自己读懂指南。",
+      "mastery": "active",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    },
+    {
+      "id": "l50-v04",
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "日记",
+      "pos": "名词",
+      "example": "はい。読んだ理由と理解できた点を日記に記録します。",
+      "exampleMeaning": "好的，把阅读理由和理解之处记进日记。",
+      "mastery": "active",
+      "audioId": "synth-word-b9a21b53538ae400"
+    },
+    {
+      "id": "l50-v05",
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "习惯",
+      "pos": "名词",
+      "example": "一週間で急に長文が読めるようになったわけではありませんが、記事を最後まで読む習慣は残りました。",
+      "exampleMeaning": "并非一周突然能读长文，但保留了读完文章的习惯。",
+      "mastery": "active",
+      "audioId": "synth-word-5985b1aeaaba0294"
+    },
+    {
+      "id": "l50-v06",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "内容",
+      "pos": "名词",
+      "example": "意味を調べた後で、内容を思い出す練習もするといいですね。",
+      "exampleMeaning": "查意思后，也可练回忆内容。",
+      "mastery": "active",
+      "audioId": "synth-word-fbd7f1150802c72a"
+    },
+    {
+      "id": "l50-v07",
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "记录",
+      "pos": "名词",
+      "example": "はい。読んだ理由と理解できた点を日記に記録します。",
+      "exampleMeaning": "好的，把阅读理由和理解之处记进日记。",
+      "mastery": "active",
+      "audioId": "synth-word-b817e5799cbc6fb5"
+    },
+    {
+      "id": "l50-v08",
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "理解",
+      "pos": "名词",
+      "example": "はい。読んだ理由と理解できた点を日記に記録します。",
+      "exampleMeaning": "好的，把阅读理由和理解之处记进日记。",
+      "mastery": "active",
+      "audioId": "synth-word-389b9979061df14b"
+    },
+    {
+      "id": "l50-v09",
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "练习",
+      "pos": "名词",
+      "example": "意味を調べた後で、内容を思い出す練習もするといいですね。",
+      "exampleMeaning": "查意思后，也可练回忆内容。",
+      "mastery": "active",
+      "audioId": "synth-word-9bbdbdf6c5c4ffd6"
+    },
+    {
+      "id": "l50-v10",
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "方法",
+      "pos": "名词",
+      "example": "毎日、どんな方法を使っていますか。",
+      "exampleMeaning": "每天用什么方法？",
+      "mastery": "active",
+      "audioId": "synth-word-59fbe2ef291c66c2"
+    },
+    {
+      "id": "l50-v11",
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "时间",
+      "pos": "名词",
+      "example": "時間だけでなく、できることの変化を確認するようにします。",
+      "exampleMeaning": "会不仅看时间，也检查能做到什么的变化。",
+      "mastery": "active",
+      "audioId": "synth-word-920958520c38245f"
+    },
+    {
+      "id": "l50-v12",
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "复习",
+      "pos": "名词",
+      "example": "復習を続けるうちに、初めて見る案内にも共通する表現があると気づきました。",
+      "exampleMeaning": "持续复习中发现新指南也有共同表达。",
+      "mastery": "active",
+      "audioId": "synth-word-2ac720fb5a946fdf"
+    },
+    {
+      "id": "l50-v13",
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "理由",
+      "pos": "名词",
+      "example": "はい。読んだ理由と理解できた点を日記に記録します。",
+      "exampleMeaning": "好的，把阅读理由和理解之处记进日记。",
+      "mastery": "active",
+      "audioId": "synth-word-9d87c03640ed4651"
+    },
+    {
+      "id": "l50-v14",
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "続けるために、負担が大きければ計画を変えましょう。",
+      "exampleMeaning": "为了坚持，负担过大就调整计划。",
+      "mastery": "active",
+      "audioId": "synth-word-f941b977845089ac"
+    },
+    {
+      "id": "l50-v15",
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "持续",
+      "pos": "名词",
+      "example": "負担が大きい日は量を減らし、継続できる方法へ計画を変更します。",
+      "exampleMeaning": "负担大时减量，改为可持续的方法。",
+      "mastery": "active",
+      "audioId": "synth-word-beebf66a78724ee6"
+    },
+    {
+      "id": "l50-v16",
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "通学",
+      "pos": "名词",
+      "example": "通学中に短い記事を読もうと思っています。",
+      "exampleMeaning": "打算通学时读短文章。",
+      "mastery": "active",
+      "audioId": "synth-word-6e8413c4b8b17c9a"
+    },
+    {
+      "id": "l50-v17",
+      "word": "発音",
+      "reading": "はつおん",
+      "meaning": "发音",
+      "pos": "名词",
+      "example": "まだ発音や長い会話には課題がありますが、以前より一人で判断できることが増えました。",
+      "exampleMeaning": "发音和长会话仍有问题，但能独立判断的事增多了。",
+      "mastery": "active",
+      "audioId": "synth-word-59a5ae2cc49d2e56"
+    },
+    {
+      "id": "l50-v18",
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "报纸",
+      "pos": "名词",
+      "example": "会社から帰った後で新聞を読もうと思っていましたが、疲れて途中でやめる日が続きました。",
+      "exampleMeaning": "原打算下班后读报，却连续多天疲倦而中途放弃。",
+      "mastery": "active",
+      "audioId": "synth-word-9fd01bccf610f6b3"
+    },
+    {
+      "id": "l50-v19",
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "文章；报道",
+      "pos": "名词",
+      "example": "通学中に短い記事を読もうと思っています。",
+      "exampleMeaning": "打算通学时读短文章。",
+      "mastery": "recognition",
+      "audioId": "synth-word-78557d9dcb3caaca"
+    },
+    {
+      "id": "l50-v20",
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "词典",
+      "pos": "名词",
+      "example": "通学中に一つ記事を読み、わからない意味は辞書で調べてから、後で内容を思い出します。",
+      "exampleMeaning": "通学时读一篇，查不懂的意思，之后回忆内容。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ec1e81b2b2a1da82"
+    },
+    {
+      "id": "l50-v21",
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "意思",
+      "pos": "名词",
+      "example": "意味を調べた後で、内容を思い出す練習もするといいですね。",
+      "exampleMeaning": "查意思后，也可练回忆内容。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d52d9e8747ea79fa"
+    },
+    {
+      "id": "l50-v22",
+      "word": "成果",
+      "reading": "せいか",
+      "meaning": "成果",
+      "pos": "名词",
+      "example": "毎日長く勉強しても、生活の案内を読めないと、何が成果なのかわからなくなりました。",
+      "exampleMeaning": "即使每天学很久，生活指南仍读不懂，就不清楚成果是什么。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f1d7f6dcf2cb8ede"
+    },
+    {
+      "id": "l50-v23",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "負担が大きい日は量を減らし、継続できる方法へ計画を変更します。",
+      "exampleMeaning": "负担大时减量，改为可持续的方法。",
+      "mastery": "recognition",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l50-v24",
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "生活",
+      "pos": "名词",
+      "example": "生活の中では何ができるようになりたいですか。",
+      "exampleMeaning": "生活中希望能做到什么？",
+      "mastery": "recognition",
+      "audioId": "synth-word-d1cdc2a4f5b30846"
+    },
+    {
+      "id": "l50-v25",
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "负担",
+      "pos": "名词",
+      "example": "続けるために、負担が大きければ計画を変えましょう。",
+      "exampleMeaning": "为了坚持，负担过大就调整计划。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0146817726b38ecc"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l50-e1",
+      "ja": "留学するために、準備しています。",
+      "reading": "りゅうがくするために、じゅんびしています。",
+      "meaning": "为了留学在做准备。",
+      "usage": "说明主动行动的目的",
+      "audioId": "synth-word-68521b7596e651fe"
+    },
+    {
+      "id": "l50-e2",
+      "ja": "案内を自分で読めるようになりたいです。",
+      "reading": "あんないをじぶんでよめるようになりたいです。",
+      "meaning": "希望能自己读懂指南。",
+      "usage": "把愿望具体化为能力目标",
+      "audioId": "synth-word-d7358475b6578455"
+    },
+    {
+      "id": "l50-e3",
+      "ja": "通学中に短い記事を読もうと思っています。",
+      "reading": "つうがくちゅうにみじかいきじをよもうとおもっています。",
+      "meaning": "打算通学时读短文章。",
+      "usage": "用意向形说明正在形成的计划",
+      "audioId": "synth-word-da2b41dc97c8f4ef"
+    },
+    {
+      "id": "l50-e4",
+      "ja": "時間だけでなく、できることの変化を確認するようにします。",
+      "reading": "じかんだけでなく、できることのへんかをかくにんするようにします。",
+      "meaning": "会不仅看时间，也检查能做到什么的变化。",
+      "usage": "承诺调整日常做法",
+      "audioId": "synth-word-c69b16d59302c012"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l50-g1",
+      "title": "ために与ように的目标",
+      "meaning": "区分主动意图和希望达到的状态。",
+      "pattern": "留学するために〜。／読めるように〜。",
+      "explanation": "ために常接有意志行动的目的；ように常接可能、否定或状态目标。根据所说事件选择，不机械一一对应中文为了。",
+      "examples": [
+        {
+          "ja": "留学するためにお金をためます。",
+          "zh": "为留学存钱。"
+        },
+        {
+          "ja": "案内が読めるように練習します。",
+          "zh": "为能读指南而练习。"
+        }
+      ],
+      "pitfall": "能力目标用ように自然，不把所有目标都写成ために。"
+    },
+    {
+      "id": "l50-g2",
+      "title": "ようになる与ようにする",
+      "meaning": "区分产生的变化与主动维持习惯。",
+      "pattern": "読めるようになった。／復習するようにしている。",
+      "explanation": "なる描述变得能或常发生，する描述主动采取做法。",
+      "examples": [
+        {
+          "ja": "短い記事が読めるようになりました。",
+          "zh": "变得能读短文了。"
+        },
+        {
+          "ja": "毎日記録するようにしています。",
+          "zh": "尽量每天记录。"
+        }
+      ],
+      "pitfall": "主动安排不等于能力已经达到。"
+    },
+    {
+      "id": "l50-g3",
+      "title": "意向形表达打算",
+      "meaning": "把自己接下来要做的事说出来。",
+      "pattern": "読む→読もう／見る→見よう＋と思う",
+      "explanation": "一类う段改お段加う，二类去る加よう；する→しよう。と思っています表示已有打算。",
+      "examples": [
+        {
+          "ja": "週末に復習しようと思います。",
+          "zh": "想周末复习。"
+        },
+        {
+          "ja": "通学中に記事を読もうと思っています。",
+          "zh": "打算通学时读文章。"
+        }
+      ],
+      "pitfall": "意向不是已经完成的事实。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "目標",
+          "reading": "もくひょう",
+          "zh": "目标"
+        },
+        {
+          "ja": "留学",
+          "reading": "りゅうがく",
+          "zh": "留学"
+        },
+        {
+          "ja": "案内",
+          "reading": "あんない",
+          "zh": "指南"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l50-r1",
+      "title": "時間よりもできることを見る",
+      "context": "学习者把大目标分解成日常活动。",
+      "ja": "私は留学の準備をするために日本語を勉強していますが、最初は目標が大きすぎました。毎日長く勉強しても、生活の案内を読めないと、何が成果なのかわからなくなりました。そこで、短い記事の内容を理解し、必要な情報を取り出せるようになることを当面の目標にしました。通学中に一つ記事を読み、わからない意味は辞書で調べてから、後で内容を思い出します。日記には読んだ時間だけでなく、読んだ理由と自分で説明できた点を記録するようにしています。復習を続けるうちに、初めて見る案内にも共通する表現があると気づきました。まだ発音や長い会話には課題がありますが、以前より一人で判断できることが増えました。負担が大きい日は量を減らし、継続できる方法へ計画を変更します。",
+      "zh": "我为留学学日语，但最初目标太大。即使每天学很久，生活指南仍读不懂，就不清楚成果是什么。于是把能理解短文并提取所需信息作为近期目标。通学时读一篇，查不懂的意思，之后回忆内容。日记不仅记阅读时间，也记理由和自己能说明的内容。持续复习中发现新指南也有共同表达。发音和长会话仍有问题，但能独立判断的事增多了。负担大时减量，改为可持续的方法。",
+      "audioId": "l50-reading-synth"
+    },
+    {
+      "id": "l50-r2",
+      "title": "朝に変えた小さな習慣",
+      "context": "另一个学习者调整环境而不是只要求自己更努力。",
+      "ja": "会社から帰った後で新聞を読もうと思っていましたが、疲れて途中でやめる日が続きました。私は意志が弱いからだと考えて、読む量を増やしましたが、かえって負担が大きくなりました。友人に相談してから、朝の電車で短い記事だけを読み、夜は見出しを思い出すことにしました。わからない語を全部覚えるのではなく、その日の内容を説明するために必要な語から確認します。一週間で急に長文が読めるようになったわけではありませんが、記事を最後まで読む習慣は残りました。さらに、内容について一つ疑問を書くようにしたところ、次に調べることも明確になりました。時間帯を変えたことは目標を下げたのではなく、実行できる条件を整えたのだと思います。続けられた理由を記録しておくと、忙しい時にも同じ方法を使いやすくなります。",
+      "zh": "原打算下班后读报，却连续多天疲倦而中途放弃。我以为意志不够，增加阅读量，反而负担更大。咨询朋友后改为早晨车上只读短文，晚上回忆标题。不背所有生词，而先确认解释当日内容所需的词。并非一周突然能读长文，但保留了读完文章的习惯。再要求自己写一个内容疑问后，下次要查什么也更清楚。我觉得改时段不是降低目标，而是创造能执行的条件。记录能坚持的原因，也方便忙碌时沿用。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l50-ex01",
+      "type": "choice",
+      "prompt": "林希望具体获得什么能力？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l50-dialogue-synth",
+      "choices": [
+        "自己读懂指南",
+        "立刻翻译所有文学",
+        "只会背单词"
+      ],
+      "correctIndex": 0,
+      "explanation": "案内を自分で読めるようになりたい。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l50-ri7"
+      ]
+    },
+    {
+      "id": "l50-ex02",
+      "type": "choice",
+      "prompt": "主阅读如何记录学习？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l50-reading-synth",
+      "choices": [
+        "同时记理由与能解释的内容",
+        "只记最长时间",
+        "完全不复习"
+      ],
+      "correctIndex": 0,
+      "explanation": "记录可见能力而非单看时间。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l50-ex03",
+      "type": "choice",
+      "prompt": "作者近期具体目标是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "理解短文并提取所需信息",
+        "立刻没有任何发音问题",
+        "只累计最长时间"
+      ],
+      "correctIndex": 0,
+      "explanation": "从大目标转为具体可观察能力。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri5"
+      ]
+    },
+    {
+      "id": "l50-ex04",
+      "type": "choice",
+      "prompt": "负担过大时怎样处理？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "永远停止复习",
+        "只能不断加量",
+        "减少量并调整方法"
+      ],
+      "correctIndex": 2,
+      "explanation": "结尾明确调整以持续。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l50-ex05",
+      "type": "choice",
+      "prompt": "为什么从晚上改到早晨？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "朋友要求完全不读报",
+        "晚间疲倦妨碍持续完成",
+        "早晨报纸内容一定更简单"
+      ],
+      "correctIndex": 1,
+      "explanation": "改变执行条件而非降低目标。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri5"
+      ]
+    },
+    {
+      "id": "l50-ex06",
+      "type": "choice",
+      "prompt": "一周后能确定哪项成果？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "形成读完短文的习惯",
+        "已经能读所有长文",
+        "没有任何未知词"
+      ],
+      "correctIndex": 0,
+      "explanation": "材料拒绝夸大长期能力。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri9"
+      ]
+    },
+    {
+      "id": "l50-ex07",
+      "type": "input",
+      "prompt": "能力目标：案内が読める＿＿、練習します。",
+      "acceptedAnswers": [
+        "ように"
+      ],
+      "explanation": "可能形后的目标用ように。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l50-ri5",
+        "l50-ri7"
+      ]
+    },
+    {
+      "id": "l50-ex08",
+      "type": "order",
+      "prompt": "表达打算周末复习。",
+      "tokens": [
+        "思っています",
+        "。",
+        "復習しようと",
+        "週末に"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "意向形しよう说明计划。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l50-ex09",
+      "type": "choice",
+      "prompt": "哪句描述主动维持习惯？",
+      "choices": [
+        "昨日記録をなくしました。",
+        "毎日記録するようにしています。",
+        "急に全部読めるようになりました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "ようにする描述主动调整。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l50-ri8",
+        "l50-ri9"
+      ]
+    },
+    {
+      "id": "l50-ex10",
+      "type": "input",
+      "prompt": "一类动词意向形：読む→＿＿。",
+      "acceptedAnswers": [
+        "読もう",
+        "よもう"
+      ],
+      "explanation": "う段む改もう。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l50-ex11",
+      "type": "self",
+      "prompt": "把“想日语变好”改为一项具体能力目标和一个方法。",
+      "sampleAnswer": "案内から必要な時間を見つけられるようになりたいです。毎日短い案内を一つ読みます。",
+      "explanation": "目标需可观察，方法与目标对应。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri5",
+        "l50-ri7"
+      ]
+    },
+    {
+      "id": "l50-ex12",
+      "type": "self",
+      "prompt": "晚上一直无法坚持阅读，写一项环境调整及保留的目标。",
+      "sampleAnswer": "読む目標は残して、朝の電車で短い記事を読むようにします。",
+      "explanation": "改变条件，不只责怪意志。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri5"
+      ]
+    },
+    {
+      "id": "l50-ex13",
+      "type": "self",
+      "prompt": "用ようになる和ようにする各说明一个不同现象。",
+      "sampleAnswer": "短いメールが読めるようになりました。忘れないように、毎日少し復習するようにしています。",
+      "explanation": "变化与主动做法分别表达。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l50-ex14",
+      "type": "self",
+      "prompt": "写一句有保留的成果评价，不把一周习惯说成高级能力。",
+      "sampleAnswer": "読む習慣はできましたが、長い文章はまだ難しいです。次は段落のつながりを確認したいです。",
+      "explanation": "肯定真实进步并保留弱项。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri9"
+      ]
+    },
+    {
+      "id": "l50-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「留学するために、準備しています。」主要用于什么？",
+      "choices": [
+        "说明主动行动的目的",
+        "把愿望具体化为能力目标",
+        "用意向形说明正在形成的计划"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“为了留学在做准备。”。结合前后交流，其作用是：说明主动行动的目的",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri1",
+        "l50-ri5",
+        "l50-ri6"
+      ]
+    },
+    {
+      "id": "l50-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「案内を自分で読めるようになりたいです。」主要用于什么？",
+      "choices": [
+        "用意向形说明正在形成的计划",
+        "承诺调整日常做法",
+        "把愿望具体化为能力目标"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“希望能自己读懂指南。”。结合前后交流，其作用是：把愿望具体化为能力目标",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri2",
+        "l50-ri5",
+        "l50-ri7"
+      ]
+    },
+    {
+      "id": "l50-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「通学中に短い記事を読もうと思っています。」主要用于什么？",
+      "choices": [
+        "说明主动行动的目的",
+        "用意向形说明正在形成的计划",
+        "承诺调整日常做法"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“打算通学时读短文章。”。结合前后交流，其作用是：用意向形说明正在形成的计划",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri3"
+      ]
+    },
+    {
+      "id": "l50-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「時間だけでなく、できることの変化を確認するようにします。」主要用于什么？",
+      "choices": [
+        "承诺调整日常做法",
+        "说明主动行动的目的",
+        "把愿望具体化为能力目标"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“会不仅看时间，也检查能做到什么的变化。”。结合前后交流，其作用是：承诺调整日常做法",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l50-ri4",
+        "l50-ri5"
+      ]
+    },
+    {
+      "id": "l50-ex19",
+      "type": "self",
+      "prompt": "读例句「日本語を勉強する目標は何ですか。」。先不看词表，用中文说明「目標」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "目标",
+      "explanation": "本课这里表示“目标”。例句意思是：学日语的目标是什么？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri5"
+      ]
+    },
+    {
+      "id": "l50-ex20",
+      "type": "self",
+      "prompt": "读例句「はい。読んだ理由と理解できた点を日記に記録します。」。先不看词表，用中文说明「日記」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "日记",
+      "explanation": "本课这里表示“日记”。例句意思是：好的，把阅读理由和理解之处记进日记。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri8"
+      ]
+    },
+    {
+      "id": "l50-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。読んだ理由と理解できた点を日記に記録します。」。先不看词表，用中文说明「記録」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "记录",
+      "explanation": "本课这里表示“记录”。例句意思是：好的，把阅读理由和理解之处记进日记。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l50-ri8"
+      ]
+    },
+    {
+      "id": "l50-ex22",
+      "type": "self",
+      "prompt": "读例句「毎日、どんな方法を使っていますか。」。先不看词表，用中文说明「方法」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "方法",
+      "explanation": "本课这里表示“方法”。例句意思是：每天用什么方法？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l50-ri1",
+      "front": "为了留学在做准备。",
+      "back": "留学するために、準備しています。",
+      "reading": "りゅうがくするために、じゅんびしています。",
+      "audioId": "synth-word-68521b7596e651fe",
+      "kind": "expression"
+    },
+    {
+      "id": "l50-ri2",
+      "front": "希望能自己读懂指南。",
+      "back": "案内を自分で読めるようになりたいです。",
+      "reading": "あんないをじぶんでよめるようになりたいです。",
+      "audioId": "synth-word-d7358475b6578455",
+      "kind": "expression"
+    },
+    {
+      "id": "l50-ri3",
+      "front": "打算通学时读短文章。",
+      "back": "通学中に短い記事を読もうと思っています。",
+      "reading": "つうがくちゅうにみじかいきじをよもうとおもっています。",
+      "audioId": "synth-word-da2b41dc97c8f4ef",
+      "kind": "expression"
+    },
+    {
+      "id": "l50-ri4",
+      "front": "会不仅看时间，也检查能做到什么的变化。",
+      "back": "時間だけでなく、できることの変化を確認するようにします。",
+      "reading": "じかんだけでなく、できることのへんかをかくにんするようにします。",
+      "audioId": "synth-word-c69b16d59302c012",
+      "kind": "expression"
+    },
+    {
+      "id": "l50-ri5",
+      "front": "目標在本课是什么意思？",
+      "back": "目标",
+      "reading": "もくひょう",
+      "audioId": "synth-word-43e63335bfd3f647",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l50-ri6",
+      "front": "留学在本课是什么意思？",
+      "back": "留学",
+      "reading": "りゅうがく",
+      "audioId": "synth-word-0e8cb077b22633bf",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l50-ri7",
+      "front": "案内在本课是什么意思？",
+      "back": "指南",
+      "reading": "あんない",
+      "audioId": "synth-word-f7497c6e02cf34c1",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l50-ri8",
+      "front": "日記在本课是什么意思？",
+      "back": "日记",
+      "reading": "にっき",
+      "audioId": "synth-word-b9a21b53538ae400",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l50-ri9",
+      "front": "習慣在本课是什么意思？",
+      "back": "习惯",
+      "reading": "しゅうかん",
+      "audioId": "synth-word-5985b1aeaaba0294",
+      "kind": "vocabulary"
+    }
+  ]
+}

@@ -1,0 +1,1099 @@
+{
+  "id": "l47",
+  "number": 47,
+  "moduleId": "m10",
+  "title": "说明准备、完成与遗憾",
+  "subtitle": "事先做好、已经做完和不小心发生，用上下文区分。",
+  "revision": 2,
+  "goals": [
+    "识别ておく表达的预先准备。",
+    "结合语境理解てしまう的完成与遗憾。",
+    "在操作失误后准确说明现状和补救。"
+  ],
+  "prerequisites": [
+    "理解第46课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「说明准备、完成与遗憾」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l47-ex01",
+        "l47-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「手机没电但留有纸本」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「紙の控えが役に立った」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「说明准备、完成与遗憾」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l47-ex19",
+        "l47-ex20",
+        "l47-ex21",
+        "l47-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到予約、番号、携帯電話、電池，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用すみません。携帯電話の電池が切れてしまいました。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「说明准备、完成与遗憾」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l47-ex07",
+        "l47-ex08",
+        "l47-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「ておく为后续准备」「てしまう的完成与遗憾」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「说明准备、完成与遗憾」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l47-ex02",
+        "l47-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「说明准备、完成与遗憾」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l47-ex04",
+        "l47-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「紙の控えが役に立った」与「上書きしてしまった資料」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「说明准备、完成与遗憾」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l47-ex11",
+        "l47-ex12",
+        "l47-ex13",
+        "l47-ex14",
+        "l47-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「说明准备、完成与遗憾」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l47-ex06",
+        "l47-ex10",
+        "l47-ex17",
+        "l47-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l47-ext10",
+      "title": "说明准备、完成与遗憾 · 10分钟迁移",
+      "instructions": "用10分钟重读「紙の控えが役に立った」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l47-ext15",
+      "title": "说明准备、完成与遗憾 · 15分钟迁移",
+      "instructions": "用15分钟把「上書きしてしまった資料」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l47-ext25",
+      "title": "说明准备、完成与遗憾 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l47-ex13",
+        "l47-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l47-d01",
+      "title": "手机没电但留有纸本",
+      "context": "林到酒店时手机电量耗尽，幸好预先准备了预约资料。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l47-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "受付",
+          "ja": "予約番号を見せていただけますか。",
+          "kana": "よやくばんごうをみせていただけますか。",
+          "zh": "可以出示预约号吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "すみません。携帯電話の電池が切れてしまいました。",
+          "kana": "すみません。けいたいでんわのでんちがきれてしまいました。",
+          "zh": "不好意思，手机没电了。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "番号の控えはありますか。",
+          "kana": "ばんごうのひかえはありますか。",
+          "zh": "有号码备份吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい。画面を紙に印刷しておきました。",
+          "kana": "はい。がめんをかみにいんさつしておきました。",
+          "zh": "有，已提前把画面打印到纸上。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "ありがとうございます。こちらで確認できます。",
+          "kana": "ありがとうございます。こちらでかくにんできます。",
+          "zh": "谢谢，可以据此确认。"
+        },
+        {
+          "speaker": "林",
+          "ja": "充電できる場所も教えてください。",
+          "kana": "じゅうでんできるばしょもおしえてください。",
+          "zh": "也请告诉我可充电的地方。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "部屋にあります。出発前に充電しておくと安心です。",
+          "kana": "へやにあります。しゅっぱつまえにじゅうでんしておくとあんしんです。",
+          "zh": "房间有，出发前充好电比较安心。"
+        },
+        {
+          "speaker": "林",
+          "ja": "次は予備の電池も準備します。",
+          "kana": "つぎはよびのでんちもじゅんびします。",
+          "zh": "下次也准备备用电池。"
+        },
+        {
+          "speaker": "受付",
+          "ja": "手続きはもう終わりました。鍵をどうぞ。",
+          "kana": "てつづきはもうおわりました。かぎをどうぞ。",
+          "zh": "手续已办完，请拿钥匙。"
+        },
+        {
+          "speaker": "林",
+          "ja": "助かりました。念のため、通知も保存しておきます。",
+          "kana": "たすかりました。ねんのため、つうちもほぞんしておきます。",
+          "zh": "帮大忙了，以防万一也会保存通知。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l47-v01",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "予約番号を見せていただけますか。",
+      "exampleMeaning": "可以出示预约号吗？",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l47-v02",
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "号码",
+      "pos": "名词",
+      "example": "予約番号を見せていただけますか。",
+      "exampleMeaning": "可以出示预约号吗？",
+      "mastery": "active",
+      "audioId": "synth-word-64cc46bb91846064"
+    },
+    {
+      "id": "l47-v03",
+      "word": "携帯電話",
+      "reading": "けいたいでんわ",
+      "meaning": "手机",
+      "pos": "名词",
+      "example": "すみません。携帯電話の電池が切れてしまいました。",
+      "exampleMeaning": "不好意思，手机没电了。",
+      "mastery": "active",
+      "audioId": "synth-word-998fa64db36fe1b8"
+    },
+    {
+      "id": "l47-v04",
+      "word": "電池",
+      "reading": "でんち",
+      "meaning": "电池",
+      "pos": "名词",
+      "example": "すみません。携帯電話の電池が切れてしまいました。",
+      "exampleMeaning": "不好意思，手机没电了。",
+      "mastery": "active",
+      "audioId": "synth-word-27648beb50fbb191"
+    },
+    {
+      "id": "l47-v05",
+      "word": "控え",
+      "reading": "ひかえ",
+      "meaning": "备份；存根",
+      "pos": "名词",
+      "example": "番号の控えはありますか。",
+      "exampleMeaning": "有号码备份吗？",
+      "mastery": "active",
+      "audioId": "synth-word-7f844e41d60b7d54"
+    },
+    {
+      "id": "l47-v06",
+      "word": "画面",
+      "reading": "がめん",
+      "meaning": "屏幕",
+      "pos": "名词",
+      "example": "はい。画面を紙に印刷しておきました。",
+      "exampleMeaning": "有，已提前把画面打印到纸上。",
+      "mastery": "active",
+      "audioId": "synth-word-d68ed2ce20d27fe0"
+    },
+    {
+      "id": "l47-v07",
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "纸",
+      "pos": "名词",
+      "example": "はい。画面を紙に印刷しておきました。",
+      "exampleMeaning": "有，已提前把画面打印到纸上。",
+      "mastery": "active",
+      "audioId": "synth-word-28c4aa2887feee17"
+    },
+    {
+      "id": "l47-v08",
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaning": "打印",
+      "pos": "名词",
+      "example": "はい。画面を紙に印刷しておきました。",
+      "exampleMeaning": "有，已提前把画面打印到纸上。",
+      "mastery": "active",
+      "audioId": "synth-word-f7a0d8097f72df67"
+    },
+    {
+      "id": "l47-v09",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "ありがとうございます。こちらで確認できます。",
+      "exampleMeaning": "谢谢，可以据此确认。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l47-v10",
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaning": "充电",
+      "pos": "名词",
+      "example": "充電できる場所も教えてください。",
+      "exampleMeaning": "也请告诉我可充电的地方。",
+      "mastery": "active",
+      "audioId": "synth-word-35fb848981fe7aee"
+    },
+    {
+      "id": "l47-v11",
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "出发",
+      "pos": "名词",
+      "example": "部屋にあります。出発前に充電しておくと安心です。",
+      "exampleMeaning": "房间有，出发前充好电比较安心。",
+      "mastery": "active",
+      "audioId": "synth-word-f7363fa9a30b300a"
+    },
+    {
+      "id": "l47-v12",
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "安心",
+      "pos": "名词",
+      "example": "部屋にあります。出発前に充電しておくと安心です。",
+      "exampleMeaning": "房间有，出发前充好电比较安心。",
+      "mastery": "active",
+      "audioId": "synth-word-2e835dc65fce970a"
+    },
+    {
+      "id": "l47-v13",
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "备用",
+      "pos": "名词",
+      "example": "次は予備の電池も準備します。",
+      "exampleMeaning": "下次也准备备用电池。",
+      "mastery": "active",
+      "audioId": "synth-word-b84bb07f8b5ffbe7"
+    },
+    {
+      "id": "l47-v14",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "pos": "名词",
+      "example": "次は予備の電池も準備します。",
+      "exampleMeaning": "下次也准备备用电池。",
+      "mastery": "active",
+      "audioId": "synth-word-ba4012c7fd216ad8"
+    },
+    {
+      "id": "l47-v15",
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "手续",
+      "pos": "名词",
+      "example": "手続きはもう終わりました。鍵をどうぞ。",
+      "exampleMeaning": "手续已办完，请拿钥匙。",
+      "mastery": "active",
+      "audioId": "synth-word-d0c9e7bbab248365"
+    },
+    {
+      "id": "l47-v16",
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "通知",
+      "pos": "名词",
+      "example": "助かりました。念のため、通知も保存しておきます。",
+      "exampleMeaning": "帮大忙了，以防万一也会保存通知。",
+      "mastery": "active",
+      "audioId": "synth-word-b5c2bb62d5dcfef2"
+    },
+    {
+      "id": "l47-v17",
+      "word": "保存",
+      "reading": "ほぞん",
+      "meaning": "保存",
+      "pos": "名词",
+      "example": "助かりました。念のため、通知も保存しておきます。",
+      "exampleMeaning": "帮大忙了，以防万一也会保存通知。",
+      "mastery": "active",
+      "audioId": "synth-word-5b04ec83b8e98013"
+    },
+    {
+      "id": "l47-v18",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "资料",
+      "pos": "名词",
+      "example": "発表の資料を直していた時、古い版を残さずに上書きしてしまいました。",
+      "exampleMeaning": "修改报告资料时，没有保留旧版就覆盖保存了。",
+      "mastery": "active",
+      "audioId": "synth-word-291cee7acbc629d5"
+    },
+    {
+      "id": "l47-v19",
+      "word": "上書き",
+      "reading": "うわがき",
+      "meaning": "覆盖保存",
+      "pos": "名词",
+      "example": "発表の資料を直していた時、古い版を残さずに上書きしてしまいました。",
+      "exampleMeaning": "修改报告资料时，没有保留旧版就覆盖保存了。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0063cea2708c0160"
+    },
+    {
+      "id": "l47-v20",
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "操作",
+      "pos": "名词",
+      "example": "操作そのものは簡単でしたが、後から必要になる図まで消えたことに気づきました。",
+      "exampleMeaning": "操作很简单，但后来发现连之后要用的图都删了。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5da101f709882713"
+    },
+    {
+      "id": "l47-v21",
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "失误",
+      "pos": "名词",
+      "example": "すべての失敗を防げるわけではありませんが、連絡方法を一つだけにしないと安心です。",
+      "exampleMeaning": "无法避免所有失误，但不依赖单一联络方式更安心。",
+      "mastery": "recognition",
+      "audioId": "synth-word-44dd6f82731ca691"
+    },
+    {
+      "id": "l47-v22",
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "期限",
+      "pos": "名词",
+      "example": "担当者にすぐ連絡し、期限までに戻せる部分と、作り直す部分を分けました。",
+      "exampleMeaning": "我马上联系负责人，区分期限前可恢复与需重做的部分。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6ea41e2db28054c5"
+    },
+    {
+      "id": "l47-v23",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者にすぐ連絡し、期限までに戻せる部分と、作り直す部分を分けました。",
+      "exampleMeaning": "我马上联系负责人，区分期限前可恢复与需重做的部分。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l47-v24",
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "步骤",
+      "pos": "名词",
+      "example": "今後は保存前の手順を見直し、編集する前に別の名前で控えを作っておきます。",
+      "exampleMeaning": "今后检查保存步骤，编辑前先另存备份。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3d81eade47f3c293"
+    },
+    {
+      "id": "l47-v25",
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "遗憾",
+      "pos": "名词",
+      "example": "私は残念な気持ちを伝えましたが、説明は感情だけで終わらせず、今の状態を具体的に知らせました。",
+      "exampleMeaning": "我表达遗憾，但不只谈情绪，也具体说明当前状态。",
+      "mastery": "recognition",
+      "audioId": "synth-word-02cdf16442ac794e"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l47-e1",
+      "ja": "すみません。携帯電話の電池が切れてしまいました。",
+      "reading": "すみません。けいたいでんわのでんちがきれてしまいました。",
+      "meaning": "不好意思，手机没电了。",
+      "usage": "说明意外发生后当前不可用的状态",
+      "audioId": "synth-word-8c86bc733093a0c2"
+    },
+    {
+      "id": "l47-e2",
+      "ja": "はい。画面を紙に印刷しておきました。",
+      "reading": "はい。がめんをかみにいんさつしておきました。",
+      "meaning": "有，已提前把画面打印到纸上。",
+      "usage": "说明为后续使用做过的预先准备",
+      "audioId": "synth-word-77a169fd7f2521c6"
+    },
+    {
+      "id": "l47-e3",
+      "ja": "充電できる場所も教えてください。",
+      "reading": "じゅうでんできるばしょもおしえてください。",
+      "meaning": "也请告诉我可充电的地方。",
+      "usage": "提出解决当前困难的具体请求",
+      "audioId": "synth-word-1113799ad7562b07"
+    },
+    {
+      "id": "l47-e4",
+      "ja": "助かりました。念のため、通知も保存しておきます。",
+      "reading": "たすかりました。ねんのため、つうちもほぞんしておきます。",
+      "meaning": "帮大忙了，以防万一也会保存通知。",
+      "usage": "在受到帮助后补充今后的准备",
+      "audioId": "synth-word-61e1fa7412bd54ea"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l47-g1",
+      "title": "ておく为后续准备",
+      "meaning": "事先采取行动或保留状态。",
+      "pattern": "印刷しておく／確認しておく",
+      "explanation": "说明动作是为了之后需要。口语常缩约为とく，先理解标准形式。",
+      "examples": [
+        {
+          "ja": "出発前に番号を確認しておきます。",
+          "zh": "出发前先确认号码。"
+        },
+        {
+          "ja": "受付で使うので、紙を残しておきます。",
+          "zh": "前台要用，所以把纸留下。"
+        }
+      ],
+      "pitfall": "不是所有过去完成的动作都必须用ておく，需有准备或保留目的。"
+    },
+    {
+      "id": "l47-g2",
+      "title": "てしまう的完成与遗憾",
+      "meaning": "语境决定是否带失误情绪。",
+      "pattern": "切れてしまった／全部終わってしまった",
+      "explanation": "てしまう可强调动作彻底完成，也可表达意外或遗憾。不能一律译成不小心。",
+      "examples": [
+        {
+          "ja": "電池が切れてしまいました。",
+          "zh": "电池没电了。"
+        },
+        {
+          "ja": "早めに仕事を終えてしまいましょう。",
+          "zh": "提前把工作全部做完吧。"
+        }
+      ],
+      "pitfall": "看到てしまう不能自动判断是错误或坏事。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "予約",
+          "reading": "よやく",
+          "zh": "预约"
+        },
+        {
+          "ja": "番号",
+          "reading": "ばんごう",
+          "zh": "号码"
+        },
+        {
+          "ja": "携帯電話",
+          "reading": "けいたいでんわ",
+          "zh": "手机"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l47-r1",
+      "title": "紙の控えが役に立った",
+      "context": "旅客反思准备和意外的区别。",
+      "ja": "旅行の出発前、私は予約の通知を携帯電話に保存し、番号の画面を紙にも印刷しておきました。一緒に行く友人には、紙を持つのは荷物が増えるだけだと言われました。しかし、移動中に地図を長く見ていたため、ホテルに着く前に電池が切れてしまいました。受付で予約を確認する時、紙の控えを見せることができ、手続きは予定どおり進みました。その場で番号を思い出そうとしても難しかったので、準備をしておいてよかったと思いました。部屋に入ってから充電し、翌日の行き先と予備の電池も確認しました。すべての失敗を防げるわけではありませんが、連絡方法を一つだけにしないと安心です。準備の目的は荷物を増やすことではなく、予定が変わっても対応できるようにすることです。",
+      "zh": "旅行前我把预约通知存手机，并把号码画面打印成纸本。同行朋友说带纸只增加行李。但路上看地图太久，到酒店前电池就耗尽了。前台核对预约时可出示纸本，手续按计划完成。当场难以回忆号码，所以觉得提前准备很好。进房后充电，并确认次日目的地和备用电池。无法避免所有失误，但不依赖单一联络方式更安心。准备不是为了增加行李，而是便于应对变化。",
+      "audioId": "l47-reading-synth"
+    },
+    {
+      "id": "l47-r2",
+      "title": "上書きしてしまった資料",
+      "context": "完成、意外失误和补救方法出现在同一工作记录中。",
+      "ja": "発表の資料を直していた時、古い版を残さずに上書きしてしまいました。操作そのものは簡単でしたが、後から必要になる図まで消えたことに気づきました。担当者にすぐ連絡し、期限までに戻せる部分と、作り直す部分を分けました。幸い、別の人が送ったメールには前の資料が残っていて、全部を失ったわけではありませんでした。私は残念な気持ちを伝えましたが、説明は感情だけで終わらせず、今の状態を具体的に知らせました。その日のうちに修正を終えてしまい、翌日は確認だけに使うことができました。最後のてしまうは失敗ではなく、必要な作業をすべて済ませた意味です。今後は保存前の手順を見直し、編集する前に別の名前で控えを作っておきます。",
+      "zh": "修改报告资料时，没有保留旧版就覆盖保存了。操作很简单，但后来发现连之后要用的图都删了。我马上联系负责人，区分期限前可恢复与需重做的部分。幸运的是他人邮件里留有旧资料，并非全部遗失。我表达遗憾，但不只谈情绪，也具体说明当前状态。当天把修正全部做完，第二天可专门核对。最后的てしまう不是失误，而是做完所需工作的意思。今后检查保存步骤，编辑前先另存备份。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l47-ex01",
+      "type": "choice",
+      "prompt": "林如何出示预约号？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l47-dialogue-synth",
+      "choices": [
+        "通过打印的纸本",
+        "回家拿电脑",
+        "取消预约"
+      ],
+      "correctIndex": 0,
+      "explanation": "他提前打印了画面。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l47-ri5"
+      ]
+    },
+    {
+      "id": "l47-ex02",
+      "type": "choice",
+      "prompt": "主阅读电池何时耗尽？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l47-reading-synth",
+      "choices": [
+        "到酒店前",
+        "办完手续后",
+        "第二天早上"
+      ],
+      "correctIndex": 0,
+      "explanation": "移动中用地图，到酒店前没电。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l47-ri8"
+      ]
+    },
+    {
+      "id": "l47-ex03",
+      "type": "choice",
+      "prompt": "纸本为什么起作用？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "手机没电仍能出示预约号",
+        "酒店拒绝所有电子资料",
+        "纸本能替手机充电"
+      ],
+      "correctIndex": 0,
+      "explanation": "备用形式保留了必要信息。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l47-ri5",
+        "l47-ri7"
+      ]
+    },
+    {
+      "id": "l47-ex04",
+      "type": "choice",
+      "prompt": "作者如何理解准备？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "保证绝不出错",
+        "单纯增加行李",
+        "为应对变化保留方法"
+      ],
+      "correctIndex": 2,
+      "explanation": "结尾明确准备的目的。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex05",
+      "type": "choice",
+      "prompt": "为什么不是全部资料丢失？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "从未覆盖文件",
+        "别人的邮件保留旧版",
+        "电脑自动重写了所有图"
+      ],
+      "correctIndex": 1,
+      "explanation": "邮件中的旧资料可用。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex06",
+      "type": "choice",
+      "prompt": "“修正を終えてしまい”强调什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所需修改全部做完",
+        "故意把资料弄坏",
+        "再次遗失图表"
+      ],
+      "correctIndex": 0,
+      "explanation": "该处语境是完成而非遗憾。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex07",
+      "type": "input",
+      "prompt": "用本课表示“事先准备”的补助动词，礼貌非过去形：明日のために、資料を保存して＿＿。",
+      "acceptedAnswers": [
+        "おきます"
+      ],
+      "explanation": "ておく表示预先准备。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex08",
+      "type": "order",
+      "prompt": "说明电池意外耗尽。",
+      "tokens": [
+        "しまいました",
+        "。",
+        "切れて",
+        "電池が"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "该语境带遗憾或意外。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l47-ri8"
+      ]
+    },
+    {
+      "id": "l47-ex09",
+      "type": "choice",
+      "prompt": "哪句てしまう主要强调完成？",
+      "choices": [
+        "間違って消してしまいました。",
+        "今日中に全部読んでしまいましょう。",
+        "財布を忘れてしまいました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "号召当日读完重点在完成。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex10",
+      "type": "input",
+      "prompt": "补预先检查：使う前に動作を確認＿＿おきます。",
+      "acceptedAnswers": [
+        "して",
+        "をして"
+      ],
+      "explanation": "確認しておきます最简洁，確認をしておきます也自然。两个形式都保留预先核实的意思。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex11",
+      "type": "self",
+      "prompt": "明天要向前台出示号码，写两种准备方式。",
+      "sampleAnswer": "通知を携帯電話に保存しておきます。念のため紙にも印刷しておきます。",
+      "explanation": "方式不同但服务同一目的。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri6",
+        "l47-ri7"
+      ]
+    },
+    {
+      "id": "l47-ex12",
+      "type": "self",
+      "prompt": "覆盖了旧文件，向负责人说明现状和补救，别只道歉。",
+      "sampleAnswer": "古い版を上書きしてしまいました。メールの控えを確認して、足りない図を作り直します。",
+      "explanation": "现状、可用资源及行动都清楚。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri9"
+      ]
+    },
+    {
+      "id": "l47-ex13",
+      "type": "self",
+      "prompt": "用てしまう分别写一个失误与一个完成句。",
+      "sampleAnswer": "鍵を忘れてしまいました。宿題は今日中に終えてしまいます。",
+      "explanation": "解释两种语气来自语境而非形式本身。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex14",
+      "type": "self",
+      "prompt": "有人说准备就能防止所有问题，写两句回应。",
+      "sampleAnswer": "準備しても全部は防げません。でも、別の方法を用意しておくと対応しやすいです。",
+      "explanation": "不夸大准备的效果。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l47-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「すみません。携帯電話の電池が切れてしまいました。」主要用于什么？",
+      "choices": [
+        "说明意外发生后当前不可用的状态",
+        "说明为后续使用做过的预先准备",
+        "提出解决当前困难的具体请求"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“不好意思，手机没电了。”。结合前后交流，其作用是：说明意外发生后当前不可用的状态",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri1",
+        "l47-ri7",
+        "l47-ri8"
+      ]
+    },
+    {
+      "id": "l47-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。画面を紙に印刷しておきました。」主要用于什么？",
+      "choices": [
+        "提出解决当前困难的具体请求",
+        "在受到帮助后补充今后的准备",
+        "说明为后续使用做过的预先准备"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“有，已提前把画面打印到纸上。”。结合前后交流，其作用是：说明为后续使用做过的预先准备",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri2"
+      ]
+    },
+    {
+      "id": "l47-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「充電できる場所も教えてください。」主要用于什么？",
+      "choices": [
+        "说明意外发生后当前不可用的状态",
+        "提出解决当前困难的具体请求",
+        "在受到帮助后补充今后的准备"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“也请告诉我可充电的地方。”。结合前后交流，其作用是：提出解决当前困难的具体请求",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri3"
+      ]
+    },
+    {
+      "id": "l47-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「助かりました。念のため、通知も保存しておきます。」主要用于什么？",
+      "choices": [
+        "在受到帮助后补充今后的准备",
+        "说明意外发生后当前不可用的状态",
+        "说明为后续使用做过的预先准备"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“帮大忙了，以防万一也会保存通知。”。结合前后交流，其作用是：在受到帮助后补充今后的准备",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l47-ri4"
+      ]
+    },
+    {
+      "id": "l47-ex19",
+      "type": "self",
+      "prompt": "读例句「予約番号を見せていただけますか。」。先不看词表，用中文说明「予約」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "预约",
+      "explanation": "本课这里表示“预约”。例句意思是：可以出示预约号吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l47-ri5",
+        "l47-ri6"
+      ]
+    },
+    {
+      "id": "l47-ex20",
+      "type": "self",
+      "prompt": "读例句「すみません。携帯電話の電池が切れてしまいました。」。先不看词表，用中文说明「電池」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "电池",
+      "explanation": "本课这里表示“电池”。例句意思是：不好意思，手机没电了。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l47-ri1",
+        "l47-ri7",
+        "l47-ri8"
+      ]
+    },
+    {
+      "id": "l47-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。画面を紙に印刷しておきました。」。先不看词表，用中文说明「紙」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "纸",
+      "explanation": "本课这里表示“纸”。例句意思是：有，已提前把画面打印到纸上。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l47-ri2"
+      ]
+    },
+    {
+      "id": "l47-ex22",
+      "type": "self",
+      "prompt": "读例句「充電できる場所も教えてください。」。先不看词表，用中文说明「充電」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "充电",
+      "explanation": "本课这里表示“充电”。例句意思是：也请告诉我可充电的地方。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l47-ri3"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l47-ri1",
+      "front": "不好意思，手机没电了。",
+      "back": "すみません。携帯電話の電池が切れてしまいました。",
+      "reading": "すみません。けいたいでんわのでんちがきれてしまいました。",
+      "audioId": "synth-word-8c86bc733093a0c2",
+      "kind": "expression"
+    },
+    {
+      "id": "l47-ri2",
+      "front": "有，已提前把画面打印到纸上。",
+      "back": "はい。画面を紙に印刷しておきました。",
+      "reading": "はい。がめんをかみにいんさつしておきました。",
+      "audioId": "synth-word-77a169fd7f2521c6",
+      "kind": "expression"
+    },
+    {
+      "id": "l47-ri3",
+      "front": "也请告诉我可充电的地方。",
+      "back": "充電できる場所も教えてください。",
+      "reading": "じゅうでんできるばしょもおしえてください。",
+      "audioId": "synth-word-1113799ad7562b07",
+      "kind": "expression"
+    },
+    {
+      "id": "l47-ri4",
+      "front": "帮大忙了，以防万一也会保存通知。",
+      "back": "助かりました。念のため、通知も保存しておきます。",
+      "reading": "たすかりました。ねんのため、つうちもほぞんしておきます。",
+      "audioId": "synth-word-61e1fa7412bd54ea",
+      "kind": "expression"
+    },
+    {
+      "id": "l47-ri5",
+      "front": "予約在本课是什么意思？",
+      "back": "预约",
+      "reading": "よやく",
+      "audioId": "synth-word-bc9e89d9e02e195e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l47-ri6",
+      "front": "番号在本课是什么意思？",
+      "back": "号码",
+      "reading": "ばんごう",
+      "audioId": "synth-word-64cc46bb91846064",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l47-ri7",
+      "front": "携帯電話在本课是什么意思？",
+      "back": "手机",
+      "reading": "けいたいでんわ",
+      "audioId": "synth-word-998fa64db36fe1b8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l47-ri8",
+      "front": "電池在本课是什么意思？",
+      "back": "电池",
+      "reading": "でんち",
+      "audioId": "synth-word-27648beb50fbb191",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l47-ri9",
+      "front": "控え在本课是什么意思？",
+      "back": "备份；存根",
+      "reading": "ひかえ",
+      "audioId": "synth-word-7f844e41d60b7d54",
+      "kind": "vocabulary"
+    }
+  ]
+}

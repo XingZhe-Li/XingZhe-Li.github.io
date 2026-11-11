@@ -1,0 +1,985 @@
+{
+  "id": "l13",
+  "number": 13,
+  "moduleId": "m3",
+  "title": "谈兴趣、喜欢与擅长",
+  "subtitle": "接住别人的兴趣，同时区分喜欢与做得好。",
+  "revision": 2,
+  "goals": [
+    "说明自己的喜好并询问对方。",
+    "回应共同兴趣，并区分兴趣与能力。",
+    "在『社团介绍桌』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第12课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l13-ex01",
+        "l13-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「社团介绍桌」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「社团成员的兴趣卡」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l13-ex19",
+        "l13-ex20",
+        "l13-ex21",
+        "l13-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到好き、嫌い、得意、上手，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用趣味は何ですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l13-ex07",
+        "l13-ex08",
+        "l13-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「喜好对象」「共同点与特长」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l13-ex02",
+        "l13-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l13-ex04",
+        "l13-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「社团成员的兴趣卡」与「旅行与饮食的偏好」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l13-ex11",
+        "l13-ex12",
+        "l13-ex13",
+        "l13-ex14",
+        "l13-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「谈兴趣、喜欢与擅长」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l13-ex06",
+        "l13-ex10",
+        "l13-ex17",
+        "l13-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l13-ext10",
+      "title": "谈兴趣、喜欢与擅长 · 10分钟迁移",
+      "instructions": "先听『社团介绍桌』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l13-ext15",
+      "title": "谈兴趣、喜欢与擅长 · 15分钟迁移",
+      "instructions": "读『社团成员的兴趣卡』与『旅行与饮食的偏好』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：表达你喜欢阅读。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l13-ext25",
+      "title": "谈兴趣、喜欢与擅长 · 25分钟迁移",
+      "instructions": "用5分钟听『社团介绍桌』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你喜欢运动但不擅长，写两句。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l13-ex13",
+        "l13-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『社团介绍桌』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『社团成员的兴趣卡』与变体材料的条件。",
+    "关闭说明后，能在情境中使用名词が好きです及も；得意です，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l13-d01",
+      "title": "社团介绍桌",
+      "context": "介绍爱好时不要求夸大自己的技能。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l13-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "けん",
+          "ja": "趣味は何ですか。",
+          "kana": "しゅみはなんですか。",
+          "zh": "爱好是什么？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "音楽が好きです。",
+          "kana": "おんがくがすきです。",
+          "zh": "喜欢音乐。"
+        },
+        {
+          "speaker": "けん",
+          "ja": "私も音楽が好きです。",
+          "kana": "わたしもおんがくがすきです。",
+          "zh": "我也喜欢音乐。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "歌が得意ですか。",
+          "kana": "うたがとくいですか。",
+          "zh": "擅长唱歌吗？"
+        },
+        {
+          "speaker": "けん",
+          "ja": "いいえ、得意ではありません。",
+          "kana": "いいえ、とくいではありません。",
+          "zh": "不，不擅长。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "アニメは好きですか。",
+          "kana": "アニメはすきですか。",
+          "zh": "喜欢动画吗？"
+        },
+        {
+          "speaker": "けん",
+          "ja": "はい、好きです。",
+          "kana": "はい、すきです。",
+          "zh": "喜欢。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "私も好きです。",
+          "kana": "わたしもすきです。",
+          "zh": "我也喜欢。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l13-v01",
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "喜欢",
+      "pos": "な形容词",
+      "example": "音楽が好きです。",
+      "exampleMeaning": "喜欢音乐。",
+      "mastery": "active",
+      "audioId": "synth-word-3fc32723cd843ec2"
+    },
+    {
+      "id": "l13-v02",
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "讨厌",
+      "pos": "な形容词",
+      "example": "魚は嫌いです。",
+      "exampleMeaning": "讨厌鱼。",
+      "mastery": "active",
+      "audioId": "synth-word-1d06fd3cc52fba14"
+    },
+    {
+      "id": "l13-v03",
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "擅长",
+      "pos": "な形容词",
+      "example": "料理が得意です。",
+      "exampleMeaning": "擅长做饭。",
+      "mastery": "active",
+      "audioId": "synth-word-f2f88f8ce185f0c4"
+    },
+    {
+      "id": "l13-v04",
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "做得好",
+      "pos": "な形容词",
+      "example": "ミナさんは上手です。",
+      "exampleMeaning": "米娜做得好。",
+      "mastery": "active",
+      "audioId": "synth-word-580386f43fe8182c"
+    },
+    {
+      "id": "l13-v05",
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "爱好",
+      "pos": "名词",
+      "example": "趣味は何ですか。",
+      "exampleMeaning": "爱好是什么？",
+      "mastery": "active",
+      "audioId": "synth-word-fd35f963ab3eb7be"
+    },
+    {
+      "id": "l13-v06",
+      "word": "歌",
+      "reading": "うた",
+      "meaning": "歌",
+      "pos": "名词",
+      "example": "歌が得意ですか。",
+      "exampleMeaning": "擅长唱歌吗？",
+      "mastery": "active",
+      "audioId": "synth-word-dab175b1afa826ac"
+    },
+    {
+      "id": "l13-v07",
+      "word": "アニメ",
+      "reading": "アニメ",
+      "meaning": "动画",
+      "pos": "名词",
+      "example": "アニメは好きですか。",
+      "exampleMeaning": "喜欢动画吗？",
+      "mastery": "active",
+      "audioId": "synth-word-52ffe9d978f0474f"
+    },
+    {
+      "id": "l13-v08",
+      "word": "ゲーム",
+      "reading": "ゲーム",
+      "meaning": "游戏",
+      "pos": "名词",
+      "example": "ゲームです。",
+      "exampleMeaning": "是游戏。",
+      "mastery": "active",
+      "audioId": "synth-word-13fd3c0393665cf3"
+    },
+    {
+      "id": "l13-v09",
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "旅行",
+      "pos": "名词",
+      "example": "旅行です。",
+      "exampleMeaning": "是旅行。",
+      "mastery": "active",
+      "audioId": "synth-word-087140ba0a8a3774"
+    },
+    {
+      "id": "l13-v10",
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "阅读",
+      "pos": "名词",
+      "example": "読書です。",
+      "exampleMeaning": "是阅读。",
+      "mastery": "active",
+      "audioId": "synth-word-536b0c14165a345b"
+    },
+    {
+      "id": "l13-v11",
+      "word": "スポーツ",
+      "reading": "スポーツ",
+      "meaning": "运动",
+      "pos": "名词",
+      "example": "スポーツです。",
+      "exampleMeaning": "是运动。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6f6de4cb0f4d0fb9"
+    },
+    {
+      "id": "l13-v12",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片",
+      "pos": "名词",
+      "example": "写真です。",
+      "exampleMeaning": "是照片。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e2f3d21e1037f6f0"
+    },
+    {
+      "id": "l13-v13",
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "鱼",
+      "pos": "名词",
+      "example": "魚です。",
+      "exampleMeaning": "是鱼。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3ed276ec0c911f1a"
+    },
+    {
+      "id": "l13-v14",
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "肉",
+      "pos": "名词",
+      "example": "肉です。",
+      "exampleMeaning": "是肉。",
+      "mastery": "recognition",
+      "audioId": "synth-word-1e2368ad527b7f06"
+    },
+    {
+      "id": "l13-v15",
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "蔬菜",
+      "pos": "名词",
+      "example": "野菜です。",
+      "exampleMeaning": "是蔬菜。",
+      "mastery": "recognition",
+      "audioId": "synth-word-cad34f25ebad5026"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l13-e1",
+      "ja": "趣味は何ですか。",
+      "reading": "しゅみはなんですか。",
+      "meaning": "爱好是什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-4350b2a20c5d9d3f"
+    },
+    {
+      "id": "l13-e2",
+      "ja": "音楽が好きです。",
+      "reading": "おんがくがすきです。",
+      "meaning": "喜欢音乐。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-912b5774db21c727"
+    },
+    {
+      "id": "l13-e3",
+      "ja": "いいえ、得意ではありません。",
+      "reading": "いいえ、とくいではありません。",
+      "meaning": "不，不擅长。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-9af235f65d4e2624"
+    },
+    {
+      "id": "l13-e4",
+      "ja": "アニメは好きですか。",
+      "reading": "アニメはすきですか。",
+      "meaning": "喜欢动画吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c5c70fa6a9ce7e45"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l13-g1",
+      "title": "喜好对象",
+      "meaning": "说明自己的喜好并询问对方。",
+      "pattern": "名词が好きです",
+      "explanation": "好き是な形容词，喜好对象常用が；对比时可以用は。",
+      "examples": [
+        {
+          "ja": "アニメが好きです。",
+          "zh": "喜欢动画。"
+        }
+      ],
+      "pitfall": "喜欢不等于擅长。"
+    },
+    {
+      "id": "l13-g2",
+      "title": "共同点与特长",
+      "meaning": "回应共同兴趣，并区分兴趣与能力。",
+      "pattern": "も；得意です",
+      "explanation": "私も表示我也；得意是擅长，喜欢做某事并不证明做得好。上手先用于理解或称赞他人。",
+      "examples": [
+        {
+          "ja": "私も読書が好きです。",
+          "zh": "我也喜欢读书。"
+        }
+      ],
+      "pitfall": "不要从喜欢旅行推断去过很多国家。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "好き",
+          "reading": "すき",
+          "zh": "喜欢"
+        },
+        {
+          "ja": "嫌い",
+          "reading": "きらい",
+          "zh": "讨厌"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l13-r1",
+      "title": "社团成员的兴趣卡",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ミナさんは音楽が好きです。アニメも好きです。けんさんも音楽が好きです。でも、歌は得意ではありません。りんさんは読書が好きです。料理が得意です。スポーツはあまり好きではありません。好きな活動と得意な活動は同じではありません。",
+      "zh": "米娜喜欢音乐和动画。健也喜欢音乐，但不擅长唱歌。林喜欢阅读、擅长料理，不太喜欢运动。喜欢和擅长并不相同。",
+      "audioId": "l13-reading-synth"
+    },
+    {
+      "id": "l13-r2",
+      "title": "旅行与饮食的偏好",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "サラさんの趣味は旅行です。写真も好きです。魚は好きではありません。肉と野菜が好きです。ゲームはあまり好きではありません。ミナさんは魚が好きです。でも、料理は得意ではありません。この二人の食べ物の好みは同じではありません。",
+      "zh": "萨拉爱旅行和照片，不喜欢鱼，喜欢肉和蔬菜，不太喜欢游戏。米娜喜欢鱼，但不擅长做饭，两人食物偏好不同。好み是偏好，支持词。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l13-ex01",
+      "type": "choice",
+      "prompt": "健擅长唱歌吗？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l13-dialogue-synth",
+      "choices": [
+        "擅长",
+        "不擅长",
+        "录音未说"
+      ],
+      "correctIndex": 1,
+      "explanation": "得意ではありません。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex02",
+      "type": "choice",
+      "prompt": "兴趣卡中林擅长什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l13-reading-synth",
+      "choices": [
+        "料理",
+        "运动",
+        "唱歌"
+      ],
+      "correctIndex": 0,
+      "explanation": "料理が得意です。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex03",
+      "type": "choice",
+      "prompt": "健擅长唱歌吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "擅长",
+        "不擅长",
+        "录音未说"
+      ],
+      "correctIndex": 1,
+      "explanation": "得意ではありません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex04",
+      "type": "choice",
+      "prompt": "兴趣卡中林擅长什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "料理",
+        "运动",
+        "唱歌"
+      ],
+      "correctIndex": 0,
+      "explanation": "料理が得意です。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex05",
+      "type": "choice",
+      "prompt": "萨拉不喜欢哪种食物？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "鱼",
+        "肉",
+        "蔬菜"
+      ],
+      "correctIndex": 0,
+      "explanation": "魚は好きではありません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex06",
+      "type": "choice",
+      "prompt": "米娜喜欢鱼是否说明擅长料理？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "是",
+        "不是，材料否定擅长",
+        "材料说萨拉擅长"
+      ],
+      "correctIndex": 1,
+      "explanation": "でも料理は得意ではありません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex07",
+      "type": "input",
+      "prompt": "填喜好对象助词：音楽＿＿好きです。",
+      "acceptedAnswers": [
+        "が"
+      ],
+      "explanation": "喜好对象常用が。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex08",
+      "type": "input",
+      "prompt": "填共同点助词：私＿＿好きです。",
+      "acceptedAnswers": [
+        "も"
+      ],
+      "explanation": "も表示也。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex09",
+      "type": "order",
+      "prompt": "用词块组成：喜欢音乐。",
+      "tokens": [
+        "好き",
+        "です。",
+        "音楽が"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为音楽が好きです。；喜好对象常用が。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex10",
+      "type": "order",
+      "prompt": "用词块组成：我也喜欢阅读。",
+      "tokens": [
+        "読書が",
+        "好きです。",
+        "私も"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为私も読書が好きです。；も表示也。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex11",
+      "type": "self",
+      "prompt": "表达你喜欢阅读。",
+      "sampleAnswer": "読書が好きです。",
+      "explanation": "对象用が。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex12",
+      "type": "self",
+      "prompt": "回应对方自己也喜欢音乐。",
+      "sampleAnswer": "私も音楽が好きです。",
+      "explanation": "も接住共同点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex13",
+      "type": "self",
+      "prompt": "问对方是否擅长料理。",
+      "sampleAnswer": "料理が得意ですか。",
+      "explanation": "问能力而非仅问喜好。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex14",
+      "type": "self",
+      "prompt": "你喜欢运动但不擅长，写两句。",
+      "sampleAnswer": "スポーツが好きです。でも、得意ではありません。",
+      "explanation": "不能把喜欢说成能力已验证。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：表达你喜欢阅读。",
+      "choices": [
+        "読書が好きです。",
+        "私も音楽が好きです。",
+        "料理が得意ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "对象用が。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：回应对方自己也喜欢音乐。",
+      "choices": [
+        "料理が得意ですか。",
+        "スポーツが好きです。でも、得意ではありません。",
+        "私も音楽が好きです。"
+      ],
+      "correctIndex": 2,
+      "explanation": "も接住共同点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问对方是否擅长料理。",
+      "choices": [
+        "読書が好きです。",
+        "料理が得意ですか。",
+        "スポーツが好きです。でも、得意ではありません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "问能力而非仅问喜好。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你喜欢运动但不擅长，写两句。",
+      "choices": [
+        "スポーツが好きです。でも、得意ではありません。",
+        "読書が好きです。",
+        "私も音楽が好きです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不能把喜欢说成能力已验证。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5",
+        "l13-ri7"
+      ]
+    },
+    {
+      "id": "l13-ex19",
+      "type": "self",
+      "prompt": "读例句「音楽が好きです。」。先不看词表，用中文说明「好き」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "喜欢",
+      "explanation": "本课这里表示“喜欢”。例句意思是：喜欢音乐。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri2",
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex20",
+      "type": "self",
+      "prompt": "读例句「ミナさんは上手です。」。先不看词表，用中文说明「上手」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "做得好",
+      "explanation": "本课这里表示“做得好”。例句意思是：米娜做得好。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri8"
+      ]
+    },
+    {
+      "id": "l13-ex21",
+      "type": "self",
+      "prompt": "读例句「アニメは好きですか。」。先不看词表，用中文说明「アニメ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "动画",
+      "explanation": "本课这里表示“动画”。例句意思是：喜欢动画吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l13-ri4",
+        "l13-ri5"
+      ]
+    },
+    {
+      "id": "l13-ex22",
+      "type": "self",
+      "prompt": "读例句「読書です。」。先不看词表，用中文说明「読書」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "阅读",
+      "explanation": "本课这里表示“阅读”。例句意思是：是阅读。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l13-ri1",
+      "front": "爱好是什么？",
+      "back": "趣味は何ですか。",
+      "reading": "しゅみはなんですか。",
+      "audioId": "synth-word-4350b2a20c5d9d3f",
+      "kind": "expression"
+    },
+    {
+      "id": "l13-ri2",
+      "front": "喜欢音乐。",
+      "back": "音楽が好きです。",
+      "reading": "おんがくがすきです。",
+      "audioId": "synth-word-912b5774db21c727",
+      "kind": "expression"
+    },
+    {
+      "id": "l13-ri3",
+      "front": "不，不擅长。",
+      "back": "いいえ、得意ではありません。",
+      "reading": "いいえ、とくいではありません。",
+      "audioId": "synth-word-9af235f65d4e2624",
+      "kind": "expression"
+    },
+    {
+      "id": "l13-ri4",
+      "front": "喜欢动画吗？",
+      "back": "アニメは好きですか。",
+      "reading": "アニメはすきですか。",
+      "audioId": "synth-word-c5c70fa6a9ce7e45",
+      "kind": "expression"
+    },
+    {
+      "id": "l13-ri5",
+      "front": "好き在本课是什么意思？",
+      "back": "喜欢",
+      "reading": "すき",
+      "audioId": "synth-word-3fc32723cd843ec2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l13-ri6",
+      "front": "嫌い在本课是什么意思？",
+      "back": "讨厌",
+      "reading": "きらい",
+      "audioId": "synth-word-1d06fd3cc52fba14",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l13-ri7",
+      "front": "得意在本课是什么意思？",
+      "back": "擅长",
+      "reading": "とくい",
+      "audioId": "synth-word-f2f88f8ce185f0c4",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l13-ri8",
+      "front": "上手在本课是什么意思？",
+      "back": "做得好",
+      "reading": "じょうず",
+      "audioId": "synth-word-580386f43fe8182c",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l13-ri9",
+      "front": "趣味在本课是什么意思？",
+      "back": "爱好",
+      "reading": "しゅみ",
+      "audioId": "synth-word-fd35f963ab3eb7be",
+      "kind": "vocabulary"
+    }
+  ]
+}

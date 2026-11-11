@@ -1,0 +1,1112 @@
+{
+  "id": "l46",
+  "number": 46,
+  "moduleId": "m10",
+  "title": "比较条件并选择方案",
+  "subtitle": "条件、自然结果、建议对象和临时决定，不用同一种“如果”硬套。",
+  "revision": 2,
+  "goals": [
+    "根据条件识别可行方案和决定时点。",
+    "初步比较と、ば、たら、なら的功能。",
+    "说明还未确定的信息并保留替代方案。"
+  ],
+  "prerequisites": [
+    "理解第45课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「比较条件并选择方案」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l46-ex01",
+        "l46-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「雨天的活动方案」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「金曜までに決めること」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「比较条件并选择方案」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l46-ex19",
+        "l46-ex20",
+        "l46-ex21",
+        "l46-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到天気予報、雨、警報、山道，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用雨が降ったら、室内の会場に変更します。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「比较条件并选择方案」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l46-ex07",
+        "l46-ex08",
+        "l46-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「たら与ば：先看具体条件」「なら承接话题与建议」「と说明稳定联系」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「比较条件并选择方案」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l46-ex02",
+        "l46-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「比较条件并选择方案」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l46-ex04",
+        "l46-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「金曜までに決めること」与「相談を受けた時の条件」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「比较条件并选择方案」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l46-ex11",
+        "l46-ex12",
+        "l46-ex13",
+        "l46-ex14",
+        "l46-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「比较条件并选择方案」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l46-ex06",
+        "l46-ex10",
+        "l46-ex17",
+        "l46-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l46-ext10",
+      "title": "比较条件并选择方案 · 10分钟迁移",
+      "instructions": "用10分钟重读「金曜までに決めること」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l46-ext15",
+      "title": "比较条件并选择方案 · 15分钟迁移",
+      "instructions": "用15分钟把「相談を受けた時の条件」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l46-ext25",
+      "title": "比较条件并选择方案 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l46-ex13",
+        "l46-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l46-d01",
+      "title": "雨天的活动方案",
+      "context": "社团准备户外活动。预报尚不确定，负责人需要在周五决定。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l46-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "担当者",
+          "ja": "土曜の活動は山道を歩く予定です。",
+          "kana": "どようのかつどうはやまみちをあるくよていです。",
+          "zh": "周六计划走山路。"
+        },
+        {
+          "speaker": "林",
+          "ja": "天気予報では雨の可能性があります。",
+          "kana": "てんきよほうではあめのかのうせいがあります。",
+          "zh": "天气预报说可能下雨。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "雨が降ったら、室内の会場に変更します。",
+          "kana": "あめがふったら、しつないのかいじょうにへんこうします。",
+          "zh": "下雨的话改成室内会场。"
+        },
+        {
+          "speaker": "林",
+          "ja": "警報が出た場合は延期するのですね。",
+          "kana": "けいほうがでたばあいはえんきするのですね。",
+          "zh": "有警报就延期，对吧？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "はい。安全が確認できなければ、出発しません。",
+          "kana": "はい。あんぜんがかくにんできなければ、しゅっぱつしません。",
+          "zh": "是的，无法确认安全就不出发。"
+        },
+        {
+          "speaker": "林",
+          "ja": "室内にするなら、今から予約が必要です。",
+          "kana": "しつないにするなら、いまからよやくがひつようです。",
+          "zh": "若要改室内，现在需要预约。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "金曜までなら、キャンセル料金はかかりません。",
+          "kana": "きんようまでなら、きゃんせるりょうきんはかかりません。",
+          "zh": "周五前取消不收费。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、代案の会場も押さえておきましょう。",
+          "kana": "では、だいあんのかいじょうもおさえておきましょう。",
+          "zh": "那也先预订替代会场吧。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "条件が決まると、受付の案内も更新されます。",
+          "kana": "じょうけんがきまると、うけつけのあんないもこうしんされます。",
+          "zh": "条件定下后，前台指南也会更新。"
+        },
+        {
+          "speaker": "林",
+          "ja": "集合の場所は、決定後に全員へ連絡します。",
+          "kana": "しゅうごうのばしょは、けっていごにぜんいんへれんらくします。",
+          "zh": "决定后向全员通知集合地点。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l46-v01",
+      "word": "天気予報",
+      "reading": "てんきよほう",
+      "meaning": "天气预报",
+      "pos": "名词",
+      "example": "天気予報では雨の可能性があります。",
+      "exampleMeaning": "天气预报说可能下雨。",
+      "mastery": "active",
+      "audioId": "synth-word-e3e121c504f86879"
+    },
+    {
+      "id": "l46-v02",
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "雨",
+      "pos": "名词",
+      "example": "天気予報では雨の可能性があります。",
+      "exampleMeaning": "天气预报说可能下雨。",
+      "mastery": "active",
+      "audioId": "synth-word-da749fbe0ec9c603"
+    },
+    {
+      "id": "l46-v03",
+      "word": "警報",
+      "reading": "けいほう",
+      "meaning": "警报",
+      "pos": "名词",
+      "example": "警報が出た場合は延期するのですね。",
+      "exampleMeaning": "有警报就延期，对吧？",
+      "mastery": "active",
+      "audioId": "synth-word-a0226d12df34a456"
+    },
+    {
+      "id": "l46-v04",
+      "word": "山道",
+      "reading": "やまみち",
+      "meaning": "山路",
+      "pos": "名词",
+      "example": "土曜の活動は山道を歩く予定です。",
+      "exampleMeaning": "周六计划走山路。",
+      "mastery": "active",
+      "audioId": "synth-word-ce2ccb0e4b6e411f"
+    },
+    {
+      "id": "l46-v05",
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "延期",
+      "pos": "名词",
+      "example": "警報が出た場合は延期するのですね。",
+      "exampleMeaning": "有警报就延期，对吧？",
+      "mastery": "active",
+      "audioId": "synth-word-dff9b1eaf14241cd"
+    },
+    {
+      "id": "l46-v06",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "会场",
+      "pos": "名词",
+      "example": "雨が降ったら、室内の会場に変更します。",
+      "exampleMeaning": "下雨的话改成室内会场。",
+      "mastery": "active",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l46-v07",
+      "word": "室内",
+      "reading": "しつない",
+      "meaning": "室内",
+      "pos": "名词",
+      "example": "雨が降ったら、室内の会場に変更します。",
+      "exampleMeaning": "下雨的话改成室内会场。",
+      "mastery": "active",
+      "audioId": "synth-word-b19c1f581dd21f27"
+    },
+    {
+      "id": "l46-v08",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "前台；受理",
+      "pos": "名词",
+      "example": "条件が決まると、受付の案内も更新されます。",
+      "exampleMeaning": "条件定下后，前台指南也会更新。",
+      "mastery": "active",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l46-v09",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "室内にするなら、今から予約が必要です。",
+      "exampleMeaning": "若要改室内，现在需要预约。",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l46-v10",
+      "word": "キャンセル",
+      "reading": "きゃんせる",
+      "meaning": "取消",
+      "pos": "名词",
+      "example": "金曜までなら、キャンセル料金はかかりません。",
+      "exampleMeaning": "周五前取消不收费。",
+      "mastery": "active",
+      "audioId": "synth-word-b1f7503e39c418a8"
+    },
+    {
+      "id": "l46-v11",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "金曜までなら、キャンセル料金はかかりません。",
+      "exampleMeaning": "周五前取消不收费。",
+      "mastery": "active",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l46-v12",
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "期限",
+      "pos": "名词",
+      "example": "申し込みの期限と最終決定の時刻は違うため、受付の案内を両方確認してください。",
+      "exampleMeaning": "报名期限与最终决定时间不同，请两项都查。",
+      "mastery": "active",
+      "audioId": "synth-word-6ea41e2db28054c5"
+    },
+    {
+      "id": "l46-v13",
+      "word": "参加費",
+      "reading": "さんかひ",
+      "meaning": "参加费",
+      "pos": "名词",
+      "example": "参加費には会場の料金が含まれますが、集合場所までの交通費は各自で負担します。",
+      "exampleMeaning": "参加费含场地费，到集合地的交通费个人承担。",
+      "mastery": "active",
+      "audioId": "synth-word-7f94204647c46f6f"
+    },
+    {
+      "id": "l46-v14",
+      "word": "交通費",
+      "reading": "こうつうひ",
+      "meaning": "交通费",
+      "pos": "名词",
+      "example": "参加費には会場の料金が含まれますが、集合場所までの交通費は各自で負担します。",
+      "exampleMeaning": "参加费含场地费，到集合地的交通费个人承担。",
+      "mastery": "active",
+      "audioId": "synth-word-c61f82f91394570b"
+    },
+    {
+      "id": "l46-v15",
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "判断",
+      "pos": "名词",
+      "example": "土曜日の山道を歩く活動は、天気予報を見ながら金曜日に最終判断をすることになっています。",
+      "exampleMeaning": "周六山路活动将在参考天气预报后，于周五最终判断。",
+      "mastery": "active",
+      "audioId": "synth-word-68797c2bdb179e80"
+    },
+    {
+      "id": "l46-v16",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "条件が決まると、受付の案内も更新されます。",
+      "exampleMeaning": "条件定下后，前台指南也会更新。",
+      "mastery": "active",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l46-v17",
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "安全",
+      "pos": "名词",
+      "example": "はい。安全が確認できなければ、出発しません。",
+      "exampleMeaning": "是的，无法确认安全就不出发。",
+      "mastery": "active",
+      "audioId": "synth-word-4498dcb9f21d283a"
+    },
+    {
+      "id": "l46-v18",
+      "word": "集合",
+      "reading": "しゅうごう",
+      "meaning": "集合",
+      "pos": "名词",
+      "example": "集合の場所は、決定後に全員へ連絡します。",
+      "exampleMeaning": "决定后向全员通知集合地点。",
+      "mastery": "active",
+      "audioId": "synth-word-9e70ba56b5b2c187"
+    },
+    {
+      "id": "l46-v19",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者が安全を確認できなければ、参加者だけで先に出発してはいけません。",
+      "exampleMeaning": "若负责人无法确认安全，参加者不能自己先出发。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l46-v20",
+      "word": "代案",
+      "reading": "だいあん",
+      "meaning": "替代方案",
+      "pos": "名词",
+      "example": "では、代案の会場も押さえておきましょう。",
+      "exampleMeaning": "那也先预订替代会场吧。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b0e497023f6f2717"
+    },
+    {
+      "id": "l46-v21",
+      "word": "申し込み",
+      "reading": "もうしこみ",
+      "meaning": "报名",
+      "pos": "名词",
+      "example": "申し込みの期限と最終決定の時刻は違うため、受付の案内を両方確認してください。",
+      "exampleMeaning": "报名期限与最终决定时间不同，请两项都查。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e9f1bed4f4d4a30a"
+    },
+    {
+      "id": "l46-v22",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "说明；指南",
+      "pos": "名词",
+      "example": "条件が決まると、受付の案内も更新されます。",
+      "exampleMeaning": "条件定下后，前台指南也会更新。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f7497c6e02cf34c1"
+    },
+    {
+      "id": "l46-v23",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "はい。安全が確認できなければ、出発しません。",
+      "exampleMeaning": "是的，无法确认安全就不出发。",
+      "mastery": "recognition",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l46-v24",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "雨が降ったら、室内の会場に変更します。",
+      "exampleMeaning": "下雨的话改成室内会场。",
+      "mastery": "recognition",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l46-v25",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系",
+      "pos": "名词",
+      "example": "集合の場所は、決定後に全員へ連絡します。",
+      "exampleMeaning": "决定后向全员通知集合地点。",
+      "mastery": "recognition",
+      "audioId": "synth-word-82db684775389331"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l46-e1",
+      "ja": "雨が降ったら、室内の会場に変更します。",
+      "reading": "あめがふったら、しつないのかいじょうにへんこうします。",
+      "meaning": "下雨的话改成室内会场。",
+      "usage": "根据天气条件说明替代行动",
+      "audioId": "synth-word-60f2b6ccdea06789"
+    },
+    {
+      "id": "l46-e2",
+      "ja": "はい。安全が確認できなければ、出発しません。",
+      "reading": "はい。あんぜんがかくにんできなければ、しゅっぱつしません。",
+      "meaning": "是的，无法确认安全就不出发。",
+      "usage": "把能否出发系于安全确认",
+      "audioId": "synth-word-408c3be86d73d6b1"
+    },
+    {
+      "id": "l46-e3",
+      "ja": "室内にするなら、今から予約が必要です。",
+      "reading": "しつないにするなら、いまからよやくがひつようです。",
+      "meaning": "若要改室内，现在需要预约。",
+      "usage": "承接对方方案并指出前置要求",
+      "audioId": "synth-word-8c4f013bf11797e6"
+    },
+    {
+      "id": "l46-e4",
+      "ja": "集合の場所は、決定後に全員へ連絡します。",
+      "reading": "しゅうごうのばしょは、けっていごにぜんいんへれんらくします。",
+      "meaning": "决定后向全员通知集合地点。",
+      "usage": "明确新信息通知的时点",
+      "audioId": "synth-word-4a8a67fee5b03581"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l46-g1",
+      "title": "たら与ば：先看具体条件",
+      "meaning": "在条件成立时选择行动。",
+      "pattern": "雨が降ったら〜。／確認できなければ〜。",
+      "explanation": "たら可表示某事发生后或假设成立后行动；ば突出条件。意志、时序等限制先通过实例观察，不要求一次掌握全部区别。",
+      "examples": [
+        {
+          "ja": "雨が降ったら、室内にします。",
+          "zh": "下雨就改室内。"
+        },
+        {
+          "ja": "空きがあれば、予約できます。",
+          "zh": "有空位就可预约。"
+        }
+      ],
+      "pitfall": "不能只按中文“如果”逐字替换而忽略先后关系。"
+    },
+    {
+      "id": "l46-g2",
+      "title": "なら承接话题与建议",
+      "meaning": "以对方提出或已知方案为前提补建议。",
+      "pattern": "室内にするなら、予約が必要です。",
+      "explanation": "なら常用于就某方案给出适用条件或建议；预约可发生在实际使用室内前。",
+      "examples": [
+        {
+          "ja": "京都へ行くなら、この案内を見てください。",
+          "zh": "去京都的话请看这份指南。"
+        },
+        {
+          "ja": "参加するなら、金曜までに連絡してください。",
+          "zh": "要参加请周五前联系。"
+        }
+      ],
+      "pitfall": "なら不总表示先发生A再发生B。"
+    },
+    {
+      "id": "l46-g3",
+      "title": "と说明稳定联系",
+      "meaning": "描述自动或常规结果。",
+      "pattern": "条件が決まると、案内が更新されます。",
+      "explanation": "本课的と描述系统流程。临时邀请或请求一般不直接放在这种と结果句中。",
+      "examples": [
+        {
+          "ja": "ボタンを押すと、画面が変わります。",
+          "zh": "按按钮画面会变化。"
+        },
+        {
+          "ja": "春になると、日が長くなります。",
+          "zh": "到了春天白昼变长。"
+        }
+      ],
+      "pitfall": "不能把所有临时决定都机械写成と。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "天気予報",
+          "reading": "てんきよほう",
+          "zh": "天气预报"
+        },
+        {
+          "ja": "雨",
+          "reading": "あめ",
+          "zh": "雨"
+        },
+        {
+          "ja": "警報",
+          "reading": "けいほう",
+          "zh": "警报"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l46-r1",
+      "title": "金曜までに決めること",
+      "context": "活动说明中同时出现天气、安全、费用与通知条件。",
+      "ja": "土曜日の山道を歩く活動は、天気予報を見ながら金曜日に最終判断をすることになっています。雨が降ったら室内の会場へ変更しますが、警報が出た場合は活動そのものを延期します。担当者が安全を確認できなければ、参加者だけで先に出発してはいけません。室内にするなら予約が必要なので、代案の会場も金曜まで無料で取り消せる条件で押さえました。参加費には会場の料金が含まれますが、集合場所までの交通費は各自で負担します。申し込みの期限と最終決定の時刻は違うため、受付の案内を両方確認してください。条件が決まると案内が更新され、集合の場所も全員へ連絡されます。連絡が届く前に、室内への変更が決定したと思い込まないことが大切です。",
+      "zh": "周六山路活动将在参考天气预报后，于周五最终判断。下雨改室内，但出现警报则整个活动延期。若负责人无法确认安全，参加者不能自己先出发。若用室内需预约，因此按周五前免费取消的条件预订了替代场地。参加费含场地费，到集合地的交通费个人承担。报名期限与最终决定时间不同，请两项都查。条件定后更新指南，并通知全员集合地点。收到通知前，不要以为已确定改室内。",
+      "audioId": "l46-reading-synth"
+    },
+    {
+      "id": "l46-r2",
+      "title": "相談を受けた時の条件",
+      "context": "旅行建议中的なら与自然结果的と，对信息关系不同。",
+      "ja": "友人から「週末に京都へ行こうと思う」と相談され、私は交通の案内を渡しました。「京都へ行くなら、朝の電車を予約したほうがいい」とすすめたのは、休日は席が取りにくいからです。これは京都に着いてから予約するという意味ではなく、旅行を考えている段階での助言です。一方、券売機の説明にある「ここを押すと一覧が出ます」は、操作による決まった結果を表しています。友人はその二つを同じ順番の話だと思い、予約は現地でもよいと考えていました。そこで、私は何を前提に話しているのかを説明し、出発前に空席を調べるよう伝えました。条件の形を覚えるだけでなく、だれが何を決めるための話なのかを見ると理解しやすくなります。席がなければ時間を変え、予約できたら相手に予定を知らせることにしました。",
+      "zh": "朋友说周末想去京都，向我咨询，我交给他交通指南。建议若去京都最好预约早车，是因为假日难订座。并不是到京都后才订票，而是规划阶段的建议。另一方面，售票机上“按这里出现列表”表示操作的稳定结果。朋友把两者都看成先后顺序，以为可到当地预约。于是我解释说话前提，并提醒出发前查余位。不仅记形式，也看谁为决定何事而说，更好理解。没座则改时间，订好再通知对方计划。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l46-ex01",
+      "type": "choice",
+      "prompt": "安全无法确认时怎么办？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l46-dialogue-synth",
+      "choices": [
+        "不出发",
+        "先独自走山路",
+        "一定改到晚上"
+      ],
+      "correctIndex": 0,
+      "explanation": "担当者明确说出発しません。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l46-ri8"
+      ]
+    },
+    {
+      "id": "l46-ex02",
+      "type": "choice",
+      "prompt": "主阅读何时最终判断？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l46-reading-synth",
+      "choices": [
+        "周五",
+        "周日",
+        "报名后自动确定"
+      ],
+      "correctIndex": 0,
+      "explanation": "开头明确金曜日。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex03",
+      "type": "choice",
+      "prompt": "有警报时的安排是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "整个活动延期",
+        "一定改室内照常办",
+        "各自先出发"
+      ],
+      "correctIndex": 0,
+      "explanation": "警报与普通雨天的处理不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l46-ri6",
+        "l46-ri7",
+        "l46-ri9"
+      ]
+    },
+    {
+      "id": "l46-ex04",
+      "type": "choice",
+      "prompt": "哪项费用个人承担？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "已包含的场地费",
+        "免费取消的费用",
+        "到集合地交通费"
+      ],
+      "correctIndex": 2,
+      "explanation": "参加费包含场地而不含个人交通。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex05",
+      "type": "choice",
+      "prompt": "“京都へ行くなら”后的预约建议何时执行？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不用实际预约",
+        "出发前规划阶段",
+        "到京都后才执行"
+      ],
+      "correctIndex": 1,
+      "explanation": "なら承接旅行计划，不要求先抵达。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex06",
+      "type": "choice",
+      "prompt": "售票机句子的と表示什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "操作后的稳定结果",
+        "说话人临时邀请",
+        "要求对方先到京都"
+      ],
+      "correctIndex": 0,
+      "explanation": "按按钮与画面变化是稳定联系。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex07",
+      "type": "input",
+      "prompt": "承接去京都的计划：京都へ行く＿＿、先に予約しましょう。",
+      "acceptedAnswers": [
+        "なら"
+      ],
+      "explanation": "以该计划为前提给建议。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex08",
+      "type": "order",
+      "prompt": "表达雨天改室内。",
+      "tokens": [
+        "変更します",
+        "。",
+        "室内に",
+        "降ったら",
+        "雨が"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "条件成立后行动。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l46-ri6"
+      ]
+    },
+    {
+      "id": "l46-ex09",
+      "type": "choice",
+      "prompt": "哪句最适合说明机器固定反应？",
+      "choices": [
+        "ここを押すなら、昨日出ました。",
+        "ここを押すと、一覧が出ます。",
+        "ここを押すと、一緒に出かけませんか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "稳定操作结果用と自然。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex10",
+      "type": "input",
+      "prompt": "表达安全无法确认就不出发：安全を確認でき＿＿、出発しません。",
+      "acceptedAnswers": [
+        "なければ"
+      ],
+      "explanation": "否定条件できなければ。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex11",
+      "type": "self",
+      "prompt": "你负责活动，写两句分别处理普通下雨与警报，不能混为一个结果。",
+      "sampleAnswer": "雨が降ったら室内に変更します。警報が出たら活動を延期します。",
+      "explanation": "保留两种条件与对应行动。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l46-ri6",
+        "l46-ri7",
+        "l46-ri9"
+      ]
+    },
+    {
+      "id": "l46-ex12",
+      "type": "self",
+      "prompt": "朋友正考虑报名，你要提醒先确认空位。用なら写建议。",
+      "sampleAnswer": "参加するなら、申し込む前に空きを確認してください。",
+      "explanation": "建议可在参加前执行。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex13",
+      "type": "self",
+      "prompt": "对“报名期限就是最终集合通知时间”的误解作澄清。",
+      "sampleAnswer": "申し込みの期限と最終決定の時刻は違います。集合場所は決定後の連絡を確認してください。",
+      "explanation": "区分两条时间线。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex14",
+      "type": "self",
+      "prompt": "为自己的计划写一个条件和一个代案。",
+      "sampleAnswer": "席が取れなければ、次の電車にします。予約できたら友達に連絡します。",
+      "explanation": "按自身情境替换，但不要遗漏未满足条件时的处理。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l46-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「雨が降ったら、室内の会場に変更します。」主要用于什么？",
+      "choices": [
+        "根据天气条件说明替代行动",
+        "把能否出发系于安全确认",
+        "承接对方方案并指出前置要求"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“下雨的话改成室内会场。”。结合前后交流，其作用是：根据天气条件说明替代行动",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l46-ri1",
+        "l46-ri6"
+      ]
+    },
+    {
+      "id": "l46-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。安全が確認できなければ、出発しません。」主要用于什么？",
+      "choices": [
+        "承接对方方案并指出前置要求",
+        "明确新信息通知的时点",
+        "把能否出发系于安全确认"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“是的，无法确认安全就不出发。”。结合前后交流，其作用是：把能否出发系于安全确认",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l46-ri2"
+      ]
+    },
+    {
+      "id": "l46-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「室内にするなら、今から予約が必要です。」主要用于什么？",
+      "choices": [
+        "根据天气条件说明替代行动",
+        "承接对方方案并指出前置要求",
+        "明确新信息通知的时点"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“若要改室内，现在需要预约。”。结合前后交流，其作用是：承接对方方案并指出前置要求",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l46-ri3"
+      ]
+    },
+    {
+      "id": "l46-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「集合の場所は、決定後に全員へ連絡します。」主要用于什么？",
+      "choices": [
+        "明确新信息通知的时点",
+        "根据天气条件说明替代行动",
+        "把能否出发系于安全确认"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“决定后向全员通知集合地点。”。结合前后交流，其作用是：明确新信息通知的时点",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l46-ri4"
+      ]
+    },
+    {
+      "id": "l46-ex19",
+      "type": "self",
+      "prompt": "读例句「天気予報では雨の可能性があります。」。先不看词表，用中文说明「天気予報」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "天气预报",
+      "explanation": "本课这里表示“天气预报”。例句意思是：天气预报说可能下雨。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l46-ri5",
+        "l46-ri6"
+      ]
+    },
+    {
+      "id": "l46-ex20",
+      "type": "self",
+      "prompt": "读例句「土曜の活動は山道を歩く予定です。」。先不看词表，用中文说明「山道」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "山路",
+      "explanation": "本课这里表示“山路”。例句意思是：周六计划走山路。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l46-ri8"
+      ]
+    },
+    {
+      "id": "l46-ex21",
+      "type": "self",
+      "prompt": "读例句「雨が降ったら、室内の会場に変更します。」。先不看词表，用中文说明「室内」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "室内",
+      "explanation": "本课这里表示“室内”。例句意思是：下雨的话改成室内会场。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l46-ri1",
+        "l46-ri6"
+      ]
+    },
+    {
+      "id": "l46-ex22",
+      "type": "self",
+      "prompt": "读例句「金曜までなら、キャンセル料金はかかりません。」。先不看词表，用中文说明「キャンセル」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "取消",
+      "explanation": "本课这里表示“取消”。例句意思是：周五前取消不收费。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l46-ri1",
+      "front": "下雨的话改成室内会场。",
+      "back": "雨が降ったら、室内の会場に変更します。",
+      "reading": "あめがふったら、しつないのかいじょうにへんこうします。",
+      "audioId": "synth-word-60f2b6ccdea06789",
+      "kind": "expression"
+    },
+    {
+      "id": "l46-ri2",
+      "front": "是的，无法确认安全就不出发。",
+      "back": "はい。安全が確認できなければ、出発しません。",
+      "reading": "はい。あんぜんがかくにんできなければ、しゅっぱつしません。",
+      "audioId": "synth-word-408c3be86d73d6b1",
+      "kind": "expression"
+    },
+    {
+      "id": "l46-ri3",
+      "front": "若要改室内，现在需要预约。",
+      "back": "室内にするなら、今から予約が必要です。",
+      "reading": "しつないにするなら、いまからよやくがひつようです。",
+      "audioId": "synth-word-8c4f013bf11797e6",
+      "kind": "expression"
+    },
+    {
+      "id": "l46-ri4",
+      "front": "决定后向全员通知集合地点。",
+      "back": "集合の場所は、決定後に全員へ連絡します。",
+      "reading": "しゅうごうのばしょは、けっていごにぜんいんへれんらくします。",
+      "audioId": "synth-word-4a8a67fee5b03581",
+      "kind": "expression"
+    },
+    {
+      "id": "l46-ri5",
+      "front": "天気予報在本课是什么意思？",
+      "back": "天气预报",
+      "reading": "てんきよほう",
+      "audioId": "synth-word-e3e121c504f86879",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l46-ri6",
+      "front": "雨在本课是什么意思？",
+      "back": "雨",
+      "reading": "あめ",
+      "audioId": "synth-word-da749fbe0ec9c603",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l46-ri7",
+      "front": "警報在本课是什么意思？",
+      "back": "警报",
+      "reading": "けいほう",
+      "audioId": "synth-word-a0226d12df34a456",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l46-ri8",
+      "front": "山道在本课是什么意思？",
+      "back": "山路",
+      "reading": "やまみち",
+      "audioId": "synth-word-ce2ccb0e4b6e411f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l46-ri9",
+      "front": "延期在本课是什么意思？",
+      "back": "延期",
+      "reading": "えんき",
+      "audioId": "synth-word-dff9b1eaf14241cd",
+      "kind": "vocabulary"
+    }
+  ]
+}

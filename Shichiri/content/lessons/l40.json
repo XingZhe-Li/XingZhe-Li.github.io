@@ -1,0 +1,982 @@
+{
+  "id": "l40",
+  "number": 40,
+  "moduleId": "m8",
+  "title": "完整行程和自选话题",
+  "subtitle": "保留关键限制，把交通、参观和聊天连成完整一天。",
+  "revision": 2,
+  "goals": [
+    "整合天气、时间和费用决定行动顺序。",
+    "在跨场景任务中复用确认、请求和理由。",
+    "说明计划变化，并自然转入熟悉话题。"
+  ],
+  "prerequisites": [
+    "理解第39课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「完整行程和自选话题」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l40-ex01",
+        "l40-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「重新安排一天」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「雨の日も残した目標」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「完整行程和自选话题」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l40-ex19",
+        "l40-ex20",
+        "l40-ex21",
+        "l40-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到海、午前中、博物館、入場料，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用午前中は雨ですから、先に博物館へ行きたいです。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「完整行程和自选话题」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l40-ex07",
+        "l40-ex08",
+        "l40-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「动作时刻与完成期限」「先确认再转换话题」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「完整行程和自选话题」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l40-ex02",
+        "l40-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「完整行程和自选话题」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l40-ex04",
+        "l40-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「雨の日も残した目標」与「駅で待つ友達への連絡」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「完整行程和自选话题」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l40-ex11",
+        "l40-ex12",
+        "l40-ex13",
+        "l40-ex14",
+        "l40-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「完整行程和自选话题」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l40-ex06",
+        "l40-ex10",
+        "l40-ex17",
+        "l40-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l40-ext10",
+      "title": "完整行程和自选话题 · 10分钟迁移",
+      "instructions": "用10分钟重读「雨の日も残した目標」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l40-ext15",
+      "title": "完整行程和自选话题 · 15分钟迁移",
+      "instructions": "用15分钟把「駅で待つ友達への連絡」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l40-ext25",
+      "title": "完整行程和自选话题 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l40-ex13",
+        "l40-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l40-d01",
+      "title": "重新安排一天",
+      "context": "朋友原想去海边，但上午下雨且傍晚必须回站。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l40-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "友人",
+          "ja": "今日は海へ行きますか。",
+          "kana": "きょうはうみへいきますか。",
+          "zh": "今天去海边吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "午前中は雨ですから、先に博物館へ行きたいです。",
+          "kana": "ごぜんちゅうはあめですから、さきにはくぶつかんへいきたいです。",
+          "zh": "上午下雨，想先去博物馆。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "十時に開きます。駅からバスで十五分です。",
+          "kana": "じゅうじにあきます。えきからばすでじゅうごふんです。",
+          "zh": "十点开门，从车站坐公交十五分钟。"
+        },
+        {
+          "speaker": "林",
+          "ja": "入場料はいくらですか。",
+          "kana": "にゅうじょうりょうはいくらですか。",
+          "zh": "门票多少？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "八百円です。午後は海で散歩しましょう。",
+          "kana": "はっぴゃくえんです。ごごはうみでさんぽしましょう。",
+          "zh": "八百日元，下午在海边散步吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "六時の電車に乗ります。五時半までに駅に戻りたいです。",
+          "kana": "ろくじのでんしゃにのります。ごじはんまでにえきにもどりたいです。",
+          "zh": "乘六点火车，想五点半前回站。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "では、海は短い散歩だけにしましょう。",
+          "kana": "では、うみはみじかいさんぽだけにしましょう。",
+          "zh": "那海边只短暂散步吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "わかりました。移動中は音楽の話をしませんか。",
+          "kana": "わかりました。いどうちゅうはおんがくのはなしをしませんか。",
+          "zh": "明白。路上聊聊音乐好吗？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "いいですね。どんな曲をよく聴きますか。",
+          "kana": "いいですね。どんなきょくをよくききますか。",
+          "zh": "好啊，你常听什么歌曲？"
+        },
+        {
+          "speaker": "林",
+          "ja": "静かな曲が好きです。景色を見ながら聴きたいです。",
+          "kana": "しずかなきょくがすきです。けしきをみながらききたいです。",
+          "zh": "喜欢安静的歌，想看着景色听。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l40-v01",
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "海",
+      "pos": "名词",
+      "example": "今日は海へ行きますか。",
+      "exampleMeaning": "今天去海边吗？",
+      "mastery": "active",
+      "audioId": "synth-word-a8af6c74f93f381e"
+    },
+    {
+      "id": "l40-v02",
+      "word": "午前中",
+      "reading": "ごぜんちゅう",
+      "meaning": "上午这段时间",
+      "pos": "名词",
+      "example": "午前中は雨ですから、先に博物館へ行きたいです。",
+      "exampleMeaning": "上午下雨，想先去博物馆。",
+      "mastery": "active",
+      "audioId": "synth-word-b266e5d09433a239"
+    },
+    {
+      "id": "l40-v03",
+      "word": "博物館",
+      "reading": "はくぶつかん",
+      "meaning": "博物馆",
+      "pos": "名词",
+      "example": "午前中は雨ですから、先に博物館へ行きたいです。",
+      "exampleMeaning": "上午下雨，想先去博物馆。",
+      "mastery": "active",
+      "audioId": "synth-word-2c90eacd6edcd882"
+    },
+    {
+      "id": "l40-v04",
+      "word": "入場料",
+      "reading": "にゅうじょうりょう",
+      "meaning": "门票",
+      "pos": "名词",
+      "example": "入場料はいくらですか。",
+      "exampleMeaning": "门票多少？",
+      "mastery": "active",
+      "audioId": "synth-word-d73af67a6550c0c5"
+    },
+    {
+      "id": "l40-v05",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "电车",
+      "pos": "名词",
+      "example": "六時の電車に乗ります。五時半までに駅に戻りたいです。",
+      "exampleMeaning": "乘六点火车，想五点半前回站。",
+      "mastery": "active",
+      "audioId": "synth-word-22c13debbad9cb22"
+    },
+    {
+      "id": "l40-v06",
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "散步",
+      "pos": "名词",
+      "example": "八百円です。午後は海で散歩しましょう。",
+      "exampleMeaning": "八百日元，下午在海边散步吧。",
+      "mastery": "active",
+      "audioId": "synth-word-f1a13aad519e4f26"
+    },
+    {
+      "id": "l40-v07",
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "移动",
+      "pos": "名词",
+      "example": "わかりました。移動中は音楽の話をしませんか。",
+      "exampleMeaning": "明白。路上聊聊音乐好吗？",
+      "mastery": "active",
+      "audioId": "synth-word-8fcfe5fca4771f62"
+    },
+    {
+      "id": "l40-v08",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "音乐",
+      "pos": "名词",
+      "example": "わかりました。移動中は音楽の話をしませんか。",
+      "exampleMeaning": "明白。路上聊聊音乐好吗？",
+      "mastery": "active",
+      "audioId": "synth-word-63bb32c8b29adc03"
+    },
+    {
+      "id": "l40-v09",
+      "word": "曲",
+      "reading": "きょく",
+      "meaning": "歌曲；乐曲",
+      "pos": "名词",
+      "example": "いいですね。どんな曲をよく聴きますか。",
+      "exampleMeaning": "好啊，你常听什么歌曲？",
+      "mastery": "active",
+      "audioId": "synth-word-fef9ea3b75e58e77"
+    },
+    {
+      "id": "l40-v10",
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "景色",
+      "pos": "名词",
+      "example": "静かな曲が好きです。景色を見ながら聴きたいです。",
+      "exampleMeaning": "喜欢安静的歌，想看着景色听。",
+      "mastery": "active",
+      "audioId": "synth-word-14c94e1c4b231d23"
+    },
+    {
+      "id": "l40-v11",
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "观光",
+      "pos": "名词",
+      "example": "雨のため、朝の海岸観光を博物館に変えました。",
+      "exampleMeaning": "因下雨，早晨海边观光改为博物馆。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a2026d202836e733"
+    },
+    {
+      "id": "l40-v12",
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "行李",
+      "pos": "名词",
+      "example": "荷物をホテルに預けてから、店へ行く予定でした。",
+      "exampleMeaning": "原计划寄存行李后去店里。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c1bc9c45a9737752"
+    },
+    {
+      "id": "l40-v13",
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "店铺",
+      "pos": "名词",
+      "example": "荷物をホテルに預けてから、店へ行く予定でした。",
+      "exampleMeaning": "原计划寄存行李后去店里。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9917c5d03ebef71e"
+    },
+    {
+      "id": "l40-v14",
+      "word": "優先",
+      "reading": "ゆうせん",
+      "meaning": "优先",
+      "pos": "名词",
+      "example": "全部回ることより、帰りの予定を優先しました。",
+      "exampleMeaning": "比全部逛完更优先回程安排。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3b90ec0f425b8f92"
+    },
+    {
+      "id": "l40-v15",
+      "word": "待ち合わせ",
+      "reading": "まちあわせ",
+      "meaning": "约见",
+      "pos": "名词",
+      "example": "待ち合わせを勝手に変えず、駅で待つ友達に連絡しました。",
+      "exampleMeaning": "我没擅自改约，而联系了在站里等的朋友。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c1eb8179caaf86e5"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l40-e1",
+      "ja": "午前中は雨ですから、先に博物館へ行きたいです。",
+      "reading": "ごぜんちゅうはあめですから、さきにはくぶつかんへいきたいです。",
+      "meaning": "上午下雨，想先去博物馆。",
+      "usage": "根据天气解释调整顺序的理由",
+      "audioId": "synth-word-831cb31002fbb5e3"
+    },
+    {
+      "id": "l40-e2",
+      "ja": "六時の電車に乗ります。五時半までに駅に戻りたいです。",
+      "reading": "ろくじのでんしゃにのります。ごじはんまでにえきにもどりたいです。",
+      "meaning": "乘六点火车，想五点半前回站。",
+      "usage": "明确必须保留的返程期限",
+      "audioId": "synth-word-8a9c4c954576fb8b"
+    },
+    {
+      "id": "l40-e3",
+      "ja": "わかりました。移動中は音楽の話をしませんか。",
+      "reading": "わかりました。いどうちゅうはおんがくのはなしをしませんか。",
+      "meaning": "明白。路上聊聊音乐好吗？",
+      "usage": "确认安排后自然转入兴趣话题",
+      "audioId": "synth-word-af257361993331bd"
+    },
+    {
+      "id": "l40-e4",
+      "ja": "いいですね。どんな曲をよく聴きますか。",
+      "reading": "いいですね。どんなきょくをよくききますか。",
+      "meaning": "好啊，你常听什么歌曲？",
+      "usage": "接受新话题并提出具体追问",
+      "audioId": "synth-word-d889d6ea9948fe7f"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l40-g1",
+      "title": "动作时刻与完成期限",
+      "meaning": "区分何时行动和最迟完成时间。",
+      "pattern": "时间に〜。／时间までに〜。",
+      "explanation": "に指动作时刻；までに表示最迟完成期限。",
+      "examples": [
+        {
+          "ja": "六時の電車に乗ります。",
+          "zh": "乘六点火车。"
+        },
+        {
+          "ja": "五時半までに戻ります。",
+          "zh": "五点半前回来。"
+        }
+      ],
+      "pitfall": "不要把发车时间当作到站时间。"
+    },
+    {
+      "id": "l40-g2",
+      "title": "先确认再转换话题",
+      "meaning": "让任务安排与兴趣聊天连贯。",
+      "pattern": "わかりました。＋〜の話をしませんか。",
+      "explanation": "先完成需要确认的条件，再邀请谈新话题。",
+      "examples": [
+        {
+          "ja": "わかりました。映画の話をしませんか。",
+          "zh": "明白，聊电影好吗？"
+        },
+        {
+          "ja": "いいですね。何を見ましたか。",
+          "zh": "好啊，你看了什么？"
+        }
+      ],
+      "pitfall": "不能用聊天跳过尚未确认的返程条件。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "海",
+          "reading": "うみ",
+          "zh": "海"
+        },
+        {
+          "ja": "午前中",
+          "reading": "ごぜんちゅう",
+          "zh": "上午这段时间"
+        },
+        {
+          "ja": "博物館",
+          "reading": "はくぶつかん",
+          "zh": "博物馆"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l40-r1",
+      "title": "雨の日も残した目標",
+      "context": "根据变更记录识别最重要的约束。",
+      "ja": "雨のため、朝の海岸観光を博物館に変えました。入場料は八百円で、駅からのバスは十五分です。午後は海で短く散歩します。六時の電車に乗るので、五時半までに駅へ戻ります。全部回ることより、帰りの予定を優先しました。",
+      "zh": "因下雨，早晨海边观光改为博物馆。门票八百日元，公交十五分钟。下午海边短暂散步。要乘六点火车，因此五点半前回站。比全部逛完更优先回程安排。",
+      "audioId": "l40-reading-synth"
+    },
+    {
+      "id": "l40-r2",
+      "title": "駅で待つ友達への連絡",
+      "context": "另一种变化需要与同行人共享信息。",
+      "ja": "荷物をホテルに預けてから、店へ行く予定でした。しかし、店は午後から開くことがわかりました。待ち合わせを勝手に変えず、駅で待つ友達に連絡しました。二人で相談して、先に昼ご飯を食べることにしました。自分だけで決めるより、同じ情報を共有することが大切です。",
+      "zh": "原计划寄存行李后去店里。但后来知道店下午才开门。我没擅自改约，而联系了在站里等的朋友。两人商量后决定先吃午饭。比独自决定更重要的是共享信息。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l40-ex01",
+      "type": "choice",
+      "prompt": "林希望几点前回站？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l40-dialogue-synth",
+      "choices": [
+        "五点半",
+        "六点",
+        "七点"
+      ],
+      "correctIndex": 0,
+      "explanation": "五時半までに駅に戻りたい。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex02",
+      "type": "choice",
+      "prompt": "主阅读最优先什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l40-reading-synth",
+      "choices": [
+        "返程计划",
+        "多拍照片",
+        "午饭更便宜"
+      ],
+      "correctIndex": 0,
+      "explanation": "结尾明确优先归程。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex03",
+      "type": "choice",
+      "prompt": "为什么海边只短暂散步？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "要预留赶车时间",
+        "博物馆晚上才开门",
+        "门票超过全部预算"
+      ],
+      "correctIndex": 0,
+      "explanation": "返程约束优先。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l40-ri5",
+        "l40-ri7",
+        "l40-ri8"
+      ]
+    },
+    {
+      "id": "l40-ex04",
+      "type": "choice",
+      "prompt": "最迟何时回站？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "六点半前",
+        "下午一点前",
+        "五点半前"
+      ],
+      "correctIndex": 2,
+      "explanation": "六点是发车时刻，不是到站期限。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex05",
+      "type": "choice",
+      "prompt": "得知店下午开后，作者先做什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不解释让朋友等",
+        "联系等候的朋友",
+        "独自换城市"
+      ],
+      "correctIndex": 1,
+      "explanation": "先共享新信息。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex06",
+      "type": "choice",
+      "prompt": "第二篇最终决定什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "先一起吃午饭",
+        "取消见面",
+        "先去未开门的店"
+      ],
+      "correctIndex": 0,
+      "explanation": "这是共同商量后的行动。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex07",
+      "type": "input",
+      "prompt": "表达“最晚在五点半之前回到车站”：五時半＿＿駅に戻ります。",
+      "acceptedAnswers": [
+        "までに"
+      ],
+      "explanation": "までに表示最迟完成时间。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex08",
+      "type": "order",
+      "prompt": "先确认，再邀请聊音乐。",
+      "tokens": [
+        "しませんか",
+        "。",
+        "音楽の話を",
+        "。",
+        "わかりました"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "先回应前一安排再转场。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex09",
+      "type": "choice",
+      "prompt": "必须六点乘车，哪项保留条件？",
+      "choices": [
+        "六時にホテルを出ます。",
+        "五時半までに駅に戻ります。",
+        "六時半から海を散歩します。"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一项预留了到站时间。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l40-ri5"
+      ]
+    },
+    {
+      "id": "l40-ex10",
+      "type": "input",
+      "prompt": "用礼貌的否定疑问形式邀请一起去海边：海に行き＿＿。",
+      "acceptedAnswers": [
+        "ませんか"
+      ],
+      "explanation": "ませんか用否定疑问礼貌邀请。行きましょうか也可用于提议，但形式和语气不同，本题练习前者。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l40-ri5"
+      ]
+    },
+    {
+      "id": "l40-ex11",
+      "type": "self",
+      "prompt": "朋友想加景点，但你五点必须到站。写限制和简化方案。",
+      "sampleAnswer": "五時までに駅に戻りたいです。近くを短く散歩しませんか。",
+      "explanation": "明确期限与替代方案。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex12",
+      "type": "self",
+      "prompt": "店临时关闭，同行者还在原处等。写通知并征求意见。",
+      "sampleAnswer": "店は休みでした。駅で会ってから、別の店を相談しませんか。",
+      "explanation": "共享事实而不擅自改约。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex13",
+      "type": "self",
+      "prompt": "交通确认后，用熟悉兴趣开启连续两句交流。",
+      "sampleAnswer": "わかりました。映画の話をしませんか。最近、何を見ましたか。",
+      "explanation": "先转场再追问。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l40-ex14",
+      "type": "self",
+      "prompt": "比较两篇，各指出一个不能仅凭个人喜好决定的条件。",
+      "sampleAnswer": "一つ目は帰りの電車の時間です。二つ目は友達との待ち合わせです。",
+      "explanation": "分别是时间限制与共同约定。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l40-ri9"
+      ]
+    },
+    {
+      "id": "l40-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「午前中は雨ですから、先に博物館へ行きたいです。」主要用于什么？",
+      "choices": [
+        "根据天气解释调整顺序的理由",
+        "明确必须保留的返程期限",
+        "确认安排后自然转入兴趣话题"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“上午下雨，想先去博物馆。”。结合前后交流，其作用是：根据天气解释调整顺序的理由",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l40-ri1",
+        "l40-ri6",
+        "l40-ri7"
+      ]
+    },
+    {
+      "id": "l40-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「六時の電車に乗ります。五時半までに駅に戻りたいです。」主要用于什么？",
+      "choices": [
+        "确认安排后自然转入兴趣话题",
+        "接受新话题并提出具体追问",
+        "明确必须保留的返程期限"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“乘六点火车，想五点半前回站。”。结合前后交流，其作用是：明确必须保留的返程期限",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l40-ri2",
+        "l40-ri9"
+      ]
+    },
+    {
+      "id": "l40-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「わかりました。移動中は音楽の話をしませんか。」主要用于什么？",
+      "choices": [
+        "根据天气解释调整顺序的理由",
+        "确认安排后自然转入兴趣话题",
+        "接受新话题并提出具体追问"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“明白。路上聊聊音乐好吗？”。结合前后交流，其作用是：确认安排后自然转入兴趣话题",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l40-ri3"
+      ]
+    },
+    {
+      "id": "l40-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「いいですね。どんな曲をよく聴きますか。」主要用于什么？",
+      "choices": [
+        "接受新话题并提出具体追问",
+        "根据天气解释调整顺序的理由",
+        "明确必须保留的返程期限"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“好啊，你常听什么歌曲？”。结合前后交流，其作用是：接受新话题并提出具体追问",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l40-ri4"
+      ]
+    },
+    {
+      "id": "l40-ex19",
+      "type": "self",
+      "prompt": "读例句「今日は海へ行きますか。」。先不看词表，用中文说明「海」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "海",
+      "explanation": "本课这里表示“海”。例句意思是：今天去海边吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l40-ri5"
+      ]
+    },
+    {
+      "id": "l40-ex20",
+      "type": "self",
+      "prompt": "读例句「入場料はいくらですか。」。先不看词表，用中文说明「入場料」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "门票",
+      "explanation": "本课这里表示“门票”。例句意思是：门票多少？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l40-ri8"
+      ]
+    },
+    {
+      "id": "l40-ex21",
+      "type": "self",
+      "prompt": "读例句「わかりました。移動中は音楽の話をしませんか。」。先不看词表，用中文说明「移動」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "移动",
+      "explanation": "本课这里表示“移动”。例句意思是：明白。路上聊聊音乐好吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l40-ri3"
+      ]
+    },
+    {
+      "id": "l40-ex22",
+      "type": "self",
+      "prompt": "读例句「静かな曲が好きです。景色を見ながら聴きたいです。」。先不看词表，用中文说明「景色」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "景色",
+      "explanation": "本课这里表示“景色”。例句意思是：喜欢安静的歌，想看着景色听。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l40-ri1",
+      "front": "上午下雨，想先去博物馆。",
+      "back": "午前中は雨ですから、先に博物館へ行きたいです。",
+      "reading": "ごぜんちゅうはあめですから、さきにはくぶつかんへいきたいです。",
+      "audioId": "synth-word-831cb31002fbb5e3",
+      "kind": "expression"
+    },
+    {
+      "id": "l40-ri2",
+      "front": "乘六点火车，想五点半前回站。",
+      "back": "六時の電車に乗ります。五時半までに駅に戻りたいです。",
+      "reading": "ろくじのでんしゃにのります。ごじはんまでにえきにもどりたいです。",
+      "audioId": "synth-word-8a9c4c954576fb8b",
+      "kind": "expression"
+    },
+    {
+      "id": "l40-ri3",
+      "front": "明白。路上聊聊音乐好吗？",
+      "back": "わかりました。移動中は音楽の話をしませんか。",
+      "reading": "わかりました。いどうちゅうはおんがくのはなしをしませんか。",
+      "audioId": "synth-word-af257361993331bd",
+      "kind": "expression"
+    },
+    {
+      "id": "l40-ri4",
+      "front": "好啊，你常听什么歌曲？",
+      "back": "いいですね。どんな曲をよく聴きますか。",
+      "reading": "いいですね。どんなきょくをよくききますか。",
+      "audioId": "synth-word-d889d6ea9948fe7f",
+      "kind": "expression"
+    },
+    {
+      "id": "l40-ri5",
+      "front": "海在本课是什么意思？",
+      "back": "海",
+      "reading": "うみ",
+      "audioId": "synth-word-a8af6c74f93f381e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l40-ri6",
+      "front": "午前中在本课是什么意思？",
+      "back": "上午这段时间",
+      "reading": "ごぜんちゅう",
+      "audioId": "synth-word-b266e5d09433a239",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l40-ri7",
+      "front": "博物館在本课是什么意思？",
+      "back": "博物馆",
+      "reading": "はくぶつかん",
+      "audioId": "synth-word-2c90eacd6edcd882",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l40-ri8",
+      "front": "入場料在本课是什么意思？",
+      "back": "门票",
+      "reading": "にゅうじょうりょう",
+      "audioId": "synth-word-d73af67a6550c0c5",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l40-ri9",
+      "front": "電車在本课是什么意思？",
+      "back": "电车",
+      "reading": "でんしゃ",
+      "audioId": "synth-word-22c13debbad9cb22",
+      "kind": "vocabulary"
+    }
+  ]
+}

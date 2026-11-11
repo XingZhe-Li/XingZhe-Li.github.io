@@ -1,0 +1,968 @@
+{
+  "id": "l20",
+  "number": 20,
+  "moduleId": "m4",
+  "title": "按顺序说明行动",
+  "subtitle": "根据办事说明先寄包再入场，条件变更后重排步骤。",
+  "revision": 2,
+  "goals": [
+    "连接连续行动。",
+    "强调前项完成后才做后项。",
+    "在『入场前寄包』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第19课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「按顺序说明行动」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l20-ex01",
+        "l20-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「入场前寄包」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「入场流程」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「按顺序说明行动」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l20-ex19",
+        "l20-ex20",
+        "l20-ex21",
+        "l20-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到まず、次に、最後に、入ります，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用まず、何をしますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「按顺序说明行动」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l20-ex07",
+        "l20-ex08",
+        "l20-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「连接动作」「明确先后」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「按顺序说明行动」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l20-ex02",
+        "l20-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「按顺序说明行动」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l20-ex04",
+        "l20-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「入场流程」与「领取另一种票」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「按顺序说明行动」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l20-ex11",
+        "l20-ex12",
+        "l20-ex13",
+        "l20-ex14",
+        "l20-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「按顺序说明行动」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l20-ex06",
+        "l20-ex10",
+        "l20-ex17",
+        "l20-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l20-ext10",
+      "title": "按顺序说明行动 · 10分钟迁移",
+      "instructions": "先听『入场前寄包』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l20-ext15",
+      "title": "按顺序说明行动 · 15分钟迁移",
+      "instructions": "读『入场流程』与『领取另一种票』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：说明先寄包后进入。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l20-ext25",
+      "title": "按顺序说明行动 · 25分钟迁移",
+      "instructions": "用5分钟听『入场前寄包』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：将接待、写名字连成一句。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l20-ex13",
+        "l20-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『入场前寄包』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『入场流程』与变体材料的条件。",
+    "关闭说明后，能在情境中使用Vて、Vます及Vてから、Vます，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l20-d01",
+      "title": "入场前寄包",
+      "context": "工作人员给出明确的三步流程。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l20-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "まず、何をしますか。",
+          "kana": "まず、なにをしますか。",
+          "zh": "首先做什么？"
+        },
+        {
+          "speaker": "係",
+          "ja": "受付に行ってください。",
+          "kana": "うけつけにいってください。",
+          "zh": "请先去接待处。"
+        },
+        {
+          "speaker": "客",
+          "ja": "次に、会場に入りますか。",
+          "kana": "つぎに、かいじょうにはいりますか。",
+          "zh": "然后进入会场吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "いいえ、荷物を預けてください。",
+          "kana": "いいえ、にもつをあずけてください。",
+          "zh": "不，先寄存行李。"
+        },
+        {
+          "speaker": "客",
+          "ja": "預けてから、入りますか。",
+          "kana": "あずけてから、はいりますか。",
+          "zh": "寄存后进入吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい。切符を見せてください。",
+          "kana": "はい。きっぷをみせてください。",
+          "zh": "是，请出示票。"
+        },
+        {
+          "speaker": "客",
+          "ja": "受付、荷物、切符ですね。",
+          "kana": "うけつけ、にもつ、きっぷですね。",
+          "zh": "接待、行李、票，对吧。"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、その順番です。",
+          "kana": "はい、そのじゅんばんです。",
+          "zh": "是，这个顺序。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l20-v01",
+      "word": "まず",
+      "reading": "まず",
+      "meaning": "首先",
+      "pos": "副词",
+      "example": "まず受付に行きます。",
+      "exampleMeaning": "先去接待处。",
+      "mastery": "active",
+      "audioId": "synth-word-98510dd46cbbae60"
+    },
+    {
+      "id": "l20-v02",
+      "word": "次に",
+      "reading": "つぎに",
+      "meaning": "接着",
+      "pos": "副词",
+      "example": "次に名前を書きます。",
+      "exampleMeaning": "接着写名字。",
+      "mastery": "active",
+      "audioId": "synth-word-61e44744fb342d7e"
+    },
+    {
+      "id": "l20-v03",
+      "word": "最後に",
+      "reading": "さいごに",
+      "meaning": "最后",
+      "pos": "副词",
+      "example": "最後に入ります。",
+      "exampleMeaning": "最后进入。",
+      "mastery": "active",
+      "audioId": "synth-word-d0af226c1810e5cc"
+    },
+    {
+      "id": "l20-v04",
+      "word": "入ります",
+      "reading": "はいります",
+      "meaning": "进入",
+      "pos": "动词",
+      "example": "次に、会場に入りますか。",
+      "exampleMeaning": "然后进入会场吗？",
+      "mastery": "active",
+      "audioId": "synth-word-e2ba54b57e3a5fe2"
+    },
+    {
+      "id": "l20-v05",
+      "word": "出ます",
+      "reading": "でます",
+      "meaning": "出去",
+      "pos": "动词",
+      "example": "出ます。",
+      "exampleMeaning": "出去。",
+      "mastery": "active",
+      "audioId": "synth-word-8e07d84235e2c818"
+    },
+    {
+      "id": "l20-v06",
+      "word": "預けます",
+      "reading": "あずけます",
+      "meaning": "寄存",
+      "pos": "动词",
+      "example": "預けます。",
+      "exampleMeaning": "寄存。",
+      "mastery": "active",
+      "audioId": "synth-word-5b72d6a707c75b7f"
+    },
+    {
+      "id": "l20-v07",
+      "word": "払います",
+      "reading": "はらいます",
+      "meaning": "支付",
+      "pos": "动词",
+      "example": "払います。",
+      "exampleMeaning": "支付。",
+      "mastery": "active",
+      "audioId": "synth-word-491220fb3f35a44e"
+    },
+    {
+      "id": "l20-v08",
+      "word": "受け取ります",
+      "reading": "うけとります",
+      "meaning": "领取",
+      "pos": "动词",
+      "example": "受け取ります。",
+      "exampleMeaning": "领取。",
+      "mastery": "active",
+      "audioId": "synth-word-576f8fe47c67729c"
+    },
+    {
+      "id": "l20-v09",
+      "word": "見せます",
+      "reading": "みせます",
+      "meaning": "出示",
+      "pos": "动词",
+      "example": "見せます。",
+      "exampleMeaning": "出示。",
+      "mastery": "active",
+      "audioId": "synth-word-217293f7f4792030"
+    },
+    {
+      "id": "l20-v10",
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "号码",
+      "pos": "名词",
+      "example": "番号です。",
+      "exampleMeaning": "是号码。",
+      "mastery": "active",
+      "audioId": "synth-word-64cc46bb91846064"
+    },
+    {
+      "id": "l20-v11",
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "行李",
+      "pos": "名词",
+      "example": "いいえ、荷物を預けてください。",
+      "exampleMeaning": "不，先寄存行李。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c1bc9c45a9737752"
+    },
+    {
+      "id": "l20-v12",
+      "word": "ロッカー",
+      "reading": "ロッカー",
+      "meaning": "储物柜",
+      "pos": "名词",
+      "example": "ロッカーです。",
+      "exampleMeaning": "是储物柜。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b5d9d105c72d88e4"
+    },
+    {
+      "id": "l20-v13",
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "票",
+      "pos": "名词",
+      "example": "はい。切符を見せてください。",
+      "exampleMeaning": "是，请出示票。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7a9e75ecec7ff494"
+    },
+    {
+      "id": "l20-v14",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "会场",
+      "pos": "名词",
+      "example": "次に、会場に入りますか。",
+      "exampleMeaning": "然后进入会场吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l20-v15",
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "顺序",
+      "pos": "名词",
+      "example": "はい、その順番です。",
+      "exampleMeaning": "是，这个顺序。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e5fe7f71622c54d5"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l20-e1",
+      "ja": "まず、何をしますか。",
+      "reading": "まず、なにをしますか。",
+      "meaning": "首先做什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-13914dc18d0ff042"
+    },
+    {
+      "id": "l20-e2",
+      "ja": "受付に行ってください。",
+      "reading": "うけつけにいってください。",
+      "meaning": "请先去接待处。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-5b6c20351bdec502"
+    },
+    {
+      "id": "l20-e3",
+      "ja": "預けてから、入りますか。",
+      "reading": "あずけてから、はいりますか。",
+      "meaning": "寄存后进入吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-355e68bf6ae99829"
+    },
+    {
+      "id": "l20-e4",
+      "ja": "はい。切符を見せてください。",
+      "reading": "はい。きっぷをみせてください。",
+      "meaning": "是，请出示票。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-7a3a6f979e409bdb"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l20-g1",
+      "title": "连接动作",
+      "meaning": "连接连续行动。",
+      "pattern": "Vて、Vます",
+      "explanation": "把前一动作变て形，再接下一动作；本课用于顺序说明。",
+      "examples": [
+        {
+          "ja": "受付に行って、名前を書きます。",
+          "zh": "去接待处，然后写名字。"
+        }
+      ],
+      "pitfall": "不要仅按出现的名词列表猜操作顺序。"
+    },
+    {
+      "id": "l20-g2",
+      "title": "明确先后",
+      "meaning": "强调前项完成后才做后项。",
+      "pattern": "Vてから、Vます",
+      "explanation": "荷物を預けてから入ります明确先寄存后进入。",
+      "examples": [
+        {
+          "ja": "切符を受け取ってから、入ります。",
+          "zh": "取票后再进入。"
+        }
+      ],
+      "pitfall": "てから不是两个动作同时进行。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "まず",
+          "reading": "まず",
+          "zh": "首先"
+        },
+        {
+          "ja": "次に",
+          "reading": "つぎに",
+          "zh": "接着"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l20-r1",
+      "title": "入场流程",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "まず受付に行って、名前を書きます。次に荷物をロッカーに預けます。荷物を預けてから、入口で切符を見せます。最後に会場に入ります。受付の後、すぐ会場には入りません。荷物は会場の中に持って入りません。",
+      "zh": "先去接待写名字，接着寄存行李，再在入口出示票，最后进场。接待后不立即进场，也不把行李带进场。持って入る作为支持组合。",
+      "audioId": "l20-reading-synth"
+    },
+    {
+      "id": "l20-r2",
+      "title": "领取另一种票",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この窓口では、まず番号を受け取ります。次に料金を払います。払ってから切符を受け取ります。切符を受け取ってから、入口へ行きます。番号だけでは会場に入れません。この窓口には荷物のロッカーはありません。",
+      "zh": "本窗口先领号码，接着付款，再领票，拿到票后去入口。仅有号码不能入场，窗口没有储物柜。入れません作为不能进入的支持短语，不做可能形变形考核。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l20-ex01",
+      "type": "choice",
+      "prompt": "寄包在进场前还是后？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l20-dialogue-synth",
+      "choices": [
+        "前",
+        "后",
+        "同时"
+      ],
+      "correctIndex": 0,
+      "explanation": "預けてから入ります。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex02",
+      "type": "choice",
+      "prompt": "主流程最后一步？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l20-reading-synth",
+      "choices": [
+        "写名字",
+        "寄存",
+        "入场"
+      ],
+      "correctIndex": 2,
+      "explanation": "最後に会場に入ります。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l20-ri7",
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex03",
+      "type": "choice",
+      "prompt": "寄包在进场前还是后？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "前",
+        "后",
+        "同时"
+      ],
+      "correctIndex": 0,
+      "explanation": "預けてから入ります。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex04",
+      "type": "choice",
+      "prompt": "主流程最后一步？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "写名字",
+        "寄存",
+        "入场"
+      ],
+      "correctIndex": 2,
+      "explanation": "最後に会場に入ります。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l20-ri7",
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex05",
+      "type": "choice",
+      "prompt": "另一窗口付款前做什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "领号码",
+        "领票",
+        "直接入场"
+      ],
+      "correctIndex": 0,
+      "explanation": "まず番号を受け取る。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l20-ri5"
+      ]
+    },
+    {
+      "id": "l20-ex06",
+      "type": "choice",
+      "prompt": "能凭号码直接入场吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "能",
+        "不能",
+        "所有窗口都能"
+      ],
+      "correctIndex": 1,
+      "explanation": "明确番号だけ不可。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex07",
+      "type": "input",
+      "prompt": "写出行きます的て形。",
+      "acceptedAnswers": [
+        "行って",
+        "いって"
+      ],
+      "explanation": "行く是て形例外，行って。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex08",
+      "type": "input",
+      "prompt": "补顺序：払って＿＿、受け取ります。",
+      "acceptedAnswers": [
+        "から"
+      ],
+      "explanation": "てから标前项完成后。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex09",
+      "type": "order",
+      "prompt": "用词块组成：去接待处写名字。",
+      "tokens": [
+        "名前を",
+        "書きます。",
+        "受付に行って、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为受付に行って、名前を書きます。；行く是て形例外，行って。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex10",
+      "type": "order",
+      "prompt": "用词块组成：寄存行李后进入会场。",
+      "tokens": [
+        "会場に",
+        "入ります。",
+        "荷物を預けてから、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为荷物を預けてから、会場に入ります。；てから标前项完成后。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex11",
+      "type": "self",
+      "prompt": "说明先寄包后进入。",
+      "sampleAnswer": "荷物を預けてから、入ります。",
+      "explanation": "完成后再做。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex12",
+      "type": "self",
+      "prompt": "问第一步是什么。",
+      "sampleAnswer": "まず、何をしますか。",
+      "explanation": "核对起点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri1",
+        "l20-ri5"
+      ]
+    },
+    {
+      "id": "l20-ex13",
+      "type": "self",
+      "prompt": "你没听清付款与领票顺序，写确认。",
+      "sampleAnswer": "払ってから、切符を受け取りますか。",
+      "explanation": "明确两动作关系。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex14",
+      "type": "self",
+      "prompt": "将接待、写名字连成一句。",
+      "sampleAnswer": "受付に行って、名前を書きます。",
+      "explanation": "前项て形。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明先寄包后进入。",
+      "choices": [
+        "荷物を預けてから、入ります。",
+        "まず、何をしますか。",
+        "払ってから、切符を受け取りますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "完成后再做。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri1",
+        "l20-ri5",
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问第一步是什么。",
+      "choices": [
+        "払ってから、切符を受け取りますか。",
+        "受付に行って、名前を書きます。",
+        "まず、何をしますか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "核对起点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri1",
+        "l20-ri5"
+      ]
+    },
+    {
+      "id": "l20-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你没听清付款与领票顺序，写确认。",
+      "choices": [
+        "荷物を預けてから、入ります。",
+        "払ってから、切符を受け取りますか。",
+        "受付に行って、名前を書きます。"
+      ],
+      "correctIndex": 1,
+      "explanation": "明确两动作关系。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：将接待、写名字连成一句。",
+      "choices": [
+        "受付に行って、名前を書きます。",
+        "荷物を預けてから、入ります。",
+        "まず、何をしますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "前项て形。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l20-ri1",
+        "l20-ri5",
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex19",
+      "type": "self",
+      "prompt": "读例句「まず受付に行きます。」。先不看词表，用中文说明「まず」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "首先",
+      "explanation": "本课这里表示“首先”。例句意思是：先去接待处。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l20-ri5"
+      ]
+    },
+    {
+      "id": "l20-ex20",
+      "type": "self",
+      "prompt": "读例句「次に、会場に入りますか。」。先不看词表，用中文说明「入ります」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "进入",
+      "explanation": "本课这里表示“进入”。例句意思是：然后进入会场吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l20-ri6",
+        "l20-ri8"
+      ]
+    },
+    {
+      "id": "l20-ex21",
+      "type": "self",
+      "prompt": "读例句「払います。」。先不看词表，用中文说明「払います」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "支付",
+      "explanation": "本课这里表示“支付”。例句意思是：支付。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l20-ex22",
+      "type": "self",
+      "prompt": "读例句「番号です。」。先不看词表，用中文说明「番号」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "号码",
+      "explanation": "本课这里表示“号码”。例句意思是：是号码。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l20-ri1",
+      "front": "首先做什么？",
+      "back": "まず、何をしますか。",
+      "reading": "まず、なにをしますか。",
+      "audioId": "synth-word-13914dc18d0ff042",
+      "kind": "expression"
+    },
+    {
+      "id": "l20-ri2",
+      "front": "请先去接待处。",
+      "back": "受付に行ってください。",
+      "reading": "うけつけにいってください。",
+      "audioId": "synth-word-5b6c20351bdec502",
+      "kind": "expression"
+    },
+    {
+      "id": "l20-ri3",
+      "front": "寄存后进入吗？",
+      "back": "預けてから、入りますか。",
+      "reading": "あずけてから、はいりますか。",
+      "audioId": "synth-word-355e68bf6ae99829",
+      "kind": "expression"
+    },
+    {
+      "id": "l20-ri4",
+      "front": "是，请出示票。",
+      "back": "はい。切符を見せてください。",
+      "reading": "はい。きっぷをみせてください。",
+      "audioId": "synth-word-7a3a6f979e409bdb",
+      "kind": "expression"
+    },
+    {
+      "id": "l20-ri5",
+      "front": "まず在本课是什么意思？",
+      "back": "首先",
+      "reading": "まず",
+      "audioId": "synth-word-98510dd46cbbae60",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l20-ri6",
+      "front": "次に在本课是什么意思？",
+      "back": "接着",
+      "reading": "つぎに",
+      "audioId": "synth-word-61e44744fb342d7e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l20-ri7",
+      "front": "最後に在本课是什么意思？",
+      "back": "最后",
+      "reading": "さいごに",
+      "audioId": "synth-word-d0af226c1810e5cc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l20-ri8",
+      "front": "入ります在本课是什么意思？",
+      "back": "进入",
+      "reading": "はいります",
+      "audioId": "synth-word-e2ba54b57e3a5fe2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l20-ri9",
+      "front": "出ます在本课是什么意思？",
+      "back": "出去",
+      "reading": "でます",
+      "audioId": "synth-word-8e07d84235e2c818",
+      "kind": "vocabulary"
+    }
+  ]
+}

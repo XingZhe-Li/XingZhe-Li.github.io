@@ -1,0 +1,974 @@
+{
+  "id": "l10",
+  "number": 10,
+  "moduleId": "m2",
+  "title": "讲昨天的一天",
+  "subtitle": "把昨天的实际活动与没有做的事区分开。",
+  "revision": 2,
+  "goals": [
+    "讲已经发生的活动。",
+    "说明过去没有发生的活动。",
+    "在『交换昨日记录』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第9课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「讲昨天的一天」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l10-ex01",
+        "l10-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「交换昨日记录」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「昨天的短日记」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「讲昨天的一天」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l10-ex19",
+        "l10-ex20",
+        "l10-ex21",
+        "l10-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到昨日、今日、朝、昼，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用昨日、何をしましたか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「讲昨天的一天」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l10-ex07",
+        "l10-ex08",
+        "l10-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「过去动作」「过去否定」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「讲昨天的一天」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l10-ex02",
+        "l10-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「讲昨天的一天」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l10-ex04",
+        "l10-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「昨天的短日记」与「习惯与一次例外」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「讲昨天的一天」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l10-ex11",
+        "l10-ex12",
+        "l10-ex13",
+        "l10-ex14",
+        "l10-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「讲昨天的一天」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l10-ex06",
+        "l10-ex10",
+        "l10-ex17",
+        "l10-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l10-ext10",
+      "title": "讲昨天的一天 · 10分钟迁移",
+      "instructions": "先听『交换昨日记录』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l10-ext15",
+      "title": "讲昨天的一天 · 15分钟迁移",
+      "instructions": "读『昨天的短日记』与『习惯与一次例外』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：用过去式说昨天去了公园。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l10-ext25",
+      "title": "讲昨天的一天 · 25分钟迁移",
+      "instructions": "用5分钟听『交换昨日记录』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：朋友以为你看了电影，但你读了书，写更正。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l10-ex13",
+        "l10-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『交换昨日记录』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『昨天的短日记』与变体材料的条件。",
+    "关闭说明后，能在情境中使用ました及ませんでした，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l10-d01",
+      "title": "交换昨日记录",
+      "context": "朋友核对过去实际做的事。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l10-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "ミナ",
+          "ja": "昨日、何をしましたか。",
+          "kana": "きのう、なにをしましたか。",
+          "zh": "昨天做了什么？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "図書館で本を読みました。",
+          "kana": "としょかんでほんをよみました。",
+          "zh": "在图书馆读书。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "映画も見ましたか。",
+          "kana": "えいがもみましたか。",
+          "zh": "也看电影了吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、見ませんでした。",
+          "kana": "いいえ、みませんでした。",
+          "zh": "没有看。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "夜は何をしましたか。",
+          "kana": "よるはなにをしましたか。",
+          "zh": "晚上做什么了？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "家で料理しました。",
+          "kana": "いえでりょうりしました。",
+          "zh": "在家做饭。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "宿題をしましたか。",
+          "kana": "しゅくだいをしましたか。",
+          "zh": "做作业了吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい。日記も書きました。",
+          "kana": "はい。にっきもかきました。",
+          "zh": "做了，也写日记了。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l10-v01",
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "昨天",
+      "pos": "名词",
+      "example": "昨日、何をしましたか。",
+      "exampleMeaning": "昨天做了什么？",
+      "mastery": "active",
+      "audioId": "synth-word-e6c99d409316faf2"
+    },
+    {
+      "id": "l10-v02",
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "今天",
+      "pos": "名词",
+      "example": "今日です。",
+      "exampleMeaning": "是今天。",
+      "mastery": "active",
+      "audioId": "synth-word-1b89b8aa34f34479"
+    },
+    {
+      "id": "l10-v03",
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "早晨",
+      "pos": "名词",
+      "example": "朝です。",
+      "exampleMeaning": "是早晨。",
+      "mastery": "active",
+      "audioId": "synth-word-59168ffc5adf6fcc"
+    },
+    {
+      "id": "l10-v04",
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "中午",
+      "pos": "名词",
+      "example": "昼です。",
+      "exampleMeaning": "是中午。",
+      "mastery": "active",
+      "audioId": "synth-word-3eeccb506f727aad"
+    },
+    {
+      "id": "l10-v05",
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "晚上",
+      "pos": "名词",
+      "example": "夜は何をしましたか。",
+      "exampleMeaning": "晚上做什么了？",
+      "mastery": "active",
+      "audioId": "synth-word-995bdbe599f109a8"
+    },
+    {
+      "id": "l10-v06",
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "每天",
+      "pos": "名词",
+      "example": "毎日です。",
+      "exampleMeaning": "是每天。",
+      "mastery": "active",
+      "audioId": "synth-word-4ef8d6389def7dca"
+    },
+    {
+      "id": "l10-v07",
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "经常",
+      "pos": "副词",
+      "example": "よく本を読みます。",
+      "exampleMeaning": "经常读书。",
+      "mastery": "active",
+      "audioId": "synth-word-b66f8e1569aa8d72"
+    },
+    {
+      "id": "l10-v08",
+      "word": "ときどき",
+      "reading": "ときどき",
+      "meaning": "有时",
+      "pos": "副词",
+      "example": "ときどき映画を見ます。",
+      "exampleMeaning": "有时看电影。",
+      "mastery": "active",
+      "audioId": "synth-word-43ac0a1928d28ac4"
+    },
+    {
+      "id": "l10-v09",
+      "word": "起きます",
+      "reading": "おきます",
+      "meaning": "起床",
+      "pos": "动词",
+      "example": "起きます。",
+      "exampleMeaning": "起床。",
+      "mastery": "active",
+      "audioId": "synth-word-922e64c7453cd378"
+    },
+    {
+      "id": "l10-v10",
+      "word": "寝ます",
+      "reading": "ねます",
+      "meaning": "睡觉",
+      "pos": "动词",
+      "example": "寝ます。",
+      "exampleMeaning": "睡觉。",
+      "mastery": "active",
+      "audioId": "synth-word-bec45ca608a5a357"
+    },
+    {
+      "id": "l10-v11",
+      "word": "散歩します",
+      "reading": "さんぽします",
+      "meaning": "散步",
+      "pos": "动词",
+      "example": "散歩します。",
+      "exampleMeaning": "散步。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b2a338d3ea5173db"
+    },
+    {
+      "id": "l10-v12",
+      "word": "料理します",
+      "reading": "りょうりします",
+      "meaning": "做饭",
+      "pos": "动词",
+      "example": "料理します。",
+      "exampleMeaning": "做饭。",
+      "mastery": "recognition",
+      "audioId": "synth-word-88e2474259ee38e4"
+    },
+    {
+      "id": "l10-v13",
+      "word": "電話します",
+      "reading": "でんわします",
+      "meaning": "打电话",
+      "pos": "动词",
+      "example": "電話します。",
+      "exampleMeaning": "打电话。",
+      "mastery": "recognition",
+      "audioId": "synth-word-82b8e63a69e9af70"
+    },
+    {
+      "id": "l10-v14",
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "作业",
+      "pos": "名词",
+      "example": "宿題をしましたか。",
+      "exampleMeaning": "做作业了吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-a26b92434bce9aef"
+    },
+    {
+      "id": "l10-v15",
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "日记",
+      "pos": "名词",
+      "example": "はい。日記も書きました。",
+      "exampleMeaning": "做了，也写日记了。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b9a21b53538ae400"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l10-e1",
+      "ja": "昨日、何をしましたか。",
+      "reading": "きのう、なにをしましたか。",
+      "meaning": "昨天做了什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b08ca79fd6531631"
+    },
+    {
+      "id": "l10-e2",
+      "ja": "図書館で本を読みました。",
+      "reading": "としょかんでほんをよみました。",
+      "meaning": "在图书馆读书。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-5c3e0ac92e768cf2"
+    },
+    {
+      "id": "l10-e3",
+      "ja": "夜は何をしましたか。",
+      "reading": "よるはなにをしましたか。",
+      "meaning": "晚上做什么了？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-f8b22ed28b5e0060"
+    },
+    {
+      "id": "l10-e4",
+      "ja": "家で料理しました。",
+      "reading": "いえでりょうりしました。",
+      "meaning": "在家做饭。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-cd443eefbf62443b"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l10-g1",
+      "title": "过去动作",
+      "meaning": "讲已经发生的活动。",
+      "pattern": "ました",
+      "explanation": "ます换成ました用于礼貌过去；时间词昨日帮助识别参照时间。",
+      "examples": [
+        {
+          "ja": "昨日、図書館に行きました。",
+          "zh": "昨天去了图书馆。"
+        }
+      ],
+      "pitfall": "不要把昨日的完成事件说成当前习惯。"
+    },
+    {
+      "id": "l10-g2",
+      "title": "过去否定",
+      "meaning": "说明过去没有发生的活动。",
+      "pattern": "ませんでした",
+      "explanation": "ませんでした否定过去事件，区别现在或习惯的ません。",
+      "examples": [
+        {
+          "ja": "映画は見ませんでした。",
+          "zh": "没有看电影。"
+        }
+      ],
+      "pitfall": "没看电影不能推出没出门。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "昨日",
+          "reading": "きのう",
+          "zh": "昨天"
+        },
+        {
+          "ja": "今日",
+          "reading": "きょう",
+          "zh": "今天"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l10-r1",
+      "title": "昨天的短日记",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "昨日、朝ご飯を食べました。図書館に行きました。図書館で本を読みました。映画は見ませんでした。昼ご飯は食堂で食べました。夜は家で料理しました。宿題をしました。日記も書きました。電話はしませんでした。",
+      "zh": "昨天吃早餐，去图书馆读书，没有看电影。午饭在食堂，晚上在家做饭，做作业并写日记，没有打电话。",
+      "audioId": "l10-reading-synth"
+    },
+    {
+      "id": "l10-r2",
+      "title": "习惯与一次例外",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ミナさんは毎日、新聞を読みます。ときどき映画を見ます。でも、昨日は新聞を読みませんでした。昨日は公園で散歩しました。夜は友達と電話しました。日記は書きませんでした。今日は学校で勉強します。",
+      "zh": "米娜平时每天读报，有时看电影。但昨天没有读报，去公园散步，晚上和朋友通电话，没有写日记。今天在学校学习。でも作转折支持句块理解。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l10-ex01",
+      "type": "choice",
+      "prompt": "林昨天没做哪项？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l10-dialogue-synth",
+      "choices": [
+        "读书",
+        "做饭",
+        "看电影"
+      ],
+      "correctIndex": 2,
+      "explanation": "映画は見ませんでした。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex02",
+      "type": "choice",
+      "prompt": "日记中晚上在哪里做饭？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l10-reading-synth",
+      "choices": [
+        "家",
+        "食堂",
+        "公园"
+      ],
+      "correctIndex": 0,
+      "explanation": "夜は家で料理。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l10-ri9"
+      ]
+    },
+    {
+      "id": "l10-ex03",
+      "type": "choice",
+      "prompt": "林昨天没做哪项？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "读书",
+        "做饭",
+        "看电影"
+      ],
+      "correctIndex": 2,
+      "explanation": "映画は見ませんでした。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex04",
+      "type": "choice",
+      "prompt": "日记中晚上在哪里做饭？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "家",
+        "食堂",
+        "公园"
+      ],
+      "correctIndex": 0,
+      "explanation": "夜は家で料理。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri9"
+      ]
+    },
+    {
+      "id": "l10-ex05",
+      "type": "choice",
+      "prompt": "米娜昨天是否读报？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有",
+        "每天所以昨天也读",
+        "未说明"
+      ],
+      "correctIndex": 0,
+      "explanation": "昨天是明确例外。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex06",
+      "type": "choice",
+      "prompt": "米娜今天计划做什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "在学校学习",
+        "写昨天日记",
+        "去电影馆"
+      ],
+      "correctIndex": 0,
+      "explanation": "今日は学校で勉強します。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri5",
+        "l10-ri6"
+      ]
+    },
+    {
+      "id": "l10-ex07",
+      "type": "input",
+      "prompt": "把読みます改成礼貌过去。",
+      "acceptedAnswers": [
+        "読みました",
+        "よみました"
+      ],
+      "explanation": "ます换ました。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l10-ex08",
+      "type": "input",
+      "prompt": "把見ます改成礼貌过去否定。",
+      "acceptedAnswers": [
+        "見ませんでした",
+        "みませんでした"
+      ],
+      "explanation": "没有做过该次动作。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l10-ex09",
+      "type": "order",
+      "prompt": "用词块组成：昨天读了书。",
+      "tokens": [
+        "本を",
+        "読みました。",
+        "昨日、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为昨日、本を読みました。；ます换ました。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex10",
+      "type": "order",
+      "prompt": "用词块组成：昨天没有看电影。",
+      "tokens": [
+        "映画を",
+        "見ませんでした。",
+        "昨日は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为昨日は映画を見ませんでした。；没有做过该次动作。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex11",
+      "type": "self",
+      "prompt": "用过去式说昨天去了公园。",
+      "sampleAnswer": "昨日、公園に行きました。",
+      "explanation": "时间和过去形式配合。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex12",
+      "type": "self",
+      "prompt": "说明昨天没有打电话。",
+      "sampleAnswer": "昨日、電話しませんでした。",
+      "explanation": "是否定过去。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex13",
+      "type": "self",
+      "prompt": "问对方昨天做什么。",
+      "sampleAnswer": "昨日、何をしましたか。",
+      "explanation": "不误问今天。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri1",
+        "l10-ri5",
+        "l10-ri6"
+      ]
+    },
+    {
+      "id": "l10-ex14",
+      "type": "self",
+      "prompt": "朋友以为你看了电影，但你读了书，写更正。",
+      "sampleAnswer": "映画は見ませんでした。本を読みました。",
+      "explanation": "区分没做和实际做。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l10-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：用过去式说昨天去了公园。",
+      "choices": [
+        "昨日、公園に行きました。",
+        "昨日、電話しませんでした。",
+        "昨日、何をしましたか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "时间和过去形式配合。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri1",
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明昨天没有打电话。",
+      "choices": [
+        "昨日、何をしましたか。",
+        "映画は見ませんでした。本を読みました。",
+        "昨日、電話しませんでした。"
+      ],
+      "correctIndex": 2,
+      "explanation": "是否定过去。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri1",
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问对方昨天做什么。",
+      "choices": [
+        "昨日、公園に行きました。",
+        "昨日、何をしましたか。",
+        "映画は見ませんでした。本を読みました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不误问今天。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri1",
+        "l10-ri5",
+        "l10-ri6"
+      ]
+    },
+    {
+      "id": "l10-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友以为你看了电影，但你读了书，写更正。",
+      "choices": [
+        "映画は見ませんでした。本を読みました。",
+        "昨日、公園に行きました。",
+        "昨日、電話しませんでした。"
+      ],
+      "correctIndex": 0,
+      "explanation": "区分没做和实际做。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex19",
+      "type": "self",
+      "prompt": "读例句「昨日、何をしましたか。」。先不看词表，用中文说明「昨日」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "昨天",
+      "explanation": "本课这里表示“昨天”。例句意思是：昨天做了什么？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri1",
+        "l10-ri5"
+      ]
+    },
+    {
+      "id": "l10-ex20",
+      "type": "self",
+      "prompt": "读例句「昼です。」。先不看词表，用中文说明「昼」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "中午",
+      "explanation": "本课这里表示“中午”。例句意思是：是中午。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l10-ri8"
+      ]
+    },
+    {
+      "id": "l10-ex21",
+      "type": "self",
+      "prompt": "读例句「よく本を読みます。」。先不看词表，用中文说明「よく」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "经常",
+      "explanation": "本课这里表示“经常”。例句意思是：经常读书。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l10-ex22",
+      "type": "self",
+      "prompt": "读例句「寝ます。」。先不看词表，用中文说明「寝ます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "睡觉",
+      "explanation": "本课这里表示“睡觉”。例句意思是：睡觉。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l10-ri1",
+      "front": "昨天做了什么？",
+      "back": "昨日、何をしましたか。",
+      "reading": "きのう、なにをしましたか。",
+      "audioId": "synth-word-b08ca79fd6531631",
+      "kind": "expression"
+    },
+    {
+      "id": "l10-ri2",
+      "front": "在图书馆读书。",
+      "back": "図書館で本を読みました。",
+      "reading": "としょかんでほんをよみました。",
+      "audioId": "synth-word-5c3e0ac92e768cf2",
+      "kind": "expression"
+    },
+    {
+      "id": "l10-ri3",
+      "front": "晚上做什么了？",
+      "back": "夜は何をしましたか。",
+      "reading": "よるはなにをしましたか。",
+      "audioId": "synth-word-f8b22ed28b5e0060",
+      "kind": "expression"
+    },
+    {
+      "id": "l10-ri4",
+      "front": "在家做饭。",
+      "back": "家で料理しました。",
+      "reading": "いえでりょうりしました。",
+      "audioId": "synth-word-cd443eefbf62443b",
+      "kind": "expression"
+    },
+    {
+      "id": "l10-ri5",
+      "front": "昨日在本课是什么意思？",
+      "back": "昨天",
+      "reading": "きのう",
+      "audioId": "synth-word-e6c99d409316faf2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l10-ri6",
+      "front": "今日在本课是什么意思？",
+      "back": "今天",
+      "reading": "きょう",
+      "audioId": "synth-word-1b89b8aa34f34479",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l10-ri7",
+      "front": "朝在本课是什么意思？",
+      "back": "早晨",
+      "reading": "あさ",
+      "audioId": "synth-word-59168ffc5adf6fcc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l10-ri8",
+      "front": "昼在本课是什么意思？",
+      "back": "中午",
+      "reading": "ひる",
+      "audioId": "synth-word-3eeccb506f727aad",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l10-ri9",
+      "front": "夜在本课是什么意思？",
+      "back": "晚上",
+      "reading": "よる",
+      "audioId": "synth-word-995bdbe599f109a8",
+      "kind": "vocabulary"
+    }
+  ]
+}

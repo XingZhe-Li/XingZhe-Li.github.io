@@ -1,0 +1,962 @@
+{
+  "id": "l18",
+  "number": 18,
+  "moduleId": "m4",
+  "title": "理解和提出简单请求",
+  "subtitle": "按服务台指示填写、阅读和等待，并礼貌地提出帮助请求。",
+  "revision": 2,
+  "goals": [
+    "识别已学动词的请求连接形式。",
+    "理解并提出具体动作请求。",
+    "在『服务台填表』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第17课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「理解和提出简单请求」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l18-ex01",
+        "l18-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「服务台填表」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「窗口行动单」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「理解和提出简单请求」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l18-ex19",
+        "l18-ex20",
+        "l18-ex21",
+        "l18-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到開けます、閉めます、見せます、教えます，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用この用紙を読んでください。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「理解和提出简单请求」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l18-ex07",
+        "l18-ex08",
+        "l18-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「本课て形」「礼貌请求」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「理解和提出简单请求」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l18-ex02",
+        "l18-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「理解和提出简单请求」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l18-ex04",
+        "l18-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「窗口行动单」与「教室准备请求」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「理解和提出简单请求」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l18-ex11",
+        "l18-ex12",
+        "l18-ex13",
+        "l18-ex14",
+        "l18-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「理解和提出简单请求」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l18-ex06",
+        "l18-ex10",
+        "l18-ex17",
+        "l18-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l18-ext10",
+      "title": "理解和提出简单请求 · 10分钟迁移",
+      "instructions": "先听『服务台填表』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l18-ext15",
+      "title": "理解和提出简单请求 · 15分钟迁移",
+      "instructions": "读『窗口行动单』与『教室准备请求』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：请对方打开窗。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l18-ext25",
+      "title": "理解和提出简单请求 · 25分钟迁移",
+      "instructions": "用5分钟听『服务台填表』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：对开门还是关门没听清，写确认。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l18-ex13",
+        "l18-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『服务台填表』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『窗口行动单』与变体材料的条件。",
+    "关闭说明后，能在情境中使用読む→読んで；書く→書いて；開ける→開けて及て形＋ください，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l18-d01",
+      "title": "服务台填表",
+      "context": "服务台每次只给一项行动，来客会请求重复。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l18-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "係",
+          "ja": "この用紙を読んでください。",
+          "kana": "このようしをよんでください。",
+          "zh": "请读这张表。"
+        },
+        {
+          "speaker": "客",
+          "ja": "はい。名前はどこですか。",
+          "kana": "はい。なまえはどこですか。",
+          "zh": "好。名字写哪里？"
+        },
+        {
+          "speaker": "係",
+          "ja": "ここに書いてください。",
+          "kana": "ここにかいてください。",
+          "zh": "请写在这里。"
+        },
+        {
+          "speaker": "客",
+          "ja": "住所も書きますか。",
+          "kana": "じゅうしょもかきますか。",
+          "zh": "也写地址吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、住所も書いてください。",
+          "kana": "はい、じゅうしょもかいてください。",
+          "zh": "是，地址也请写。"
+        },
+        {
+          "speaker": "客",
+          "ja": "もう一度お願いします。",
+          "kana": "もういちどおねがいします。",
+          "zh": "请再说一遍。"
+        },
+        {
+          "speaker": "係",
+          "ja": "名前と住所を書いてください。",
+          "kana": "なまえとじゅうしょをかいてください。",
+          "zh": "请写姓名和地址。"
+        },
+        {
+          "speaker": "客",
+          "ja": "わかりました。",
+          "kana": "わかりました。",
+          "zh": "明白了。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l18-v01",
+      "word": "開けます",
+      "reading": "あけます",
+      "meaning": "打开",
+      "pos": "动词",
+      "example": "開けます。",
+      "exampleMeaning": "打开。",
+      "mastery": "active",
+      "audioId": "synth-word-3f0f6385f87b03c2"
+    },
+    {
+      "id": "l18-v02",
+      "word": "閉めます",
+      "reading": "しめます",
+      "meaning": "关上",
+      "pos": "动词",
+      "example": "閉めます。",
+      "exampleMeaning": "关上。",
+      "mastery": "active",
+      "audioId": "synth-word-bbeeab76e4d60ad3"
+    },
+    {
+      "id": "l18-v03",
+      "word": "見せます",
+      "reading": "みせます",
+      "meaning": "出示",
+      "pos": "动词",
+      "example": "見せます。",
+      "exampleMeaning": "出示。",
+      "mastery": "active",
+      "audioId": "synth-word-217293f7f4792030"
+    },
+    {
+      "id": "l18-v04",
+      "word": "教えます",
+      "reading": "おしえます",
+      "meaning": "告诉、教",
+      "pos": "动词",
+      "example": "教えます。",
+      "exampleMeaning": "告诉、教。",
+      "mastery": "active",
+      "audioId": "synth-word-399ba626d92d5e82"
+    },
+    {
+      "id": "l18-v05",
+      "word": "待ちます",
+      "reading": "まちます",
+      "meaning": "等待",
+      "pos": "动词",
+      "example": "待ちます。",
+      "exampleMeaning": "等待。",
+      "mastery": "active",
+      "audioId": "synth-word-27d8157ddce9436a"
+    },
+    {
+      "id": "l18-v06",
+      "word": "読みます",
+      "reading": "よみます",
+      "meaning": "读",
+      "pos": "动词",
+      "example": "読みます。",
+      "exampleMeaning": "读。",
+      "mastery": "active",
+      "audioId": "synth-word-388384271ac686e8"
+    },
+    {
+      "id": "l18-v07",
+      "word": "書きます",
+      "reading": "かきます",
+      "meaning": "写",
+      "pos": "动词",
+      "example": "住所も書きますか。",
+      "exampleMeaning": "也写地址吗？",
+      "mastery": "active",
+      "audioId": "synth-word-79aa3e864365b6fe"
+    },
+    {
+      "id": "l18-v08",
+      "word": "取ります",
+      "reading": "とります",
+      "meaning": "拿取",
+      "pos": "动词",
+      "example": "取ります。",
+      "exampleMeaning": "拿取。",
+      "mastery": "active",
+      "audioId": "synth-word-7bb33fce4975a16c"
+    },
+    {
+      "id": "l18-v09",
+      "word": "持ちます",
+      "reading": "もちます",
+      "meaning": "拿着",
+      "pos": "动词",
+      "example": "持ちます。",
+      "exampleMeaning": "拿着。",
+      "mastery": "active",
+      "audioId": "synth-word-e5efae7912f2f3e4"
+    },
+    {
+      "id": "l18-v10",
+      "word": "手伝います",
+      "reading": "てつだいます",
+      "meaning": "帮忙",
+      "pos": "动词",
+      "example": "手伝います。",
+      "exampleMeaning": "帮忙。",
+      "mastery": "active",
+      "audioId": "synth-word-983e9cd3598317e0"
+    },
+    {
+      "id": "l18-v11",
+      "word": "窓",
+      "reading": "まど",
+      "meaning": "窗户",
+      "pos": "名词",
+      "example": "窓です。",
+      "exampleMeaning": "是窗户。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5a1f3e95aae2187b"
+    },
+    {
+      "id": "l18-v12",
+      "word": "ドア",
+      "reading": "ドア",
+      "meaning": "门",
+      "pos": "名词",
+      "example": "ドアです。",
+      "exampleMeaning": "是门。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2172b8820652bb89"
+    },
+    {
+      "id": "l18-v13",
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "表格纸",
+      "pos": "名词",
+      "example": "この用紙を読んでください。",
+      "exampleMeaning": "请读这张表。",
+      "mastery": "recognition",
+      "audioId": "synth-word-77c51ad827af2cb3"
+    },
+    {
+      "id": "l18-v14",
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "地址",
+      "pos": "名词",
+      "example": "住所も書きますか。",
+      "exampleMeaning": "也写地址吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-41727d5c1674991b"
+    },
+    {
+      "id": "l18-v15",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "稍微",
+      "pos": "副词",
+      "example": "少し待ってください。",
+      "exampleMeaning": "请稍等。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e0862a971b040940"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l18-e1",
+      "ja": "この用紙を読んでください。",
+      "reading": "このようしをよんでください。",
+      "meaning": "请读这张表。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-cf4a73f38131bfc4"
+    },
+    {
+      "id": "l18-e2",
+      "ja": "はい。名前はどこですか。",
+      "reading": "はい。なまえはどこですか。",
+      "meaning": "好。名字写哪里？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-0006e2a7f1301962"
+    },
+    {
+      "id": "l18-e3",
+      "ja": "はい、住所も書いてください。",
+      "reading": "はい、じゅうしょもかいてください。",
+      "meaning": "是，地址也请写。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-6ebd464bf0397ad5"
+    },
+    {
+      "id": "l18-e4",
+      "ja": "もう一度お願いします。",
+      "reading": "もういちどおねがいします。",
+      "meaning": "请再说一遍。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-f44190ca538c5fc0"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l18-g1",
+      "title": "本课て形",
+      "meaning": "识别已学动词的请求连接形式。",
+      "pattern": "読む→読んで；書く→書いて；開ける→開けて",
+      "explanation": "按组记本课对应：待つ→待って、する→して。先练实际出现的动作，不一次背全表。",
+      "examples": [
+        {
+          "ja": "ここに書いてください。",
+          "zh": "请写在这里。"
+        }
+      ],
+      "pitfall": "不能把書きます直接接て。"
+    },
+    {
+      "id": "l18-g2",
+      "title": "礼貌请求",
+      "meaning": "理解并提出具体动作请求。",
+      "pattern": "て形＋ください",
+      "explanation": "请求动作要有对象或地点线索；相手不明白时可逐项重复。",
+      "examples": [
+        {
+          "ja": "少し待ってください。",
+          "zh": "请稍等。"
+        }
+      ],
+      "pitfall": "ください不表示动作已经完成。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "開けます",
+          "reading": "あけます",
+          "zh": "打开"
+        },
+        {
+          "ja": "閉めます",
+          "reading": "しめます",
+          "zh": "关上"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l18-r1",
+      "title": "窗口行动单",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この用紙を読んでください。名前は上に書いてください。住所は下に書いてください。用紙を先生に見せてください。ここで少し待ってください。ドアは閉めてください。窓は開けてください。これは今日の窓口の指示です。",
+      "zh": "读表格，名字写上面，地址写下面。出示给老师，在此稍等。关门、开窗。这是今天窗口指示。指示意为指令，支持词。",
+      "audioId": "l18-reading-synth"
+    },
+    {
+      "id": "l18-r2",
+      "title": "教室准备请求",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "教室のドアを開けてください。窓は閉めてください。この本を机の上に置いてください。用紙を三つ取ってください。名前はまだ書きません。先生は隣の部屋にいます。ここで待ってください。窓口の指示と教室の指示は同じではありません。",
+      "zh": "开教室门、关窗、把书放桌上、取三张表，先不写名字。老师在隔壁，在此等候。置いて是放置的支持词。不要套用窗口的开关指示。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l18-ex01",
+      "type": "choice",
+      "prompt": "窗口要求写什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l18-dialogue-synth",
+      "choices": [
+        "姓名与地址",
+        "只写姓名",
+        "只写国籍"
+      ],
+      "correctIndex": 0,
+      "explanation": "最后合并为名前と住所。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex02",
+      "type": "choice",
+      "prompt": "窗口要求窗户怎样？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l18-reading-synth",
+      "choices": [
+        "打开",
+        "关上",
+        "没有说"
+      ],
+      "correctIndex": 0,
+      "explanation": "窓は開けて。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex03",
+      "type": "choice",
+      "prompt": "窗口要求写什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "姓名与地址",
+        "只写姓名",
+        "只写国籍"
+      ],
+      "correctIndex": 0,
+      "explanation": "最后合并为名前と住所。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex04",
+      "type": "choice",
+      "prompt": "窗口要求窗户怎样？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "打开",
+        "关上",
+        "没有说"
+      ],
+      "correctIndex": 0,
+      "explanation": "窓は開けて。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex05",
+      "type": "choice",
+      "prompt": "教室要求窗户怎样？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "打开",
+        "关上",
+        "拆下"
+      ],
+      "correctIndex": 1,
+      "explanation": "变体是閉めて。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex06",
+      "type": "choice",
+      "prompt": "教室表格立即写名字吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "不，暂不写",
+        "是",
+        "没给信息"
+      ],
+      "correctIndex": 0,
+      "explanation": "名前はまだ書きません。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex07",
+      "type": "input",
+      "prompt": "写出読む的て形。",
+      "acceptedAnswers": [
+        "読んで",
+        "よんで"
+      ],
+      "explanation": "む变んで。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex08",
+      "type": "input",
+      "prompt": "补请求：少し待っ＿＿ください。",
+      "acceptedAnswers": [
+        "て"
+      ],
+      "explanation": "待って后接ください。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex09",
+      "type": "order",
+      "prompt": "用词块组成：请在这里写名字。",
+      "tokens": [
+        "名前を",
+        "書いてください。",
+        "ここに"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为ここに名前を書いてください。；む变んで。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex10",
+      "type": "order",
+      "prompt": "用词块组成：请读这张表。",
+      "tokens": [
+        "読んで",
+        "ください。",
+        "この用紙を"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为この用紙を読んでください。；待って后接ください。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l18-ri1"
+      ]
+    },
+    {
+      "id": "l18-ex11",
+      "type": "self",
+      "prompt": "请对方打开窗。",
+      "sampleAnswer": "窓を開けてください。",
+      "explanation": "具体对象和动作。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5"
+      ]
+    },
+    {
+      "id": "l18-ex12",
+      "type": "self",
+      "prompt": "请告诉你地址。",
+      "sampleAnswer": "住所を教えてください。",
+      "explanation": "教える的て形教えて。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex13",
+      "type": "self",
+      "prompt": "请对方稍等。",
+      "sampleAnswer": "少し待ってください。",
+      "explanation": "待つ→待って。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex14",
+      "type": "self",
+      "prompt": "对开门还是关门没听清，写确认。",
+      "sampleAnswer": "ドアを開けますか。閉めますか。",
+      "explanation": "把动作对比明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：请对方打开窗。",
+      "choices": [
+        "窓を開けてください。",
+        "住所を教えてください。",
+        "少し待ってください。"
+      ],
+      "correctIndex": 0,
+      "explanation": "具体对象和动作。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5"
+      ]
+    },
+    {
+      "id": "l18-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：请告诉你地址。",
+      "choices": [
+        "少し待ってください。",
+        "ドアを開けますか。閉めますか。",
+        "住所を教えてください。"
+      ],
+      "correctIndex": 2,
+      "explanation": "教える的て形教えて。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：请对方稍等。",
+      "choices": [
+        "窓を開けてください。",
+        "少し待ってください。",
+        "ドアを開けますか。閉めますか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "待つ→待って。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：对开门还是关门没听清，写确认。",
+      "choices": [
+        "ドアを開けますか。閉めますか。",
+        "窓を開けてください。",
+        "住所を教えてください。"
+      ],
+      "correctIndex": 0,
+      "explanation": "把动作对比明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l18-ri5",
+        "l18-ri6"
+      ]
+    },
+    {
+      "id": "l18-ex19",
+      "type": "self",
+      "prompt": "读例句「開けます。」。先不看词表，用中文说明「開けます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "打开",
+      "explanation": "本课这里表示“打开”。例句意思是：打开。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l18-ri5"
+      ]
+    },
+    {
+      "id": "l18-ex20",
+      "type": "self",
+      "prompt": "读例句「教えます。」。先不看词表，用中文说明「教えます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "告诉、教",
+      "explanation": "本课这里表示“告诉、教”。例句意思是：告诉、教。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l18-ri8"
+      ]
+    },
+    {
+      "id": "l18-ex21",
+      "type": "self",
+      "prompt": "读例句「住所も書きますか。」。先不看词表，用中文说明「書きます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "写",
+      "explanation": "本课这里表示“写”。例句意思是：也写地址吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l18-ex22",
+      "type": "self",
+      "prompt": "读例句「手伝います。」。先不看词表，用中文说明「手伝います」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "帮忙",
+      "explanation": "本课这里表示“帮忙”。例句意思是：帮忙。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l18-ri1",
+      "front": "请读这张表。",
+      "back": "この用紙を読んでください。",
+      "reading": "このようしをよんでください。",
+      "audioId": "synth-word-cf4a73f38131bfc4",
+      "kind": "expression"
+    },
+    {
+      "id": "l18-ri2",
+      "front": "好。名字写哪里？",
+      "back": "はい。名前はどこですか。",
+      "reading": "はい。なまえはどこですか。",
+      "audioId": "synth-word-0006e2a7f1301962",
+      "kind": "expression"
+    },
+    {
+      "id": "l18-ri3",
+      "front": "是，地址也请写。",
+      "back": "はい、住所も書いてください。",
+      "reading": "はい、じゅうしょもかいてください。",
+      "audioId": "synth-word-6ebd464bf0397ad5",
+      "kind": "expression"
+    },
+    {
+      "id": "l18-ri4",
+      "front": "请再说一遍。",
+      "back": "もう一度お願いします。",
+      "reading": "もういちどおねがいします。",
+      "audioId": "synth-word-f44190ca538c5fc0",
+      "kind": "expression"
+    },
+    {
+      "id": "l18-ri5",
+      "front": "開けます在本课是什么意思？",
+      "back": "打开",
+      "reading": "あけます",
+      "audioId": "synth-word-3f0f6385f87b03c2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l18-ri6",
+      "front": "閉めます在本课是什么意思？",
+      "back": "关上",
+      "reading": "しめます",
+      "audioId": "synth-word-bbeeab76e4d60ad3",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l18-ri7",
+      "front": "見せます在本课是什么意思？",
+      "back": "出示",
+      "reading": "みせます",
+      "audioId": "synth-word-217293f7f4792030",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l18-ri8",
+      "front": "教えます在本课是什么意思？",
+      "back": "告诉、教",
+      "reading": "おしえます",
+      "audioId": "synth-word-399ba626d92d5e82",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l18-ri9",
+      "front": "待ちます在本课是什么意思？",
+      "back": "等待",
+      "reading": "まちます",
+      "audioId": "synth-word-27d8157ddce9436a",
+      "kind": "vocabulary"
+    }
+  ]
+}

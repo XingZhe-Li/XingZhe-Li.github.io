@@ -1,0 +1,1099 @@
+{
+  "id": "l55",
+  "number": 55,
+  "moduleId": "m11",
+  "title": "协商变更与重新安排",
+  "subtitle": "先弄清最重要的目的，再比较能达成共识的方案。",
+  "revision": 2,
+  "goals": [
+    "根据双方限制比较变更方案。",
+    "用たほうがいい提出有理由的建议。",
+    "在结束协商前确认时间、费用与未定事项。"
+  ],
+  "prerequisites": [
+    "理解第54课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「协商变更与重新安排」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l55-ex01",
+        "l55-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「延后开始还是换一天」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「何を残すための変更か」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「协商变更与重新安排」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l55-ex19",
+        "l55-ex20",
+        "l55-ex21",
+        "l55-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到予約、変更、開始、終了，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用移動に余裕がありません。体験を短くする方法はありますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「协商变更与重新安排」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l55-ex07",
+        "l55-ex08",
+        "l55-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「根据情况提出建议」「协商中的条件与合意」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「协商变更与重新安排」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l55-ex02",
+        "l55-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「协商变更与重新安排」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l55-ex04",
+        "l55-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「何を残すための変更か」与「準備会を延期する前に」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「协商变更与重新安排」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l55-ex11",
+        "l55-ex12",
+        "l55-ex13",
+        "l55-ex14",
+        "l55-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「协商变更与重新安排」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l55-ex06",
+        "l55-ex10",
+        "l55-ex17",
+        "l55-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l55-ext10",
+      "title": "协商变更与重新安排 · 10分钟迁移",
+      "instructions": "用10分钟重读「何を残すための変更か」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l55-ext15",
+      "title": "协商变更与重新安排 · 15分钟迁移",
+      "instructions": "用15分钟把「準備会を延期する前に」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l55-ext25",
+      "title": "协商变更与重新安排 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l55-ex13",
+        "l55-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l55-d01",
+      "title": "延后开始还是换一天",
+      "context": "林担心交通来不及，想调整手工体验预约。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l55-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "予約の開始を三十分遅くできますか。",
+          "kana": "よやくのかいしをさんじゅっぷんおそくできますか。",
+          "zh": "能把预约开始延后三十分钟吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "次の参加者がいるため、終了は変えられません。",
+          "kana": "つぎのさんかしゃがいるため、しゅうりょうはかえられません。",
+          "zh": "后面有参加者，结束时间不能改。"
+        },
+        {
+          "speaker": "林",
+          "ja": "移動に余裕がありません。体験を短くする方法はありますか。",
+          "kana": "いどうによゆうがありません。たいけんをみじかくするほうほうはありますか。",
+          "zh": "交通时间紧，有缩短体验的办法吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "説明を短くするか、別の日程へ変更するか、二つの選択肢があります。",
+          "kana": "せつめいをみじかくするか、べつのにっていへへんこうするか、ふたつのせんたくしがあります。",
+          "zh": "有缩短讲解或换日期两个选项。"
+        },
+        {
+          "speaker": "林",
+          "ja": "作り方を詳しく学ぶのが目的なので、説明は減らしたくありません。",
+          "kana": "つくりかたをくわしくまなぶのがもくてきなので、せつめいはへらしたくありません。",
+          "zh": "目的是详细学做法，不想减少讲解。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "それなら、別の日にしたほうがいいと思います。",
+          "kana": "それなら、べつのひにしたほうがいいとおもいます。",
+          "zh": "那我觉得换一天更好。"
+        },
+        {
+          "speaker": "林",
+          "ja": "明日の午後に空きはありますか。料金も確認したいです。",
+          "kana": "あしたのごごにあきはありますか。りょうきんもかくにんしたいです。",
+          "zh": "明天下午有空位吗？也想确认费用。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "三時なら可能です。変更による差額はありません。",
+          "kana": "さんじならかのうです。へんこうによるさがくはありません。",
+          "zh": "三点可行，变更没有差价。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、明日の三時に変更をお願いします。",
+          "kana": "では、あしたのさんじにへんこうをおねがいします。",
+          "zh": "那请改为明天三点。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "承りました。内容と終了時刻は同じです。",
+          "kana": "うけたまわりました。ないようとしゅうりょうじこくはおなじです。",
+          "zh": "已受理，内容和结束时刻相同。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l55-v01",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "予約の開始を三十分遅くできますか。",
+      "exampleMeaning": "能把预约开始延后三十分钟吗？",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l55-v02",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "説明を短くするか、別の日程へ変更するか、二つの選択肢があります。",
+      "exampleMeaning": "有缩短讲解或换日期两个选项。",
+      "mastery": "active",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l55-v03",
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "开始",
+      "pos": "名词",
+      "example": "予約の開始を三十分遅くできますか。",
+      "exampleMeaning": "能把预约开始延后三十分钟吗？",
+      "mastery": "active",
+      "audioId": "synth-word-b676c08edfe6f9a4"
+    },
+    {
+      "id": "l55-v04",
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "结束",
+      "pos": "名词",
+      "example": "次の参加者がいるため、終了は変えられません。",
+      "exampleMeaning": "后面有参加者，结束时间不能改。",
+      "mastery": "active",
+      "audioId": "synth-word-f2e8eda3405aca9b"
+    },
+    {
+      "id": "l55-v05",
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "移动",
+      "pos": "名词",
+      "example": "移動に余裕がありません。体験を短くする方法はありますか。",
+      "exampleMeaning": "交通时间紧，有缩短体验的办法吗？",
+      "mastery": "active",
+      "audioId": "synth-word-8fcfe5fca4771f62"
+    },
+    {
+      "id": "l55-v06",
+      "word": "余裕",
+      "reading": "よゆう",
+      "meaning": "余裕",
+      "pos": "名词",
+      "example": "移動に余裕がありません。体験を短くする方法はありますか。",
+      "exampleMeaning": "交通时间紧，有缩短体验的办法吗？",
+      "mastery": "active",
+      "audioId": "synth-word-0a873cfde67c8b74"
+    },
+    {
+      "id": "l55-v07",
+      "word": "体験",
+      "reading": "たいけん",
+      "meaning": "体验",
+      "pos": "名词",
+      "example": "移動に余裕がありません。体験を短くする方法はありますか。",
+      "exampleMeaning": "交通时间紧，有缩短体验的办法吗？",
+      "mastery": "active",
+      "audioId": "synth-word-af2154b1c3895429"
+    },
+    {
+      "id": "l55-v08",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "讲解",
+      "pos": "名词",
+      "example": "説明を短くするか、別の日程へ変更するか、二つの選択肢があります。",
+      "exampleMeaning": "有缩短讲解或换日期两个选项。",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l55-v09",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "内容",
+      "pos": "名词",
+      "example": "承りました。内容と終了時刻は同じです。",
+      "exampleMeaning": "已受理，内容和结束时刻相同。",
+      "mastery": "active",
+      "audioId": "synth-word-fbd7f1150802c72a"
+    },
+    {
+      "id": "l55-v10",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "明日の午後に空きはありますか。料金も確認したいです。",
+      "exampleMeaning": "明天下午有空位吗？也想确认费用。",
+      "mastery": "active",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l55-v11",
+      "word": "差額",
+      "reading": "さがく",
+      "meaning": "差价",
+      "pos": "名词",
+      "example": "三時なら可能です。変更による差額はありません。",
+      "exampleMeaning": "三点可行，变更没有差价。",
+      "mastery": "active",
+      "audioId": "synth-word-135b23c94ddf433c"
+    },
+    {
+      "id": "l55-v12",
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaning": "选项",
+      "pos": "名词",
+      "example": "説明を短くするか、別の日程へ変更するか、二つの選択肢があります。",
+      "exampleMeaning": "有缩短讲解或换日期两个选项。",
+      "mastery": "active",
+      "audioId": "synth-word-2ea53aef0e94def1"
+    },
+    {
+      "id": "l55-v13",
+      "word": "優先",
+      "reading": "ゆうせん",
+      "meaning": "优先",
+      "pos": "名词",
+      "example": "私の目的は作り方を詳しく学ぶことなので、説明を減らして同じ日に終えることを優先しませんでした。",
+      "exampleMeaning": "我的目的是详细学做法，所以不优先减少讲解来当天完成。",
+      "mastery": "active",
+      "audioId": "synth-word-3b90ec0f425b8f92"
+    },
+    {
+      "id": "l55-v14",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "目的",
+      "pos": "名词",
+      "example": "作り方を詳しく学ぶのが目的なので、説明は減らしたくありません。",
+      "exampleMeaning": "目的是详细学做法，不想减少讲解。",
+      "mastery": "active",
+      "audioId": "synth-word-25315c650c32d50c"
+    },
+    {
+      "id": "l55-v15",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "明日の午後に空きはありますか。料金も確認したいです。",
+      "exampleMeaning": "明天下午有空位吗？也想确认费用。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l55-v16",
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "达成一致",
+      "pos": "名词",
+      "example": "料金の差額がないことと、準備する物が変わらないことを確認してから、変更に合意しました。",
+      "exampleMeaning": "确认无差价、需准备物品不变后，双方同意变更。",
+      "mastery": "active",
+      "audioId": "synth-word-fd0fde187ac2b6cd"
+    },
+    {
+      "id": "l55-v17",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者へ相談すると、次の参加者がいるため終了時刻は動かせないと説明されました。",
+      "exampleMeaning": "向负责人商量后得知，因后有参加者，结束不能延后。",
+      "mastery": "active",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l55-v18",
+      "word": "日程",
+      "reading": "にってい",
+      "meaning": "日程",
+      "pos": "名词",
+      "example": "説明を短くするか、別の日程へ変更するか、二つの選択肢があります。",
+      "exampleMeaning": "有缩短讲解或换日期两个选项。",
+      "mastery": "active",
+      "audioId": "synth-word-e06b61f8c7757f5b"
+    },
+    {
+      "id": "l55-v19",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "商量",
+      "pos": "名词",
+      "example": "担当者へ相談すると、次の参加者がいるため終了時刻は動かせないと説明されました。",
+      "exampleMeaning": "向负责人商量后得知，因后有参加者，结束不能延后。",
+      "mastery": "recognition",
+      "audioId": "synth-word-068abc020b722cba"
+    },
+    {
+      "id": "l55-v20",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "欠席者の意見を聞かずに重要な条件まで決めることは避けました。",
+      "exampleMeaning": "避免未听缺席者意见就决定重要条件。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l55-v21",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "pos": "名词",
+      "example": "料金の差額がないことと、準備する物が変わらないことを確認してから、変更に合意しました。",
+      "exampleMeaning": "确认无差价、需准备物品不变后，双方同意变更。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ba4012c7fd216ad8"
+    },
+    {
+      "id": "l55-v22",
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "参加者",
+      "pos": "名词",
+      "example": "次の参加者がいるため、終了は変えられません。",
+      "exampleMeaning": "后面有参加者，结束时间不能改。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b402ab2a931b5595"
+    },
+    {
+      "id": "l55-v23",
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "负担",
+      "pos": "名词",
+      "example": "何を守りたいのかを先に伝えることで、相手も負担の少ない代案を考えやすくなると感じました。",
+      "exampleMeaning": "先说明想保留的目标，也便于对方考虑负担小的代案。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0146817726b38ecc"
+    },
+    {
+      "id": "l55-v24",
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "延期",
+      "pos": "名词",
+      "example": "一人は会を全て翌週へ延期したほうがいいと言い、別の人は出席できる人だけで進めたいと答えました。",
+      "exampleMeaning": "有人建议全部延期到下周，另有人想由能到的人先进行。",
+      "mastery": "recognition",
+      "audioId": "synth-word-dff9b1eaf14241cd"
+    },
+    {
+      "id": "l55-v25",
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "结论",
+      "pos": "名词",
+      "example": "時間だけを聞いて結論を出すと、希望していた学びが残らないこともあります。",
+      "exampleMeaning": "只看时间下结论，可能保不住想学的内容。",
+      "mastery": "recognition",
+      "audioId": "synth-word-141eba1e5449e99e"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l55-e1",
+      "ja": "移動に余裕がありません。体験を短くする方法はありますか。",
+      "reading": "いどうによゆうがありません。たいけんをみじかくするほうほうはありますか。",
+      "meaning": "交通时间紧，有缩短体验的办法吗？",
+      "usage": "说明限制并询问可行调整",
+      "audioId": "synth-word-7be900d5f7676a0f"
+    },
+    {
+      "id": "l55-e2",
+      "ja": "作り方を詳しく学ぶのが目的なので、説明は減らしたくありません。",
+      "reading": "つくりかたをくわしくまなぶのがもくてきなので、せつめいはへらしたくありません。",
+      "meaning": "目的是详细学做法，不想减少讲解。",
+      "usage": "指出不可牺牲的核心目的",
+      "audioId": "synth-word-bf43b7ae555068a1"
+    },
+    {
+      "id": "l55-e3",
+      "ja": "それなら、別の日にしたほうがいいと思います。",
+      "reading": "それなら、べつのひにしたほうがいいとおもいます。",
+      "meaning": "那我觉得换一天更好。",
+      "usage": "根据已知目的提出建议",
+      "audioId": "synth-word-223be34e89fdc428"
+    },
+    {
+      "id": "l55-e4",
+      "ja": "では、明日の三時に変更をお願いします。",
+      "reading": "では、あしたのさんじにへんこうをおねがいします。",
+      "meaning": "那请改为明天三点。",
+      "usage": "选择方案后提出明确变更请求",
+      "audioId": "synth-word-ca1974da95de5a24"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l55-g1",
+      "title": "根据情况提出建议",
+      "meaning": "表达较好的选择而非绝对命令。",
+      "pattern": "〜たほうがいいと思います。／〜ないほうがいい",
+      "explanation": "肯定用た形，否定用ない形。说明依据能让建议更易判断；对不熟悉的人注意语气。",
+      "examples": [
+        {
+          "ja": "別の日にしたほうがいいと思います。",
+          "zh": "我觉得改日更好。"
+        },
+        {
+          "ja": "無理に予定を詰めないほうがいいです。",
+          "zh": "最好不要硬塞行程。"
+        }
+      ],
+      "pitfall": "た形在此不是说过去已经做了。"
+    },
+    {
+      "id": "l55-g2",
+      "title": "协商中的条件与合意",
+      "meaning": "比较方案后明确共同决定。",
+      "pattern": "AかBか。／では、〜に変更をお願いします。",
+      "explanation": "先列可行选项，再按核心目的选择；最终复核日期、内容和差价。商量过程不等于合意成立。",
+      "examples": [
+        {
+          "ja": "短くするか、別の日にするかを相談します。",
+          "zh": "商量缩短或改日。"
+        },
+        {
+          "ja": "では、明日の三時でお願いします。",
+          "zh": "那就明天三点。"
+        }
+      ],
+      "pitfall": "不能只确认一个时间而默认费用和内容均相同。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "予約",
+          "reading": "よやく",
+          "zh": "预约"
+        },
+        {
+          "ja": "変更",
+          "reading": "へんこう",
+          "zh": "变更"
+        },
+        {
+          "ja": "開始",
+          "reading": "かいし",
+          "zh": "开始"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l55-r1",
+      "title": "何を残すための変更か",
+      "context": "体验课预约的协商记录，按目的选择方案。",
+      "ja": "予約していた手作り体験に、移動の遅れで開始時刻までに着けない可能性が出ました。担当者へ相談すると、次の参加者がいるため終了時刻は動かせないと説明されました。そこで、体験の内容を短くするか、別の日程へ変更するかという選択肢が示されました。私の目的は作り方を詳しく学ぶことなので、説明を減らして同じ日に終えることを優先しませんでした。担当者も、その目的なら無理に急がないほうがいいと助言し、翌日三時の空きを確認してくれました。料金の差額がないことと、準備する物が変わらないことを確認してから、変更に合意しました。時間だけを聞いて結論を出すと、希望していた学びが残らないこともあります。何を守りたいのかを先に伝えることで、相手も負担の少ない代案を考えやすくなると感じました。",
+      "zh": "由于交通延误，可能赶不上手工体验开始时间。向负责人商量后得知，因后有参加者，结束不能延后。于是有缩短内容或改日期两个选项。我的目的是详细学做法，所以不优先减少讲解来当天完成。负责人也建议不要急，查到了次日三点空档。确认无差价、需准备物品不变后，双方同意变更。只看时间下结论，可能保不住想学的内容。先说明想保留的目标，也便于对方考虑负担小的代案。",
+      "audioId": "l55-reading-synth"
+    },
+    {
+      "id": "l55-r2",
+      "title": "準備会を延期する前に",
+      "context": "学生小组需兼顾会场使用限制与成员负担。",
+      "ja": "展示の準備会を開く予定でしたが、二人の参加者が授業で遅れることになりました。一人は会を全て翌週へ延期したほうがいいと言い、別の人は出席できる人だけで進めたいと答えました。まず必要な作業を整理すると、会場でしかできない確認と、後で共有できる説明がありました。そこで、会場の確認は予定どおり行い、共同で決める内容は全員がそろう日に相談することにしました。欠席者の意見を聞かずに重要な条件まで決めることは避けました。一方、すべてを延期すると会場を再び借りる料金が必要になるため、そこも比較しました。最終的な合意では、何を今日進め、何を保留するかを記録し、担当も明確にしました。全員が同じ行動をすることだけが公平なのではなく、情報と判断に参加できることが大切だと思います。",
+      "zh": "原准备召开布展准备会，但两位成员因上课迟到。有人建议全部延期到下周，另有人想由能到的人先进行。整理工作后，发现有必须现场确认的部分，也有可事后共享的说明。于是现场确认照常，共同决定事项等全员齐后商量。避免未听缺席者意见就决定重要条件。另一方面，全部延期需再次借场地的费用，也作了比较。最终记录今日推进和暂留事项，并明确分工。我觉得公平不只在于行动相同，还在于能参与信息与判断。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l55-ex01",
+      "type": "choice",
+      "prompt": "林为何更愿意改日？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l55-dialogue-synth",
+      "choices": [
+        "想保留详细讲解",
+        "不喜欢任何手工活动",
+        "明天一定免费"
+      ],
+      "correctIndex": 0,
+      "explanation": "目的在详细学做法。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex02",
+      "type": "choice",
+      "prompt": "主阅读最终哪天几点可用？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l55-reading-synth",
+      "choices": [
+        "次日三点",
+        "当天午夜",
+        "下周一六点"
+      ],
+      "correctIndex": 0,
+      "explanation": "负责人确认次日三点。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex03",
+      "type": "choice",
+      "prompt": "为什么不选缩短讲解？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "核心目的是详细学做法",
+        "完全不在乎学习",
+        "当天会场免费无限用"
+      ],
+      "correctIndex": 0,
+      "explanation": "方案需服务核心目的。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex04",
+      "type": "choice",
+      "prompt": "达成变更前还核实了什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所有其他客人的身份",
+        "取消所有后续预约",
+        "差价和准备物品"
+      ],
+      "correctIndex": 2,
+      "explanation": "时间之外还有内容费用条件。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l55-ri5",
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex05",
+      "type": "choice",
+      "prompt": "哪些事项推迟到全员齐时？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "已经结束的授课",
+        "共同决定的重要内容",
+        "全部现场检查"
+      ],
+      "correctIndex": 1,
+      "explanation": "现场确认照常，共同决策保留。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l55-ri8"
+      ]
+    },
+    {
+      "id": "l55-ex06",
+      "type": "choice",
+      "prompt": "为何比较全部延期的成本？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "可能需再次支付借场地费用",
+        "延期一定免费",
+        "成员意见完全不重要"
+      ],
+      "correctIndex": 0,
+      "explanation": "费用是多项限制之一。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex07",
+      "type": "input",
+      "prompt": "提出建议：別の日にした＿＿いいと思います。",
+      "acceptedAnswers": [
+        "ほうが",
+        "方が"
+      ],
+      "explanation": "たほうがいい用于建议；ほう也可写作方。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex08",
+      "type": "order",
+      "prompt": "表达最好不要硬塞计划。",
+      "tokens": [
+        "ほうがいいです",
+        "。",
+        "詰めない",
+        "予定を",
+        "無理に"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "否定建议接ない形。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex09",
+      "type": "choice",
+      "prompt": "哪一步最能代表达成变更？",
+      "choices": [
+        "只问能不能但未得到回复。",
+        "双方确认日期、内容和费用后同意。",
+        "一方先猜对方肯定会答应。"
+      ],
+      "correctIndex": 1,
+      "explanation": "协商需要明确共同确认。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex10",
+      "type": "input",
+      "prompt": "用前后对称的「动词普通形＋か」列两个选项：短くする＿＿、別の日にするか相談します。",
+      "acceptedAnswers": [
+        "か"
+      ],
+      "explanation": "AかBか表示待选择方案。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex11",
+      "type": "self",
+      "prompt": "你重视讲解完整，但当天赶不及。写说明目的并请求替代日程。",
+      "sampleAnswer": "説明を詳しく聞きたいので、内容を減らしたくありません。別の日に変更できますか。",
+      "explanation": "替代方案应保留目的。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex12",
+      "type": "self",
+      "prompt": "同意改期前，写两个还要确认的问题。",
+      "sampleAnswer": "料金の差額はありますか。準備する物と終了時刻も同じですか。",
+      "explanation": "不默认其他条件自动相同。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri8"
+      ]
+    },
+    {
+      "id": "l55-ex13",
+      "type": "self",
+      "prompt": "小组有人迟到，提出现场检查照常、共同决定保留的方案。",
+      "sampleAnswer": "会場の確認は先に進め、全員で決める内容は後で相談したほうがいいと思います。",
+      "explanation": "行动与决策可分别安排。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l55-ex14",
+      "type": "self",
+      "prompt": "用两句话总结一次你愿意接受的变更，包含已定和保留。",
+      "sampleAnswer": "明日の三時に変更します。内容は同じでお願いしますが、料金はまだ確認中です。",
+      "explanation": "保留未确认信息。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「移動に余裕がありません。体験を短くする方法はありますか。」主要用于什么？",
+      "choices": [
+        "说明限制并询问可行调整",
+        "指出不可牺牲的核心目的",
+        "根据已知目的提出建议"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“交通时间紧，有缩短体验的办法吗？”。结合前后交流，其作用是：说明限制并询问可行调整",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri1",
+        "l55-ri9"
+      ]
+    },
+    {
+      "id": "l55-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「作り方を詳しく学ぶのが目的なので、説明は減らしたくありません。」主要用于什么？",
+      "choices": [
+        "根据已知目的提出建议",
+        "选择方案后提出明确变更请求",
+        "指出不可牺牲的核心目的"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“目的是详细学做法，不想减少讲解。”。结合前后交流，其作用是：指出不可牺牲的核心目的",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri2",
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「それなら、別の日にしたほうがいいと思います。」主要用于什么？",
+      "choices": [
+        "说明限制并询问可行调整",
+        "根据已知目的提出建议",
+        "选择方案后提出明确变更请求"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“那我觉得换一天更好。”。结合前后交流，其作用是：根据已知目的提出建议",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri3",
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、明日の三時に変更をお願いします。」主要用于什么？",
+      "choices": [
+        "选择方案后提出明确变更请求",
+        "说明限制并询问可行调整",
+        "指出不可牺牲的核心目的"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“那请改为明天三点。”。结合前后交流，其作用是：选择方案后提出明确变更请求",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l55-ri4",
+        "l55-ri6"
+      ]
+    },
+    {
+      "id": "l55-ex19",
+      "type": "self",
+      "prompt": "读例句「予約の開始を三十分遅くできますか。」。先不看词表，用中文说明「予約」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "预约",
+      "explanation": "本课这里表示“预约”。例句意思是：能把预约开始延后三十分钟吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l55-ri5",
+        "l55-ri7"
+      ]
+    },
+    {
+      "id": "l55-ex20",
+      "type": "self",
+      "prompt": "读例句「次の参加者がいるため、終了は変えられません。」。先不看词表，用中文说明「終了」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "结束",
+      "explanation": "本课这里表示“结束”。例句意思是：后面有参加者，结束时间不能改。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l55-ri8"
+      ]
+    },
+    {
+      "id": "l55-ex21",
+      "type": "self",
+      "prompt": "读例句「移動に余裕がありません。体験を短くする方法はありますか。」。先不看词表，用中文说明「体験」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "体验",
+      "explanation": "本课这里表示“体验”。例句意思是：交通时间紧，有缩短体验的办法吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l55-ri1",
+        "l55-ri9"
+      ]
+    },
+    {
+      "id": "l55-ex22",
+      "type": "self",
+      "prompt": "读例句「明日の午後に空きはありますか。料金も確認したいです。」。先不看词表，用中文说明「料金」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "费用",
+      "explanation": "本课这里表示“费用”。例句意思是：明天下午有空位吗？也想确认费用。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l55-ri1",
+      "front": "交通时间紧，有缩短体验的办法吗？",
+      "back": "移動に余裕がありません。体験を短くする方法はありますか。",
+      "reading": "いどうによゆうがありません。たいけんをみじかくするほうほうはありますか。",
+      "audioId": "synth-word-7be900d5f7676a0f",
+      "kind": "expression"
+    },
+    {
+      "id": "l55-ri2",
+      "front": "目的是详细学做法，不想减少讲解。",
+      "back": "作り方を詳しく学ぶのが目的なので、説明は減らしたくありません。",
+      "reading": "つくりかたをくわしくまなぶのがもくてきなので、せつめいはへらしたくありません。",
+      "audioId": "synth-word-bf43b7ae555068a1",
+      "kind": "expression"
+    },
+    {
+      "id": "l55-ri3",
+      "front": "那我觉得换一天更好。",
+      "back": "それなら、別の日にしたほうがいいと思います。",
+      "reading": "それなら、べつのひにしたほうがいいとおもいます。",
+      "audioId": "synth-word-223be34e89fdc428",
+      "kind": "expression"
+    },
+    {
+      "id": "l55-ri4",
+      "front": "那请改为明天三点。",
+      "back": "では、明日の三時に変更をお願いします。",
+      "reading": "では、あしたのさんじにへんこうをおねがいします。",
+      "audioId": "synth-word-ca1974da95de5a24",
+      "kind": "expression"
+    },
+    {
+      "id": "l55-ri5",
+      "front": "予約在本课是什么意思？",
+      "back": "预约",
+      "reading": "よやく",
+      "audioId": "synth-word-bc9e89d9e02e195e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l55-ri6",
+      "front": "変更在本课是什么意思？",
+      "back": "变更",
+      "reading": "へんこう",
+      "audioId": "synth-word-88fdaf2b27019c91",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l55-ri7",
+      "front": "開始在本课是什么意思？",
+      "back": "开始",
+      "reading": "かいし",
+      "audioId": "synth-word-b676c08edfe6f9a4",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l55-ri8",
+      "front": "終了在本课是什么意思？",
+      "back": "结束",
+      "reading": "しゅうりょう",
+      "audioId": "synth-word-f2e8eda3405aca9b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l55-ri9",
+      "front": "移動在本课是什么意思？",
+      "back": "移动",
+      "reading": "いどう",
+      "audioId": "synth-word-8fcfe5fca4771f62",
+      "kind": "vocabulary"
+    }
+  ]
+}

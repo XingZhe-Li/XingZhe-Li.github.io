@@ -1,0 +1,947 @@
+{
+  "id": "l28",
+  "number": 28,
+  "moduleId": "m6",
+  "title": "理解普通体及常见省略",
+  "subtitle": "识别熟人对话，不把省略当作随处可用的礼貌表达",
+  "revision": 2,
+  "goals": [
+    "识别熟人之间的肯定、否定和过去",
+    "用上下文恢复省略的人、地点或对象",
+    "在『朋友发来的短消息』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第27课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「理解普通体及常见省略」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l28-ex01",
+        "l28-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「朋友发来的短消息」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「短いメッセージの約束」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「理解普通体及常见省略」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l28-ex19",
+        "l28-ex20",
+        "l28-ex21",
+        "l28-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到友達、約束、連絡、メッセージ，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用明日、図書館に行く？替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「理解普通体及常见省略」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l28-ex07",
+        "l28-ex08",
+        "l28-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「礼貌体与普通体对应」「从上下文补出省略」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「理解普通体及常见省略」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l28-ex02",
+        "l28-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「理解普通体及常见省略」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l28-ex04",
+        "l28-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「短いメッセージの約束」与「同じ言葉でも文脈が違う」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「理解普通体及常见省略」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l28-ex11",
+        "l28-ex12",
+        "l28-ex13",
+        "l28-ex14",
+        "l28-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「理解普通体及常见省略」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l28-ex06",
+        "l28-ex10",
+        "l28-ex17",
+        "l28-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l28-ext10",
+      "title": "理解普通体及常见省略 · 10分钟迁移",
+      "instructions": "先听『朋友发来的短消息』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l28-ext15",
+      "title": "理解普通体及常见省略 · 15分钟迁移",
+      "instructions": "读『短いメッセージの約束』与『同じ言葉でも文脈が違う』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：熟悉的朋友问「昨日、行った？」；你昨天没去，用普通体回应。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l28-ext25",
+      "title": "理解普通体及常见省略 · 25分钟迁移",
+      "instructions": "用5分钟听『朋友发来的短消息』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：朋友约明天下午两点，你有时间；回应并重述地点为入口。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l28-ex13",
+        "l28-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『朋友发来的短消息』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『短いメッセージの約束』与变体材料的条件。",
+    "关闭说明后，能在情境中使用行く／行かない／行った／行かなかった及「明日、行く？」→明日、そこへ行く？，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l28-d01",
+      "title": "朋友发来的短消息",
+      "context": "两位已经熟识的朋友互发消息；生人服务场景仍使用礼貌体。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l28-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "けん",
+          "ja": "明日、図書館に行く？",
+          "kana": "あした、としょかんにいく？",
+          "zh": "明天去图书馆吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "うん、行く。午前？",
+          "kana": "うん、いく。ごぜん？",
+          "zh": "嗯，去。上午吗？"
+        },
+        {
+          "speaker": "けん",
+          "ja": "午後。二時はどう？",
+          "kana": "ごご。にじはどう？",
+          "zh": "下午。两点怎么样？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいよ。昨日も行った？",
+          "kana": "いいよ。きのうもいった？",
+          "zh": "好啊。昨天也去了吗？"
+        },
+        {
+          "speaker": "けん",
+          "ja": "ううん、行かなかった。忙しかった。",
+          "kana": "ううん、いかなかった。いそがしかった。",
+          "zh": "不，没去。很忙。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "じゃあ、明日二時、入口で。",
+          "kana": "じゃあ、あしたにじ、いりぐちで。",
+          "zh": "那么明天两点，入口见。"
+        },
+        {
+          "speaker": "けん",
+          "ja": "うん。昼ご飯はもう食べた？",
+          "kana": "うん。ひるごはんはもうたべた？",
+          "zh": "嗯。午饭已经吃了吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "まだ。今から食べる。",
+          "kana": "まだ。いまからたべる。",
+          "zh": "还没，现在去吃。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l28-v01",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "pos": "名词",
+      "example": "友達です。",
+      "exampleMeaning": "是朋友。",
+      "mastery": "active",
+      "audioId": "synth-word-090a89bc15fda3bd"
+    },
+    {
+      "id": "l28-v02",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "pos": "名词",
+      "example": "約束です。",
+      "exampleMeaning": "是约定。",
+      "mastery": "active",
+      "audioId": "synth-word-7f966c1b4f81617f"
+    },
+    {
+      "id": "l28-v03",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联络",
+      "pos": "名词",
+      "example": "連絡です。",
+      "exampleMeaning": "是联络。",
+      "mastery": "active",
+      "audioId": "synth-word-82db684775389331"
+    },
+    {
+      "id": "l28-v04",
+      "word": "メッセージ",
+      "reading": "めっせーじ",
+      "meaning": "消息",
+      "pos": "名词",
+      "example": "メッセージです。",
+      "exampleMeaning": "是消息。",
+      "mastery": "active",
+      "audioId": "synth-word-012bd7ef8b854872"
+    },
+    {
+      "id": "l28-v05",
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "白天或中午",
+      "pos": "名词",
+      "example": "うん。昼ご飯はもう食べた？",
+      "exampleMeaning": "嗯。午饭已经吃了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3eeccb506f727aad"
+    },
+    {
+      "id": "l28-v06",
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "晚上",
+      "pos": "名词",
+      "example": "夜です。",
+      "exampleMeaning": "是晚上。",
+      "mastery": "active",
+      "audioId": "synth-word-995bdbe599f109a8"
+    },
+    {
+      "id": "l28-v07",
+      "word": "うん",
+      "reading": "うん",
+      "meaning": "嗯是",
+      "pos": "应答词",
+      "example": "うん、行く。",
+      "exampleMeaning": "嗯，去。",
+      "mastery": "active",
+      "audioId": "synth-word-fa58f0b7e1bfe896"
+    },
+    {
+      "id": "l28-v08",
+      "word": "ううん",
+      "reading": "ううん",
+      "meaning": "嗯不",
+      "pos": "应答词",
+      "example": "ううん、行かない。",
+      "exampleMeaning": "不，不去。",
+      "mastery": "active",
+      "audioId": "synth-word-29a6bdbaa9ca5249"
+    },
+    {
+      "id": "l28-v09",
+      "word": "じゃあ",
+      "reading": "じゃあ",
+      "meaning": "那么",
+      "pos": "接续词",
+      "example": "じゃあ、また明日。",
+      "exampleMeaning": "那明天见。",
+      "mastery": "active",
+      "audioId": "synth-word-3d79a518d2b5954f"
+    },
+    {
+      "id": "l28-v10",
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "已经",
+      "pos": "副词",
+      "example": "もう食べた。",
+      "exampleMeaning": "已经吃了。",
+      "mastery": "active",
+      "audioId": "synth-word-d0fe05d5b4e0a847"
+    },
+    {
+      "id": "l28-v11",
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "还",
+      "pos": "副词",
+      "example": "まだ食べていない。",
+      "exampleMeaning": "还没吃。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5cceb708e4524c85"
+    },
+    {
+      "id": "l28-v12",
+      "word": "行かない",
+      "reading": "いかない",
+      "meaning": "不去",
+      "pos": "普通体否定",
+      "example": "明日は行かない。",
+      "exampleMeaning": "明天不去。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ff457080bf898074"
+    },
+    {
+      "id": "l28-v13",
+      "word": "食べた",
+      "reading": "たべた",
+      "meaning": "吃过了",
+      "pos": "普通体过去",
+      "example": "昼ご飯は食べた。",
+      "exampleMeaning": "午饭吃了。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0d11e653baf0667c"
+    },
+    {
+      "id": "l28-v14",
+      "word": "忙しかった",
+      "reading": "いそがしかった",
+      "meaning": "之前忙",
+      "pos": "い形容词过去",
+      "example": "昨日は忙しかった。",
+      "exampleMeaning": "昨天忙。",
+      "mastery": "recognition",
+      "audioId": "synth-word-164920819d199cab"
+    },
+    {
+      "id": "l28-v15",
+      "word": "静かだった",
+      "reading": "しずかだった",
+      "meaning": "之前安静",
+      "pos": "な形容词过去",
+      "example": "夜は静かだった。",
+      "exampleMeaning": "晚上很安静。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c7b0bebb28e9374f"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l28-e1",
+      "ja": "明日、図書館に行く？",
+      "reading": "あした、としょかんにいく？",
+      "meaning": "明天去图书馆吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-aea20dc5ca659d3b"
+    },
+    {
+      "id": "l28-e2",
+      "ja": "うん、行く。午前？",
+      "reading": "うん、いく。ごぜん？",
+      "meaning": "嗯，去。上午吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-776edcdbd63dc8e9"
+    },
+    {
+      "id": "l28-e3",
+      "ja": "ううん、行かなかった。忙しかった。",
+      "reading": "ううん、いかなかった。いそがしかった。",
+      "meaning": "不，没去。很忙。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-22834b7c07b38993"
+    },
+    {
+      "id": "l28-e4",
+      "ja": "じゃあ、明日二時、入口で。",
+      "reading": "じゃあ、あしたにじ、いりぐちで。",
+      "meaning": "那么明天两点，入口见。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-0ff1c704cc30bd8d"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l28-g1",
+      "title": "礼貌体与普通体对应",
+      "meaning": "识别熟人之间的肯定、否定和过去",
+      "pattern": "行く／行かない／行った／行かなかった",
+      "explanation": "普通体不是简单删掉ます：行きます→行く，行きません→行かない。先用于读懂朋友消息，对工作人员仍用礼貌体。",
+      "examples": [
+        {
+          "ja": "昨日は行かなかった。",
+          "zh": "昨天没去。"
+        }
+      ],
+      "pitfall": "普通体不等于无礼，但面对陌生人突然切换不合本课程初始策略。"
+    },
+    {
+      "id": "l28-g2",
+      "title": "从上下文补出省略",
+      "meaning": "用上下文恢复省略的人、地点或对象",
+      "pattern": "「明日、行く？」→明日、そこへ行く？",
+      "explanation": "疑问上扬时可无か；文字用问号辅助。省略只在共享信息足够时成立，不清楚就确认「図書館ですか」。",
+      "examples": [
+        {
+          "ja": "もう食べた？",
+          "zh": "已经吃了吗？"
+        }
+      ],
+      "pitfall": "「行く？」没有自动包含某一个目的地；需看前文，不能瞎猜。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "友達",
+          "reading": "ともだち",
+          "zh": "朋友"
+        },
+        {
+          "ja": "約束",
+          "reading": "やくそく",
+          "zh": "约定"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l28-r1",
+      "title": "短いメッセージの約束",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "けんさんとりんさんは明日、図書館へ行きます。二人のメッセージは「午後。二時はどう？」「いいよ」です。会う場所は図書館の入口です。けんさんは昨日、忙しかったです。だから、図書館へ行きませんでした。りんさんはメッセージの時、まだ昼ご飯を食べていません。",
+      "zh": "健和小林明天去图书馆。消息写着“下午，两点怎么样？”“好啊”。见面地点是图书馆入口。健昨天因为忙没去图书馆。小林发消息时还没吃午饭。",
+      "audioId": "l28-reading-synth"
+    },
+    {
+      "id": "l28-r2",
+      "title": "同じ言葉でも文脈が違う",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "みなさんとさらさんは昨日、駅前の喫茶店の話をしました。今日、さらさんは「明日、行く？」と送りました。みなさんは「喫茶店？午後は行く」と答えました。「明日、行く？」だけでは、図書館か喫茶店か分かりません。二人は場所を確認してから時間を決めました。",
+      "zh": "美奈和莎拉昨天聊过站前咖啡店。今天莎拉发来“明天去吗？”，美奈回“咖啡店？下午去”。仅凭“明天去吗？”无法知道指图书馆还是咖啡店。两人确认地点后才决定时间。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l28-ex01",
+      "type": "choice",
+      "prompt": "りんとけんは明日何時に会いますか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l28-dialogue-synth",
+      "choices": [
+        "午後二時",
+        "午前二時",
+        "午後一時"
+      ],
+      "correctIndex": 0,
+      "explanation": "午後、二時で合意した。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex02",
+      "type": "choice",
+      "prompt": "けんは昨日、図書館へ行きましたか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l28-reading-synth",
+      "choices": [
+        "行った",
+        "行かなかった",
+        "まだ決めていない"
+      ],
+      "correctIndex": 1,
+      "explanation": "行かなかった、忙しかったとある。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex03",
+      "type": "choice",
+      "prompt": "りんとけんは明日何時に会いますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "午後二時",
+        "午前二時",
+        "午後一時"
+      ],
+      "correctIndex": 0,
+      "explanation": "午後、二時で合意した。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex04",
+      "type": "choice",
+      "prompt": "けんは昨日、図書館へ行きましたか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "行った",
+        "行かなかった",
+        "まだ決めていない"
+      ],
+      "correctIndex": 1,
+      "explanation": "行かなかった、忙しかったとある。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex05",
+      "type": "choice",
+      "prompt": "みなが最初に確認したのは何ですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "値段",
+        "帰る日",
+        "行く場所"
+      ],
+      "correctIndex": 2,
+      "explanation": "喫茶店？と場所を確認している。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex06",
+      "type": "choice",
+      "prompt": "短い「明日、行く？」だけで確定できるのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "明日の行動を尋ねている",
+        "必ず図書館へ行く",
+        "必ず午前に会う"
+      ],
+      "correctIndex": 0,
+      "explanation": "目的地と時刻は省略され、前後関係が必要。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex07",
+      "type": "input",
+      "prompt": "将「行きませんでした」改为普通体：____。",
+      "acceptedAnswers": [
+        "行かなかった",
+        "いかなかった"
+      ],
+      "explanation": "ない过去为なかった，否定信息不可丢。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex08",
+      "type": "input",
+      "prompt": "「安静だった」对应的礼貌过去为：静か____。",
+      "acceptedAnswers": [
+        "でした"
+      ],
+      "explanation": "な形容词普通体过去だった对应でした。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex09",
+      "type": "order",
+      "prompt": "用词块组成：昨天没看电影。",
+      "tokens": [
+        "映画を",
+        "見なかった。",
+        "昨日は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为昨日は映画を見なかった。；ない过去为なかった，否定信息不可丢。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex10",
+      "type": "order",
+      "prompt": "用词块组成：明天去图书馆吗？",
+      "tokens": [
+        "図書館へ",
+        "行く？",
+        "明日は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为明日は図書館へ行く？；な形容词普通体过去だった对应でした。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex11",
+      "type": "self",
+      "prompt": "熟悉的朋友问「昨日、行った？」；你昨天没去，用普通体回应。",
+      "sampleAnswer": "ううん、行かなかった。",
+      "explanation": "保持否定过去；不要答行かない而改变时间。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex12",
+      "type": "self",
+      "prompt": "服务台问你明天是否来；你会来，使用礼貌体。",
+      "sampleAnswer": "はい、明日来ます。",
+      "explanation": "对象变更时调整语体，非一律普通体。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex13",
+      "type": "self",
+      "prompt": "朋友只发「明日、行く？」而你不知道指哪里；写确认。",
+      "sampleAnswer": "どこ？図書館？",
+      "explanation": "共享信息不够时先确认地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex14",
+      "type": "self",
+      "prompt": "朋友约明天下午两点，你有时间；回应并重述地点为入口。",
+      "sampleAnswer": "うん、いいよ。明日二時、入口で。",
+      "explanation": "能恢复省略，但初次与生人约见宜使用完整礼貌句。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：熟悉的朋友问「昨日、行った？」；你昨天没去，用普通体回应。",
+      "choices": [
+        "ううん、行かなかった。",
+        "はい、明日来ます。",
+        "どこ？図書館？"
+      ],
+      "correctIndex": 0,
+      "explanation": "保持否定过去；不要答行かない而改变时间。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：服务台问你明天是否来；你会来，使用礼貌体。",
+      "choices": [
+        "どこ？図書館？",
+        "うん、いいよ。明日二時、入口で。",
+        "はい、明日来ます。"
+      ],
+      "correctIndex": 2,
+      "explanation": "对象变更时调整语体，非一律普通体。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友只发「明日、行く？」而你不知道指哪里；写确认。",
+      "choices": [
+        "ううん、行かなかった。",
+        "どこ？図書館？",
+        "うん、いいよ。明日二時、入口で。"
+      ],
+      "correctIndex": 1,
+      "explanation": "共享信息不够时先确认地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友约明天下午两点，你有时间；回应并重述地点为入口。",
+      "choices": [
+        "うん、いいよ。明日二時、入口で。",
+        "ううん、行かなかった。",
+        "はい、明日来ます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "能恢复省略，但初次与生人约见宜使用完整礼貌句。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex19",
+      "type": "self",
+      "prompt": "读例句「友達です。」。先不看词表，用中文说明「友達」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "朋友",
+      "explanation": "本课这里表示“朋友”。例句意思是：是朋友。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l28-ri5"
+      ]
+    },
+    {
+      "id": "l28-ex20",
+      "type": "self",
+      "prompt": "读例句「メッセージです。」。先不看词表，用中文说明「メッセージ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "消息",
+      "explanation": "本课这里表示“消息”。例句意思是：是消息。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l28-ri8"
+      ]
+    },
+    {
+      "id": "l28-ex21",
+      "type": "self",
+      "prompt": "读例句「うん、行く。」。先不看词表，用中文说明「うん」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "嗯是",
+      "explanation": "本课这里表示“嗯是”。例句意思是：嗯，去。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l28-ex22",
+      "type": "self",
+      "prompt": "读例句「もう食べた。」。先不看词表，用中文说明「もう」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "已经",
+      "explanation": "本课这里表示“已经”。例句意思是：已经吃了。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l28-ri1",
+      "front": "明天去图书馆吗？",
+      "back": "明日、図書館に行く？",
+      "reading": "あした、としょかんにいく？",
+      "audioId": "synth-word-aea20dc5ca659d3b",
+      "kind": "expression"
+    },
+    {
+      "id": "l28-ri2",
+      "front": "嗯，去。上午吗？",
+      "back": "うん、行く。午前？",
+      "reading": "うん、いく。ごぜん？",
+      "audioId": "synth-word-776edcdbd63dc8e9",
+      "kind": "expression"
+    },
+    {
+      "id": "l28-ri3",
+      "front": "不，没去。很忙。",
+      "back": "ううん、行かなかった。忙しかった。",
+      "reading": "ううん、いかなかった。いそがしかった。",
+      "audioId": "synth-word-22834b7c07b38993",
+      "kind": "expression"
+    },
+    {
+      "id": "l28-ri4",
+      "front": "那么明天两点，入口见。",
+      "back": "じゃあ、明日二時、入口で。",
+      "reading": "じゃあ、あしたにじ、いりぐちで。",
+      "audioId": "synth-word-0ff1c704cc30bd8d",
+      "kind": "expression"
+    },
+    {
+      "id": "l28-ri5",
+      "front": "友達在本课是什么意思？",
+      "back": "朋友",
+      "reading": "ともだち",
+      "audioId": "synth-word-090a89bc15fda3bd",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l28-ri6",
+      "front": "約束在本课是什么意思？",
+      "back": "约定",
+      "reading": "やくそく",
+      "audioId": "synth-word-7f966c1b4f81617f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l28-ri7",
+      "front": "連絡在本课是什么意思？",
+      "back": "联络",
+      "reading": "れんらく",
+      "audioId": "synth-word-82db684775389331",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l28-ri8",
+      "front": "メッセージ在本课是什么意思？",
+      "back": "消息",
+      "reading": "めっせーじ",
+      "audioId": "synth-word-012bd7ef8b854872",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l28-ri9",
+      "front": "昼在本课是什么意思？",
+      "back": "白天或中午",
+      "reading": "ひる",
+      "audioId": "synth-word-3eeccb506f727aad",
+      "kind": "vocabulary"
+    }
+  ]
+}

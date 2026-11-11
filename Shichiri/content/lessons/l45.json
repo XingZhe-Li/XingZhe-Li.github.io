@@ -1,0 +1,1104 @@
+{
+  "id": "l45",
+  "number": 45,
+  "moduleId": "m9",
+  "title": "复述他人经历与转换视角",
+  "subtitle": "同一项安排，不同当事人的描述可能强调不同立场。",
+  "revision": 2,
+  "goals": [
+    "区分使役、受身和使役受身的人物关系。",
+    "理解被要求做事时表达的负担与感受。",
+    "转述时保留来源，不把一方感受当成全部事实。"
+  ],
+  "prerequisites": [
+    "理解第44课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「复述他人经历与转换视角」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l45-ex01",
+        "l45-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「临时报告的两种说法」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「だれの説明なのか」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「复述他人经历与转换视角」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l45-ex19",
+        "l45-ex20",
+        "l45-ex21",
+        "l45-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到報告書、上司、担当、変更，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用昨日、急に報告書を書かされました。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「复述他人经历与转换视角」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l45-ex07",
+        "l45-ex08",
+        "l45-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「使役受身表达被要求做」「转述时标明立场」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「复述他人经历与转换视角」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l45-ex02",
+        "l45-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「复述他人经历与转换视角」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l45-ex04",
+        "l45-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「だれの説明なのか」与「同じ手伝いでも違う経験」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「复述他人经历与转换视角」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l45-ex11",
+        "l45-ex12",
+        "l45-ex13",
+        "l45-ex14",
+        "l45-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「复述他人经历与转换视角」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l45-ex06",
+        "l45-ex10",
+        "l45-ex17",
+        "l45-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l45-ext10",
+      "title": "复述他人经历与转换视角 · 10分钟迁移",
+      "instructions": "用10分钟重读「だれの説明なのか」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l45-ext15",
+      "title": "复述他人经历与转换视角 · 15分钟迁移",
+      "instructions": "用15分钟把「同じ手伝いでも違う経験」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l45-ext25",
+      "title": "复述他人经历与转换视角 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l45-ex13",
+        "l45-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l45-d01",
+      "title": "临时报告的两种说法",
+      "context": "同事谈昨晚的安排。林觉得被迫加班，但另一位同事只知道分工通知。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l45-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "昨日、急に報告書を書かされました。",
+          "kana": "きのう、きゅうにほうこくしょをかかされました。",
+          "zh": "昨天突然被要求写报告。"
+        },
+        {
+          "speaker": "同僚",
+          "ja": "上司は、担当を変更したと言っていました。",
+          "kana": "じょうしは、たんとうをへんこうしたといっていました。",
+          "zh": "上司说是调整了负责人。"
+        },
+        {
+          "speaker": "林",
+          "ja": "私には理由の説明がなく、会議の後も残ることになりました。",
+          "kana": "わたしにはりゆうのせつめいがなく、かいぎのあとものこることになりました。",
+          "zh": "没人向我说明理由，会议后也得留下。"
+        },
+        {
+          "speaker": "同僚",
+          "ja": "締め切りは聞いていましたか。",
+          "kana": "しめきりはきいていましたか。",
+          "zh": "事先听过截止时间吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "当日の連絡だけでした。予定があったので、負担に感じました。",
+          "kana": "とうじつのれんらくだけでした。よていがあったので、ふたんにかんじました。",
+          "zh": "只在当天通知。我原有安排，所以觉得有负担。"
+        },
+        {
+          "speaker": "同僚",
+          "ja": "ほかの人は、あなたが自分から引き受けたと思っていました。",
+          "kana": "ほかのひとは、あなたがじぶんからひきうけたとおもっていました。",
+          "zh": "其他人以为你主动接下了。"
+        },
+        {
+          "speaker": "林",
+          "ja": "その誤解は直したいです。でも、相手の意図まではわかりません。",
+          "kana": "そのごかいはなおしたいです。でも、あいてのいとまではわかりません。",
+          "zh": "想澄清误解，但不知道对方的意图。"
+        },
+        {
+          "speaker": "同僚",
+          "ja": "作業の記録と依頼の内容を確認しましょう。",
+          "kana": "さぎょうのきろくといらいのないようをかくにんしましょう。",
+          "zh": "确认工作记录和委托内容吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい。次は時間と責任の範囲を先に相談したいです。",
+          "kana": "はい。つぎはじかんとせきにんのはんいをさきにそうだんしたいです。",
+          "zh": "好的，下次想先商量时间和责任范围。"
+        },
+        {
+          "speaker": "同僚",
+          "ja": "事実と感想を分けると、状況を共有しやすいですね。",
+          "kana": "じじつとかんそうをわけると、じょうきょうをきょうゆうしやすいですね。",
+          "zh": "把事实和感受分开，更容易共享情况。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l45-v01",
+      "word": "報告書",
+      "reading": "ほうこくしょ",
+      "meaning": "报告书",
+      "pos": "名词",
+      "example": "昨日、急に報告書を書かされました。",
+      "exampleMeaning": "昨天突然被要求写报告。",
+      "mastery": "active",
+      "audioId": "synth-word-7856dba415b2256d"
+    },
+    {
+      "id": "l45-v02",
+      "word": "上司",
+      "reading": "じょうし",
+      "meaning": "上司",
+      "pos": "名词",
+      "example": "上司は、担当を変更したと言っていました。",
+      "exampleMeaning": "上司说是调整了负责人。",
+      "mastery": "active",
+      "audioId": "synth-word-9d3437a9dcec8e40"
+    },
+    {
+      "id": "l45-v03",
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "负责者",
+      "pos": "名词",
+      "example": "上司は、担当を変更したと言っていました。",
+      "exampleMeaning": "上司说是调整了负责人。",
+      "mastery": "active",
+      "audioId": "synth-word-dfae24e20c53efbc"
+    },
+    {
+      "id": "l45-v04",
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "变更",
+      "pos": "名词",
+      "example": "上司は、担当を変更したと言っていました。",
+      "exampleMeaning": "上司说是调整了负责人。",
+      "mastery": "active",
+      "audioId": "synth-word-88fdaf2b27019c91"
+    },
+    {
+      "id": "l45-v05",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "私には理由の説明がなく、会議の後も残ることになりました。",
+      "exampleMeaning": "没人向我说明理由，会议后也得留下。",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l45-v06",
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "会议",
+      "pos": "名词",
+      "example": "私には理由の説明がなく、会議の後も残ることになりました。",
+      "exampleMeaning": "没人向我说明理由，会议后也得留下。",
+      "mastery": "active",
+      "audioId": "synth-word-ef485ed126d49835"
+    },
+    {
+      "id": "l45-v07",
+      "word": "締め切り",
+      "reading": "しめきり",
+      "meaning": "截止时间",
+      "pos": "名词",
+      "example": "締め切りは聞いていましたか。",
+      "exampleMeaning": "事先听过截止时间吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ff25cbbd638e2836"
+    },
+    {
+      "id": "l45-v08",
+      "word": "当日",
+      "reading": "とうじつ",
+      "meaning": "当天",
+      "pos": "名词",
+      "example": "当日の連絡だけでした。予定があったので、負担に感じました。",
+      "exampleMeaning": "只在当天通知。我原有安排，所以觉得有负担。",
+      "mastery": "active",
+      "audioId": "synth-word-490faef7561186a2"
+    },
+    {
+      "id": "l45-v09",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系；通知",
+      "pos": "名词",
+      "example": "当日の連絡だけでした。予定があったので、負担に感じました。",
+      "exampleMeaning": "只在当天通知。我原有安排，所以觉得有负担。",
+      "mastery": "active",
+      "audioId": "synth-word-82db684775389331"
+    },
+    {
+      "id": "l45-v10",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "当日の連絡だけでした。予定があったので、負担に感じました。",
+      "exampleMeaning": "只在当天通知。我原有安排，所以觉得有负担。",
+      "mastery": "active",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l45-v11",
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "负担",
+      "pos": "名词",
+      "example": "当日の連絡だけでした。予定があったので、負担に感じました。",
+      "exampleMeaning": "只在当天通知。我原有安排，所以觉得有负担。",
+      "mastery": "active",
+      "audioId": "synth-word-0146817726b38ecc"
+    },
+    {
+      "id": "l45-v12",
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "误解",
+      "pos": "名词",
+      "example": "その誤解は直したいです。でも、相手の意図まではわかりません。",
+      "exampleMeaning": "想澄清误解，但不知道对方的意图。",
+      "mastery": "active",
+      "audioId": "synth-word-8e8c619fc7826f5f"
+    },
+    {
+      "id": "l45-v13",
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "意图",
+      "pos": "名词",
+      "example": "その誤解は直したいです。でも、相手の意図まではわかりません。",
+      "exampleMeaning": "想澄清误解，但不知道对方的意图。",
+      "mastery": "active",
+      "audioId": "synth-word-64894f4164596b6b"
+    },
+    {
+      "id": "l45-v14",
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "工作；作业",
+      "pos": "名词",
+      "example": "作業の記録と依頼の内容を確認しましょう。",
+      "exampleMeaning": "确认工作记录和委托内容吧。",
+      "mastery": "active",
+      "audioId": "synth-word-099c76db41d939b7"
+    },
+    {
+      "id": "l45-v15",
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "记录",
+      "pos": "名词",
+      "example": "作業の記録と依頼の内容を確認しましょう。",
+      "exampleMeaning": "确认工作记录和委托内容吧。",
+      "mastery": "active",
+      "audioId": "synth-word-b817e5799cbc6fb5"
+    },
+    {
+      "id": "l45-v16",
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "委托；请求",
+      "pos": "名词",
+      "example": "作業の記録と依頼の内容を確認しましょう。",
+      "exampleMeaning": "确认工作记录和委托内容吧。",
+      "mastery": "active",
+      "audioId": "synth-word-61b71041a2de8686"
+    },
+    {
+      "id": "l45-v17",
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "时间",
+      "pos": "名词",
+      "example": "はい。次は時間と責任の範囲を先に相談したいです。",
+      "exampleMeaning": "好的，下次想先商量时间和责任范围。",
+      "mastery": "active",
+      "audioId": "synth-word-920958520c38245f"
+    },
+    {
+      "id": "l45-v18",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "责任",
+      "pos": "名词",
+      "example": "はい。次は時間と責任の範囲を先に相談したいです。",
+      "exampleMeaning": "好的，下次想先商量时间和责任范围。",
+      "mastery": "active",
+      "audioId": "synth-word-d459db5732c82fdc"
+    },
+    {
+      "id": "l45-v19",
+      "word": "範囲",
+      "reading": "はんい",
+      "meaning": "范围",
+      "pos": "名词",
+      "example": "はい。次は時間と責任の範囲を先に相談したいです。",
+      "exampleMeaning": "好的，下次想先商量时间和责任范围。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d58fa46d1c13766f"
+    },
+    {
+      "id": "l45-v20",
+      "word": "状況",
+      "reading": "じょうきょう",
+      "meaning": "情况",
+      "pos": "名词",
+      "example": "事実と感想を分けると、状況を共有しやすいですね。",
+      "exampleMeaning": "把事实和感受分开，更容易共享情况。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9ab372f97bccf48e"
+    },
+    {
+      "id": "l45-v21",
+      "word": "立場",
+      "reading": "たちば",
+      "meaning": "立场",
+      "pos": "名词",
+      "example": "同じ状況でも、立場と知っている情報によって、見え方は違います。",
+      "exampleMeaning": "即便同一情况，立场与已知信息不同，理解也不同。",
+      "mastery": "recognition",
+      "audioId": "synth-word-49b89a0a3afc71f6"
+    },
+    {
+      "id": "l45-v22",
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "感谢",
+      "pos": "名词",
+      "example": "一方、ほかの同僚は自分から手伝いを申し出たのだと思い、感謝の言葉をかけていました。",
+      "exampleMeaning": "另一方面，其他同事误以为他主动帮忙，并向他道谢。",
+      "mastery": "recognition",
+      "audioId": "synth-word-12216060766e5b80"
+    },
+    {
+      "id": "l45-v23",
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "帮助",
+      "pos": "名词",
+      "example": "一方、ほかの同僚は自分から手伝いを申し出たのだと思い、感謝の言葉をかけていました。",
+      "exampleMeaning": "另一方面，其他同事误以为他主动帮忙，并向他道谢。",
+      "mastery": "recognition",
+      "audioId": "synth-word-373f5d6bd33445fa"
+    },
+    {
+      "id": "l45-v24",
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "判断",
+      "pos": "名词",
+      "example": "事実を判断する前に、依頼の記録と責任の範囲を確認する必要があります。",
+      "exampleMeaning": "判断事实前，需确认委托记录与责任范围。",
+      "mastery": "recognition",
+      "audioId": "synth-word-68797c2bdb179e80"
+    },
+    {
+      "id": "l45-v25",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "pos": "名词",
+      "example": "林さんは以前からの約束を変える必要があったので、大きな負担だと感じました。",
+      "exampleMeaning": "林不得不改变先前约定，因此感到负担很大。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7f966c1b4f81617f"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l45-e1",
+      "ja": "昨日、急に報告書を書かされました。",
+      "reading": "きのう、きゅうにほうこくしょをかかされました。",
+      "meaning": "昨天突然被要求写报告。",
+      "usage": "从承担者立场表达非自愿负担",
+      "audioId": "synth-word-cc66075191fa11f7"
+    },
+    {
+      "id": "l45-e2",
+      "ja": "上司は、担当を変更したと言っていました。",
+      "reading": "じょうしは、たんとうをへんこうしたといっていました。",
+      "meaning": "上司说是调整了负责人。",
+      "usage": "明确另一种说法来自上司而非本人证实",
+      "audioId": "synth-word-2aa8378c84fd5c55"
+    },
+    {
+      "id": "l45-e3",
+      "ja": "その誤解は直したいです。でも、相手の意図まではわかりません。",
+      "reading": "そのごかいはなおしたいです。でも、あいてのいとまではわかりません。",
+      "meaning": "想澄清误解，但不知道对方的意图。",
+      "usage": "澄清已知误解，同时保留未知意图",
+      "audioId": "synth-word-fc27f5bca1dae77d"
+    },
+    {
+      "id": "l45-e4",
+      "ja": "はい。次は時間と責任の範囲を先に相談したいです。",
+      "reading": "はい。つぎはじかんとせきにんのはんいをさきにそうだんしたいです。",
+      "meaning": "好的，下次想先商量时间和责任范围。",
+      "usage": "提出以后应先确认的边界",
+      "audioId": "synth-word-a83d086217ca64af"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l45-g1",
+      "title": "使役受身表达被要求做",
+      "meaning": "行动由自己完成，但安排来自别人。",
+      "pattern": "書かせられる／書かされる、待たせられる／待たされる",
+      "explanation": "使役后再受身可表达被迫或不情愿完成动作。常见一类动词可用缩略形，す结尾等不能一律机械缩短。",
+      "examples": [
+        {
+          "ja": "私は報告書を書かされました。",
+          "zh": "我被要求写报告。"
+        },
+        {
+          "ja": "長い時間、待たされました。",
+          "zh": "被迫等了很久。"
+        }
+      ],
+      "pitfall": "写报告的人仍是我，不是让我写的人。"
+    },
+    {
+      "id": "l45-g2",
+      "title": "转述时标明立场",
+      "meaning": "不把一方评价变成全知事实。",
+      "pattern": "Aは〜と言いました。／Bは〜と感じました。",
+      "explanation": "说明谁说了什么、谁有何感受。受身或使役受身常凸显体验，但不自动证明对方动机。",
+      "examples": [
+        {
+          "ja": "上司は担当を変えたと言いました。",
+          "zh": "上司说调整了负责人。"
+        },
+        {
+          "ja": "林さんは負担に感じたそうです。",
+          "zh": "据说林感到负担。"
+        }
+      ],
+      "pitfall": "不应由“被要求”直接推出“对方故意为难”。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "報告書",
+          "reading": "ほうこくしょ",
+          "zh": "报告书"
+        },
+        {
+          "ja": "上司",
+          "reading": "じょうし",
+          "zh": "上司"
+        },
+        {
+          "ja": "担当",
+          "reading": "たんとう",
+          "zh": "负责者"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l45-r1",
+      "title": "だれの説明なのか",
+      "context": "同事整理临时任务经过，注意信息来源。",
+      "ja": "林さんは昨日の会議の後、急に報告書を書かされ、夜まで作業を続けたと話しました。上司の説明では、当日に担当者が休んだため、急いで担当を変更したそうです。しかし、林さんにはその理由が十分に伝えられず、締め切りだけが連絡されました。林さんは以前からの約束を変える必要があったので、大きな負担だと感じました。一方、ほかの同僚は自分から手伝いを申し出たのだと思い、感謝の言葉をかけていました。同じ状況でも、立場と知っている情報によって、見え方は違います。事実を判断する前に、依頼の記録と責任の範囲を確認する必要があります。次回は、だれが何をいつまでにするのかを、関係者全員で共有することになりました。確認した内容は短いメモに残します。",
+      "zh": "林说昨天会议后突然被要求写报告，一直工作到晚上。据上司说明，因当天负责人请假，所以紧急调整了分工。但林没有充分听到理由，只收到截止时间通知。林不得不改变先前约定，因此感到负担很大。另一方面，其他同事误以为他主动帮忙，并向他道谢。即便同一情况，立场与已知信息不同，理解也不同。判断事实前，需确认委托记录与责任范围。下次将由相关人共同确认谁在何时前做什么。确认结果会记在简短备忘中。",
+      "audioId": "l45-reading-synth"
+    },
+    {
+      "id": "l45-r2",
+      "title": "同じ手伝いでも違う経験",
+      "context": "学生比较两次看似相同的帮忙，区别在意愿与事前沟通。",
+      "ja": "文化祭で受付を手伝った二人に、活動の感想を聞きました。恵さんは、自分で希望した仕事を任され、先輩に説明してもらえてよかったと話しました。一方、亮さんは別の担当から急に移され、休憩なしで長く受付に立たされたと言いました。二人とも受付にいたことは同じですが、決め方や支援の内容は異なります。恵さんの話から、亮さんも満足したはずだと考えるのは適切ではありません。また、亮さんが負担を感じたという情報だけで、全員が強制されたとも言えません。準備をした委員会は、事前に予定と休憩を確認できていなかった点を振り返りました。次の活動では、希望を聞く時間を設け、変更が必要な時は本人に相談することにしました。本人の話を聞くことも大切です。",
+      "zh": "我询问两位帮忙文化节接待的同学感想。惠说自己获得了想做的任务，前辈又作了说明，感觉很好。亮却说被临时调岗，没休息就在前台站了很久。两人都做接待，但决定方式和支持内容不同。不能由惠的感受推断亮一定也满意。也不能仅因亮感到负担，就断言所有人都受强迫。筹备委员会反思了事前没确认安排和休息的问题。下次将安排询问意愿的时间，需变更时与本人商量。倾听本人说法也很重要。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l45-ex01",
+      "type": "choice",
+      "prompt": "林认为最需要澄清哪点？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l45-dialogue-synth",
+      "choices": [
+        "自己是否主动接下任务",
+        "所有同事的工资",
+        "公司是否搬家"
+      ],
+      "correctIndex": 0,
+      "explanation": "同事误以为他自愿。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex02",
+      "type": "choice",
+      "prompt": "主阅读下次准备怎样改善？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l45-reading-synth",
+      "choices": [
+        "共同确认谁在何时前做什么",
+        "不再留下任何记录",
+        "由一个人保密安排"
+      ],
+      "correctIndex": 0,
+      "explanation": "最后一句提出信息共享。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex03",
+      "type": "choice",
+      "prompt": "其他同事产生了什么误解？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "以为林主动提出帮忙",
+        "以为上司不在公司",
+        "以为报告从未提交"
+      ],
+      "correctIndex": 0,
+      "explanation": "他们知道的信息与林实际经历不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri6"
+      ]
+    },
+    {
+      "id": "l45-ex04",
+      "type": "choice",
+      "prompt": "上司所述调整原因是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所有人都拒绝工作",
+        "会议已经取消",
+        "原负责人当天休假"
+      ],
+      "correctIndex": 2,
+      "explanation": "这是标有来源的说法，不应当成林已知信息。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri6"
+      ]
+    },
+    {
+      "id": "l45-ex05",
+      "type": "choice",
+      "prompt": "惠和亮的主要差别是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "是否都参加文化节",
+        "意愿、沟通和支持条件",
+        "是否都在受付"
+      ],
+      "correctIndex": 1,
+      "explanation": "共同任务不代表共同体验。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex06",
+      "type": "choice",
+      "prompt": "文中拒绝哪种推论？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "由惠满意推断亮也必满意",
+        "两人都曾负责接待",
+        "委员会应改善沟通"
+      ],
+      "correctIndex": 0,
+      "explanation": "不可用一方经验代替所有人。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex07",
+      "type": "input",
+      "prompt": "用「待つ」常见使役受身缩略形的礼貌过去式：長い時間、待た＿＿。",
+      "acceptedAnswers": [
+        "されました"
+      ],
+      "explanation": "待たされました表示被要求等待。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex08",
+      "type": "order",
+      "prompt": "从承担者立场表达被要求写报告。",
+      "tokens": [
+        "書かされました",
+        "。",
+        "報告書を",
+        "上司に",
+        "私は"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "我仍是实际写的人。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex09",
+      "type": "choice",
+      "prompt": "哪句保留了信息来源？",
+      "choices": [
+        "上司は悪い人に決まっています。",
+        "林さんは負担だったと話しました。",
+        "全員が必ず満足しました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "转述个人感受要保留来源，不扩大结论。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l45-ri6"
+      ]
+    },
+    {
+      "id": "l45-ex10",
+      "type": "input",
+      "prompt": "补使役受身：説明する → 説明＿＿られました。",
+      "acceptedAnswers": [
+        "させ"
+      ],
+      "explanation": "する的使役受身为させられる。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l45-ri9"
+      ]
+    },
+    {
+      "id": "l45-ex11",
+      "type": "self",
+      "prompt": "复述主阅读，分别标出林和上司的说法。",
+      "sampleAnswer": "林さんは急に報告書を書かされたと話しました。上司は担当者の休みで変更したと説明しました。",
+      "explanation": "保留两方来源，不合并成一个全知叙述。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri5",
+        "l45-ri6",
+        "l45-ri7"
+      ]
+    },
+    {
+      "id": "l45-ex12",
+      "type": "self",
+      "prompt": "你接受临时任务前，要确认时间和责任范围，写两句。",
+      "sampleAnswer": "いつまでに、どこまで担当すればよいですか。今の予定もあるので、先に相談したいです。",
+      "explanation": "将模糊委托转成可执行条件。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri7"
+      ]
+    },
+    {
+      "id": "l45-ex13",
+      "type": "self",
+      "prompt": "用一句话纠正“惠喜欢，所以亮也应该喜欢”的推断。",
+      "sampleAnswer": "同じ受付でも決め方や支援が違うので、恵さんの感想から亮さんの気持ちは決められません。",
+      "explanation": "任务相同不代表经历相同。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex14",
+      "type": "self",
+      "prompt": "用自己的虚构例子对比自愿获得机会和被迫承担。",
+      "sampleAnswer": "発表したいと頼んで任せてもらった時と、突然発表させられた時では、気持ちが違います。",
+      "explanation": "形式与语境共同表达主体意愿。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l45-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「昨日、急に報告書を書かされました。」主要用于什么？",
+      "choices": [
+        "从承担者立场表达非自愿负担",
+        "明确另一种说法来自上司而非本人证实",
+        "澄清已知误解，同时保留未知意图"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“昨天突然被要求写报告。”。结合前后交流，其作用是：从承担者立场表达非自愿负担",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri1",
+        "l45-ri5",
+        "l45-ri6"
+      ]
+    },
+    {
+      "id": "l45-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「上司は、担当を変更したと言っていました。」主要用于什么？",
+      "choices": [
+        "澄清已知误解，同时保留未知意图",
+        "提出以后应先确认的边界",
+        "明确另一种说法来自上司而非本人证实"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“上司说是调整了负责人。”。结合前后交流，其作用是：明确另一种说法来自上司而非本人证实",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri2",
+        "l45-ri6",
+        "l45-ri7"
+      ]
+    },
+    {
+      "id": "l45-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「その誤解は直したいです。でも、相手の意図まではわかりません。」主要用于什么？",
+      "choices": [
+        "从承担者立场表达非自愿负担",
+        "澄清已知误解，同时保留未知意图",
+        "提出以后应先确认的边界"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“想澄清误解，但不知道对方的意图。”。结合前后交流，其作用是：澄清已知误解，同时保留未知意图",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri3"
+      ]
+    },
+    {
+      "id": "l45-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。次は時間と責任の範囲を先に相談したいです。」主要用于什么？",
+      "choices": [
+        "提出以后应先确认的边界",
+        "从承担者立场表达非自愿负担",
+        "明确另一种说法来自上司而非本人证实"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“好的，下次想先商量时间和责任范围。”。结合前后交流，其作用是：提出以后应先确认的边界",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l45-ri4",
+        "l45-ri6"
+      ]
+    },
+    {
+      "id": "l45-ex19",
+      "type": "self",
+      "prompt": "读例句「昨日、急に報告書を書かされました。」。先不看词表，用中文说明「報告書」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "报告书",
+      "explanation": "本课这里表示“报告书”。例句意思是：昨天突然被要求写报告。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri1",
+        "l45-ri5",
+        "l45-ri9"
+      ]
+    },
+    {
+      "id": "l45-ex20",
+      "type": "self",
+      "prompt": "读例句「上司は、担当を変更したと言っていました。」。先不看词表，用中文说明「変更」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "变更",
+      "explanation": "本课这里表示“变更”。例句意思是：上司说是调整了负责人。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri2",
+        "l45-ri6",
+        "l45-ri7"
+      ]
+    },
+    {
+      "id": "l45-ex21",
+      "type": "self",
+      "prompt": "读例句「締め切りは聞いていましたか。」。先不看词表，用中文说明「締め切り」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "截止时间",
+      "explanation": "本课这里表示“截止时间”。例句意思是：事先听过截止时间吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri9"
+      ]
+    },
+    {
+      "id": "l45-ex22",
+      "type": "self",
+      "prompt": "读例句「当日の連絡だけでした。予定があったので、負担に感じました。」。先不看词表，用中文说明「予定」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "计划",
+      "explanation": "本课这里表示“计划”。例句意思是：只在当天通知。我原有安排，所以觉得有负担。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l45-ri9"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l45-ri1",
+      "front": "昨天突然被要求写报告。",
+      "back": "昨日、急に報告書を書かされました。",
+      "reading": "きのう、きゅうにほうこくしょをかかされました。",
+      "audioId": "synth-word-cc66075191fa11f7",
+      "kind": "expression"
+    },
+    {
+      "id": "l45-ri2",
+      "front": "上司说是调整了负责人。",
+      "back": "上司は、担当を変更したと言っていました。",
+      "reading": "じょうしは、たんとうをへんこうしたといっていました。",
+      "audioId": "synth-word-2aa8378c84fd5c55",
+      "kind": "expression"
+    },
+    {
+      "id": "l45-ri3",
+      "front": "想澄清误解，但不知道对方的意图。",
+      "back": "その誤解は直したいです。でも、相手の意図まではわかりません。",
+      "reading": "そのごかいはなおしたいです。でも、あいてのいとまではわかりません。",
+      "audioId": "synth-word-fc27f5bca1dae77d",
+      "kind": "expression"
+    },
+    {
+      "id": "l45-ri4",
+      "front": "好的，下次想先商量时间和责任范围。",
+      "back": "はい。次は時間と責任の範囲を先に相談したいです。",
+      "reading": "はい。つぎはじかんとせきにんのはんいをさきにそうだんしたいです。",
+      "audioId": "synth-word-a83d086217ca64af",
+      "kind": "expression"
+    },
+    {
+      "id": "l45-ri5",
+      "front": "報告書在本课是什么意思？",
+      "back": "报告书",
+      "reading": "ほうこくしょ",
+      "audioId": "synth-word-7856dba415b2256d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l45-ri6",
+      "front": "上司在本课是什么意思？",
+      "back": "上司",
+      "reading": "じょうし",
+      "audioId": "synth-word-9d3437a9dcec8e40",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l45-ri7",
+      "front": "担当在本课是什么意思？",
+      "back": "负责者",
+      "reading": "たんとう",
+      "audioId": "synth-word-dfae24e20c53efbc",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l45-ri8",
+      "front": "変更在本课是什么意思？",
+      "back": "变更",
+      "reading": "へんこう",
+      "audioId": "synth-word-88fdaf2b27019c91",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l45-ri9",
+      "front": "説明在本课是什么意思？",
+      "back": "说明",
+      "reading": "せつめい",
+      "audioId": "synth-word-3846c6de39d3c183",
+      "kind": "vocabulary"
+    }
+  ]
+}

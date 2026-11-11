@@ -1,0 +1,957 @@
+{
+  "id": "l33",
+  "number": 33,
+  "moduleId": "m7",
+  "title": "交通、问路与换乘",
+  "subtitle": "读取行进方向与换乘信息，并在延误时重新核对",
+  "revision": 2,
+  "goals": [
+    "识别换乘站、方向及上车动作",
+    "按照路径指示行动并在延误时核实到达时间",
+    "在『延误时重新确认换乘』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第32课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「交通、问路与换乘」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l33-ex01",
+        "l33-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「延误时重新确认换乘」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「北町までの道順」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「交通、问路与换乘」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l33-ex19",
+        "l33-ex20",
+        "l33-ex21",
+        "l33-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到乗り換え、乗り場、改札、出口，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用北町へ行きたいです。ここから行けますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「交通、问路与换乘」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l33-ex07",
+        "l33-ex08",
+        "l33-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「把路线拆成动作顺序」「方向确认与时刻再确认」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「交通、问路与换乘」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l33-ex02",
+        "l33-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「交通、问路与换乘」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l33-ex04",
+        "l33-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「北町までの道順」与「駅から工房まで」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「交通、问路与换乘」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l33-ex11",
+        "l33-ex12",
+        "l33-ex13",
+        "l33-ex14",
+        "l33-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「交通、问路与换乘」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l33-ex06",
+        "l33-ex10",
+        "l33-ex17",
+        "l33-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l33-ext10",
+      "title": "交通、问路与换乘 · 10分钟迁移",
+      "instructions": "先听『延误时重新确认换乘』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l33-ext15",
+      "title": "交通、问路与换乘 · 15分钟迁移",
+      "instructions": "读『北町までの道順』与『駅から工房まで』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你的目的地是北町，不确定急行是否停站；问工作人员。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l33-ext25",
+      "title": "交通、问路与换乘 · 25分钟迁移",
+      "instructions": "用5分钟听『延误时重新确认换乘』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：你出错到西口，只有东口路线；向路人问东口在哪里。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l33-ex13",
+        "l33-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『延误时重新确认换乘』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『北町までの道順』与变体材料的条件。",
+    "关闭说明后，能在情境中使用駅で乗り換えて、方面の電車に乗ります及出口を出て、右に曲がってください／何時に着きますか，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l33-d01",
+      "title": "延误时重新确认换乘",
+      "context": "虚构线路：旅客去北町，工作人员说明中央站换乘。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l33-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "北町へ行きたいです。ここから行けますか。",
+          "kana": "きたまちへいきたいです。ここからいけますか。",
+          "zh": "想去北町，从这里能去吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+          "kana": "ちゅうおうえきでのりかえて、きたほうめんのかくえきていしゃにのってください。",
+          "zh": "请在中央站换乘北方向的各站停列车。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "急行でもいいですか。",
+          "kana": "きゅうこうでもいいですか。",
+          "zh": "急行也行吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "いいえ、急行は北町に止まりません。",
+          "kana": "いいえ、きゅうこうはきたまちにとまりません。",
+          "zh": "不，急行不停北町。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "電車は遅れていますか。",
+          "kana": "でんしゃはおくれていますか。",
+          "zh": "电车晚点了吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、十分の遅れです。北町には十時二十分に着きます。",
+          "kana": "はい、じゅっぷんのおくれです。きたまちにはじゅうじにじゅっぷんにつきます。",
+          "zh": "是的，晚十分钟，到北町是十点二十分。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "分かりました。中央駅の乗り換えはどこですか。",
+          "kana": "わかりました。ちゅうおうえきののりかえはどこですか。",
+          "zh": "明白了。中央站换乘在哪里？"
+        },
+        {
+          "speaker": "係",
+          "ja": "改札を出ないで、二番の乗り場へ行ってください。",
+          "kana": "かいさつをでないで、にばんののりばへいってください。",
+          "zh": "请不要出检票口，去二号乘车处。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l33-v01",
+      "word": "乗り換え",
+      "reading": "のりかえ",
+      "meaning": "换乘",
+      "pos": "名词",
+      "example": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+      "exampleMeaning": "请在中央站换乘北方向的各站停列车。",
+      "mastery": "active",
+      "audioId": "synth-word-47fba742a17b74c2"
+    },
+    {
+      "id": "l33-v02",
+      "word": "乗り場",
+      "reading": "のりば",
+      "meaning": "乘车处",
+      "pos": "名词",
+      "example": "改札を出ないで、二番の乗り場へ行ってください。",
+      "exampleMeaning": "请不要出检票口，去二号乘车处。",
+      "mastery": "active",
+      "audioId": "synth-word-e4e01e20a0095537"
+    },
+    {
+      "id": "l33-v03",
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "检票口",
+      "pos": "名词",
+      "example": "改札を出ないで、二番の乗り場へ行ってください。",
+      "exampleMeaning": "请不要出检票口，去二号乘车处。",
+      "mastery": "active",
+      "audioId": "synth-word-8a78ddca5101435d"
+    },
+    {
+      "id": "l33-v04",
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "出口",
+      "pos": "名词",
+      "example": "出口です。",
+      "exampleMeaning": "是出口。",
+      "mastery": "active",
+      "audioId": "synth-word-2b220718488e2390"
+    },
+    {
+      "id": "l33-v05",
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "方向",
+      "pos": "名词",
+      "example": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+      "exampleMeaning": "请在中央站换乘北方向的各站停列车。",
+      "mastery": "active",
+      "audioId": "synth-word-e08f1a6c2bf17542"
+    },
+    {
+      "id": "l33-v06",
+      "word": "各駅停車",
+      "reading": "かくえきていしゃ",
+      "meaning": "每站停的列车",
+      "pos": "名词",
+      "example": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+      "exampleMeaning": "请在中央站换乘北方向的各站停列车。",
+      "mastery": "active",
+      "audioId": "synth-word-47c4dbebcc143dd3"
+    },
+    {
+      "id": "l33-v07",
+      "word": "急行",
+      "reading": "きゅうこう",
+      "meaning": "急行",
+      "pos": "名词",
+      "example": "急行でもいいですか。",
+      "exampleMeaning": "急行也行吗？",
+      "mastery": "active",
+      "audioId": "synth-word-d9d8a2388b0502ec"
+    },
+    {
+      "id": "l33-v08",
+      "word": "遅れ",
+      "reading": "おくれ",
+      "meaning": "延误",
+      "pos": "名词",
+      "example": "電車は遅れていますか。",
+      "exampleMeaning": "电车晚点了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-f99fdfe0899b0596"
+    },
+    {
+      "id": "l33-v09",
+      "word": "右",
+      "reading": "みぎ",
+      "meaning": "右",
+      "pos": "名词",
+      "example": "右です。",
+      "exampleMeaning": "是右。",
+      "mastery": "active",
+      "audioId": "synth-word-904dffeec3cbf610"
+    },
+    {
+      "id": "l33-v10",
+      "word": "左",
+      "reading": "ひだり",
+      "meaning": "左",
+      "pos": "名词",
+      "example": "左です。",
+      "exampleMeaning": "是左。",
+      "mastery": "active",
+      "audioId": "synth-word-f63d87362a5ea5e4"
+    },
+    {
+      "id": "l33-v11",
+      "word": "まっすぐ",
+      "reading": "まっすぐ",
+      "meaning": "直行",
+      "pos": "副词",
+      "example": "まっすぐ行ってください。",
+      "exampleMeaning": "请直行。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f698cb8808a0ad18"
+    },
+    {
+      "id": "l33-v12",
+      "word": "曲がる",
+      "reading": "まがる",
+      "meaning": "转弯",
+      "pos": "一类动词",
+      "example": "右に曲がってください。",
+      "exampleMeaning": "请右转。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d124f1aed5a5104a"
+    },
+    {
+      "id": "l33-v13",
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "下车",
+      "pos": "二类动词",
+      "example": "次の駅で降ります。",
+      "exampleMeaning": "下一站下车。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b64c7737172548ad"
+    },
+    {
+      "id": "l33-v14",
+      "word": "乗り換える",
+      "reading": "のりかえる",
+      "meaning": "换乘",
+      "pos": "二类动词",
+      "example": "中央駅で乗り換えます。",
+      "exampleMeaning": "在中央站换乘。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ab1574e8812b3194"
+    },
+    {
+      "id": "l33-v15",
+      "word": "間に合う",
+      "reading": "まにあう",
+      "meaning": "赶得上",
+      "pos": "一类动词",
+      "example": "十時に間に合いますか。",
+      "exampleMeaning": "赶得上十点吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-9540cf6f7bdb7101"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l33-e1",
+      "ja": "北町へ行きたいです。ここから行けますか。",
+      "reading": "きたまちへいきたいです。ここからいけますか。",
+      "meaning": "想去北町，从这里能去吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-1989d6d91f3bffa5"
+    },
+    {
+      "id": "l33-e2",
+      "ja": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+      "reading": "ちゅうおうえきでのりかえて、きたほうめんのかくえきていしゃにのってください。",
+      "meaning": "请在中央站换乘北方向的各站停列车。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-dfe95c2b8b4af33b"
+    },
+    {
+      "id": "l33-e3",
+      "ja": "電車は遅れていますか。",
+      "reading": "でんしゃはおくれていますか。",
+      "meaning": "电车晚点了吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-b4981b6f7fae60e0"
+    },
+    {
+      "id": "l33-e4",
+      "ja": "はい、十分の遅れです。北町には十時二十分に着きます。",
+      "reading": "はい、じゅっぷんのおくれです。きたまちにはじゅうじにじゅっぷんにつきます。",
+      "meaning": "是的，晚十分钟，到北町是十点二十分。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c077adef6e7cd882"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l33-g1",
+      "title": "把路线拆成动作顺序",
+      "meaning": "识别换乘站、方向及上车动作",
+      "pattern": "駅で乗り換えて、方面の電車に乗ります",
+      "explanation": "换乘站用で，乘的车用に。读出到站、下车、换乘、出口等各步骤，不把终点误当换乘站。",
+      "examples": [
+        {
+          "ja": "中央駅で乗り換えて、北方面の電車に乗ります。",
+          "zh": "在中央站换乘，坐北方向列车。"
+        }
+      ],
+      "pitfall": "駅に乗り換えます混淆地点与目标；此处中央駅で。"
+    },
+    {
+      "id": "l33-g2",
+      "title": "方向确认与时刻再确认",
+      "meaning": "按照路径指示行动并在延误时核实到达时间",
+      "pattern": "出口を出て、右に曲がってください／何時に着きますか",
+      "explanation": "左右转的方向用に。延误几分钟不等于最终一定迟到：必须结合新的到达时间和预约时间。",
+      "examples": [
+        {
+          "ja": "出口を出て、左に曲がってください。",
+          "zh": "出出口后左转。"
+        }
+      ],
+      "pitfall": "急行并非每站停；没有停站信息时不要自行推断会停。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "乗り換え",
+          "reading": "のりかえ",
+          "zh": "换乘"
+        },
+        {
+          "ja": "乗り場",
+          "reading": "のりば",
+          "zh": "乘车处"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l33-r1",
+      "title": "北町までの道順",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "北町へ行くには、中央駅で乗り換えます。北方面の各駅停車に乗ってください。急行は北町に止まりません。中央駅では改札を出ないで、二番の乗り場へ行きます。今日は十分遅れています。北町への到着は十時二十分です。十時の約束には間に合いません。",
+      "zh": "去北町需要在中央站换乘北方向各站停列车。急行不停北町。在中央站不要出检票口，去二号乘车处。今天晚十分钟，到北町十点二十分，赶不上十点的约定。",
+      "audioId": "l33-reading-synth"
+    },
+    {
+      "id": "l33-r2",
+      "title": "駅から工房まで",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "さらさんは南駅で電車を降ります。東口を出て、まっすぐ五分歩きます。白い郵便局の前で左に曲がってください。右ではありません。工房は川の隣にあります。駅の西口からの道は、この案内にはありません。西口に出た時は、東口への行き方を確認してください。",
+      "zh": "莎拉在南站下车。从东口出，直走五分钟，在白色邮局前左转，不是右转。工房在河旁。这份指引没有西口的路线，若出到西口，先确认如何去东口。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l33-ex01",
+      "type": "choice",
+      "prompt": "北町へ行くためにどこで乗り換えますか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l33-dialogue-synth",
+      "choices": [
+        "中央駅",
+        "南駅",
+        "北町駅"
+      ],
+      "correctIndex": 0,
+      "explanation": "乗り換えは中央駅、目的地は北町。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l33-ri5"
+      ]
+    },
+    {
+      "id": "l33-ex02",
+      "type": "choice",
+      "prompt": "北町への列車と到着時刻の組合せはどれですか。",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l33-reading-synth",
+      "choices": [
+        "急行・十時",
+        "各駅停車・十時二十分",
+        "各駅停車・九時五十分"
+      ],
+      "correctIndex": 1,
+      "explanation": "急行は止まらず、遅れ後の到着は十時二十分。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex03",
+      "type": "choice",
+      "prompt": "北町へ行くためにどこで乗り換えますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "中央駅",
+        "南駅",
+        "北町駅"
+      ],
+      "correctIndex": 0,
+      "explanation": "乗り換えは中央駅、目的地は北町。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l33-ri5"
+      ]
+    },
+    {
+      "id": "l33-ex04",
+      "type": "choice",
+      "prompt": "北町への列車と到着時刻の組合せはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "急行・十時",
+        "各駅停車・十時二十分",
+        "各駅停車・九時五十分"
+      ],
+      "correctIndex": 1,
+      "explanation": "急行は止まらず、遅れ後の到着は十時二十分。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex05",
+      "type": "choice",
+      "prompt": "工房へ行く時、郵便局の前でどうしますか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "右に曲がる",
+        "電車に乗る",
+        "左に曲がる"
+      ],
+      "correctIndex": 2,
+      "explanation": "白い郵便局の前で左と明示。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex06",
+      "type": "choice",
+      "prompt": "西口に出た場合、本文が勧めるのはどれですか。",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "東口への行き方を確認する",
+        "右に五分歩く",
+        "すぐ川へ向かう"
+      ],
+      "correctIndex": 0,
+      "explanation": "西口ルートは不明、東口への行き方を確認する。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex07",
+      "type": "input",
+      "prompt": "「在中央站换乘」：中央駅____乗り換えます。",
+      "acceptedAnswers": [
+        "で"
+      ],
+      "explanation": "で标动作发生地。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l33-ri5"
+      ]
+    },
+    {
+      "id": "l33-ex08",
+      "type": "input",
+      "prompt": "「右转」：右____曲がってください。",
+      "acceptedAnswers": [
+        "に"
+      ],
+      "explanation": "に表示转向。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex09",
+      "type": "order",
+      "prompt": "用词块组成：在中央站换乘，坐北方向电车。",
+      "tokens": [
+        "乗り換えて、",
+        "北方面の電車に乗ります。",
+        "中央駅で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为中央駅で乗り換えて、北方面の電車に乗ります。；で标动作发生地。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l33-ri5",
+        "l33-ri9"
+      ]
+    },
+    {
+      "id": "l33-ex10",
+      "type": "order",
+      "prompt": "用词块组成：出出口后请直走。",
+      "tokens": [
+        "まっすぐ",
+        "行ってください。",
+        "出口を出て、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为出口を出て、まっすぐ行ってください。；に表示转向。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l33-ri8"
+      ]
+    },
+    {
+      "id": "l33-ex11",
+      "type": "self",
+      "prompt": "你的目的地是北町，不确定急行是否停站；问工作人员。",
+      "sampleAnswer": "この急行は北町に止まりますか。",
+      "explanation": "具体问停站，不把快车当一定可用。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex12",
+      "type": "self",
+      "prompt": "你原来约十点，现在确认十点二十分到；向朋友报告并道歉。",
+      "sampleAnswer": "すみません、電車が遅れています。十時二十分に着きます。",
+      "explanation": "给已确认的新到达时间，不能仍保证十点到。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex13",
+      "type": "self",
+      "prompt": "朋友出站后应左转；给出两步指示。",
+      "sampleAnswer": "出口を出て、左に曲がってください。",
+      "explanation": "て连接顺序，方向用に。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l33-ri8",
+        "l33-ri9"
+      ]
+    },
+    {
+      "id": "l33-ex14",
+      "type": "self",
+      "prompt": "你出错到西口，只有东口路线；向路人问东口在哪里。",
+      "sampleAnswer": "すみません、東口はどこですか。",
+      "explanation": "承认路径信息不足，先恢复到已知起点。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你的目的地是北町，不确定急行是否停站；问工作人员。",
+      "choices": [
+        "この急行は北町に止まりますか。",
+        "すみません、電車が遅れています。十時二十分に着きます。",
+        "出口を出て、左に曲がってください。"
+      ],
+      "correctIndex": 0,
+      "explanation": "具体问停站，不把快车当一定可用。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l33-ri8"
+      ]
+    },
+    {
+      "id": "l33-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你原来约十点，现在确认十点二十分到；向朋友报告并道歉。",
+      "choices": [
+        "出口を出て、左に曲がってください。",
+        "すみません、東口はどこですか。",
+        "すみません、電車が遅れています。十時二十分に着きます。"
+      ],
+      "correctIndex": 2,
+      "explanation": "给已确认的新到达时间，不能仍保证十点到。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l33-ri8"
+      ]
+    },
+    {
+      "id": "l33-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友出站后应左转；给出两步指示。",
+      "choices": [
+        "この急行は北町に止まりますか。",
+        "出口を出て、左に曲がってください。",
+        "すみません、東口はどこですか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "て连接顺序，方向用に。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l33-ri8",
+        "l33-ri9"
+      ]
+    },
+    {
+      "id": "l33-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你出错到西口，只有东口路线；向路人问东口在哪里。",
+      "choices": [
+        "すみません、東口はどこですか。",
+        "この急行は北町に止まりますか。",
+        "すみません、電車が遅れています。十時二十分に着きます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "承认路径信息不足，先恢复到已知起点。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex19",
+      "type": "self",
+      "prompt": "读例句「中央駅で乗り換えて、北方面の各駅停車に乗ってください。」。先不看词表，用中文说明「乗り換え」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "换乘",
+      "explanation": "本课这里表示“换乘”。例句意思是：请在中央站换乘北方向的各站停列车。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l33-ri2",
+        "l33-ri5",
+        "l33-ri9"
+      ]
+    },
+    {
+      "id": "l33-ex20",
+      "type": "self",
+      "prompt": "读例句「出口です。」。先不看词表，用中文说明「出口」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "出口",
+      "explanation": "本课这里表示“出口”。例句意思是：是出口。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l33-ri8"
+      ]
+    },
+    {
+      "id": "l33-ex21",
+      "type": "self",
+      "prompt": "读例句「急行でもいいですか。」。先不看词表，用中文说明「急行」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "急行",
+      "explanation": "本课这里表示“急行”。例句意思是：急行也行吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l33-ex22",
+      "type": "self",
+      "prompt": "读例句「左です。」。先不看词表，用中文说明「左」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "左",
+      "explanation": "本课这里表示“左”。例句意思是：是左。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l33-ri1",
+      "front": "想去北町，从这里能去吗？",
+      "back": "北町へ行きたいです。ここから行けますか。",
+      "reading": "きたまちへいきたいです。ここからいけますか。",
+      "audioId": "synth-word-1989d6d91f3bffa5",
+      "kind": "expression"
+    },
+    {
+      "id": "l33-ri2",
+      "front": "请在中央站换乘北方向的各站停列车。",
+      "back": "中央駅で乗り換えて、北方面の各駅停車に乗ってください。",
+      "reading": "ちゅうおうえきでのりかえて、きたほうめんのかくえきていしゃにのってください。",
+      "audioId": "synth-word-dfe95c2b8b4af33b",
+      "kind": "expression"
+    },
+    {
+      "id": "l33-ri3",
+      "front": "电车晚点了吗？",
+      "back": "電車は遅れていますか。",
+      "reading": "でんしゃはおくれていますか。",
+      "audioId": "synth-word-b4981b6f7fae60e0",
+      "kind": "expression"
+    },
+    {
+      "id": "l33-ri4",
+      "front": "是的，晚十分钟，到北町是十点二十分。",
+      "back": "はい、十分の遅れです。北町には十時二十分に着きます。",
+      "reading": "はい、じゅっぷんのおくれです。きたまちにはじゅうじにじゅっぷんにつきます。",
+      "audioId": "synth-word-c077adef6e7cd882",
+      "kind": "expression"
+    },
+    {
+      "id": "l33-ri5",
+      "front": "乗り換え在本课是什么意思？",
+      "back": "换乘",
+      "reading": "のりかえ",
+      "audioId": "synth-word-47fba742a17b74c2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l33-ri6",
+      "front": "乗り場在本课是什么意思？",
+      "back": "乘车处",
+      "reading": "のりば",
+      "audioId": "synth-word-e4e01e20a0095537",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l33-ri7",
+      "front": "改札在本课是什么意思？",
+      "back": "检票口",
+      "reading": "かいさつ",
+      "audioId": "synth-word-8a78ddca5101435d",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l33-ri8",
+      "front": "出口在本课是什么意思？",
+      "back": "出口",
+      "reading": "でぐち",
+      "audioId": "synth-word-2b220718488e2390",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l33-ri9",
+      "front": "方面在本课是什么意思？",
+      "back": "方向",
+      "reading": "ほうめん",
+      "audioId": "synth-word-e08f1a6c2bf17542",
+      "kind": "vocabulary"
+    }
+  ]
+}

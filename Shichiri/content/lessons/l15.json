@@ -1,0 +1,957 @@
+{
+  "id": "l15",
+  "number": 15,
+  "moduleId": "m3",
+  "title": "比较选项与询问推荐",
+  "subtitle": "按距离、价格和个人偏好比较不同去处。",
+  "revision": 2,
+  "goals": [
+    "指出比较基准与更符合性质的选项。",
+    "在明确范围内说最符合的选项。",
+    "在『选交通方式』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第14课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「比较选项与询问推荐」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l15-ex01",
+        "l15-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「选交通方式」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「三种交通方案」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「比较选项与询问推荐」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l15-ex19",
+        "l15-ex20",
+        "l15-ex21",
+        "l15-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到近い、遠い、早い、速い，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用駅へはバスと電車、どちらが速いですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「比较选项与询问推荐」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l15-ex07",
+        "l15-ex08",
+        "l15-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「两项比较」「范围内最高程度」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「比较选项与询问推荐」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l15-ex02",
+        "l15-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「比较选项与询问推荐」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l15-ex04",
+        "l15-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「三种交通方案」与「两家住宿」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「比较选项与询问推荐」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l15-ex11",
+        "l15-ex12",
+        "l15-ex13",
+        "l15-ex14",
+        "l15-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「比较选项与询问推荐」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l15-ex06",
+        "l15-ex10",
+        "l15-ex17",
+        "l15-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l15-ext10",
+      "title": "比较选项与询问推荐 · 10分钟迁移",
+      "instructions": "先听『选交通方式』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l15-ext15",
+      "title": "比较选项与询问推荐 · 15分钟迁移",
+      "instructions": "读『三种交通方案』与『两家住宿』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：你重视价格，按三个方案选择并给理由。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l15-ext25",
+      "title": "比较选项与询问推荐 · 25分钟迁移",
+      "instructions": "用5分钟听『选交通方式』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：想知道安静程度，写追问。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l15-ex13",
+        "l15-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『选交通方式』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『三种交通方案』与变体材料的条件。",
+    "关闭说明后，能在情境中使用AよりBが形容词です及范围で＋いちばん，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l15-d01",
+      "title": "选交通方式",
+      "context": "只比较当前这两个交通方案。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l15-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "駅へはバスと電車、どちらが速いですか。",
+          "kana": "えきへはバスとでんしゃ、どちらがはやいですか。",
+          "zh": "去车站公交和电车哪个快？"
+        },
+        {
+          "speaker": "係",
+          "ja": "バスより電車が速いです。",
+          "kana": "バスよりでんしゃがはやいです。",
+          "zh": "电车比公交快。"
+        },
+        {
+          "speaker": "客",
+          "ja": "料金はどうですか。",
+          "kana": "りょうきんはどうですか。",
+          "zh": "费用呢？"
+        },
+        {
+          "speaker": "係",
+          "ja": "電車よりバスが安いです。",
+          "kana": "でんしゃよりバスがやすいです。",
+          "zh": "公交比电车便宜。"
+        },
+        {
+          "speaker": "客",
+          "ja": "時間が大切です。",
+          "kana": "じかんがたいせつです。",
+          "zh": "时间重要。"
+        },
+        {
+          "speaker": "係",
+          "ja": "では、電車がおすすめです。",
+          "kana": "では、でんしゃがおすすめです。",
+          "zh": "那么推荐电车。"
+        },
+        {
+          "speaker": "客",
+          "ja": "電車にします。",
+          "kana": "でんしゃにします。",
+          "zh": "我选电车。"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、駅はあそこです。",
+          "kana": "はい、えきはあそこです。",
+          "zh": "好，车站在那边。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l15-v01",
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "近",
+      "pos": "い形容词",
+      "example": "駅は近いです。",
+      "exampleMeaning": "车站近。",
+      "mastery": "active",
+      "audioId": "synth-word-d4f070b68e19798f"
+    },
+    {
+      "id": "l15-v02",
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "远",
+      "pos": "い形容词",
+      "example": "空港は遠いです。",
+      "exampleMeaning": "机场远。",
+      "mastery": "active",
+      "audioId": "synth-word-ac71d7b5b650951a"
+    },
+    {
+      "id": "l15-v03",
+      "word": "早い",
+      "reading": "はやい",
+      "meaning": "早",
+      "pos": "い形容词",
+      "example": "朝は早いです。",
+      "exampleMeaning": "早晨很早。",
+      "mastery": "active",
+      "audioId": "synth-word-dd796e8b5e18a03f"
+    },
+    {
+      "id": "l15-v04",
+      "word": "速い",
+      "reading": "はやい",
+      "meaning": "速度快",
+      "pos": "い形容词",
+      "example": "電車は速いです。",
+      "exampleMeaning": "电车快。",
+      "mastery": "active",
+      "audioId": "synth-word-dd796e8b5e18a03f"
+    },
+    {
+      "id": "l15-v05",
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "晚、慢",
+      "pos": "い形容词",
+      "example": "バスは遅いです。",
+      "exampleMeaning": "公交慢。",
+      "mastery": "active",
+      "audioId": "synth-word-60afd1eec2d35d4f"
+    },
+    {
+      "id": "l15-v06",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "便宜",
+      "pos": "い形容词",
+      "example": "電車よりバスが安いです。",
+      "exampleMeaning": "公交比电车便宜。",
+      "mastery": "active",
+      "audioId": "synth-word-5ffc4b6d38ddbfb8"
+    },
+    {
+      "id": "l15-v07",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "贵",
+      "pos": "い形容词",
+      "example": "高い。",
+      "exampleMeaning": "贵。",
+      "mastery": "active",
+      "audioId": "synth-word-e66b111a455e6b89"
+    },
+    {
+      "id": "l15-v08",
+      "word": "より",
+      "reading": "より",
+      "meaning": "比",
+      "pos": "助词",
+      "example": "バスより電車が速いです。",
+      "exampleMeaning": "电车比公交快。",
+      "mastery": "active",
+      "audioId": "synth-word-f2ca9727755481bb"
+    },
+    {
+      "id": "l15-v09",
+      "word": "いちばん",
+      "reading": "いちばん",
+      "meaning": "最",
+      "pos": "副词",
+      "example": "これがいちばん安いです。",
+      "exampleMeaning": "这个最便宜。",
+      "mastery": "active",
+      "audioId": "synth-word-a3ed321142163adc"
+    },
+    {
+      "id": "l15-v10",
+      "word": "おすすめ",
+      "reading": "おすすめ",
+      "meaning": "推荐",
+      "pos": "名词",
+      "example": "では、電車がおすすめです。",
+      "exampleMeaning": "那么推荐电车。",
+      "mastery": "active",
+      "audioId": "synth-word-06268a6abfb6b847"
+    },
+    {
+      "id": "l15-v11",
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "酒店",
+      "pos": "名词",
+      "example": "ホテルです。",
+      "exampleMeaning": "是酒店。",
+      "mastery": "recognition",
+      "audioId": "synth-word-4571b65e12c2af2e"
+    },
+    {
+      "id": "l15-v12",
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaning": "日式旅馆",
+      "pos": "名词",
+      "example": "旅館です。",
+      "exampleMeaning": "是日式旅馆。",
+      "mastery": "recognition",
+      "audioId": "synth-word-35b57bbeff86cd85"
+    },
+    {
+      "id": "l15-v13",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "料金はどうですか。",
+      "exampleMeaning": "费用呢？",
+      "mastery": "recognition",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l15-v14",
+      "word": "距離",
+      "reading": "きょり",
+      "meaning": "距离",
+      "pos": "名词",
+      "example": "距離です。",
+      "exampleMeaning": "是距离。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7e0bcf09e796e8b2"
+    },
+    {
+      "id": "l15-v15",
+      "word": "どちら",
+      "reading": "どちら",
+      "meaning": "哪一个，两者之一",
+      "pos": "疑问词",
+      "example": "駅へはバスと電車、どちらが速いですか。",
+      "exampleMeaning": "去车站公交和电车哪个快？",
+      "mastery": "recognition",
+      "audioId": "synth-word-d338624923dfb2c3"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l15-e1",
+      "ja": "駅へはバスと電車、どちらが速いですか。",
+      "reading": "えきへはバスとでんしゃ、どちらがはやいですか。",
+      "meaning": "去车站公交和电车哪个快？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-036a63da9ad80bad"
+    },
+    {
+      "id": "l15-e2",
+      "ja": "バスより電車が速いです。",
+      "reading": "バスよりでんしゃがはやいです。",
+      "meaning": "电车比公交快。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-85185001f947c795"
+    },
+    {
+      "id": "l15-e3",
+      "ja": "時間が大切です。",
+      "reading": "じかんがたいせつです。",
+      "meaning": "时间重要。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-33666aa8f383205f"
+    },
+    {
+      "id": "l15-e4",
+      "ja": "では、電車がおすすめです。",
+      "reading": "では、でんしゃがおすすめです。",
+      "meaning": "那么推荐电车。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-62acff93a9a796a5"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l15-g1",
+      "title": "两项比较",
+      "meaning": "指出比较基准与更符合性质的选项。",
+      "pattern": "AよりBが形容词です",
+      "explanation": "より后面的B是被评价更…的一项；不要只按出现顺序判断。",
+      "examples": [
+        {
+          "ja": "バスより電車が速いです。",
+          "zh": "电车比公交快。"
+        }
+      ],
+      "pitfall": "速い是速度快，早い是时刻早。"
+    },
+    {
+      "id": "l15-g2",
+      "title": "范围内最高程度",
+      "meaning": "在明确范围内说最符合的选项。",
+      "pattern": "范围で＋いちばん",
+      "explanation": "いちばん需要比较范围；三个方案中最便宜不表示全城最便宜。",
+      "examples": [
+        {
+          "ja": "この三つではAがいちばん安いです。",
+          "zh": "这三个中A最便宜。"
+        }
+      ],
+      "pitfall": "不要把限定范围扩大。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "近い",
+          "reading": "ちかい",
+          "zh": "近"
+        },
+        {
+          "ja": "遠い",
+          "reading": "とおい",
+          "zh": "远"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l15-r1",
+      "title": "三种交通方案",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "駅への方法は三つです。Aのバスは二百円です。Bの電車は三百円です。Cのタクシーは千円です。Aがいちばん安いです。でも、AよりBが速いです。客は時間が大切です。Bにします。料金だけの比較ではありません。",
+      "zh": "到站有三个方案：A公交200、B电车300、C出租1000日元。A最便宜，但B比A快。客人重视时间，选B，不仅按费用比较。千读せん。",
+      "audioId": "l15-reading-synth"
+    },
+    {
+      "id": "l15-r2",
+      "title": "两家住宿",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "青いホテルと白い旅館があります。ホテルは駅に近いです。旅館はホテルより遠いです。でも、旅館の部屋はホテルより大きいです。料金は同じです。静かですか。それはこの案内にはありません。駅の近さと部屋の大きさは別の条件です。",
+      "zh": "有蓝酒店和白旅馆。酒店近车站，旅馆更远，但旅馆房间更大，价格相同。说明没有说是否安静。青い、白い、案内、別为支持词。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l15-ex01",
+      "type": "choice",
+      "prompt": "客人最后选什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l15-dialogue-synth",
+      "choices": [
+        "公交",
+        "电车",
+        "出租"
+      ],
+      "correctIndex": 1,
+      "explanation": "电车快且客人重视时间。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex02",
+      "type": "choice",
+      "prompt": "三个方案哪个最便宜？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l15-reading-synth",
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aがいちばん安い。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex03",
+      "type": "choice",
+      "prompt": "客人最后选什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "公交",
+        "电车",
+        "出租"
+      ],
+      "correctIndex": 1,
+      "explanation": "电车快且客人重视时间。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex04",
+      "type": "choice",
+      "prompt": "三个方案哪个最便宜？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aがいちばん安い。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex05",
+      "type": "choice",
+      "prompt": "哪家房间更大？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "旅馆",
+        "酒店",
+        "一样"
+      ],
+      "correctIndex": 0,
+      "explanation": "旅館の部屋は…大きい。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex06",
+      "type": "choice",
+      "prompt": "住宿说明未给什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "离车站距离比较",
+        "房间大小比较",
+        "是否安静"
+      ],
+      "correctIndex": 2,
+      "explanation": "没有安静程度信息。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex07",
+      "type": "input",
+      "prompt": "填比较助词：バス＿＿電車が速いです。",
+      "acceptedAnswers": [
+        "より",
+        "よりも"
+      ],
+      "explanation": "より标基准。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l15-ri8"
+      ]
+    },
+    {
+      "id": "l15-ex08",
+      "type": "input",
+      "prompt": "补“最”：これが＿＿安いです。",
+      "acceptedAnswers": [
+        "いちばん",
+        "一番"
+      ],
+      "explanation": "いちばん表示范围内最。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex09",
+      "type": "order",
+      "prompt": "用词块组成：电车比公交快。",
+      "tokens": [
+        "電車が",
+        "速いです。",
+        "バスより"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为バスより電車が速いです。；より标基准。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l15-ri2",
+        "l15-ri8"
+      ]
+    },
+    {
+      "id": "l15-ex10",
+      "type": "order",
+      "prompt": "用词块组成：这些中A最便宜。",
+      "tokens": [
+        "Aが",
+        "いちばん安いです。",
+        "この中で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为この中でAがいちばん安いです。；いちばん表示范围内最。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex11",
+      "type": "self",
+      "prompt": "你重视价格，按三个方案选择并给理由。",
+      "sampleAnswer": "Aにします。Aがいちばん安いです。",
+      "explanation": "限定在材料范围。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex12",
+      "type": "self",
+      "prompt": "问两家哪个近。",
+      "sampleAnswer": "どちらが近いですか。",
+      "explanation": "明确比较性质。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri5"
+      ]
+    },
+    {
+      "id": "l15-ex13",
+      "type": "self",
+      "prompt": "说明旅馆更远。",
+      "sampleAnswer": "ホテルより旅館が遠いです。",
+      "explanation": "保持比较方向。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri6"
+      ]
+    },
+    {
+      "id": "l15-ex14",
+      "type": "self",
+      "prompt": "想知道安静程度，写追问。",
+      "sampleAnswer": "静かですか。",
+      "explanation": "不凭便宜推断安静。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你重视价格，按三个方案选择并给理由。",
+      "choices": [
+        "Aにします。Aがいちばん安いです。",
+        "どちらが近いですか。",
+        "ホテルより旅館が遠いです。"
+      ],
+      "correctIndex": 0,
+      "explanation": "限定在材料范围。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri5",
+        "l15-ri6"
+      ]
+    },
+    {
+      "id": "l15-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问两家哪个近。",
+      "choices": [
+        "ホテルより旅館が遠いです。",
+        "静かですか。",
+        "どちらが近いですか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "明确比较性质。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri5",
+        "l15-ri6"
+      ]
+    },
+    {
+      "id": "l15-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明旅馆更远。",
+      "choices": [
+        "Aにします。Aがいちばん安いです。",
+        "ホテルより旅館が遠いです。",
+        "静かですか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "保持比较方向。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri6"
+      ]
+    },
+    {
+      "id": "l15-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：想知道安静程度，写追问。",
+      "choices": [
+        "静かですか。",
+        "Aにします。Aがいちばん安いです。",
+        "どちらが近いですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不凭便宜推断安静。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l15-ri5"
+      ]
+    },
+    {
+      "id": "l15-ex19",
+      "type": "self",
+      "prompt": "读例句「駅は近いです。」。先不看词表，用中文说明「近い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "近",
+      "explanation": "本课这里表示“近”。例句意思是：车站近。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l15-ri5"
+      ]
+    },
+    {
+      "id": "l15-ex20",
+      "type": "self",
+      "prompt": "读例句「電車は速いです。」。先不看词表，用中文说明「速い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "速度快",
+      "explanation": "本课这里表示“速度快”。例句意思是：电车快。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l15-ri8"
+      ]
+    },
+    {
+      "id": "l15-ex21",
+      "type": "self",
+      "prompt": "读例句「高い。」。先不看词表，用中文说明「高い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "贵",
+      "explanation": "本课这里表示“贵”。例句意思是：贵。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l15-ex22",
+      "type": "self",
+      "prompt": "读例句「では、電車がおすすめです。」。先不看词表，用中文说明「おすすめ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "推荐",
+      "explanation": "本课这里表示“推荐”。例句意思是：那么推荐电车。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l15-ri4"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l15-ri1",
+      "front": "去车站公交和电车哪个快？",
+      "back": "駅へはバスと電車、どちらが速いですか。",
+      "reading": "えきへはバスとでんしゃ、どちらがはやいですか。",
+      "audioId": "synth-word-036a63da9ad80bad",
+      "kind": "expression"
+    },
+    {
+      "id": "l15-ri2",
+      "front": "电车比公交快。",
+      "back": "バスより電車が速いです。",
+      "reading": "バスよりでんしゃがはやいです。",
+      "audioId": "synth-word-85185001f947c795",
+      "kind": "expression"
+    },
+    {
+      "id": "l15-ri3",
+      "front": "时间重要。",
+      "back": "時間が大切です。",
+      "reading": "じかんがたいせつです。",
+      "audioId": "synth-word-33666aa8f383205f",
+      "kind": "expression"
+    },
+    {
+      "id": "l15-ri4",
+      "front": "那么推荐电车。",
+      "back": "では、電車がおすすめです。",
+      "reading": "では、でんしゃがおすすめです。",
+      "audioId": "synth-word-62acff93a9a796a5",
+      "kind": "expression"
+    },
+    {
+      "id": "l15-ri5",
+      "front": "近い在本课是什么意思？",
+      "back": "近",
+      "reading": "ちかい",
+      "audioId": "synth-word-d4f070b68e19798f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l15-ri6",
+      "front": "遠い在本课是什么意思？",
+      "back": "远",
+      "reading": "とおい",
+      "audioId": "synth-word-ac71d7b5b650951a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l15-ri7",
+      "front": "早い在本课是什么意思？",
+      "back": "早",
+      "reading": "はやい",
+      "audioId": "synth-word-dd796e8b5e18a03f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l15-ri8",
+      "front": "速い在本课是什么意思？",
+      "back": "速度快",
+      "reading": "はやい",
+      "audioId": "synth-word-dd796e8b5e18a03f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l15-ri9",
+      "front": "遅い在本课是什么意思？",
+      "back": "晚、慢",
+      "reading": "おそい",
+      "audioId": "synth-word-60afd1eec2d35d4f",
+      "kind": "vocabulary"
+    }
+  ]
+}

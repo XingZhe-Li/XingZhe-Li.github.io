@@ -1,0 +1,984 @@
+{
+  "id": "l38",
+  "number": 38,
+  "moduleId": "m8",
+  "title": "交换兴趣、推荐与看法",
+  "subtitle": "把推荐理由与对方真正的偏好联系起来。",
+  "revision": 2,
+  "goals": [
+    "理解兴趣、推荐理由与选择条件。",
+    "区分个人意见和仍需查询的事实。",
+    "结合偏好与限制提出推荐和追问。"
+  ],
+  "prerequisites": [
+    "理解第37课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「交换兴趣、推荐与看法」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l38-ex01",
+        "l38-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「选一场周末演出」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「二つの音楽の楽しみ方」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「交换兴趣、推荐与看法」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l38-ex19",
+        "l38-ex20",
+        "l38-ex21",
+        "l38-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到音楽、公演、人気、ホール，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用音楽が好きです。おすすめの公演はありますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「交换兴趣、推荐与看法」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l38-ex07",
+        "l38-ex08",
+        "l38-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「表达有依据的个人看法」「在同一维度比较」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「交换兴趣、推荐与看法」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l38-ex02",
+        "l38-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「交换兴趣、推荐与看法」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l38-ex04",
+        "l38-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「二つの音楽の楽しみ方」与「字幕のある上映を選ぶ」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「交换兴趣、推荐与看法」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l38-ex11",
+        "l38-ex12",
+        "l38-ex13",
+        "l38-ex14",
+        "l38-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「交换兴趣、推荐与看法」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l38-ex06",
+        "l38-ex10",
+        "l38-ex17",
+        "l38-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l38-ext10",
+      "title": "交换兴趣、推荐与看法 · 10分钟迁移",
+      "instructions": "用10分钟重读「二つの音楽の楽しみ方」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l38-ext15",
+      "title": "交换兴趣、推荐与看法 · 15分钟迁移",
+      "instructions": "用15分钟把「字幕のある上映を選ぶ」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l38-ext25",
+      "title": "交换兴趣、推荐与看法 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l38-ex13",
+        "l38-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l38-d01",
+      "title": "选一场周末演出",
+      "context": "林希望安静听音乐，朋友正在调整推荐。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l38-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "真央",
+          "ja": "週末、何か見たいものがありますか。",
+          "kana": "しゅうまつ、なにかみたいものがありますか。",
+          "zh": "周末有想看的吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "音楽が好きです。おすすめの公演はありますか。",
+          "kana": "おんがくがすきです。おすすめのこうえんはありますか。",
+          "zh": "我喜欢音乐，有推荐的演出吗？"
+        },
+        {
+          "speaker": "真央",
+          "ja": "駅前のライブは人気があります。",
+          "kana": "えきまえのらいぶはにんきがあります。",
+          "zh": "站前的现场演出很受欢迎。"
+        },
+        {
+          "speaker": "林",
+          "ja": "にぎやかな場所ですか。静かに聴きたいです。",
+          "kana": "にぎやかなばしょですか。しずかにききたいです。",
+          "zh": "那边热闹吗？我想安静地听。"
+        },
+        {
+          "speaker": "真央",
+          "ja": "小さなホールの演奏会のほうが合うと思います。",
+          "kana": "ちいさなほーるのえんそうかいのほうがあうとおもいます。",
+          "zh": "我觉得小音乐厅的音乐会更适合。"
+        },
+        {
+          "speaker": "林",
+          "ja": "どんな楽器の演奏ですか。",
+          "kana": "どんながっきのえんそうですか。",
+          "zh": "什么乐器的演奏？"
+        },
+        {
+          "speaker": "真央",
+          "ja": "ピアノです。料金はライブより少し高いです。",
+          "kana": "ぴあのです。りょうきんはらいぶよりすこしたかいです。",
+          "zh": "钢琴。费用比现场演出稍高。"
+        },
+        {
+          "speaker": "林",
+          "ja": "予算は三千円です。チケットはまだありますか。",
+          "kana": "よさんはさんぜんえんです。ちけっとはまだありますか。",
+          "zh": "预算三千日元，还有票吗？"
+        },
+        {
+          "speaker": "真央",
+          "ja": "それは一緒に調べましょう。",
+          "kana": "それはいっしょにしらべましょう。",
+          "zh": "那个一起查吧。"
+        },
+        {
+          "speaker": "林",
+          "ja": "ありがとうございます。値段だけでなく、内容も見ます。",
+          "kana": "ありがとうございます。ねだんだけでなく、ないようもみます。",
+          "zh": "谢谢，我不只看价格，也看内容。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l38-v01",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "音乐",
+      "pos": "名词",
+      "example": "音楽が好きです。おすすめの公演はありますか。",
+      "exampleMeaning": "我喜欢音乐，有推荐的演出吗？",
+      "mastery": "active",
+      "audioId": "synth-word-63bb32c8b29adc03"
+    },
+    {
+      "id": "l38-v02",
+      "word": "公演",
+      "reading": "こうえん",
+      "meaning": "演出",
+      "pos": "名词",
+      "example": "音楽が好きです。おすすめの公演はありますか。",
+      "exampleMeaning": "我喜欢音乐，有推荐的演出吗？",
+      "mastery": "active",
+      "audioId": "synth-word-0f8fc249c2ad7f4b"
+    },
+    {
+      "id": "l38-v03",
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "受欢迎",
+      "pos": "名词",
+      "example": "駅前のライブは人気があります。",
+      "exampleMeaning": "站前的现场演出很受欢迎。",
+      "mastery": "active",
+      "audioId": "synth-word-ae39f9013f845f9e"
+    },
+    {
+      "id": "l38-v04",
+      "word": "ホール",
+      "reading": "ほーる",
+      "meaning": "音乐厅",
+      "pos": "名词",
+      "example": "小さなホールの演奏会のほうが合うと思います。",
+      "exampleMeaning": "我觉得小音乐厅的音乐会更适合。",
+      "mastery": "active",
+      "audioId": "synth-word-3b09ce42772dea2e"
+    },
+    {
+      "id": "l38-v05",
+      "word": "演奏会",
+      "reading": "えんそうかい",
+      "meaning": "音乐会",
+      "pos": "名词",
+      "example": "小さなホールの演奏会のほうが合うと思います。",
+      "exampleMeaning": "我觉得小音乐厅的音乐会更适合。",
+      "mastery": "active",
+      "audioId": "synth-word-39a79ddd648b192b"
+    },
+    {
+      "id": "l38-v06",
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "乐器",
+      "pos": "名词",
+      "example": "どんな楽器の演奏ですか。",
+      "exampleMeaning": "什么乐器的演奏？",
+      "mastery": "active",
+      "audioId": "synth-word-93555d5a72119cdd"
+    },
+    {
+      "id": "l38-v07",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "费用",
+      "pos": "名词",
+      "example": "ピアノです。料金はライブより少し高いです。",
+      "exampleMeaning": "钢琴。费用比现场演出稍高。",
+      "mastery": "active",
+      "audioId": "synth-word-83c57f940ed561b1"
+    },
+    {
+      "id": "l38-v08",
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "预算",
+      "pos": "名词",
+      "example": "予算は三千円です。チケットはまだありますか。",
+      "exampleMeaning": "预算三千日元，还有票吗？",
+      "mastery": "active",
+      "audioId": "synth-word-36d74dfe1410f3a8"
+    },
+    {
+      "id": "l38-v09",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "内容",
+      "pos": "名词",
+      "example": "ありがとうございます。値段だけでなく、内容も見ます。",
+      "exampleMeaning": "谢谢，我不只看价格，也看内容。",
+      "mastery": "active",
+      "audioId": "synth-word-fbd7f1150802c72a"
+    },
+    {
+      "id": "l38-v10",
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "电影",
+      "pos": "名词",
+      "example": "友達は新しい映画をすすめました。",
+      "exampleMeaning": "朋友推荐新电影。",
+      "mastery": "active",
+      "audioId": "synth-word-2020a7bf04ecc882"
+    },
+    {
+      "id": "l38-v11",
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "作品",
+      "pos": "名词",
+      "example": "同じ作品でも、好みによって楽しみ方が違います。",
+      "exampleMeaning": "同一作品也会因偏好而有不同欣赏方式。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b42a180351c13c98"
+    },
+    {
+      "id": "l38-v12",
+      "word": "字幕",
+      "reading": "じまく",
+      "meaning": "字幕",
+      "pos": "名词",
+      "example": "字幕のある上映を選んで、感想は後で話すことにしました。",
+      "exampleMeaning": "我选了有字幕的场次，之后再聊感想。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0096c82a40598063"
+    },
+    {
+      "id": "l38-v13",
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "场地",
+      "pos": "名词",
+      "example": "小さなホールの演奏会は少し高いですが、落ち着いた会場です。",
+      "exampleMeaning": "小音乐厅音乐会稍贵，但场地安静。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5a8d0ec165e5d804"
+    },
+    {
+      "id": "l38-v14",
+      "word": "好み",
+      "reading": "このみ",
+      "meaning": "偏好",
+      "pos": "名词",
+      "example": "同じ作品でも、好みによって楽しみ方が違います。",
+      "exampleMeaning": "同一作品也会因偏好而有不同欣赏方式。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a113e4abd12afd3d"
+    },
+    {
+      "id": "l38-v15",
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "感想",
+      "pos": "名词",
+      "example": "字幕のある上映を選んで、感想は後で話すことにしました。",
+      "exampleMeaning": "我选了有字幕的场次，之后再聊感想。",
+      "mastery": "recognition",
+      "audioId": "synth-word-17b614c3a8e910c2"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l38-e1",
+      "ja": "音楽が好きです。おすすめの公演はありますか。",
+      "reading": "おんがくがすきです。おすすめのこうえんはありますか。",
+      "meaning": "我喜欢音乐，有推荐的演出吗？",
+      "usage": "说明兴趣后请求推荐",
+      "audioId": "synth-word-af5ab0d9a3aab018"
+    },
+    {
+      "id": "l38-e2",
+      "ja": "にぎやかな場所ですか。静かに聴きたいです。",
+      "reading": "にぎやかなばしょですか。しずかにききたいです。",
+      "meaning": "那边热闹吗？我想安静地听。",
+      "usage": "补充偏好来修正选择",
+      "audioId": "synth-word-428c88b6fac2bd2a"
+    },
+    {
+      "id": "l38-e3",
+      "ja": "小さなホールの演奏会のほうが合うと思います。",
+      "reading": "ちいさなほーるのえんそうかいのほうがあうとおもいます。",
+      "meaning": "我觉得小音乐厅的音乐会更适合。",
+      "usage": "依据对方条件给出个人判断",
+      "audioId": "synth-word-63fa56c827bc741f"
+    },
+    {
+      "id": "l38-e4",
+      "ja": "それは一緒に調べましょう。",
+      "reading": "それはいっしょにしらべましょう。",
+      "meaning": "那个一起查吧。",
+      "usage": "提出核实尚未确定的信息",
+      "audioId": "synth-word-1e0fc09b0c0b3bd5"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l38-g1",
+      "title": "表达有依据的个人看法",
+      "meaning": "把意见与确定事实分开。",
+      "pattern": "普通形＋と思います。",
+      "explanation": "判断要有依据；库存等事实仍需查询。",
+      "examples": [
+        {
+          "ja": "この公演が合うと思います。",
+          "zh": "我觉得这场演出适合。"
+        },
+        {
+          "ja": "静かな会場がいいと思います。",
+          "zh": "我觉得安静场地更好。"
+        }
+      ],
+      "pitfall": "个人判断不等于已经核实的事实。"
+    },
+    {
+      "id": "l38-g2",
+      "title": "在同一维度比较",
+      "meaning": "让价格、距离或环境的比较清楚。",
+      "pattern": "AよりBのほうが〜。",
+      "explanation": "便宜只是一个维度，不自动代表适合所有人。",
+      "examples": [
+        {
+          "ja": "ライブより演奏会のほうが静かです。",
+          "zh": "音乐会比现场演出安静。"
+        },
+        {
+          "ja": "内容を見てから決めます。",
+          "zh": "看过内容后决定。"
+        }
+      ],
+      "pitfall": "不要把更便宜扩大成各方面更好。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "音楽",
+          "reading": "おんがく",
+          "zh": "音乐"
+        },
+        {
+          "ja": "公演",
+          "reading": "こうえん",
+          "zh": "演出"
+        },
+        {
+          "ja": "人気",
+          "reading": "にんき",
+          "zh": "受欢迎"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l38-r1",
+      "title": "二つの音楽の楽しみ方",
+      "context": "找出推荐的依据和仍未知的信息。",
+      "ja": "林さんは音楽が好きですが、静かに聴くことを大切にしています。駅前のライブは料金が安くて人気があります。小さなホールの演奏会は少し高いですが、落ち着いた会場です。真央さんは後者が林さんに合うと思いました。ただし、チケットの残りはまだ確認していません。",
+      "zh": "林喜欢音乐，但重视安静地听。站前现场演出便宜又受欢迎。小音乐厅音乐会稍贵，但场地安静。真央觉得后者适合林。但还未确认余票。",
+      "audioId": "l38-reading-synth"
+    },
+    {
+      "id": "l38-r2",
+      "title": "字幕のある上映を選ぶ",
+      "context": "同一作品也可选择不同欣赏方式。",
+      "ja": "友達は新しい映画をすすめました。私は速い日本語の会話が少し苦手です。字幕のある上映を選んで、感想は後で話すことにしました。同じ作品でも、好みによって楽しみ方が違います。すすめられた理由を聞いて、自分に合う方法を考えたいです。",
+      "zh": "朋友推荐新电影。我不擅长理解快速日语对话。我选了有字幕的场次，之后再聊感想。同一作品也会因偏好而有不同欣赏方式。我想问推荐理由，再考虑适合自己的方式。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l38-ex01",
+      "type": "choice",
+      "prompt": "林最重视什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l38-dialogue-synth",
+      "choices": [
+        "最低价格",
+        "安静地听",
+        "露天场地"
+      ],
+      "correctIndex": 1,
+      "explanation": "林说静かに聴きたい。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex02",
+      "type": "choice",
+      "prompt": "主阅读能确定哪项？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l38-reading-synth",
+      "choices": [
+        "两场都售罄",
+        "林喜欢安静环境",
+        "已经买好票"
+      ],
+      "correctIndex": 1,
+      "explanation": "偏好已知，票未核实。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex03",
+      "type": "choice",
+      "prompt": "音乐厅为何更适合林？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "环境较安静",
+        "林不喜欢音乐",
+        "余票已确认"
+      ],
+      "correctIndex": 0,
+      "explanation": "推荐依据是安静偏好。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l38-ri5",
+        "l38-ri8"
+      ]
+    },
+    {
+      "id": "l38-ex04",
+      "type": "choice",
+      "prompt": "哪项仍待查询？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "林是否喜欢音乐",
+        "两者的费用比较",
+        "余票"
+      ],
+      "correctIndex": 2,
+      "explanation": "结尾明确余票未确认。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l38-ri5"
+      ]
+    },
+    {
+      "id": "l38-ex05",
+      "type": "choice",
+      "prompt": "作者为何选字幕场次？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "朋友拒绝同行",
+        "快速日语对话较难理解",
+        "电影没有任何对白"
+      ],
+      "correctIndex": 1,
+      "explanation": "选择是为了帮助理解。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex06",
+      "type": "choice",
+      "prompt": "第二篇强调怎样对待推荐？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "问理由再选择适合自己的方式",
+        "完全照朋友建议做",
+        "只比较票价"
+      ],
+      "correctIndex": 0,
+      "explanation": "结尾强调适合自己的欣赏方法。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex07",
+      "type": "input",
+      "prompt": "用「思う」的礼貌非过去形表达自己的看法，补空：この映画は面白い＿＿。",
+      "acceptedAnswers": [
+        "と思います",
+        "とおもいます"
+      ],
+      "explanation": "普通形后接と思います。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex08",
+      "type": "order",
+      "prompt": "表达比大场地，小场地更安静。",
+      "tokens": [
+        "静かです",
+        "。",
+        "小さな会場のほうが",
+        "大きな会場より"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "保持同一比较维度。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex09",
+      "type": "choice",
+      "prompt": "余票未查时，哪句准确？",
+      "choices": [
+        "人気があるので、安いです。",
+        "チケットがあるか、調べましょう。",
+        "チケットは必ずあります。"
+      ],
+      "correctIndex": 1,
+      "explanation": "未核实的事情不能说成必然。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l38-ri7"
+      ]
+    },
+    {
+      "id": "l38-ex10",
+      "type": "input",
+      "prompt": "补比较基准：バス＿＿電車のほうが速いです。",
+      "acceptedAnswers": [
+        "より",
+        "よりも"
+      ],
+      "explanation": "より和よりも都可以标示比较基准，も使对比更突出。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex11",
+      "type": "self",
+      "prompt": "你重视安静，但朋友只谈便宜。写两句补充选择条件。",
+      "sampleAnswer": "安いのはうれしいですが、静かな会場がいいです。内容も確認したいです。",
+      "explanation": "回应价格优势并说明真实偏好。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex12",
+      "type": "self",
+      "prompt": "对方推荐陌生作品，写一句追问理由。",
+      "sampleAnswer": "どんなところが面白いと思いますか。",
+      "explanation": "追问具体依据。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex13",
+      "type": "self",
+      "prompt": "推荐一项活动，同时说一项尚待确认的信息。",
+      "sampleAnswer": "美術館がおすすめです。静かですが、開いている日は確認したいです。",
+      "explanation": "意见与未核实事实分开。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex14",
+      "type": "self",
+      "prompt": "比较两篇材料分别为什么调整选择。",
+      "sampleAnswer": "一つ目は静かに聴くためです。二つ目は会話を理解しやすくするためです。",
+      "explanation": "区分环境偏好与语言理解支持。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l38-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「音楽が好きです。おすすめの公演はありますか。」主要用于什么？",
+      "choices": [
+        "说明兴趣后请求推荐",
+        "补充偏好来修正选择",
+        "依据对方条件给出个人判断"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我喜欢音乐，有推荐的演出吗？”。结合前后交流，其作用是：说明兴趣后请求推荐",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l38-ri1",
+        "l38-ri5",
+        "l38-ri6"
+      ]
+    },
+    {
+      "id": "l38-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「にぎやかな場所ですか。静かに聴きたいです。」主要用于什么？",
+      "choices": [
+        "依据对方条件给出个人判断",
+        "提出核实尚未确定的信息",
+        "补充偏好来修正选择"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“那边热闹吗？我想安静地听。”。结合前后交流，其作用是：补充偏好来修正选择",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l38-ri2"
+      ]
+    },
+    {
+      "id": "l38-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「小さなホールの演奏会のほうが合うと思います。」主要用于什么？",
+      "choices": [
+        "说明兴趣后请求推荐",
+        "依据对方条件给出个人判断",
+        "提出核实尚未确定的信息"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“我觉得小音乐厅的音乐会更适合。”。结合前后交流，其作用是：依据对方条件给出个人判断",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l38-ri3",
+        "l38-ri5",
+        "l38-ri8"
+      ]
+    },
+    {
+      "id": "l38-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「それは一緒に調べましょう。」主要用于什么？",
+      "choices": [
+        "提出核实尚未确定的信息",
+        "说明兴趣后请求推荐",
+        "补充偏好来修正选择"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“那个一起查吧。”。结合前后交流，其作用是：提出核实尚未确定的信息",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l38-ri4"
+      ]
+    },
+    {
+      "id": "l38-ex19",
+      "type": "self",
+      "prompt": "读例句「音楽が好きです。おすすめの公演はありますか。」。先不看词表，用中文说明「音楽」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "音乐",
+      "explanation": "本课这里表示“音乐”。例句意思是：我喜欢音乐，有推荐的演出吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l38-ri1",
+        "l38-ri5",
+        "l38-ri6"
+      ]
+    },
+    {
+      "id": "l38-ex20",
+      "type": "self",
+      "prompt": "读例句「小さなホールの演奏会のほうが合うと思います。」。先不看词表，用中文说明「ホール」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "音乐厅",
+      "explanation": "本课这里表示“音乐厅”。例句意思是：我觉得小音乐厅的音乐会更适合。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l38-ri3",
+        "l38-ri5",
+        "l38-ri8"
+      ]
+    },
+    {
+      "id": "l38-ex21",
+      "type": "self",
+      "prompt": "读例句「ピアノです。料金はライブより少し高いです。」。先不看词表，用中文说明「料金」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "费用",
+      "explanation": "本课这里表示“费用”。例句意思是：钢琴。费用比现场演出稍高。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l38-ri6"
+      ]
+    },
+    {
+      "id": "l38-ex22",
+      "type": "self",
+      "prompt": "读例句「友達は新しい映画をすすめました。」。先不看词表，用中文说明「映画」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "电影",
+      "explanation": "本课这里表示“电影”。例句意思是：朋友推荐新电影。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l38-ri1",
+      "front": "我喜欢音乐，有推荐的演出吗？",
+      "back": "音楽が好きです。おすすめの公演はありますか。",
+      "reading": "おんがくがすきです。おすすめのこうえんはありますか。",
+      "audioId": "synth-word-af5ab0d9a3aab018",
+      "kind": "expression"
+    },
+    {
+      "id": "l38-ri2",
+      "front": "那边热闹吗？我想安静地听。",
+      "back": "にぎやかな場所ですか。静かに聴きたいです。",
+      "reading": "にぎやかなばしょですか。しずかにききたいです。",
+      "audioId": "synth-word-428c88b6fac2bd2a",
+      "kind": "expression"
+    },
+    {
+      "id": "l38-ri3",
+      "front": "我觉得小音乐厅的音乐会更适合。",
+      "back": "小さなホールの演奏会のほうが合うと思います。",
+      "reading": "ちいさなほーるのえんそうかいのほうがあうとおもいます。",
+      "audioId": "synth-word-63fa56c827bc741f",
+      "kind": "expression"
+    },
+    {
+      "id": "l38-ri4",
+      "front": "那个一起查吧。",
+      "back": "それは一緒に調べましょう。",
+      "reading": "それはいっしょにしらべましょう。",
+      "audioId": "synth-word-1e0fc09b0c0b3bd5",
+      "kind": "expression"
+    },
+    {
+      "id": "l38-ri5",
+      "front": "音楽在本课是什么意思？",
+      "back": "音乐",
+      "reading": "おんがく",
+      "audioId": "synth-word-63bb32c8b29adc03",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l38-ri6",
+      "front": "公演在本课是什么意思？",
+      "back": "演出",
+      "reading": "こうえん",
+      "audioId": "synth-word-0f8fc249c2ad7f4b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l38-ri7",
+      "front": "人気在本课是什么意思？",
+      "back": "受欢迎",
+      "reading": "にんき",
+      "audioId": "synth-word-ae39f9013f845f9e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l38-ri8",
+      "front": "ホール在本课是什么意思？",
+      "back": "音乐厅",
+      "reading": "ほーる",
+      "audioId": "synth-word-3b09ce42772dea2e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l38-ri9",
+      "front": "演奏会在本课是什么意思？",
+      "back": "音乐会",
+      "reading": "えんそうかい",
+      "audioId": "synth-word-39a79ddd648b192b",
+      "kind": "vocabulary"
+    }
+  ]
+}

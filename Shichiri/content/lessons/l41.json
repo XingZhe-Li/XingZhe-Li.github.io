@@ -1,0 +1,1088 @@
+{
+  "id": "l41",
+  "number": 41,
+  "moduleId": "m9",
+  "title": "用可能形说明能力与限制",
+  "subtitle": "会做、不被允许做、暂时没有条件做，需要分别说清。",
+  "revision": 2,
+  "goals": [
+    "识别可能形并理解能力或环境条件。",
+    "把自己的技术能力与设施利用资格区分。",
+    "说明限制并提出可行替代方案。"
+  ],
+  "prerequisites": [
+    "理解第40课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「用可能形说明能力与限制」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l41-ex01",
+        "l41-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「申请使用影像工作室」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「使えることと借りられること」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「用可能形说明能力与限制」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l41-ex19",
+        "l41-ex20",
+        "l41-ex21",
+        "l41-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到動画、会員、予約、会員証，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用はい。でも、この機材はまだ使えません。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「用可能形说明能力与限制」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l41-ex07",
+        "l41-ex08",
+        "l41-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「可能形：能力或条件允许」「可能句的对象与对比」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「用可能形说明能力与限制」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l41-ex02",
+        "l41-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「用可能形说明能力与限制」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l41-ex04",
+        "l41-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「使えることと借りられること」与「オンライン発表の準備」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「用可能形说明能力与限制」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l41-ex11",
+        "l41-ex12",
+        "l41-ex13",
+        "l41-ex14",
+        "l41-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「用可能形说明能力与限制」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l41-ex06",
+        "l41-ex10",
+        "l41-ex17",
+        "l41-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l41-ext10",
+      "title": "用可能形说明能力与限制 · 10分钟迁移",
+      "instructions": "用10分钟重读「使えることと借りられること」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l41-ext15",
+      "title": "用可能形说明能力与限制 · 15分钟迁移",
+      "instructions": "用15分钟把「オンライン発表の準備」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l41-ext25",
+      "title": "用可能形说明能力与限制 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l41-ex13",
+        "l41-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l41-d01",
+      "title": "申请使用影像工作室",
+      "context": "林会拍摄，但没上过器材讲习，想使用市民工作室。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l41-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "こちらで動画を撮れますか。",
+          "kana": "こちらでどうがをとれますか。",
+          "zh": "可以在这里拍视频吗？"
+        },
+        {
+          "speaker": "職員",
+          "ja": "会員なら予約できます。会員証はお持ちですか。",
+          "kana": "かいいんならよやくできます。かいいんしょうはおもちですか。",
+          "zh": "会员可以预约，带会员证了吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい。でも、この機材はまだ使えません。",
+          "kana": "はい。でも、このきざいはまだつかえません。",
+          "zh": "带了，但还不会用这种器材。"
+        },
+        {
+          "speaker": "職員",
+          "ja": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+          "kana": "しょしんしゃむけのこうしゅうがあります。さんかしたあとでかしだしをりようできます。",
+          "zh": "有面向初学者的讲习，参加后能使用借用服务。"
+        },
+        {
+          "speaker": "林",
+          "ja": "撮影はできますが、編集は練習中です。",
+          "kana": "さつえいはできますが、へんしゅうはれんしゅうちゅうです。",
+          "zh": "会拍摄，剪辑还在练习。"
+        },
+        {
+          "speaker": "職員",
+          "ja": "講習では基本の操作を説明します。経験は必要ありません。",
+          "kana": "こうしゅうではきほんのそうさをせつめいします。けいけんはひつようありません。",
+          "zh": "讲习会说明基本操作，不需要经验。"
+        },
+        {
+          "speaker": "林",
+          "ja": "今週の空きはありますか。",
+          "kana": "こんしゅうのあきはありますか。",
+          "zh": "这周有空位吗？"
+        },
+        {
+          "speaker": "職員",
+          "ja": "土曜は人数がいっぱいです。日曜なら参加できます。",
+          "kana": "どようはにんずうがいっぱいです。にちようならさんかできます。",
+          "zh": "周六满员，周日可以参加。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、日曜に申し込みたいです。期限も教えてください。",
+          "kana": "では、にちようにもうしこみたいです。きげんもおしえてください。",
+          "zh": "那想报名周日，也请告诉我截止时间。"
+        },
+        {
+          "speaker": "職員",
+          "ja": "金曜までです。不明な条件は受付に相談できます。",
+          "kana": "きんようまでです。ふめいなじょうけんはうけつけにそうだんできます。",
+          "zh": "到周五，不清楚的条件可以咨询前台。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l41-v01",
+      "word": "動画",
+      "reading": "どうが",
+      "meaning": "视频",
+      "pos": "名词",
+      "example": "こちらで動画を撮れますか。",
+      "exampleMeaning": "可以在这里拍视频吗？",
+      "mastery": "active",
+      "audioId": "synth-word-4573cfaa6aa1fd1e"
+    },
+    {
+      "id": "l41-v02",
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "会员",
+      "pos": "名词",
+      "example": "会員なら予約できます。会員証はお持ちですか。",
+      "exampleMeaning": "会员可以预约，带会员证了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-8251af2eaae67d2b"
+    },
+    {
+      "id": "l41-v03",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "预约",
+      "pos": "名词",
+      "example": "会員なら予約できます。会員証はお持ちですか。",
+      "exampleMeaning": "会员可以预约，带会员证了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-bc9e89d9e02e195e"
+    },
+    {
+      "id": "l41-v04",
+      "word": "会員証",
+      "reading": "かいいんしょう",
+      "meaning": "会员证",
+      "pos": "名词",
+      "example": "会員なら予約できます。会員証はお持ちですか。",
+      "exampleMeaning": "会员可以预约，带会员证了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-cfc3b93263e61444"
+    },
+    {
+      "id": "l41-v05",
+      "word": "機材",
+      "reading": "きざい",
+      "meaning": "器材",
+      "pos": "名词",
+      "example": "はい。でも、この機材はまだ使えません。",
+      "exampleMeaning": "带了，但还不会用这种器材。",
+      "mastery": "active",
+      "audioId": "synth-word-b4ef7eaf91837832"
+    },
+    {
+      "id": "l41-v06",
+      "word": "初心者",
+      "reading": "しょしんしゃ",
+      "meaning": "初学者",
+      "pos": "名词",
+      "example": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+      "exampleMeaning": "有面向初学者的讲习，参加后能使用借用服务。",
+      "mastery": "active",
+      "audioId": "synth-word-9804b8314ddf5d6e"
+    },
+    {
+      "id": "l41-v07",
+      "word": "講習",
+      "reading": "こうしゅう",
+      "meaning": "讲习",
+      "pos": "名词",
+      "example": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+      "exampleMeaning": "有面向初学者的讲习，参加后能使用借用服务。",
+      "mastery": "active",
+      "audioId": "synth-word-73754bf0a14ce03a"
+    },
+    {
+      "id": "l41-v08",
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "参加",
+      "pos": "名词",
+      "example": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+      "exampleMeaning": "有面向初学者的讲习，参加后能使用借用服务。",
+      "mastery": "active",
+      "audioId": "synth-word-ca7f68bba54fdf8d"
+    },
+    {
+      "id": "l41-v09",
+      "word": "貸出",
+      "reading": "かしだし",
+      "meaning": "借用；外借",
+      "pos": "名词",
+      "example": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+      "exampleMeaning": "有面向初学者的讲习，参加后能使用借用服务。",
+      "mastery": "active",
+      "audioId": "synth-word-b13c9e1d680d28b9"
+    },
+    {
+      "id": "l41-v10",
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "使用",
+      "pos": "名词",
+      "example": "初心者向けの講習があります。参加した後で貸出を利用できます。",
+      "exampleMeaning": "有面向初学者的讲习，参加后能使用借用服务。",
+      "mastery": "active",
+      "audioId": "synth-word-0f736637a2fbb620"
+    },
+    {
+      "id": "l41-v11",
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning": "拍摄",
+      "pos": "名词",
+      "example": "撮影はできますが、編集は練習中です。",
+      "exampleMeaning": "会拍摄，剪辑还在练习。",
+      "mastery": "active",
+      "audioId": "synth-word-e4c57f057e09e513"
+    },
+    {
+      "id": "l41-v12",
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "剪辑",
+      "pos": "名词",
+      "example": "撮影はできますが、編集は練習中です。",
+      "exampleMeaning": "会拍摄，剪辑还在练习。",
+      "mastery": "active",
+      "audioId": "synth-word-9140e0a29547405b"
+    },
+    {
+      "id": "l41-v13",
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "练习",
+      "pos": "名词",
+      "example": "撮影はできますが、編集は練習中です。",
+      "exampleMeaning": "会拍摄，剪辑还在练习。",
+      "mastery": "active",
+      "audioId": "synth-word-9bbdbdf6c5c4ffd6"
+    },
+    {
+      "id": "l41-v14",
+      "word": "基本",
+      "reading": "きほん",
+      "meaning": "基础",
+      "pos": "名词",
+      "example": "講習では基本の操作を説明します。経験は必要ありません。",
+      "exampleMeaning": "讲习会说明基本操作，不需要经验。",
+      "mastery": "active",
+      "audioId": "synth-word-911c3e7a26f5899a"
+    },
+    {
+      "id": "l41-v15",
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "操作",
+      "pos": "名词",
+      "example": "講習では基本の操作を説明します。経験は必要ありません。",
+      "exampleMeaning": "讲习会说明基本操作，不需要经验。",
+      "mastery": "active",
+      "audioId": "synth-word-5da101f709882713"
+    },
+    {
+      "id": "l41-v16",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "講習では基本の操作を説明します。経験は必要ありません。",
+      "exampleMeaning": "讲习会说明基本操作，不需要经验。",
+      "mastery": "active",
+      "audioId": "synth-word-3846c6de39d3c183"
+    },
+    {
+      "id": "l41-v17",
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "经验",
+      "pos": "名词",
+      "example": "講習では基本の操作を説明します。経験は必要ありません。",
+      "exampleMeaning": "讲习会说明基本操作，不需要经验。",
+      "mastery": "active",
+      "audioId": "synth-word-cc6f4ffca2e7a859"
+    },
+    {
+      "id": "l41-v18",
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "空位；空档",
+      "pos": "名词",
+      "example": "今週の空きはありますか。",
+      "exampleMeaning": "这周有空位吗？",
+      "mastery": "active",
+      "audioId": "synth-word-ff4b55d1c3957c37"
+    },
+    {
+      "id": "l41-v19",
+      "word": "人数",
+      "reading": "にんずう",
+      "meaning": "人数",
+      "pos": "名词",
+      "example": "土曜は人数がいっぱいです。日曜なら参加できます。",
+      "exampleMeaning": "周六满员，周日可以参加。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d1aab84551c86f4a"
+    },
+    {
+      "id": "l41-v20",
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "期限",
+      "pos": "名词",
+      "example": "では、日曜に申し込みたいです。期限も教えてください。",
+      "exampleMeaning": "那想报名周日，也请告诉我截止时间。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6ea41e2db28054c5"
+    },
+    {
+      "id": "l41-v21",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "金曜までです。不明な条件は受付に相談できます。",
+      "exampleMeaning": "到周五，不清楚的条件可以咨询前台。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l41-v22",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "前台",
+      "pos": "名词",
+      "example": "金曜までです。不明な条件は受付に相談できます。",
+      "exampleMeaning": "到周五，不清楚的条件可以咨询前台。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l41-v23",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "咨询",
+      "pos": "名词",
+      "example": "金曜までです。不明な条件は受付に相談できます。",
+      "exampleMeaning": "到周五，不清楚的条件可以咨询前台。",
+      "mastery": "recognition",
+      "audioId": "synth-word-068abc020b722cba"
+    },
+    {
+      "id": "l41-v24",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "责任",
+      "pos": "名词",
+      "example": "機材を壊さない責任もありますから、質問を整理してから連絡するつもりです。",
+      "exampleMeaning": "还有保护器材的责任，因此打算整理问题再联系。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d459db5732c82fdc"
+    },
+    {
+      "id": "l41-v25",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "联系",
+      "pos": "名词",
+      "example": "機材を壊さない責任もありますから、質問を整理してから連絡するつもりです。",
+      "exampleMeaning": "还有保护器材的责任，因此打算整理问题再联系。",
+      "mastery": "recognition",
+      "audioId": "synth-word-82db684775389331"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l41-e1",
+      "ja": "はい。でも、この機材はまだ使えません。",
+      "reading": "はい。でも、このきざいはまだつかえません。",
+      "meaning": "带了，但还不会用这种器材。",
+      "usage": "说明目前缺少某种操作能力",
+      "audioId": "synth-word-e3756e798f2ca408"
+    },
+    {
+      "id": "l41-e2",
+      "ja": "撮影はできますが、編集は練習中です。",
+      "reading": "さつえいはできますが、へんしゅうはれんしゅうちゅうです。",
+      "meaning": "会拍摄，剪辑还在练习。",
+      "usage": "区分已经具备与仍在练习的技能",
+      "audioId": "synth-word-8adc2b7958935538"
+    },
+    {
+      "id": "l41-e3",
+      "ja": "では、日曜に申し込みたいです。期限も教えてください。",
+      "reading": "では、にちようにもうしこみたいです。きげんもおしえてください。",
+      "meaning": "那想报名周日，也请告诉我截止时间。",
+      "usage": "选择可行时段并追问截止条件",
+      "audioId": "synth-word-49c75f22ea30597e"
+    },
+    {
+      "id": "l41-e4",
+      "ja": "金曜までです。不明な条件は受付に相談できます。",
+      "reading": "きんようまでです。ふめいなじょうけんはうけつけにそうだんできます。",
+      "meaning": "到周五，不清楚的条件可以咨询前台。",
+      "usage": "说明咨询问题的可用渠道",
+      "audioId": "synth-word-5d64524cc5275f1e"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l41-g1",
+      "title": "可能形：能力或条件允许",
+      "meaning": "表达会做或在条件下能做。",
+      "pattern": "撮る→撮れる／使う→使える／読む→読める",
+      "explanation": "一类动词把う段改え段加る，二类去る加られる；する→できる、来る→来られる。先用高频词，不把可能与许可混同。",
+      "examples": [
+        {
+          "ja": "漢字が読めます。",
+          "zh": "会读汉字。"
+        },
+        {
+          "ja": "この時間なら予約できます。",
+          "zh": "这个时间有条件预约。"
+        }
+      ],
+      "pitfall": "不会操作与不允许使用是不同限制，最好说明原因。"
+    },
+    {
+      "id": "l41-g2",
+      "title": "可能句的对象与对比",
+      "meaning": "明确可行范围而非泛说全都会。",
+      "pattern": "撮影はできますが、編集はまだできません。",
+      "explanation": "が常见于可能句对象；は强调对比。提示具体对象可避免把部分技能扩大到全部。",
+      "examples": [
+        {
+          "ja": "日本語の案内が読めます。",
+          "zh": "能读日语指南。"
+        },
+        {
+          "ja": "撮影はできますが、編集は練習中です。",
+          "zh": "会拍摄，剪辑仍在练习。"
+        }
+      ],
+      "pitfall": "可能形二类动词在正式教学中保留ら，如食べられます。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "動画",
+          "reading": "どうが",
+          "zh": "视频"
+        },
+        {
+          "ja": "会員",
+          "reading": "かいいん",
+          "zh": "会员"
+        },
+        {
+          "ja": "予約",
+          "reading": "よやく",
+          "zh": "预约"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l41-r1",
+      "title": "使えることと借りられること",
+      "context": "市民工作室的个人申请记录，注意限制的来源。",
+      "ja": "私は旅行の動画を作るため、市民向けの工作室を予約しようと考えました。会員証は持っていますが、専門の機材を一人で操作した経験はありません。受付の説明では、初心者も講習に参加でき、基本を学んだ後で貸出を利用できます。土曜の講習は人数がいっぱいでしたが、日曜にはまだ空きがありました。私は撮影の練習をしていますが、編集の方法はまだよくわかりません。そのため、すぐにすべての機材を借りるのではなく、まず講習に申し込むことにしました。申し込みの期限や利用条件は、わからないままにせず、受付に確認しました。使えるという能力と、規則上借りられるという資格は同じではありません。機材を壊さない責任もありますから、質問を整理してから連絡するつもりです。",
+      "zh": "我为了制作旅行视频，考虑预约市民工作室。虽有会员证，却没有独立操作专业器材的经验。据前台说明，初学者也能上讲习，学过基础后即可借用。周六讲习满员，但周日仍有空位。我正在练拍摄，剪辑方法还不太清楚。因此不马上借全套设备，而先报名讲习。报名期限和使用条件没有放着不管，而向前台确认了。具备操作能力，与按规则具备借用资格，并非同一回事。还有保护器材的责任，因此打算整理问题再联系。",
+      "audioId": "l41-reading-synth"
+    },
+    {
+      "id": "l41-r2",
+      "title": "オンライン発表の準備",
+      "context": "另一位学生的困难是网络条件，不是不会使用软件。",
+      "ja": "友人の由美さんは、遠くの大学の発表会にオンラインで参加する予定です。資料を作ったり画面を共有したりする操作は、一人でもできます。しかし、今住んでいる部屋は通信が不安定で、夕方には音声が聞こえないことがあります。由美さんは「オンライン発表ができません」とだけ伝えようとしました。それでは、技術がないのか、予定が合わないのか、相手にはわかりません。そこで、操作はできるが、部屋の通信環境では安定して話せないと説明しました。大学に相談すると、昼休みに使える静かな部屋を案内してもらえました。練習の時間も予約して、当日と同じ条件で確認することにしました。できない理由を具体的に伝えたことで、参加をあきらめずに方法を変えられました。",
+      "zh": "朋友由美准备线上参加外地大学的报告会。她能独立制作材料和共享屏幕。但住处网络不稳，傍晚有时听不到声音。她本来只想说不能线上报告。这样对方无法知道是没技术还是时间不合。于是说明会操作，但房间网络无法保障稳定发言。向学校咨询后，获得了午休可用安静房间的信息。她还预约练习时间，打算用与当天相同的条件测试。具体说明不能做的原因，让她无需放弃参加，只需改变方法。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l41-ex01",
+      "type": "choice",
+      "prompt": "林能参加哪天的讲习？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l41-dialogue-synth",
+      "choices": [
+        "周五",
+        "周六",
+        "周日"
+      ],
+      "correctIndex": 2,
+      "explanation": "周六满员，职员说周日可以。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex02",
+      "type": "choice",
+      "prompt": "主阅读作者首先决定什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l41-reading-synth",
+      "choices": [
+        "先报名讲习",
+        "立刻借全部器材",
+        "不再制作视频"
+      ],
+      "correctIndex": 0,
+      "explanation": "先补能力及使用条件。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l41-ri5",
+        "l41-ri9"
+      ]
+    },
+    {
+      "id": "l41-ex03",
+      "type": "choice",
+      "prompt": "作者为什么先报名讲习？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "尚无专业器材操作经验且借用有条件",
+        "工作室完全不接收会员",
+        "周日没有空位"
+      ],
+      "correctIndex": 0,
+      "explanation": "技能和规则条件都需要先满足。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l41-ri6",
+        "l41-ri9"
+      ]
+    },
+    {
+      "id": "l41-ex04",
+      "type": "choice",
+      "prompt": "哪项区别是文章的重点？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "所有初学者都不能预约",
+        "会摄影就必然会剪辑",
+        "会操作与具备借用资格不同"
+      ],
+      "correctIndex": 2,
+      "explanation": "文章直接对照能力与资格。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l41-ri7"
+      ]
+    },
+    {
+      "id": "l41-ex05",
+      "type": "choice",
+      "prompt": "由美主要缺少什么条件？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "参加报告的意愿",
+        "稳定的通信环境",
+        "制作资料的能力"
+      ],
+      "correctIndex": 1,
+      "explanation": "明确会操作，困难来自网络。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex06",
+      "type": "choice",
+      "prompt": "怎样的说明帮助找到解决方法？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "说明会操作但住处网络不稳",
+        "只说不能参加",
+        "只抱怨报告会时间"
+      ],
+      "correctIndex": 0,
+      "explanation": "具体原因使学校能提供合适房间。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex07",
+      "type": "input",
+      "prompt": "把「読む」改为礼貌非过去可能形：漢字が＿＿。",
+      "acceptedAnswers": [
+        "読めます",
+        "よめます"
+      ],
+      "explanation": "読む变为読める，再接礼貌ます。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex08",
+      "type": "order",
+      "prompt": "表达“周日的话可以参加”。",
+      "tokens": [
+        "参加できます",
+        "。",
+        "講習に",
+        "日曜日なら"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "条件在前，可行判断在后。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex09",
+      "type": "choice",
+      "prompt": "你会使用软件，但当前没网，哪句最准确？",
+      "choices": [
+        "使えるので、いつでも必ず参加できます。",
+        "操作はできますが、今は通信の問題で使えません。",
+        "操作ができないので、一度も勉強していません。"
+      ],
+      "correctIndex": 1,
+      "explanation": "区分技能与当前环境条件。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex10",
+      "type": "input",
+      "prompt": "用二类动词规范的礼貌非过去可能形：一人で食べる → 一人で＿＿。",
+      "acceptedAnswers": [
+        "食べられます",
+        "たべられます"
+      ],
+      "explanation": "二类动词去る加られる。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex11",
+      "type": "self",
+      "prompt": "你会剪辑但尚未上借用讲习。向前台写两句，不把能力当作资格。",
+      "sampleAnswer": "編集はできますが、貸出の講習はまだ受けていません。先に参加したいです。",
+      "explanation": "同时交代能力与未满足条件。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex12",
+      "type": "self",
+      "prompt": "把“我不能线上参加”改为具体说明：有技术但晚上网络不稳。",
+      "sampleAnswer": "オンラインの操作はできます。ただ、夜は通信が不安定なので、別の場所を使いたいです。",
+      "explanation": "提出可解决的环境限制。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex13",
+      "type": "self",
+      "prompt": "周六满员、周日有空，你只有周六方便。写咨询替代方案的请求。",
+      "sampleAnswer": "日曜は都合が悪いです。別の週の土曜に空きはありますか。",
+      "explanation": "没有把不适合的时段勉强确认。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex14",
+      "type": "self",
+      "prompt": "用自己的例子对比会做与有条件做。",
+      "sampleAnswer": "日本語のメールは書けますが、今はパソコンがないので、後で送ります。",
+      "explanation": "能力与当下条件分开，例子可替换。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「はい。でも、この機材はまだ使えません。」主要用于什么？",
+      "choices": [
+        "说明目前缺少某种操作能力",
+        "区分已经具备与仍在练习的技能",
+        "选择可行时段并追问截止条件"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“带了，但还不会用这种器材。”。结合前后交流，其作用是：说明目前缺少某种操作能力",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l41-ri1",
+        "l41-ri9"
+      ]
+    },
+    {
+      "id": "l41-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「撮影はできますが、編集は練習中です。」主要用于什么？",
+      "choices": [
+        "选择可行时段并追问截止条件",
+        "说明咨询问题的可用渠道",
+        "区分已经具备与仍在练习的技能"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“会拍摄，剪辑还在练习。”。结合前后交流，其作用是：区分已经具备与仍在练习的技能",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l41-ri2"
+      ]
+    },
+    {
+      "id": "l41-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、日曜に申し込みたいです。期限も教えてください。」主要用于什么？",
+      "choices": [
+        "说明目前缺少某种操作能力",
+        "选择可行时段并追问截止条件",
+        "说明咨询问题的可用渠道"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“那想报名周日，也请告诉我截止时间。”。结合前后交流，其作用是：选择可行时段并追问截止条件",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l41-ri3"
+      ]
+    },
+    {
+      "id": "l41-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「金曜までです。不明な条件は受付に相談できます。」主要用于什么？",
+      "choices": [
+        "说明咨询问题的可用渠道",
+        "说明目前缺少某种操作能力",
+        "区分已经具备与仍在练习的技能"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“到周五，不清楚的条件可以咨询前台。”。结合前后交流，其作用是：说明咨询问题的可用渠道",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l41-ri4"
+      ]
+    },
+    {
+      "id": "l41-ex19",
+      "type": "self",
+      "prompt": "读例句「こちらで動画を撮れますか。」。先不看词表，用中文说明「動画」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "视频",
+      "explanation": "本课这里表示“视频”。例句意思是：可以在这里拍视频吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l41-ri5"
+      ]
+    },
+    {
+      "id": "l41-ex20",
+      "type": "self",
+      "prompt": "读例句「会員なら予約できます。会員証はお持ちですか。」。先不看词表，用中文说明「会員証」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "会员证",
+      "explanation": "本课这里表示“会员证”。例句意思是：会员可以预约，带会员证了吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l41-ri6",
+        "l41-ri7",
+        "l41-ri8"
+      ]
+    },
+    {
+      "id": "l41-ex21",
+      "type": "self",
+      "prompt": "读例句「初心者向けの講習があります。参加した後で貸出を利用できます。」。先不看词表，用中文说明「講習」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "讲习",
+      "explanation": "本课这里表示“讲习”。例句意思是：有面向初学者的讲习，参加后能使用借用服务。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l41-ex22",
+      "type": "self",
+      "prompt": "读例句「初心者向けの講習があります。参加した後で貸出を利用できます。」。先不看词表，用中文说明「利用」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "使用",
+      "explanation": "本课这里表示“使用”。例句意思是：有面向初学者的讲习，参加后能使用借用服务。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l41-ri1",
+      "front": "带了，但还不会用这种器材。",
+      "back": "はい。でも、この機材はまだ使えません。",
+      "reading": "はい。でも、このきざいはまだつかえません。",
+      "audioId": "synth-word-e3756e798f2ca408",
+      "kind": "expression"
+    },
+    {
+      "id": "l41-ri2",
+      "front": "会拍摄，剪辑还在练习。",
+      "back": "撮影はできますが、編集は練習中です。",
+      "reading": "さつえいはできますが、へんしゅうはれんしゅうちゅうです。",
+      "audioId": "synth-word-8adc2b7958935538",
+      "kind": "expression"
+    },
+    {
+      "id": "l41-ri3",
+      "front": "那想报名周日，也请告诉我截止时间。",
+      "back": "では、日曜に申し込みたいです。期限も教えてください。",
+      "reading": "では、にちようにもうしこみたいです。きげんもおしえてください。",
+      "audioId": "synth-word-49c75f22ea30597e",
+      "kind": "expression"
+    },
+    {
+      "id": "l41-ri4",
+      "front": "到周五，不清楚的条件可以咨询前台。",
+      "back": "金曜までです。不明な条件は受付に相談できます。",
+      "reading": "きんようまでです。ふめいなじょうけんはうけつけにそうだんできます。",
+      "audioId": "synth-word-5d64524cc5275f1e",
+      "kind": "expression"
+    },
+    {
+      "id": "l41-ri5",
+      "front": "動画在本课是什么意思？",
+      "back": "视频",
+      "reading": "どうが",
+      "audioId": "synth-word-4573cfaa6aa1fd1e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l41-ri6",
+      "front": "会員在本课是什么意思？",
+      "back": "会员",
+      "reading": "かいいん",
+      "audioId": "synth-word-8251af2eaae67d2b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l41-ri7",
+      "front": "予約在本课是什么意思？",
+      "back": "预约",
+      "reading": "よやく",
+      "audioId": "synth-word-bc9e89d9e02e195e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l41-ri8",
+      "front": "会員証在本课是什么意思？",
+      "back": "会员证",
+      "reading": "かいいんしょう",
+      "audioId": "synth-word-cfc3b93263e61444",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l41-ri9",
+      "front": "機材在本课是什么意思？",
+      "back": "器材",
+      "reading": "きざい",
+      "audioId": "synth-word-b4ef7eaf91837832",
+      "kind": "vocabulary"
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "id": "l03",
+  "number": 3,
+  "moduleId": "m1",
+  "title": "指认物品与说明所属",
+  "subtitle": "在领取物品时说清“哪个”和“谁的”，被否定后重新确认。",
+  "revision": 2,
+  "goals": [
+    "按说话人和听话人的位置区分これ、 それ、あれ。",
+    "用名词＋の说明物品属于谁，理解だれの提问。",
+    "根据新的物品卡完成确认、修正和领取前的文字回应。"
+  ],
+  "prerequisites": [
+    "第1课的请重复、确认、肯定和否定回应。",
+    "第2课的名词句です、ですか与名词句否定；已经认识五十音。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「指认物品与说明所属」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l03-ex01",
+        "l03-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「活动室领物」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「活动室的物品卡」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「指认物品与说明所属」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l03-ex19",
+        "l03-ex20",
+        "l03-ex21",
+        "l03-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到これ、それ、あれ、この，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用これはだれのですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「指认物品与说明所属」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l03-ex07",
+        "l03-ex08",
+        "l03-ex09",
+        "l03-ex10"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「指示词的距离与后接形式」「用の连接物主与物品」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「指认物品与说明所属」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l03-ex02",
+        "l03-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「指认物品与说明所属」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l03-ex04",
+        "l03-ex05",
+        "l03-ex06"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「活动室的物品卡」与「展台旁的确认」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「指认物品与说明所属」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l03-ex11",
+        "l03-ex12",
+        "l03-ex13"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「指认物品与说明所属」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l03-ex14",
+        "l03-ex16",
+        "l03-ex17",
+        "l03-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l03-ext10",
+      "title": "指认物品与说明所属 · 10分钟迁移",
+      "instructions": "遮住物品卡中文，写出书、钥匙、手机的物主，再对照日文核对。产出三项配对与一项没有提供的信息。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l03-ext15",
+      "title": "指认物品与说明所属 · 15分钟迁移",
+      "instructions": "用自己桌面三个物品制作虚构物主卡；为每件物品写一个确认问句和回答，再把其中一个物主改掉并更正。产出三组问答与一次更正。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l03-ext25",
+      "title": "指认物品与说明所属 · 25分钟迁移",
+      "instructions": "先不看原文听活动室对话，记录包和笔记本的物主；再把场所换为车站领物处，用文字完成请重复、指认、被否定后修正和致谢四步。对照材料检查谁的东西和空间位置是否一致。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l03-ex13",
+        "l03-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "听新物品交流时能抓住最终确认的物品，而非只记最初猜测。",
+    "读两张物品卡时能正确配对物主，并区分所属与物品内容。",
+    "关闭范句后能用この＋名词或これ及名词＋の组织问答。",
+    "换一个位置或物主后能用文字更正确认；当前证据不等同于已验证现场口语。"
+  ],
+  "dialogues": [
+    {
+      "id": "l03-d01",
+      "title": "活动室领物",
+      "context": "原创场景。米娜手边和远处各有一个包，りん需要确认自己的包；本课不练过去动作。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l03-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "すみません。それは私のかばんですか。",
+          "kana": "すみません。それはわたしのかばんですか。",
+          "zh": "不好意思，你手边那个是我的包吗？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "このかばんですか。",
+          "kana": "このかばんですか。",
+          "zh": "是我手边这个包吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、それはけんさんのかばんです。",
+          "kana": "いいえ、それはけんさんのかばんです。",
+          "zh": "不，那个是健的包。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "あのかばんですか。",
+          "kana": "あのかばんですか。",
+          "zh": "是远处那个包吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい、あれです。",
+          "kana": "はい、あれです。",
+          "zh": "对，是远处那个。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "このノートはあなたのですか。",
+          "kana": "このノートはあなたのですか。",
+          "zh": "这个笔记本是你的吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい、私のノートです。",
+          "kana": "はい、わたしのノートです。",
+          "zh": "对，是我的笔记本。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "はい、どうぞ。",
+          "kana": "はい、どうぞ。",
+          "zh": "好的，给你。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l03-v01",
+      "word": "これ",
+      "reading": "これ",
+      "meaning": "这个；靠近说话人的事物",
+      "pos": "指示词",
+      "example": "これは私の本です。",
+      "exampleMeaning": "这是我的书。",
+      "mastery": "active",
+      "audioId": "synth-word-e3bebc62f2a7944b"
+    },
+    {
+      "id": "l03-v02",
+      "word": "それ",
+      "reading": "それ",
+      "meaning": "那个；靠近听话人的事物",
+      "pos": "指示词",
+      "example": "それはミナさんのかばんです。",
+      "exampleMeaning": "那个是米娜的包。",
+      "mastery": "active",
+      "audioId": "synth-word-cadfecf3259dde27"
+    },
+    {
+      "id": "l03-v03",
+      "word": "あれ",
+      "reading": "あれ",
+      "meaning": "那个；离双方都较远的事物",
+      "pos": "指示词",
+      "example": "あれはけんさんの傘です。",
+      "exampleMeaning": "远处那个是健的伞。",
+      "mastery": "active",
+      "audioId": "synth-word-3949990ef2482d06"
+    },
+    {
+      "id": "l03-v04",
+      "word": "この",
+      "reading": "この",
+      "meaning": "这个……；后接名词",
+      "pos": "连体词",
+      "example": "このかぎは私のかぎです。",
+      "exampleMeaning": "这把钥匙是我的钥匙。",
+      "mastery": "active",
+      "audioId": "synth-word-0425c864ab2a1b21"
+    },
+    {
+      "id": "l03-v05",
+      "word": "その",
+      "reading": "その",
+      "meaning": "那个……；后接名词",
+      "pos": "连体词",
+      "example": "その本はだれの本ですか。",
+      "exampleMeaning": "那本书是谁的书？",
+      "mastery": "active",
+      "audioId": "synth-word-a66d9f3bcb88e3f2"
+    },
+    {
+      "id": "l03-v06",
+      "word": "あの",
+      "reading": "あの",
+      "meaning": "远处那个……；后接名词",
+      "pos": "连体词",
+      "example": "あのかばんですか。",
+      "exampleMeaning": "是远处那个包吗？",
+      "mastery": "active",
+      "audioId": "synth-word-6b8eca543391e857"
+    },
+    {
+      "id": "l03-v07",
+      "word": "かばん",
+      "reading": "かばん",
+      "meaning": "包",
+      "pos": "名词",
+      "example": "このかばんはミナさんのです。",
+      "exampleMeaning": "这个包是米娜的。",
+      "mastery": "active",
+      "audioId": "synth-word-8ec6eacddb4093ce"
+    },
+    {
+      "id": "l03-v08",
+      "word": "ノート",
+      "reading": "ノート",
+      "meaning": "笔记本",
+      "pos": "名词",
+      "example": "これは私のノートです。",
+      "exampleMeaning": "这是我的笔记本。",
+      "mastery": "active",
+      "audioId": "synth-word-2ec7a426edc424f1"
+    },
+    {
+      "id": "l03-v09",
+      "word": "かぎ",
+      "reading": "かぎ",
+      "meaning": "钥匙",
+      "pos": "名词",
+      "example": "これはだれのかぎですか。",
+      "exampleMeaning": "这是谁的钥匙？",
+      "mastery": "active",
+      "audioId": "synth-word-738957ac60bf4851"
+    },
+    {
+      "id": "l03-v10",
+      "word": "スマートフォン",
+      "reading": "スマートフォン",
+      "meaning": "智能手机",
+      "pos": "名词",
+      "example": "そのスマートフォンは私のです。",
+      "exampleMeaning": "那部手机是我的。",
+      "mastery": "active",
+      "audioId": "synth-word-6918bf425af7113e"
+    },
+    {
+      "id": "l03-v11",
+      "word": "本",
+      "reading": "ほん",
+      "meaning": "书",
+      "pos": "名词",
+      "example": "あれは私の本ではありません。",
+      "exampleMeaning": "远处那本不是我的书。",
+      "mastery": "recognition",
+      "audioId": "synth-word-fe01ae625367eb1c"
+    },
+    {
+      "id": "l03-v12",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "伞",
+      "pos": "名词",
+      "example": "この傘はけんさんのです。",
+      "exampleMeaning": "这把伞是健的。",
+      "mastery": "recognition",
+      "audioId": "synth-word-60c8dd04afbd71c7"
+    },
+    {
+      "id": "l03-v13",
+      "word": "だれ",
+      "reading": "だれ",
+      "meaning": "谁",
+      "pos": "疑问词",
+      "example": "これはだれのノートですか。",
+      "exampleMeaning": "这是谁的笔记本？",
+      "mastery": "recognition",
+      "audioId": "synth-word-ff2a7733f4386674"
+    },
+    {
+      "id": "l03-v14",
+      "word": "私",
+      "reading": "わたし",
+      "meaning": "我",
+      "pos": "代词",
+      "example": "私のかばんです。",
+      "exampleMeaning": "是我的包。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9a628e1b9b9aceb2"
+    },
+    {
+      "id": "l03-v15",
+      "word": "あなた",
+      "reading": "あなた",
+      "meaning": "你；对方称呼明确时可省略",
+      "pos": "代词",
+      "example": "これはあなたの本ですか。",
+      "exampleMeaning": "这是你的书吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-a334338640b3fe11"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l03-e1",
+      "ja": "これはだれのですか。",
+      "reading": "これはだれのですか。",
+      "meaning": "这是谁的？",
+      "usage": "所指物已经清楚时询问所属；也可重复名词。",
+      "audioId": "synth-word-bdbd323ed9a8abf2"
+    },
+    {
+      "id": "l03-e2",
+      "ja": "私のかばんです。",
+      "reading": "わたしのかばんです。",
+      "meaning": "是我的包。",
+      "usage": "确认物主，不必每句重复私は。",
+      "audioId": "synth-word-554e342d1731aad6"
+    },
+    {
+      "id": "l03-e3",
+      "ja": "このノートですか。",
+      "reading": "このノートですか。",
+      "meaning": "是这个笔记本吗？",
+      "usage": "用この＋具体名词确认所指。",
+      "audioId": "synth-word-aab2b0009d29cb21"
+    },
+    {
+      "id": "l03-e4",
+      "ja": "いいえ、その本ではありません。",
+      "reading": "いいえ、そのほんではありません。",
+      "meaning": "不，不是那本书。",
+      "usage": "否定错误指认之后，再指明正确物品。",
+      "audioId": "synth-word-3f7d8de5901c006d"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l03-g1",
+      "title": "指示词的距离与后接形式",
+      "meaning": "既要判断物品相对谁较近，也要判断后面是否还有名词。",
+      "pattern": "これ／それ／あれ；この／その／あの＋名词",
+      "explanation": "これ、 それ、あれ本身指代物品；この、 その、あの要接名词。东西在自己手边常用これ，在对方手边常用それ，离双方都远用あれ。位置改变时，指示词也可能改变。",
+      "examples": [
+        {
+          "ja": "これは本です。",
+          "zh": "这是书。"
+        },
+        {
+          "ja": "この本は私のです。",
+          "zh": "这本书是我的。"
+        }
+      ],
+      "pitfall": "不能把この单独当作物品说このです；要说これです或この本です。"
+    },
+    {
+      "id": "l03-g2",
+      "title": "用の连接物主与物品",
+      "meaning": "说明谁的东西，并询问未知的物主。",
+      "pattern": "物主＋の＋物品；だれの＋物品",
+      "explanation": "私のかばん是我的包，ミナさんの本是米娜的书。物品已明确时，可把相同名词省略为私のです；初次学习时保留名词也完全可以。",
+      "examples": [
+        {
+          "ja": "そのかぎはだれのかぎですか。",
+          "zh": "那把钥匙是谁的钥匙？"
+        },
+        {
+          "ja": "けんさんのかぎです。",
+          "zh": "是健的钥匙。"
+        }
+      ],
+      "pitfall": "ミナさんの说明物主，不表示正在和米娜说话；自称私后面不加さん。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "この和これ的末尾不同",
+      "description": "注意の与れ的差别；句中选择取决于是否后接名词，不靠音高猜语法。",
+      "examples": [
+        {
+          "ja": "これ",
+          "reading": "これ",
+          "zh": "这个，可独立指物"
+        },
+        {
+          "ja": "この本",
+          "reading": "このほん",
+          "zh": "这本书"
+        },
+        {
+          "ja": "だれの",
+          "reading": "だれの",
+          "zh": "谁的"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l03-r1",
+      "title": "活动室的物品卡",
+      "context": "桌上的说明卡；“这边／对方手边／远处”按读卡者的位置判断。人物均为虚构。",
+      "ja": "これはりんさんのノートです。この本はミナさんの本です。そのかばんはけんさんのかばんです。あの傘はりんさんの傘です。このかぎはミナさんのかぎではありません。だれのかぎですか。けんさんのかぎです。そのスマートフォンはミナさんのです。",
+      "zh": "这是林的笔记本。这本书是米娜的。你手边那个包是健的。远处那把伞是林的。这把钥匙不是米娜的。是谁的钥匙呢？是健的。你手边那部手机是米娜的。",
+      "audioId": "l03-reading-synth"
+    },
+    {
+      "id": "l03-r2",
+      "title": "展台旁的确认",
+      "context": "另一份文字记录。“写真”是照片，“大学”是大学，作为材料支持词理解。",
+      "ja": "この写真は大学の写真です。あの写真はミナさんの写真です。このノートは私のノートです。そのノートはあなたのノートですか。いいえ、けんさんのノートです。この傘はだれのですか。りんさんのです。あの本は私の本ではありません。",
+      "zh": "这张照片是大学的照片。远处那张照片是米娜的照片。这个笔记本是我的。你手边那个笔记本是你的吗？不，是健的。这把伞是谁的？是林的。远处那本书不是我的。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l03-ex01",
+      "type": "choice",
+      "prompt": "听活动室的对话。りん最终确认哪个包是自己的？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l03-dialogue-synth",
+      "choices": [
+        "ミナ最初手边的包",
+        "离双方都远的包",
+        "录音没有确认任何包"
+      ],
+      "correctIndex": 1,
+      "explanation": "ミナ问あのかばんですか，りん用はい、あれです确认远处的包。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l03-ri7"
+      ]
+    },
+    {
+      "id": "l03-ex02",
+      "type": "choice",
+      "prompt": "听物品卡的说明。钥匙属于谁？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l03-reading-synth",
+      "choices": [
+        "ミナ",
+        "りん",
+        "けん"
+      ],
+      "correctIndex": 2,
+      "explanation": "说明先否定ミナ，再明确说けんさんのかぎです。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex03",
+      "type": "choice",
+      "prompt": "根据活动室的物品卡，谁是书的物主？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "ミナ",
+        "りん",
+        "けん"
+      ],
+      "correctIndex": 0,
+      "explanation": "この本はミナさんの本です直接给出书的物主。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex04",
+      "type": "choice",
+      "prompt": "根据活动室的物品卡，哪件物品属于りん？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "スマートフォン",
+        "ノート",
+        "かぎ"
+      ],
+      "correctIndex": 1,
+      "explanation": "第一句说明ノート属于りん；手机属于ミナ，钥匙属于けん。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex05",
+      "type": "choice",
+      "prompt": "读展台记录，读者面前的照片是什么内容？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "大学的照片",
+        "一本书的照片",
+        "材料没有说内容"
+      ],
+      "correctIndex": 0,
+      "explanation": "この写真は大学の写真です说明内容；不要把远处照片的物主当作这张照片的内容。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex06",
+      "type": "choice",
+      "prompt": "展台记录中，对方手边的笔记本最终被说明是谁的？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "说话人自己的",
+        "听话人自己的",
+        "けん的"
+      ],
+      "correctIndex": 2,
+      "explanation": "いいえ、けんさんのノートです修正了此前的询问。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex07",
+      "type": "input",
+      "prompt": "填写一个假名：私＿＿かばんです。（我的包。）",
+      "acceptedAnswers": [
+        "の"
+      ],
+      "explanation": "の连接物主私和物品かばん。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex08",
+      "type": "input",
+      "prompt": "你手里拿着一本书，后面已有名词本。填この／これ中的一个：＿＿本は私のです。",
+      "acceptedAnswers": [
+        "この"
+      ],
+      "explanation": "后面有名词本，要用この；これ本不成立。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l03-ri5",
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex09",
+      "type": "order",
+      "prompt": "用给出的词块组成“那是米娜的包”。",
+      "tokens": [
+        "ミナさん",
+        "です。",
+        "それは",
+        "の",
+        "かばん"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        3,
+        4,
+        1
+      ],
+      "explanation": "それはミナさんのかばんです。物主和物品之间用の。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l03-ri6"
+      ]
+    },
+    {
+      "id": "l03-ex10",
+      "type": "order",
+      "prompt": "组成询问远处物品的“是那个包吗？”",
+      "tokens": [
+        "か。",
+        "かばん",
+        "あの",
+        "です"
+      ],
+      "correctOrder": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "explanation": "あのかばんですか。あの后接かばん。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex11",
+      "type": "self",
+      "prompt": "你指着自己手边的笔记本，说明它属于你。用一句日语文字回应。",
+      "sampleAnswer": "これは私のノートです。",
+      "explanation": "应同时说清所指物和物主；このノートは私のです也可以。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l03-ri5",
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex12",
+      "type": "self",
+      "prompt": "对方把你手边的钥匙误认为米娜的，但设定是健的。写一句否定加更正。",
+      "sampleAnswer": "いいえ、けんさんのかぎです。",
+      "explanation": "先否定错误归属，再给出正确物主；不能只写はい。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex13",
+      "type": "self",
+      "prompt": "远处有一本书，物主未知。写一句询问，不猜物主。",
+      "sampleAnswer": "あの本はだれの本ですか。",
+      "explanation": "距离用あの，未知物主用だれの；没有必要假设它是工作人员的。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l03-ex14",
+      "type": "self",
+      "prompt": "你没听清对方说的是谁的伞。写请求重复，并在对方指向伞后再确认。",
+      "sampleAnswer": "すみません。もう一度お願いします。この傘ですか。",
+      "explanation": "先修复理解，再根据新指向确认目标，不把未听懂当作已确认。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex15",
+      "type": "choice",
+      "prompt": "包在听话人手边。说话人询问“那个是谁的包”，哪句合适？",
+      "choices": [
+        "このはだれですか。",
+        "それはだれのかばんですか。",
+        "あのは私です。"
+      ],
+      "correctIndex": 1,
+      "explanation": "それ可独立指物，だれの询问物主。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l03-ri6",
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex16",
+      "type": "choice",
+      "prompt": "哪一项中的この后面正确接了名词？",
+      "choices": [
+        "この本です。",
+        "このです。",
+        "このは本です。"
+      ],
+      "correctIndex": 0,
+      "explanation": "この本是连体词加名词；另外两项把この当成了独立指示词。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex17",
+      "type": "choice",
+      "prompt": "新卡只写“そのかばんはミナさんのです”。哪项无法确定？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "包属于ミナ",
+        "所指物是包",
+        "包的颜色"
+      ],
+      "correctIndex": 2,
+      "explanation": "句子给出物主和物品种类，没有提供颜色。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri9"
+      ]
+    },
+    {
+      "id": "l03-ex18",
+      "type": "choice",
+      "prompt": "对方说いいえ、違います并指向另一把伞。你应怎样继续？",
+      "choices": [
+        "坚持原来那把伞就是自己的",
+        "改指对方指出的伞，再问この傘ですか",
+        "立即说对方已经确认了原来的伞"
+      ],
+      "correctIndex": 1,
+      "explanation": "否定之后需要修正指向，不能把旧目标当成已经确认。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex19",
+      "type": "self",
+      "prompt": "读例句「これは私の本です。」。先不看词表，用中文说明「これ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "这个；靠近说话人的事物",
+      "explanation": "本课这里表示“这个；靠近说话人的事物”。例句意思是：这是我的书。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri5"
+      ]
+    },
+    {
+      "id": "l03-ex20",
+      "type": "self",
+      "prompt": "读例句「このかぎは私のかぎです。」。先不看词表，用中文说明「この」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "这个……；后接名词",
+      "explanation": "本课这里表示“这个……；后接名词”。例句意思是：这把钥匙是我的钥匙。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex21",
+      "type": "self",
+      "prompt": "读例句「このかばんはミナさんのです。」。先不看词表，用中文说明「かばん」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "包",
+      "explanation": "本课这里表示“包”。例句意思是：这个包是米娜的。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri8"
+      ]
+    },
+    {
+      "id": "l03-ex22",
+      "type": "self",
+      "prompt": "读例句「そのスマートフォンは私のです。」。先不看词表，用中文说明「スマートフォン」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "智能手机",
+      "explanation": "本课这里表示“智能手机”。例句意思是：那部手机是我的。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l03-ri9"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l03-ri1",
+      "front": "这是谁的？",
+      "back": "これはだれのですか。",
+      "reading": "これはだれのですか。",
+      "audioId": "synth-word-bdbd323ed9a8abf2",
+      "kind": "expression"
+    },
+    {
+      "id": "l03-ri2",
+      "front": "是我的包。",
+      "back": "私のかばんです。",
+      "reading": "わたしのかばんです。",
+      "audioId": "synth-word-554e342d1731aad6",
+      "kind": "expression"
+    },
+    {
+      "id": "l03-ri3",
+      "front": "是这个笔记本吗？",
+      "back": "このノートですか。",
+      "reading": "このノートですか。",
+      "audioId": "synth-word-aab2b0009d29cb21",
+      "kind": "expression"
+    },
+    {
+      "id": "l03-ri4",
+      "front": "不，不是那本书。",
+      "back": "いいえ、その本ではありません。",
+      "reading": "いいえ、そのほんではありません。",
+      "audioId": "synth-word-3f7d8de5901c006d",
+      "kind": "expression"
+    },
+    {
+      "id": "l03-ri5",
+      "front": "これ在本课是什么意思？",
+      "back": "这个；靠近说话人的事物",
+      "reading": "これ",
+      "audioId": "synth-word-e3bebc62f2a7944b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l03-ri6",
+      "front": "それ在本课是什么意思？",
+      "back": "那个；靠近听话人的事物",
+      "reading": "それ",
+      "audioId": "synth-word-cadfecf3259dde27",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l03-ri7",
+      "front": "あれ在本课是什么意思？",
+      "back": "那个；离双方都较远的事物",
+      "reading": "あれ",
+      "audioId": "synth-word-3949990ef2482d06",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l03-ri8",
+      "front": "この在本课是什么意思？",
+      "back": "这个……；后接名词",
+      "reading": "この",
+      "audioId": "synth-word-0425c864ab2a1b21",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l03-ri9",
+      "front": "その在本课是什么意思？",
+      "back": "那个……；后接名词",
+      "reading": "その",
+      "audioId": "synth-word-a66d9f3bcb88e3f2",
+      "kind": "vocabulary"
+    }
+  ]
+}

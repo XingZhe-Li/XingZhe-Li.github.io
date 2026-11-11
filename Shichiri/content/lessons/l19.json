@@ -1,0 +1,971 @@
+{
+  "id": "l19",
+  "number": 19,
+  "moduleId": "m4",
+  "title": "描述动作与当前状态",
+  "subtitle": "判断照片中的动作与当前生活状态，不把两种ています都理解为此刻正在做。",
+  "revision": 2,
+  "goals": [
+    "描述当前进行的动作。",
+    "理解持续生活状态。",
+    "在『视频画面中的朋友』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第18课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「描述动作与当前状态」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l19-ex01",
+        "l19-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「视频画面中的朋友」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「今与生活情况」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「描述动作与当前状态」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l19-ex19",
+        "l19-ex20",
+        "l19-ex21",
+        "l19-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到今、住みます、働きます、使います，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用今、何をしていますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「描述动作与当前状态」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l19-ex07",
+        "l19-ex08",
+        "l19-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「正在进行」「生活状态」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「描述动作与当前状态」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l19-ex02",
+        "l19-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「描述动作与当前状态」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l19-ex04",
+        "l19-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「今与生活情况」与「一张厨房照片」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「描述动作与当前状态」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l19-ex11",
+        "l19-ex12",
+        "l19-ex13",
+        "l19-ex14",
+        "l19-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「描述动作与当前状态」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l19-ex06",
+        "l19-ex10",
+        "l19-ex17",
+        "l19-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l19-ext10",
+      "title": "描述动作与当前状态 · 10分钟迁移",
+      "instructions": "先听『视频画面中的朋友』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l19-ext15",
+      "title": "描述动作与当前状态 · 15分钟迁移",
+      "instructions": "读『今与生活情况』与『一张厨房照片』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：说明你现在在读书。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l19-ext25",
+      "title": "描述动作与当前状态 · 25分钟迁移",
+      "instructions": "用5分钟听『视频画面中的朋友』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：朋友把照片动作当作现状，你要追问确认。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l19-ex13",
+        "l19-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『视频画面中的朋友』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『今与生活情况』与变体材料的条件。",
+    "关闭说明后，能在情境中使用て形＋います及住んでいます／働いています，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l19-d01",
+      "title": "视频画面中的朋友",
+      "context": "朋友说明当前动作和居住地。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l19-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "今、何をしていますか。",
+          "kana": "いま、なにをしていますか。",
+          "zh": "现在做什么？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "本を読んでいます。",
+          "kana": "ほんをよんでいます。",
+          "zh": "正在读书。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "東京に住んでいますか。",
+          "kana": "とうきょうにすんでいますか。",
+          "zh": "住在东京吗？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "いいえ、大阪に住んでいます。",
+          "kana": "いいえ、おおさかにすんでいます。",
+          "zh": "不，住大阪。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "けんさんは何をしていますか。",
+          "kana": "けんさんはなにをしていますか。",
+          "zh": "健正在做什么？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "写真を撮っています。",
+          "kana": "しゃしんをとっています。",
+          "zh": "正在拍照。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "あの店で働いていますか。",
+          "kana": "あのみせではたらいていますか。",
+          "zh": "他在那家店工作吗？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "はい、あの店で働いています。",
+          "kana": "はい、あのみせではたらいています。",
+          "zh": "是，在那家店工作。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l19-v01",
+      "word": "今",
+      "reading": "いま",
+      "meaning": "现在",
+      "pos": "名词",
+      "example": "今、何をしていますか。",
+      "exampleMeaning": "现在做什么？",
+      "mastery": "active",
+      "audioId": "synth-word-71b1a8143adb2e62"
+    },
+    {
+      "id": "l19-v02",
+      "word": "住みます",
+      "reading": "すみます",
+      "meaning": "居住",
+      "pos": "动词",
+      "example": "住みます。",
+      "exampleMeaning": "居住。",
+      "mastery": "active",
+      "audioId": "synth-word-b3270a2a023eec65"
+    },
+    {
+      "id": "l19-v03",
+      "word": "働きます",
+      "reading": "はたらきます",
+      "meaning": "工作",
+      "pos": "动词",
+      "example": "働きます。",
+      "exampleMeaning": "工作。",
+      "mastery": "active",
+      "audioId": "synth-word-bbabf816ff6981cd"
+    },
+    {
+      "id": "l19-v04",
+      "word": "使います",
+      "reading": "つかいます",
+      "meaning": "使用",
+      "pos": "动词",
+      "example": "使います。",
+      "exampleMeaning": "使用。",
+      "mastery": "active",
+      "audioId": "synth-word-a4db6fb790fef536"
+    },
+    {
+      "id": "l19-v05",
+      "word": "座ります",
+      "reading": "すわります",
+      "meaning": "坐下",
+      "pos": "动词",
+      "example": "座ります。",
+      "exampleMeaning": "坐下。",
+      "mastery": "active",
+      "audioId": "synth-word-4676a8118dedc658"
+    },
+    {
+      "id": "l19-v06",
+      "word": "立ちます",
+      "reading": "たちます",
+      "meaning": "站立",
+      "pos": "动词",
+      "example": "立ちます。",
+      "exampleMeaning": "站立。",
+      "mastery": "active",
+      "audioId": "synth-word-8479f06c8ab63eee"
+    },
+    {
+      "id": "l19-v07",
+      "word": "待ちます",
+      "reading": "まちます",
+      "meaning": "等候",
+      "pos": "动词",
+      "example": "待ちます。",
+      "exampleMeaning": "等候。",
+      "mastery": "active",
+      "audioId": "synth-word-27d8157ddce9436a"
+    },
+    {
+      "id": "l19-v08",
+      "word": "撮ります",
+      "reading": "とります",
+      "meaning": "拍摄",
+      "pos": "动词",
+      "example": "撮ります。",
+      "exampleMeaning": "拍摄。",
+      "mastery": "active",
+      "audioId": "synth-word-7bb33fce4975a16c"
+    },
+    {
+      "id": "l19-v09",
+      "word": "洗います",
+      "reading": "あらいます",
+      "meaning": "洗",
+      "pos": "动词",
+      "example": "洗います。",
+      "exampleMeaning": "洗。",
+      "mastery": "active",
+      "audioId": "synth-word-327ba26e0ac8ccd6"
+    },
+    {
+      "id": "l19-v10",
+      "word": "知っています",
+      "reading": "しっています",
+      "meaning": "知道",
+      "pos": "固定表达",
+      "example": "知っています。",
+      "exampleMeaning": "知道。",
+      "mastery": "active",
+      "audioId": "synth-word-5b941b2f84f38066"
+    },
+    {
+      "id": "l19-v11",
+      "word": "東京",
+      "reading": "とうきょう",
+      "meaning": "东京",
+      "pos": "名词",
+      "example": "東京に住んでいますか。",
+      "exampleMeaning": "住在东京吗？",
+      "mastery": "recognition",
+      "audioId": "synth-word-7ae4930e92275727"
+    },
+    {
+      "id": "l19-v12",
+      "word": "大阪",
+      "reading": "おおさか",
+      "meaning": "大阪",
+      "pos": "名词",
+      "example": "いいえ、大阪に住んでいます。",
+      "exampleMeaning": "不，住大阪。",
+      "mastery": "recognition",
+      "audioId": "synth-word-291e945ecac392a1"
+    },
+    {
+      "id": "l19-v13",
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "工作",
+      "pos": "名词",
+      "example": "仕事です。",
+      "exampleMeaning": "是工作。",
+      "mastery": "recognition",
+      "audioId": "synth-word-11783ef0da645e3d"
+    },
+    {
+      "id": "l19-v14",
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "生活",
+      "pos": "名词",
+      "example": "生活です。",
+      "exampleMeaning": "是生活。",
+      "mastery": "recognition",
+      "audioId": "synth-word-d1cdc2a4f5b30846"
+    },
+    {
+      "id": "l19-v15",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片",
+      "pos": "名词",
+      "example": "写真を撮っています。",
+      "exampleMeaning": "正在拍照。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e2f3d21e1037f6f0"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l19-e1",
+      "ja": "今、何をしていますか。",
+      "reading": "いま、なにをしていますか。",
+      "meaning": "现在做什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-3f9ffd34078b0d8d"
+    },
+    {
+      "id": "l19-e2",
+      "ja": "本を読んでいます。",
+      "reading": "ほんをよんでいます。",
+      "meaning": "正在读书。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-bb9a29f07354df6b"
+    },
+    {
+      "id": "l19-e3",
+      "ja": "けんさんは何をしていますか。",
+      "reading": "けんさんはなにをしていますか。",
+      "meaning": "健正在做什么？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-d81f368a3526cd17"
+    },
+    {
+      "id": "l19-e4",
+      "ja": "写真を撮っています。",
+      "reading": "しゃしんをとっています。",
+      "meaning": "正在拍照。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-79553af6fd020b39"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l19-g1",
+      "title": "正在进行",
+      "meaning": "描述当前进行的动作。",
+      "pattern": "て形＋います",
+      "explanation": "読んでいます、使っています等表示正在进行；需结合今等时间语境。",
+      "examples": [
+        {
+          "ja": "今、本を読んでいます。",
+          "zh": "正在读书。"
+        }
+      ],
+      "pitfall": "正在动作不等于已经做完。"
+    },
+    {
+      "id": "l19-g2",
+      "title": "生活状态",
+      "meaning": "理解持续生活状态。",
+      "pattern": "住んでいます／働いています",
+      "explanation": "住んでいます表示居住；不表示此刻正在搬家。働いています有职业或当前工作两种解释，结合地点与今判断。",
+      "examples": [
+        {
+          "ja": "東京に住んでいます。",
+          "zh": "住在东京。"
+        }
+      ],
+      "pitfall": "不用住みます来机械替换所有当前居住状态。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "今",
+          "reading": "いま",
+          "zh": "现在"
+        },
+        {
+          "ja": "住みます",
+          "reading": "すみます",
+          "zh": "居住"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l19-r1",
+      "title": "今与生活情况",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "ミナさんは大阪に住んでいます。今、家で本を読んでいます。けんさんは店で働いています。今は外で写真を撮っています。りんさんは東京に住んでいます。今、駅で友達を待っています。住んでいる場所と今いる場所は同じとは限りません。",
+      "zh": "米娜住大阪，现在在家读书。健在店工作，现在在外拍照。林住东京，现在在站等朋友。末句是支持说明：居住地与此刻所在不一定相同，不要求掌握とは限りません。",
+      "audioId": "l19-reading-synth"
+    },
+    {
+      "id": "l19-r2",
+      "title": "一张厨房照片",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この写真では、サラさんは料理をしています。けんさんは水を飲んでいます。ミナさんは皿を洗っています。りんさんは椅子に座っています。これは昨日の写真です。四人が今も同じことをしていますか。それは写真だけではわかりません。",
+      "zh": "照片里萨拉做饭，健喝水，米娜洗盘，林坐椅子。照片是昨天的，仅凭照片不知四人现在是否还做同样的事。皿是盘子，最后两句作信息边界提示。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l19-ex01",
+      "type": "choice",
+      "prompt": "米娜住哪里？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l19-dialogue-synth",
+      "choices": [
+        "东京",
+        "大阪",
+        "未说"
+      ],
+      "correctIndex": 1,
+      "explanation": "大阪に住んでいます。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex02",
+      "type": "choice",
+      "prompt": "主阅读中林现在在哪里？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l19-reading-synth",
+      "choices": [
+        "东京家里",
+        "车站",
+        "健的店"
+      ],
+      "correctIndex": 1,
+      "explanation": "今、駅で友達を待っています。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex03",
+      "type": "choice",
+      "prompt": "米娜住哪里？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "东京",
+        "大阪",
+        "未说"
+      ],
+      "correctIndex": 1,
+      "explanation": "大阪に住んでいます。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex04",
+      "type": "choice",
+      "prompt": "主阅读中林现在在哪里？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "东京家里",
+        "车站",
+        "健的店"
+      ],
+      "correctIndex": 1,
+      "explanation": "今、駅で友達を待っています。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex05",
+      "type": "choice",
+      "prompt": "照片中谁洗盘？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "米娜",
+        "健",
+        "林"
+      ],
+      "correctIndex": 0,
+      "explanation": "ミナさんは皿を洗っています。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex06",
+      "type": "choice",
+      "prompt": "能凭昨日照片确定现在动作吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "能",
+        "不能",
+        "只有林能"
+      ],
+      "correctIndex": 1,
+      "explanation": "照片时间不同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex07",
+      "type": "input",
+      "prompt": "把読みます改成现在正在读的形式。",
+      "acceptedAnswers": [
+        "読んでいます",
+        "よんでいます"
+      ],
+      "explanation": "て形读んで加います。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex08",
+      "type": "input",
+      "prompt": "补居住状态：大阪に住ん＿＿います。",
+      "acceptedAnswers": [
+        "で"
+      ],
+      "explanation": "住む的て形住んで。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l19-ri6"
+      ]
+    },
+    {
+      "id": "l19-ex09",
+      "type": "order",
+      "prompt": "用词块组成：现在正在读书。",
+      "tokens": [
+        "本を",
+        "読んでいます。",
+        "今、"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为今、本を読んでいます。；て形读んで加います。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l19-ri2",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex10",
+      "type": "order",
+      "prompt": "用词块组成：住在大阪。",
+      "tokens": [
+        "住んで",
+        "います。",
+        "大阪に"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为大阪に住んでいます。；住む的て形住んで。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex11",
+      "type": "self",
+      "prompt": "说明你现在在读书。",
+      "sampleAnswer": "今、本を読んでいます。",
+      "explanation": "正在动作。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri2",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex12",
+      "type": "self",
+      "prompt": "说自己住在东京。",
+      "sampleAnswer": "東京に住んでいます。",
+      "explanation": "持续状态。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex13",
+      "type": "self",
+      "prompt": "询问朋友现在在做什么。",
+      "sampleAnswer": "今、何をしていますか。",
+      "explanation": "具体时间明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri1",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex14",
+      "type": "self",
+      "prompt": "朋友把照片动作当作现状，你要追问确认。",
+      "sampleAnswer": "今も料理をしていますか。",
+      "explanation": "不默认持续到现在。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说明你现在在读书。",
+      "choices": [
+        "今、本を読んでいます。",
+        "東京に住んでいます。",
+        "今、何をしていますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "正在动作。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri1",
+        "l19-ri2",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：说自己住在东京。",
+      "choices": [
+        "今、何をしていますか。",
+        "今も料理をしていますか。",
+        "東京に住んでいます。"
+      ],
+      "correctIndex": 2,
+      "explanation": "持续状态。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri1",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：询问朋友现在在做什么。",
+      "choices": [
+        "今、本を読んでいます。",
+        "今、何をしていますか。",
+        "今も料理をしていますか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "具体时间明确。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri1",
+        "l19-ri2",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：朋友把照片动作当作现状，你要追问确认。",
+      "choices": [
+        "今も料理をしていますか。",
+        "今、本を読んでいます。",
+        "東京に住んでいます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不默认持续到现在。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l19-ri2",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex19",
+      "type": "self",
+      "prompt": "读例句「今、何をしていますか。」。先不看词表，用中文说明「今」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "现在",
+      "explanation": "本课这里表示“现在”。例句意思是：现在做什么？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l19-ri1",
+        "l19-ri5"
+      ]
+    },
+    {
+      "id": "l19-ex20",
+      "type": "self",
+      "prompt": "读例句「使います。」。先不看词表，用中文说明「使います」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "使用",
+      "explanation": "本课这里表示“使用”。例句意思是：使用。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l19-ri8"
+      ]
+    },
+    {
+      "id": "l19-ex21",
+      "type": "self",
+      "prompt": "读例句「待ちます。」。先不看词表，用中文说明「待ちます」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "等候",
+      "explanation": "本课这里表示“等候”。例句意思是：等候。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l19-ex22",
+      "type": "self",
+      "prompt": "读例句「知っています。」。先不看词表，用中文说明「知っています」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "知道",
+      "explanation": "本课这里表示“知道”。例句意思是：知道。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l19-ri1",
+      "front": "现在做什么？",
+      "back": "今、何をしていますか。",
+      "reading": "いま、なにをしていますか。",
+      "audioId": "synth-word-3f9ffd34078b0d8d",
+      "kind": "expression"
+    },
+    {
+      "id": "l19-ri2",
+      "front": "正在读书。",
+      "back": "本を読んでいます。",
+      "reading": "ほんをよんでいます。",
+      "audioId": "synth-word-bb9a29f07354df6b",
+      "kind": "expression"
+    },
+    {
+      "id": "l19-ri3",
+      "front": "健正在做什么？",
+      "back": "けんさんは何をしていますか。",
+      "reading": "けんさんはなにをしていますか。",
+      "audioId": "synth-word-d81f368a3526cd17",
+      "kind": "expression"
+    },
+    {
+      "id": "l19-ri4",
+      "front": "正在拍照。",
+      "back": "写真を撮っています。",
+      "reading": "しゃしんをとっています。",
+      "audioId": "synth-word-79553af6fd020b39",
+      "kind": "expression"
+    },
+    {
+      "id": "l19-ri5",
+      "front": "今在本课是什么意思？",
+      "back": "现在",
+      "reading": "いま",
+      "audioId": "synth-word-71b1a8143adb2e62",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l19-ri6",
+      "front": "住みます在本课是什么意思？",
+      "back": "居住",
+      "reading": "すみます",
+      "audioId": "synth-word-b3270a2a023eec65",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l19-ri7",
+      "front": "働きます在本课是什么意思？",
+      "back": "工作",
+      "reading": "はたらきます",
+      "audioId": "synth-word-bbabf816ff6981cd",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l19-ri8",
+      "front": "使います在本课是什么意思？",
+      "back": "使用",
+      "reading": "つかいます",
+      "audioId": "synth-word-a4db6fb790fef536",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l19-ri9",
+      "front": "座ります在本课是什么意思？",
+      "back": "坐下",
+      "reading": "すわります",
+      "audioId": "synth-word-4676a8118dedc658",
+      "kind": "vocabulary"
+    }
+  ]
+}

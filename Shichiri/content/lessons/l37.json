@@ -1,0 +1,1000 @@
+{
+  "id": "l37",
+  "number": 37,
+  "moduleId": "m8",
+  "title": "谈旅行经历和感受",
+  "subtitle": "按顺序讲旅行，也说清为什么改变计划。",
+  "revision": 2,
+  "goals": [
+    "理解旅行行动的先后与改变原因。",
+    "用过去式描述行动和感受。",
+    "从经历中提出下次的改进。"
+  ],
+  "prerequisites": [
+    "理解第36课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「谈旅行经历和感受」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l37-ex01",
+        "l37-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「雨天旅行的回顾」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「閉まっていた美術館」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「谈旅行经历和感受」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l37-ex19",
+        "l37-ex20",
+        "l37-ex21",
+        "l37-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到旅行、予定、美術館、駅，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用楽しかったです。でも、予定を少し変えました。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「谈旅行经历和感受」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l37-ex07",
+        "l37-ex08",
+        "l37-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「过去的行动与感受」「先后与原因」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「谈旅行经历和感受」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l37-ex02",
+        "l37-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「谈旅行经历和感受」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l37-ex04",
+        "l37-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「閉まっていた美術館」与「海岸へ行かなかった日」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「谈旅行经历和感受」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l37-ex11",
+        "l37-ex12",
+        "l37-ex13",
+        "l37-ex14",
+        "l37-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「谈旅行经历和感受」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l37-ex06",
+        "l37-ex10",
+        "l37-ex17",
+        "l37-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l37-ext10",
+      "title": "谈旅行经历和感受 · 10分钟迁移",
+      "instructions": "用10分钟重读「閉まっていた美術館」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l37-ext15",
+      "title": "谈旅行经历和感受 · 15分钟迁移",
+      "instructions": "用15分钟把「海岸へ行かなかった日」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l37-ext25",
+      "title": "谈旅行经历和感受 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l37-ex13",
+        "l37-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l37-d01",
+      "title": "雨天旅行的回顾",
+      "context": "林结束短途旅行后，朋友询问是否按原计划参观美术馆。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l37-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "美咲",
+          "ja": "先週の旅行はどうでしたか。",
+          "kana": "せんしゅうのりょこうはどうでしたか。",
+          "zh": "上周的旅行怎么样？"
+        },
+        {
+          "speaker": "林",
+          "ja": "楽しかったです。でも、予定を少し変えました。",
+          "kana": "たのしかったです。でも、よていをすこしかえました。",
+          "zh": "很开心，不过改了一点计划。"
+        },
+        {
+          "speaker": "美咲",
+          "ja": "美術館に行きましたか。",
+          "kana": "びじゅつかんにいきましたか。",
+          "zh": "去美术馆了吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "いいえ。駅に着いてから、休館日だと知りました。",
+          "kana": "いいえ。えきについてから、きゅうかんびだとしりました。",
+          "zh": "没有，到站后才知道是闭馆日。"
+        },
+        {
+          "speaker": "美咲",
+          "ja": "それで、何をしましたか。",
+          "kana": "それで、なにをしましたか。",
+          "zh": "后来做了什么？"
+        },
+        {
+          "speaker": "林",
+          "ja": "市場で昼ご飯を食べて、古い通りを歩きました。",
+          "kana": "いちばでひるごはんをたべて、ふるいとおりをあるきました。",
+          "zh": "在市场吃午饭，然后逛了老街。"
+        },
+        {
+          "speaker": "美咲",
+          "ja": "雨は大丈夫でしたか。",
+          "kana": "あめはだいじょうぶでしたか。",
+          "zh": "下雨没关系吗？"
+        },
+        {
+          "speaker": "林",
+          "ja": "午後はやみました。夕方の景色がきれいでした。",
+          "kana": "ごごはやみました。ゆうがたのけしきがきれいでした。",
+          "zh": "下午停雨了，傍晚景色很美。"
+        },
+        {
+          "speaker": "美咲",
+          "ja": "次は何を確認しますか。",
+          "kana": "つぎはなにをかくにんしますか。",
+          "zh": "下次先确认什么？"
+        },
+        {
+          "speaker": "林",
+          "ja": "営業時間と休館日を確認したいです。",
+          "kana": "えいぎょうじかんときゅうかんびをかくにんしたいです。",
+          "zh": "想确认营业时间和闭馆日。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l37-v01",
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "旅行",
+      "pos": "名词",
+      "example": "先週の旅行はどうでしたか。",
+      "exampleMeaning": "上周的旅行怎么样？",
+      "mastery": "active",
+      "audioId": "synth-word-087140ba0a8a3774"
+    },
+    {
+      "id": "l37-v02",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "楽しかったです。でも、予定を少し変えました。",
+      "exampleMeaning": "很开心，不过改了一点计划。",
+      "mastery": "active",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l37-v03",
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaning": "美术馆",
+      "pos": "名词",
+      "example": "美術館に行きましたか。",
+      "exampleMeaning": "去美术馆了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3924b00373c7f9ba"
+    },
+    {
+      "id": "l37-v04",
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "车站",
+      "pos": "名词",
+      "example": "いいえ。駅に着いてから、休館日だと知りました。",
+      "exampleMeaning": "没有，到站后才知道是闭馆日。",
+      "mastery": "active",
+      "audioId": "synth-word-8754aeb54e9fe5ec"
+    },
+    {
+      "id": "l37-v05",
+      "word": "休館日",
+      "reading": "きゅうかんび",
+      "meaning": "闭馆日",
+      "pos": "名词",
+      "example": "いいえ。駅に着いてから、休館日だと知りました。",
+      "exampleMeaning": "没有，到站后才知道是闭馆日。",
+      "mastery": "active",
+      "audioId": "synth-word-148a70864a39b0f4"
+    },
+    {
+      "id": "l37-v06",
+      "word": "市場",
+      "reading": "いちば",
+      "meaning": "市场",
+      "pos": "名词",
+      "example": "市場で昼ご飯を食べて、古い通りを歩きました。",
+      "exampleMeaning": "在市场吃午饭，然后逛了老街。",
+      "mastery": "active",
+      "audioId": "synth-word-110e50aa318ee585"
+    },
+    {
+      "id": "l37-v07",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "午饭",
+      "pos": "名词",
+      "example": "市場で昼ご飯を食べて、古い通りを歩きました。",
+      "exampleMeaning": "在市场吃午饭，然后逛了老街。",
+      "mastery": "active",
+      "audioId": "synth-word-15ad20b20a7046bc"
+    },
+    {
+      "id": "l37-v08",
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "街道",
+      "pos": "名词",
+      "example": "市場で昼ご飯を食べて、古い通りを歩きました。",
+      "exampleMeaning": "在市场吃午饭，然后逛了老街。",
+      "mastery": "active",
+      "audioId": "synth-word-eb7d5dd435474801"
+    },
+    {
+      "id": "l37-v09",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "下午",
+      "pos": "名词",
+      "example": "午後はやみました。夕方の景色がきれいでした。",
+      "exampleMeaning": "下午停雨了，傍晚景色很美。",
+      "mastery": "active",
+      "audioId": "synth-word-a781a119e4a034f7"
+    },
+    {
+      "id": "l37-v10",
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "傍晚",
+      "pos": "名词",
+      "example": "午後はやみました。夕方の景色がきれいでした。",
+      "exampleMeaning": "下午停雨了，傍晚景色很美。",
+      "mastery": "active",
+      "audioId": "synth-word-eef27d1c232ccaf0"
+    },
+    {
+      "id": "l37-v11",
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "景色",
+      "pos": "名词",
+      "example": "午後はやみました。夕方の景色がきれいでした。",
+      "exampleMeaning": "下午停雨了，傍晚景色很美。",
+      "mastery": "recognition",
+      "audioId": "synth-word-14c94e1c4b231d23"
+    },
+    {
+      "id": "l37-v12",
+      "word": "営業時間",
+      "reading": "えいぎょうじかん",
+      "meaning": "营业时间",
+      "pos": "名词",
+      "example": "営業時間と休館日を確認したいです。",
+      "exampleMeaning": "想确认营业时间和闭馆日。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3d0ac19351d0c5de"
+    },
+    {
+      "id": "l37-v13",
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "海岸",
+      "pos": "名词",
+      "example": "友達と海岸へ歩く予定でした。",
+      "exampleMeaning": "原打算和朋友步行去海岸。",
+      "mastery": "recognition",
+      "audioId": "synth-word-34e37fb518103549"
+    },
+    {
+      "id": "l37-v14",
+      "word": "坂道",
+      "reading": "さかみち",
+      "meaning": "坡路",
+      "pos": "名词",
+      "example": "地図では近く見えましたが、途中に長い坂道がありました。",
+      "exampleMeaning": "地图上看着近，途中却有长坡。",
+      "mastery": "recognition",
+      "audioId": "synth-word-da98804528f58358"
+    },
+    {
+      "id": "l37-v15",
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "地图",
+      "pos": "名词",
+      "example": "地図では近く見えましたが、途中に長い坂道がありました。",
+      "exampleMeaning": "地图上看着近，途中却有长坡。",
+      "mastery": "recognition",
+      "audioId": "synth-word-4d9ca30985c7246e"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l37-e1",
+      "ja": "楽しかったです。でも、予定を少し変えました。",
+      "reading": "たのしかったです。でも、よていをすこしかえました。",
+      "meaning": "很开心，不过改了一点计划。",
+      "usage": "先给总体感受，再提示计划变化",
+      "audioId": "synth-word-a85d1af8b917edad"
+    },
+    {
+      "id": "l37-e2",
+      "ja": "それで、何をしましたか。",
+      "reading": "それで、なにをしましたか。",
+      "meaning": "后来做了什么？",
+      "usage": "承接事件并追问后续行动",
+      "audioId": "synth-word-5d782b54843e460f"
+    },
+    {
+      "id": "l37-e3",
+      "ja": "午後はやみました。夕方の景色がきれいでした。",
+      "reading": "ごごはやみました。ゆうがたのけしきがきれいでした。",
+      "meaning": "下午停雨了，傍晚景色很美。",
+      "usage": "用具体景象表达旅行感受",
+      "audioId": "synth-word-841b4f5eedd3a254"
+    },
+    {
+      "id": "l37-e4",
+      "ja": "営業時間と休館日を確認したいです。",
+      "reading": "えいぎょうじかんときゅうかんびをかくにんしたいです。",
+      "meaning": "想确认营业时间和闭馆日。",
+      "usage": "从经历中提出下次的改进",
+      "audioId": "synth-word-92483134d43aa1ea"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l37-g1",
+      "title": "过去的行动与感受",
+      "meaning": "区分动作与描述的过去形式。",
+      "pattern": "〜ました。／〜かったです。／〜でした。",
+      "explanation": "动作、い形容词、な形容词的过去形式不同。",
+      "examples": [
+        {
+          "ja": "魚を食べました。",
+          "zh": "吃了鱼。"
+        },
+        {
+          "ja": "景色がきれいでした。",
+          "zh": "景色很美。"
+        }
+      ],
+      "pitfall": "楽しい的过去是楽しかった，不是楽しいでした。"
+    },
+    {
+      "id": "l37-g2",
+      "title": "先后与原因",
+      "meaning": "说清变化如何发生。",
+      "pattern": "〜てから、〜。／〜から、〜。",
+      "explanation": "てから表示先后，接原因的から说明理由。",
+      "examples": [
+        {
+          "ja": "駅に着いてから、地図を見ました。",
+          "zh": "到站后看了地图。"
+        },
+        {
+          "ja": "雨でしたから、バスに乗りました。",
+          "zh": "因为下雨，坐了公交。"
+        }
+      ],
+      "pitfall": "不要省略导致改计划的原因。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "旅行",
+          "reading": "りょこう",
+          "zh": "旅行"
+        },
+        {
+          "ja": "予定",
+          "reading": "よてい",
+          "zh": "计划"
+        },
+        {
+          "ja": "美術館",
+          "reading": "びじゅつかん",
+          "zh": "美术馆"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l37-r1",
+      "title": "閉まっていた美術館",
+      "context": "找出旅行改变的原因与感受。",
+      "ja": "土曜日、駅に着いてから美術館へ行きました。しかし、その日は休館日でした。私は市場で昼ご飯を食べて、古い通りを歩きました。午後に雨がやんで、夕方の景色はとてもきれいでした。次は営業時間と休館日の両方を確認します。",
+      "zh": "周六到站后去了美术馆。但是那天是闭馆日。我在市场吃午饭，然后逛老街。下午雨停了，傍晚景色很美。下次同时确认营业时间和闭馆日。",
+      "audioId": "l37-reading-synth"
+    },
+    {
+      "id": "l37-r2",
+      "title": "海岸へ行かなかった日",
+      "context": "身体状况影响了另一次旅行。",
+      "ja": "友達と海岸へ歩く予定でした。地図では近く見えましたが、途中に長い坂道がありました。友達は疲れていましたから、駅の近くの喫茶店で休みました。海は見ませんでしたが、ゆっくり話せてよかったです。目的地に着くことだけが旅行ではないと思いました。",
+      "zh": "原打算和朋友步行去海岸。地图上看着近，途中却有长坡。因为朋友累了，我们在车站附近的咖啡馆休息。没看到海，但能慢慢聊天很好。我觉得旅行不只是抵达目的地。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l37-ex01",
+      "type": "choice",
+      "prompt": "林何时得知休馆？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l37-dialogue-synth",
+      "choices": [
+        "出发前",
+        "到站后",
+        "回家后"
+      ],
+      "correctIndex": 1,
+      "explanation": "他说駅に着いてから。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l37-ri8"
+      ]
+    },
+    {
+      "id": "l37-ex02",
+      "type": "choice",
+      "prompt": "下次准备确认什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l37-reading-synth",
+      "choices": [
+        "只看票价",
+        "营业时间与闭馆日",
+        "只看天气"
+      ],
+      "correctIndex": 1,
+      "explanation": "结尾明确两项都确认。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l37-ri9"
+      ]
+    },
+    {
+      "id": "l37-ex03",
+      "type": "choice",
+      "prompt": "为什么改去市场？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "美术馆休馆",
+        "雨一直下到晚上",
+        "市场离车站更远"
+      ],
+      "correctIndex": 0,
+      "explanation": "休馆直接导致改计划。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri6",
+        "l37-ri7",
+        "l37-ri8"
+      ]
+    },
+    {
+      "id": "l37-ex04",
+      "type": "choice",
+      "prompt": "雨停后留下什么感受？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "市场的鱼很贵",
+        "美术馆很拥挤",
+        "傍晚景色很美"
+      ],
+      "correctIndex": 2,
+      "explanation": "材料具体评价傍晚景色。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri7"
+      ]
+    },
+    {
+      "id": "l37-ex05",
+      "type": "choice",
+      "prompt": "第二篇最后在哪里休息？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "长坡顶公园",
+        "车站附近咖啡馆",
+        "海岸旅馆"
+      ],
+      "correctIndex": 1,
+      "explanation": "未继续爬坡去海边。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri8"
+      ]
+    },
+    {
+      "id": "l37-ex06",
+      "type": "choice",
+      "prompt": "第二篇如何评价没到海岸的旅行？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "聊天也有价值",
+        "完全失败",
+        "走越远越好"
+      ],
+      "correctIndex": 0,
+      "explanation": "结尾说明旅行价值不只在终点。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri5"
+      ]
+    },
+    {
+      "id": "l37-ex07",
+      "type": "input",
+      "prompt": "把「楽しいです」改为礼貌过去式：旅行は＿＿。",
+      "acceptedAnswers": [
+        "楽しかったです",
+        "たのしかったです"
+      ],
+      "explanation": "い形容词去い接かったです。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l37-ri5"
+      ]
+    },
+    {
+      "id": "l37-ex08",
+      "type": "order",
+      "prompt": "表达吃过午饭之后拍照。",
+      "tokens": [
+        "撮りました",
+        "。",
+        "写真を",
+        "食べてから",
+        "昼ご飯を"
+      ],
+      "correctOrder": [
+        4,
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "先吃饭，再拍照。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l37-ex09",
+      "type": "choice",
+      "prompt": "哪句说明休馆导致改去公园？",
+      "choices": [
+        "美術館は休みですか、公園へ行きました。",
+        "美術館は休みでしたから、公園へ行きました。",
+        "公園へ行きましたから、美術館を休みにしました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "原因是休馆，并非旅客让美术馆关门。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l37-ri7"
+      ]
+    },
+    {
+      "id": "l37-ex10",
+      "type": "input",
+      "prompt": "用です・ます语体补过去的感受：昨日の町は静か＿＿。",
+      "acceptedAnswers": [
+        "でした"
+      ],
+      "explanation": "静か是な形容词，礼貌过去式为静かでした。普通体的静かだった也自然，但本题指定礼貌体。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l37-ex11",
+      "type": "self",
+      "prompt": "讲一个改变计划的经历，包含原计划、原因和后来行动。",
+      "sampleAnswer": "海へ行く予定でした。でも雨でしたから、博物館へ行きました。",
+      "explanation": "三项信息都要有，可用虚构经历。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri6"
+      ]
+    },
+    {
+      "id": "l37-ex12",
+      "type": "self",
+      "prompt": "写一句总体感受，再给一个具体细节。",
+      "sampleAnswer": "楽しかったです。市場の魚がおいしかったです。",
+      "explanation": "让评价有依据。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l37-ex13",
+      "type": "self",
+      "prompt": "根据第二篇给下次步行旅行提建议。",
+      "sampleAnswer": "距離だけでなく、坂道があるかも確認したいです。",
+      "explanation": "回应坡路问题。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri5"
+      ]
+    },
+    {
+      "id": "l37-ex14",
+      "type": "self",
+      "prompt": "纠正“林因为整天都下雨而没看景色”的误解。",
+      "sampleAnswer": "午後に雨がやみました。林さんは夕方の景色を見ました。",
+      "explanation": "纠正全天雨及没看景色两点。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l37-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「楽しかったです。でも、予定を少し変えました。」主要用于什么？",
+      "choices": [
+        "先给总体感受，再提示计划变化",
+        "承接事件并追问后续行动",
+        "用具体景象表达旅行感受"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“很开心，不过改了一点计划。”。结合前后交流，其作用是：先给总体感受，再提示计划变化",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri1",
+        "l37-ri5",
+        "l37-ri6"
+      ]
+    },
+    {
+      "id": "l37-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「それで、何をしましたか。」主要用于什么？",
+      "choices": [
+        "用具体景象表达旅行感受",
+        "从经历中提出下次的改进",
+        "承接事件并追问后续行动"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“后来做了什么？”。结合前后交流，其作用是：承接事件并追问后续行动",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri2",
+        "l37-ri5"
+      ]
+    },
+    {
+      "id": "l37-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「午後はやみました。夕方の景色がきれいでした。」主要用于什么？",
+      "choices": [
+        "先给总体感受，再提示计划变化",
+        "用具体景象表达旅行感受",
+        "从经历中提出下次的改进"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“下午停雨了，傍晚景色很美。”。结合前后交流，其作用是：用具体景象表达旅行感受",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri3",
+        "l37-ri5",
+        "l37-ri6"
+      ]
+    },
+    {
+      "id": "l37-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「営業時間と休館日を確認したいです。」主要用于什么？",
+      "choices": [
+        "从经历中提出下次的改进",
+        "先给总体感受，再提示计划变化",
+        "承接事件并追问后续行动"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“想确认营业时间和闭馆日。”。结合前后交流，其作用是：从经历中提出下次的改进",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l37-ri4",
+        "l37-ri6",
+        "l37-ri9"
+      ]
+    },
+    {
+      "id": "l37-ex19",
+      "type": "self",
+      "prompt": "读例句「先週の旅行はどうでしたか。」。先不看词表，用中文说明「旅行」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "旅行",
+      "explanation": "本课这里表示“旅行”。例句意思是：上周的旅行怎么样？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri5"
+      ]
+    },
+    {
+      "id": "l37-ex20",
+      "type": "self",
+      "prompt": "读例句「いいえ。駅に着いてから、休館日だと知りました。」。先不看词表，用中文说明「駅」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "车站",
+      "explanation": "本课这里表示“车站”。例句意思是：没有，到站后才知道是闭馆日。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri8",
+        "l37-ri9"
+      ]
+    },
+    {
+      "id": "l37-ex21",
+      "type": "self",
+      "prompt": "读例句「市場で昼ご飯を食べて、古い通りを歩きました。」。先不看词表，用中文说明「昼ご飯」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "午饭",
+      "explanation": "本课这里表示“午饭”。例句意思是：在市场吃午饭，然后逛了老街。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l37-ex22",
+      "type": "self",
+      "prompt": "读例句「午後はやみました。夕方の景色がきれいでした。」。先不看词表，用中文说明「夕方」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "傍晚",
+      "explanation": "本课这里表示“傍晚”。例句意思是：下午停雨了，傍晚景色很美。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l37-ri3"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l37-ri1",
+      "front": "很开心，不过改了一点计划。",
+      "back": "楽しかったです。でも、予定を少し変えました。",
+      "reading": "たのしかったです。でも、よていをすこしかえました。",
+      "audioId": "synth-word-a85d1af8b917edad",
+      "kind": "expression"
+    },
+    {
+      "id": "l37-ri2",
+      "front": "后来做了什么？",
+      "back": "それで、何をしましたか。",
+      "reading": "それで、なにをしましたか。",
+      "audioId": "synth-word-5d782b54843e460f",
+      "kind": "expression"
+    },
+    {
+      "id": "l37-ri3",
+      "front": "下午停雨了，傍晚景色很美。",
+      "back": "午後はやみました。夕方の景色がきれいでした。",
+      "reading": "ごごはやみました。ゆうがたのけしきがきれいでした。",
+      "audioId": "synth-word-841b4f5eedd3a254",
+      "kind": "expression"
+    },
+    {
+      "id": "l37-ri4",
+      "front": "想确认营业时间和闭馆日。",
+      "back": "営業時間と休館日を確認したいです。",
+      "reading": "えいぎょうじかんときゅうかんびをかくにんしたいです。",
+      "audioId": "synth-word-92483134d43aa1ea",
+      "kind": "expression"
+    },
+    {
+      "id": "l37-ri5",
+      "front": "旅行在本课是什么意思？",
+      "back": "旅行",
+      "reading": "りょこう",
+      "audioId": "synth-word-087140ba0a8a3774",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l37-ri6",
+      "front": "予定在本课是什么意思？",
+      "back": "计划",
+      "reading": "よてい",
+      "audioId": "synth-word-622b9ab1b421d07b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l37-ri7",
+      "front": "美術館在本课是什么意思？",
+      "back": "美术馆",
+      "reading": "びじゅつかん",
+      "audioId": "synth-word-3924b00373c7f9ba",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l37-ri8",
+      "front": "駅在本课是什么意思？",
+      "back": "车站",
+      "reading": "えき",
+      "audioId": "synth-word-8754aeb54e9fe5ec",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l37-ri9",
+      "front": "休館日在本课是什么意思？",
+      "back": "闭馆日",
+      "reading": "きゅうかんび",
+      "audioId": "synth-word-148a70864a39b0f4",
+      "kind": "vocabulary"
+    }
+  ]
+}

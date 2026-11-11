@@ -1,0 +1,1122 @@
+{
+  "id": "l58",
+  "number": 58,
+  "moduleId": "m12",
+  "title": "说明流程并概括重点",
+  "subtitle": "顺序标记要连着条件读，摘要要保留会改变行动的信息。",
+  "revision": 2,
+  "goals": [
+    "按步骤与条件理解流程。",
+    "追踪それ等指示表达指向的前项。",
+    "概括时保留关键结论与限制，而不是只删字。"
+  ],
+  "prerequisites": [
+    "理解第57课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「说明流程并概括重点」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l58-ex01",
+        "l58-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「报名页面到哪一步」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「受付通知の次にすること」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「说明流程并概括重点」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l58-ex19",
+        "l58-ex20",
+        "l58-ex21",
+        "l58-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到手順、申し込み、受付、確認，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用申し込みの画面を送りました。これで完了ですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「说明流程并概括重点」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l58-ex07",
+        "l58-ex08",
+        "l58-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「顺序与条件分开标记」「指示表达和摘要」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「说明流程并概括重点」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l58-ex02",
+        "l58-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「说明流程并概括重点」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l58-ex04",
+        "l58-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「受付通知の次にすること」与「短くしたら意味が変わった」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「说明流程并概括重点」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l58-ex11",
+        "l58-ex12",
+        "l58-ex13",
+        "l58-ex14",
+        "l58-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「说明流程并概括重点」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l58-ex06",
+        "l58-ex10",
+        "l58-ex17",
+        "l58-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l58-ext10",
+      "title": "说明流程并概括重点 · 10分钟迁移",
+      "instructions": "用10分钟重读「受付通知の次にすること」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l58-ext15",
+      "title": "说明流程并概括重点 · 15分钟迁移",
+      "instructions": "用15分钟把「短くしたら意味が変わった」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l58-ext25",
+      "title": "说明流程并概括重点 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l58-ex13",
+        "l58-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l58-d01",
+      "title": "报名页面到哪一步",
+      "context": "林提交表格后以为已报名成功，工作人员解释后续流程。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l58-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "申し込みの画面を送りました。これで完了ですか。",
+          "kana": "もうしこみのがめんをおくりました。これでかんりょうですか。",
+          "zh": "提交报名页面了，这样完成了吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "まず受付の通知が届きます。その後、内容を確認します。",
+          "kana": "まずうけつけのつうちがとどきます。そのあと、ないようをかくにんします。",
+          "zh": "先收到受理通知，之后检查内容。"
+        },
+        {
+          "speaker": "林",
+          "ja": "それは、まだ参加が決まったという意味ではないのですね。",
+          "kana": "それは、まださんかがきまったといういみではないのですね。",
+          "zh": "也就是说还没确定参加，对吧？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "はい。確認が終わったら、支払いの案内を送ります。",
+          "kana": "はい。かくにんがおわったら、しはらいのあんないをおくります。",
+          "zh": "是的，核对完会发付款指南。"
+        },
+        {
+          "speaker": "林",
+          "ja": "次に期限までに支払うのですね。",
+          "kana": "つぎにきげんまでにしはらうのですね。",
+          "zh": "接着在期限内付款，是吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "そのとおりです。最後に参加番号が発行されます。",
+          "kana": "そのとおりです。さいごにさんかばんごうがはっこうされます。",
+          "zh": "对，最后发参加号码。"
+        },
+        {
+          "speaker": "林",
+          "ja": "途中で画面を閉じても、手順は保存されますか。",
+          "kana": "とちゅうでがめんをとじても、てじゅんはほぞんされますか。",
+          "zh": "中途关闭页面会保存流程吗？"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "段階によって違います。各画面の条件を確認してください。",
+          "kana": "だんかいによってちがいます。かくがめんのじょうけんをかくにんしてください。",
+          "zh": "各阶段不同，请确认各页面条件。"
+        },
+        {
+          "speaker": "林",
+          "ja": "要点を、受付、確認、支払い、番号の順番でメモします。",
+          "kana": "ようてんを、うけつけ、かくにん、しはらい、ばんごうのじゅんばんでめもします。",
+          "zh": "按受理、核对、付款、编号记重点。"
+        },
+        {
+          "speaker": "担当者",
+          "ja": "期限も省略せずに残してください。",
+          "kana": "きげんもしょうりゃくせずにのこしてください。",
+          "zh": "期限也别省略。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l58-v01",
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "步骤",
+      "pos": "名词",
+      "example": "途中で画面を閉じても、手順は保存されますか。",
+      "exampleMeaning": "中途关闭页面会保存流程吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3d81eade47f3c293"
+    },
+    {
+      "id": "l58-v02",
+      "word": "申し込み",
+      "reading": "もうしこみ",
+      "meaning": "报名",
+      "pos": "名词",
+      "example": "申し込みの画面を送りました。これで完了ですか。",
+      "exampleMeaning": "提交报名页面了，这样完成了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-e9f1bed4f4d4a30a"
+    },
+    {
+      "id": "l58-v03",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "受理",
+      "pos": "名词",
+      "example": "まず受付の通知が届きます。その後、内容を確認します。",
+      "exampleMeaning": "先收到受理通知，之后检查内容。",
+      "mastery": "active",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l58-v04",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "まず受付の通知が届きます。その後、内容を確認します。",
+      "exampleMeaning": "先收到受理通知，之后检查内容。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l58-v05",
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "通知",
+      "pos": "名词",
+      "example": "まず受付の通知が届きます。その後、内容を確認します。",
+      "exampleMeaning": "先收到受理通知，之后检查内容。",
+      "mastery": "active",
+      "audioId": "synth-word-b5c2bb62d5dcfef2"
+    },
+    {
+      "id": "l58-v06",
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "期限",
+      "pos": "名词",
+      "example": "次に期限までに支払うのですね。",
+      "exampleMeaning": "接着在期限内付款，是吗？",
+      "mastery": "active",
+      "audioId": "synth-word-6ea41e2db28054c5"
+    },
+    {
+      "id": "l58-v07",
+      "word": "支払い",
+      "reading": "しはらい",
+      "meaning": "付款",
+      "pos": "名词",
+      "example": "はい。確認が終わったら、支払いの案内を送ります。",
+      "exampleMeaning": "是的，核对完会发付款指南。",
+      "mastery": "active",
+      "audioId": "synth-word-a4e74f19053ab469"
+    },
+    {
+      "id": "l58-v08",
+      "word": "完了",
+      "reading": "かんりょう",
+      "meaning": "完成",
+      "pos": "名词",
+      "example": "申し込みの画面を送りました。これで完了ですか。",
+      "exampleMeaning": "提交报名页面了，这样完成了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-7128977dd568a78b"
+    },
+    {
+      "id": "l58-v09",
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "号码",
+      "pos": "名词",
+      "example": "そのとおりです。最後に参加番号が発行されます。",
+      "exampleMeaning": "对，最后发参加号码。",
+      "mastery": "active",
+      "audioId": "synth-word-64cc46bb91846064"
+    },
+    {
+      "id": "l58-v10",
+      "word": "画面",
+      "reading": "がめん",
+      "meaning": "页面",
+      "pos": "名词",
+      "example": "申し込みの画面を送りました。これで完了ですか。",
+      "exampleMeaning": "提交报名页面了，这样完成了吗？",
+      "mastery": "active",
+      "audioId": "synth-word-d68ed2ce20d27fe0"
+    },
+    {
+      "id": "l58-v11",
+      "word": "段階",
+      "reading": "だんかい",
+      "meaning": "阶段",
+      "pos": "名词",
+      "example": "段階によって違います。各画面の条件を確認してください。",
+      "exampleMeaning": "各阶段不同，请确认各页面条件。",
+      "mastery": "active",
+      "audioId": "synth-word-4e7cdfb555ab3667"
+    },
+    {
+      "id": "l58-v12",
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "顺序",
+      "pos": "名词",
+      "example": "要点を、受付、確認、支払い、番号の順番でメモします。",
+      "exampleMeaning": "按受理、核对、付款、编号记重点。",
+      "mastery": "active",
+      "audioId": "synth-word-e5fe7f71622c54d5"
+    },
+    {
+      "id": "l58-v13",
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "条件",
+      "pos": "名词",
+      "example": "段階によって違います。各画面の条件を確認してください。",
+      "exampleMeaning": "各阶段不同，请确认各页面条件。",
+      "mastery": "active",
+      "audioId": "synth-word-5b9d68ca0dc4fa01"
+    },
+    {
+      "id": "l58-v14",
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "要点",
+      "pos": "名词",
+      "example": "要点を、受付、確認、支払い、番号の順番でメモします。",
+      "exampleMeaning": "按受理、核对、付款、编号记重点。",
+      "mastery": "active",
+      "audioId": "synth-word-78d19fc6e6846b77"
+    },
+    {
+      "id": "l58-v15",
+      "word": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "省略",
+      "pos": "名词",
+      "example": "期限も省略せずに残してください。",
+      "exampleMeaning": "期限也别省略。",
+      "mastery": "active",
+      "audioId": "synth-word-3e8553997fc0caef"
+    },
+    {
+      "id": "l58-v16",
+      "word": "要約",
+      "reading": "ようやく",
+      "meaning": "摘要",
+      "pos": "名词",
+      "example": "学生会の会報に載せるため、私は会議の記録を短い文章に要約しました。",
+      "exampleMeaning": "为刊登学生会会报，我把会议记录压成短文。",
+      "mastery": "active",
+      "audioId": "synth-word-7c249b354da43f8c"
+    },
+    {
+      "id": "l58-v17",
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "标题",
+      "pos": "名词",
+      "example": "しかし、私は見出しを「次回は土曜に開催」として、条件を省いてしまいました。",
+      "exampleMeaning": "我却把标题写成下次周六举办，省掉了条件。",
+      "mastery": "active",
+      "audioId": "synth-word-5748a02c1c8733d5"
+    },
+    {
+      "id": "l58-v18",
+      "word": "原文",
+      "reading": "げんぶん",
+      "meaning": "原文",
+      "pos": "名词",
+      "example": "原文には、会場が空いている場合だけ次回の展示を土曜に行うと書かれていました。",
+      "exampleMeaning": "原文写只有场地空闲才在周六举办下次展览。",
+      "mastery": "active",
+      "audioId": "synth-word-ee7e98f4389cf90b"
+    },
+    {
+      "id": "l58-v19",
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "结论",
+      "pos": "名词",
+      "example": "また、議論の中の一つの例を全体の結論のように書いた部分もありました。",
+      "exampleMeaning": "还有把讨论中一个例子写成整体结论的地方。",
+      "mastery": "recognition",
+      "audioId": "synth-word-141eba1e5449e99e"
+    },
+    {
+      "id": "l58-v20",
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "理由",
+      "pos": "名词",
+      "example": "私は理由や例を全部残すのではなく、決定、未定、条件を区別して書き直しました。",
+      "exampleMeaning": "我不是把理由例子全保留，而是区分已定未定与条件后重写。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9d87c03640ed4651"
+    },
+    {
+      "id": "l58-v21",
+      "word": "例",
+      "reading": "れい",
+      "meaning": "例子",
+      "pos": "名词",
+      "example": "また、議論の中の一つの例を全体の結論のように書いた部分もありました。",
+      "exampleMeaning": "还有把讨论中一个例子写成整体结论的地方。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e7eb2f7ade5b1d39"
+    },
+    {
+      "id": "l58-v22",
+      "word": "読者",
+      "reading": "どくしゃ",
+      "meaning": "读者",
+      "pos": "名词",
+      "example": "読者は確定した予定だと受け取るため、担当者から修正するよう求められました。",
+      "exampleMeaning": "读者会当作确定计划，因此负责人要求修正。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9b72b8d7ad7295fe"
+    },
+    {
+      "id": "l58-v23",
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "负责人",
+      "pos": "名词",
+      "example": "担当者が内容を確認し、条件に合っている場合に、支払いの案内が送られます。",
+      "exampleMeaning": "负责人检查内容，符合条件才发付款指南。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e04916089cbf8f29"
+    },
+    {
+      "id": "l58-v24",
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "修正",
+      "pos": "名词",
+      "example": "読者は確定した予定だと受け取るため、担当者から修正するよう求められました。",
+      "exampleMeaning": "读者会当作确定计划，因此负责人要求修正。",
+      "mastery": "recognition",
+      "audioId": "synth-word-daa3e9d29f6a4718"
+    },
+    {
+      "id": "l58-v25",
+      "word": "公開",
+      "reading": "こうかい",
+      "meaning": "公开发布",
+      "pos": "名词",
+      "example": "公開前に原文へ戻って確認すると、短さと正確さの両方を意識できます。",
+      "exampleMeaning": "发布前回原文核对，有助兼顾简短与准确。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5c394ce1321cd41d"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l58-e1",
+      "ja": "申し込みの画面を送りました。これで完了ですか。",
+      "reading": "もうしこみのがめんをおくりました。これでかんりょうですか。",
+      "meaning": "提交报名页面了，这样完成了吗？",
+      "usage": "询问当前步骤是否代表最终完成",
+      "audioId": "synth-word-a0e2a85d3e76e645"
+    },
+    {
+      "id": "l58-e2",
+      "ja": "それは、まだ参加が決まったという意味ではないのですね。",
+      "reading": "それは、まださんかがきまったといういみではないのですね。",
+      "meaning": "也就是说还没确定参加，对吧？",
+      "usage": "确认指示表达后的实际状态",
+      "audioId": "synth-word-c1d2a8225818855e"
+    },
+    {
+      "id": "l58-e3",
+      "ja": "要点を、受付、確認、支払い、番号の順番でメモします。",
+      "reading": "ようてんを、うけつけ、かくにん、しはらい、ばんごうのじゅんばんでめもします。",
+      "meaning": "按受理、核对、付款、编号记重点。",
+      "usage": "用顺序压缩流程要点",
+      "audioId": "synth-word-311e1a1bac6365ee"
+    },
+    {
+      "id": "l58-e4",
+      "ja": "期限も省略せずに残してください。",
+      "reading": "きげんもしょうりゃくせずにのこしてください。",
+      "meaning": "期限也别省略。",
+      "usage": "提醒摘要保留重要限制",
+      "audioId": "synth-word-daccab57c8202fc7"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l58-g1",
+      "title": "顺序与条件分开标记",
+      "meaning": "知道哪一步在前，也知道何时才能继续。",
+      "pattern": "まず〜。その後〜。確認したら〜。最後に〜。",
+      "explanation": "顺序词显示流程；たら等说明进入下一步的条件。只排动作仍可能漏掉条件。",
+      "examples": [
+        {
+          "ja": "確認が終わったら、支払います。",
+          "zh": "核对完成后付款。"
+        },
+        {
+          "ja": "最後に番号を受け取ります。",
+          "zh": "最后领取编号。"
+        }
+      ],
+      "pitfall": "提交页面不一定等于整个手续结束。"
+    },
+    {
+      "id": "l58-g2",
+      "title": "指示表达和摘要",
+      "meaning": "确认それ指什么，概括时保留行动限制。",
+      "pattern": "それ＝前に述べた内容／要点＋条件",
+      "explanation": "それ可指一件事或整段情况，应回看前项。摘要不只是缩短，还要保留谁、做什么、条件和期限。",
+      "examples": [
+        {
+          "ja": "それは受付の通知を指します。",
+          "zh": "那指的是受理通知。"
+        },
+        {
+          "ja": "番号が届くまでは、完了ではありません。",
+          "zh": "号码到之前不算完成。"
+        }
+      ],
+      "pitfall": "不能把例子当结论，也不能删掉会改变行动的否定和期限。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "手順",
+          "reading": "てじゅん",
+          "zh": "步骤"
+        },
+        {
+          "ja": "申し込み",
+          "reading": "もうしこみ",
+          "zh": "报名"
+        },
+        {
+          "ja": "受付",
+          "reading": "うけつけ",
+          "zh": "受理"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l58-r1",
+      "title": "受付通知の次にすること",
+      "context": "虚构市民讲座的报名流程，用于练习信息排序。",
+      "ja": "講座の申し込みを送ると、まず受付を知らせる通知が届きますが、この段階では参加は確定していません。担当者が内容を確認し、条件に合っている場合に、支払いの案内が送られます。次に、指定された期限までに料金を支払い、画面に示された確認の手順を終えます。最後に参加番号が発行されたら、申し込み全体が完了したと判断できます。「それを保存してください」という案内のそれは、直前の参加番号を指しています。順番を逆に覚えたり、受付の通知だけで参加できると思ったりすると、必要な支払いを忘れるおそれがあります。自分用のメモでは、受付、確認、支払い、番号という要点に、期限の条件も付けました。短くする時にも、次の行動を決める情報は省略しないことが大切です。",
+      "zh": "提交报名后先收到受理通知，但此阶段还未确定参加。负责人检查内容，符合条件才发付款指南。接着在指定期限内付款，完成页面说明的确认步骤。最后参加编号发出，才可判断全流程完成。“请保存它”的它指前面的参加编号。记反顺序或只凭受理通知就以为能参加，可能忘付款。自用笔记把流程压成四点，并保留期限。缩短时也要保留决定下一行动的信息。",
+      "audioId": "l58-reading-synth"
+    },
+    {
+      "id": "l58-r2",
+      "title": "短くしたら意味が変わった",
+      "context": "学生编辑会报摘要，发现只留下结论并不够。",
+      "ja": "学生会の会報に載せるため、私は会議の記録を短い文章に要約しました。原文には、会場が空いている場合だけ次回の展示を土曜に行うと書かれていました。しかし、私は見出しを「次回は土曜に開催」として、条件を省いてしまいました。読者は確定した予定だと受け取るため、担当者から修正するよう求められました。また、議論の中の一つの例を全体の結論のように書いた部分もありました。私は理由や例を全部残すのではなく、決定、未定、条件を区別して書き直しました。公開前に原文へ戻って確認すると、短さと正確さの両方を意識できます。要約は字数を減らす作業だけではなく、読む人が誤らず判断できる形に整理することだと学びました。最終確認の後で公開しました。",
+      "zh": "为刊登学生会会报，我把会议记录压成短文。原文写只有场地空闲才在周六举办下次展览。我却把标题写成下次周六举办，省掉了条件。读者会当作确定计划，因此负责人要求修正。还有把讨论中一个例子写成整体结论的地方。我不是把理由例子全保留，而是区分已定未定与条件后重写。发布前回原文核对，有助兼顾简短与准确。我学到摘要不只是减字，而是整理为读者能正确判断的形式。最终核实后再发布。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l58-ex01",
+      "type": "choice",
+      "prompt": "受理通知后还需什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l58-dialogue-synth",
+      "choices": [
+        "核对、付款与编号",
+        "立即直接入场",
+        "完全不用任何手续"
+      ],
+      "correctIndex": 0,
+      "explanation": "对话明确说明后续阶段。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l58-ri7",
+        "l58-ri9"
+      ]
+    },
+    {
+      "id": "l58-ex02",
+      "type": "choice",
+      "prompt": "主阅读何时应付款？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l58-reading-synth",
+      "choices": [
+        "收到指南后且在指定期限内",
+        "无论是否核对先任意付款",
+        "拿到编号多年后"
+      ],
+      "correctIndex": 0,
+      "explanation": "需保留指南与期限条件。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex03",
+      "type": "choice",
+      "prompt": "哪一步标志全流程完成？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "参加编号已发出",
+        "表格刚发送",
+        "只收到受理通知"
+      ],
+      "correctIndex": 0,
+      "explanation": "最后编号发出才完成。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri7",
+        "l58-ri9"
+      ]
+    },
+    {
+      "id": "l58-ex04",
+      "type": "choice",
+      "prompt": "保存指令中的それ指什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "任意旧通知",
+        "全部聊天内容",
+        "参加编号"
+      ],
+      "correctIndex": 2,
+      "explanation": "应看紧接前项。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri9"
+      ]
+    },
+    {
+      "id": "l58-ex05",
+      "type": "choice",
+      "prompt": "摘要最初删掉了什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "负责人姓名的发音",
+        "场地空闲这个条件",
+        "所有决定均取消的事实"
+      ],
+      "correctIndex": 1,
+      "explanation": "删条件把未定写成已定。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex06",
+      "type": "choice",
+      "prompt": "作者最终怎样修订？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "区分已定、未定和条件",
+        "把全部例子当成最终结论",
+        "完全不回原文"
+      ],
+      "correctIndex": 0,
+      "explanation": "准确整理比单纯字少重要。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex07",
+      "type": "input",
+      "prompt": "按顺序：まず受付、その＿＿確認を行います。",
+      "acceptedAnswers": [
+        "後",
+        "あと",
+        "後に",
+        "あとに",
+        "後で",
+        "あとで",
+        "次に",
+        "つぎに",
+        "次",
+        "つぎ"
+      ],
+      "explanation": "その後（に／で）和その次（に）都能在本句连接先后步骤。注意实际流程而非只接受一个表面写法。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l58-ri5",
+        "l58-ri7",
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex08",
+      "type": "order",
+      "prompt": "表达核对完成后付款。",
+      "tokens": [
+        "支払います",
+        "。",
+        "終わったら",
+        "確認が"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "条件完成才进入下一步。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex09",
+      "type": "choice",
+      "prompt": "哪种摘要保留关键条件？",
+      "choices": [
+        "条件は不要なので消します。",
+        "会場が空いていれば土曜に行う予定です。",
+        "必ず土曜に行います。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不能将条件计划改成确定事实。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex10",
+      "type": "input",
+      "prompt": "用指示词承接前句的参加编号：参加番号が届きます。＿＿を保存してください。",
+      "acceptedAnswers": [
+        "それ",
+        "これ"
+      ],
+      "explanation": "それ最自然承接刚提到的编号；これ也可从当前所指信息的视角承接，不将其一概判错。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex11",
+      "type": "self",
+      "prompt": "用三四句压缩主阅读流程，必须留付款期限和最终完成标志。",
+      "sampleAnswer": "まず受付と確認があります。案内が届いたら期限までに支払います。番号が発行されたら完了です。",
+      "explanation": "不把受理当完成。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri7",
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex12",
+      "type": "self",
+      "prompt": "纠正“已经收到受理通知，所以不用做任何事”的误解。",
+      "sampleAnswer": "受付の通知だけでは確定していません。支払いの案内と期限を確認してください。",
+      "explanation": "给出下一步而不只是说错。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri7",
+        "l58-ri8",
+        "l58-ri9"
+      ]
+    },
+    {
+      "id": "l58-ex13",
+      "type": "self",
+      "prompt": "重写“下次周六举办”的标题，保留场地条件。",
+      "sampleAnswer": "会場が確保できた場合、次回は土曜に開催予定です。",
+      "explanation": "避免把未定变已定。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l58-ex14",
+      "type": "self",
+      "prompt": "找自己熟悉的一个流程，区分条件与步骤各写一句。",
+      "sampleAnswer": "申し込みの内容が確認されたら支払います。その後、番号を受け取ります。",
+      "explanation": "前句是进入条件，后句是顺序。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri5",
+        "l58-ri6",
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「申し込みの画面を送りました。これで完了ですか。」主要用于什么？",
+      "choices": [
+        "询问当前步骤是否代表最终完成",
+        "确认指示表达后的实际状态",
+        "用顺序压缩流程要点"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“提交报名页面了，这样完成了吗？”。结合前后交流，其作用是：询问当前步骤是否代表最终完成",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri1",
+        "l58-ri5",
+        "l58-ri6"
+      ]
+    },
+    {
+      "id": "l58-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「それは、まだ参加が決まったという意味ではないのですね。」主要用于什么？",
+      "choices": [
+        "用顺序压缩流程要点",
+        "提醒摘要保留重要限制",
+        "确认指示表达后的实际状态"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“也就是说还没确定参加，对吧？”。结合前后交流，其作用是：确认指示表达后的实际状态",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri2",
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「要点を、受付、確認、支払い、番号の順番でメモします。」主要用于什么？",
+      "choices": [
+        "询问当前步骤是否代表最终完成",
+        "用顺序压缩流程要点",
+        "提醒摘要保留重要限制"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“按受理、核对、付款、编号记重点。”。结合前后交流，其作用是：用顺序压缩流程要点",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri3",
+        "l58-ri5",
+        "l58-ri7"
+      ]
+    },
+    {
+      "id": "l58-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「期限も省略せずに残してください。」主要用于什么？",
+      "choices": [
+        "提醒摘要保留重要限制",
+        "询问当前步骤是否代表最终完成",
+        "确认指示表达后的实际状态"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“期限也别省略。”。结合前后交流，其作用是：提醒摘要保留重要限制",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l58-ri4",
+        "l58-ri5",
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex19",
+      "type": "self",
+      "prompt": "读例句「途中で画面を閉じても、手順は保存されますか。」。先不看词表，用中文说明「手順」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "步骤",
+      "explanation": "本课这里表示“步骤”。例句意思是：中途关闭页面会保存流程吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri5"
+      ]
+    },
+    {
+      "id": "l58-ex20",
+      "type": "self",
+      "prompt": "读例句「まず受付の通知が届きます。その後、内容を確認します。」。先不看词表，用中文说明「確認」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "确认",
+      "explanation": "本课这里表示“确认”。例句意思是：先收到受理通知，之后检查内容。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri7",
+        "l58-ri8",
+        "l58-ri9"
+      ]
+    },
+    {
+      "id": "l58-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。確認が終わったら、支払いの案内を送ります。」。先不看词表，用中文说明「支払い」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "付款",
+      "explanation": "本课这里表示“付款”。例句意思是：是的，核对完会发付款指南。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri8"
+      ]
+    },
+    {
+      "id": "l58-ex22",
+      "type": "self",
+      "prompt": "读例句「申し込みの画面を送りました。これで完了ですか。」。先不看词表，用中文说明「画面」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "页面",
+      "explanation": "本课这里表示“页面”。例句意思是：提交报名页面了，这样完成了吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l58-ri1",
+        "l58-ri6"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l58-ri1",
+      "front": "提交报名页面了，这样完成了吗？",
+      "back": "申し込みの画面を送りました。これで完了ですか。",
+      "reading": "もうしこみのがめんをおくりました。これでかんりょうですか。",
+      "audioId": "synth-word-a0e2a85d3e76e645",
+      "kind": "expression"
+    },
+    {
+      "id": "l58-ri2",
+      "front": "也就是说还没确定参加，对吧？",
+      "back": "それは、まだ参加が決まったという意味ではないのですね。",
+      "reading": "それは、まださんかがきまったといういみではないのですね。",
+      "audioId": "synth-word-c1d2a8225818855e",
+      "kind": "expression"
+    },
+    {
+      "id": "l58-ri3",
+      "front": "按受理、核对、付款、编号记重点。",
+      "back": "要点を、受付、確認、支払い、番号の順番でメモします。",
+      "reading": "ようてんを、うけつけ、かくにん、しはらい、ばんごうのじゅんばんでめもします。",
+      "audioId": "synth-word-311e1a1bac6365ee",
+      "kind": "expression"
+    },
+    {
+      "id": "l58-ri4",
+      "front": "期限也别省略。",
+      "back": "期限も省略せずに残してください。",
+      "reading": "きげんもしょうりゃくせずにのこしてください。",
+      "audioId": "synth-word-daccab57c8202fc7",
+      "kind": "expression"
+    },
+    {
+      "id": "l58-ri5",
+      "front": "手順在本课是什么意思？",
+      "back": "步骤",
+      "reading": "てじゅん",
+      "audioId": "synth-word-3d81eade47f3c293",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l58-ri6",
+      "front": "申し込み在本课是什么意思？",
+      "back": "报名",
+      "reading": "もうしこみ",
+      "audioId": "synth-word-e9f1bed4f4d4a30a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l58-ri7",
+      "front": "受付在本课是什么意思？",
+      "back": "受理",
+      "reading": "うけつけ",
+      "audioId": "synth-word-8309c02e7ebd8ae7",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l58-ri8",
+      "front": "確認在本课是什么意思？",
+      "back": "确认",
+      "reading": "かくにん",
+      "audioId": "synth-word-90be374fbf553392",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l58-ri9",
+      "front": "通知在本课是什么意思？",
+      "back": "通知",
+      "reading": "つうち",
+      "audioId": "synth-word-b5c2bb62d5dcfef2",
+      "kind": "vocabulary"
+    }
+  ]
+}

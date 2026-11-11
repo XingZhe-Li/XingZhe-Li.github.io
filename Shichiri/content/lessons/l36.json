@@ -1,0 +1,985 @@
+{
+  "id": "l36",
+  "number": 36,
+  "moduleId": "m8",
+  "title": "初次见面与大学生活",
+  "subtitle": "在短暂的初次见面里找到共同话题，也尊重对方的时间。",
+  "revision": 2,
+  "goals": [
+    "理解专业、年级与日常安排，分清对方的兴趣和空闲时间。",
+    "先回应对方已经提供的信息，再提出相关追问。",
+    "根据双方时间提出可行的小活动，并自然结束交流。"
+  ],
+  "prerequisites": [
+    "理解第35课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「初次见面与大学生活」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l36-ex01",
+        "l36-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「休息区遇见新同学」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「交流会之后的约定」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「初次见面与大学生活」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l36-ex19",
+        "l36-ex20",
+        "l36-ex21",
+        "l36-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到文学部、経済、二年生、三年生，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用私も写真が好きです。普段、どこで撮りますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「初次见面与大学生活」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l36-ex07",
+        "l36-ex08",
+        "l36-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「回应后再追问」「用条件说明空闲时间」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「初次见面与大学生活」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l36-ex02",
+        "l36-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「初次见面与大学生活」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l36-ex04",
+        "l36-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「交流会之后的约定」与「研究室見学の誘い」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「初次见面与大学生活」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l36-ex11",
+        "l36-ex12",
+        "l36-ex13",
+        "l36-ex14",
+        "l36-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「初次见面与大学生活」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l36-ex06",
+        "l36-ex10",
+        "l36-ex17",
+        "l36-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l36-ext10",
+      "title": "初次见面与大学生活 · 10分钟迁移",
+      "instructions": "用10分钟重读「交流会之后的约定」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l36-ext15",
+      "title": "初次见面与大学生活 · 15分钟迁移",
+      "instructions": "用15分钟把「研究室見学の誘い」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l36-ext25",
+      "title": "初次见面与大学生活 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l36-ex13",
+        "l36-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l36-d01",
+      "title": "休息区遇见新同学",
+      "context": "虚构的大学交流活动。林与佐藤第一次见面，准备聊兴趣，但佐藤一会儿还有课。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l36-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "佐藤",
+          "ja": "はじめまして。文学部の佐藤です。",
+          "kana": "はじめまして。ぶんがくぶのさとうです。",
+          "zh": "初次见面。我是文学部的佐藤。"
+        },
+        {
+          "speaker": "林",
+          "ja": "林です。中国の大学で経済を勉強しています。",
+          "kana": "りんです。ちゅうごくのだいがくでけいざいをべんきょうしています。",
+          "zh": "我叫林，在中国的大学学经济。"
+        },
+        {
+          "speaker": "佐藤",
+          "ja": "そうですか。今、何年生ですか。",
+          "kana": "そうですか。いま、なんねんせいですか。",
+          "zh": "这样啊，你现在几年级？"
+        },
+        {
+          "speaker": "林",
+          "ja": "二年生です。佐藤さんは？",
+          "kana": "にねんせいです。さとうさんは？",
+          "zh": "二年级。佐藤呢？"
+        },
+        {
+          "speaker": "佐藤",
+          "ja": "三年生です。授業の後は、よく写真を撮ります。",
+          "kana": "さんねんせいです。じゅぎょうのあとは、よくしゃしんをとります。",
+          "zh": "三年级。课后经常拍照。"
+        },
+        {
+          "speaker": "林",
+          "ja": "私も写真が好きです。普段、どこで撮りますか。",
+          "kana": "わたしもしゃしんがすきです。ふだん、どこでとりますか。",
+          "zh": "我也喜欢摄影，平时在哪里拍？"
+        },
+        {
+          "speaker": "佐藤",
+          "ja": "図書館の近くです。すみません、次の授業が始まります。",
+          "kana": "としょかんのちかくです。すみません、つぎのじゅぎょうがはじまります。",
+          "zh": "图书馆附近。不好意思，下一节课要开始了。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、また今度。週末は時間がありますか。",
+          "kana": "では、またこんど。しゅうまつはじかんがありますか。",
+          "zh": "那么下次聊吧，周末有时间吗？"
+        },
+        {
+          "speaker": "佐藤",
+          "ja": "土曜日の午後なら大丈夫です。",
+          "kana": "どようびのごごならだいじょうぶです。",
+          "zh": "周六下午可以。"
+        },
+        {
+          "speaker": "林",
+          "ja": "では、土曜日に。今日はありがとうございました。",
+          "kana": "では、どようびに。きょうはありがとうございました。",
+          "zh": "那周六见。今天谢谢你。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l36-v01",
+      "word": "文学部",
+      "reading": "ぶんがくぶ",
+      "meaning": "文学部",
+      "pos": "名词",
+      "example": "はじめまして。文学部の佐藤です。",
+      "exampleMeaning": "初次见面。我是文学部的佐藤。",
+      "mastery": "active",
+      "audioId": "synth-word-2a4d6aa35bd1839e"
+    },
+    {
+      "id": "l36-v02",
+      "word": "経済",
+      "reading": "けいざい",
+      "meaning": "经济",
+      "pos": "名词",
+      "example": "林です。中国の大学で経済を勉強しています。",
+      "exampleMeaning": "我叫林，在中国的大学学经济。",
+      "mastery": "active",
+      "audioId": "synth-word-0b5434100886b1df"
+    },
+    {
+      "id": "l36-v03",
+      "word": "二年生",
+      "reading": "にねんせい",
+      "meaning": "二年级学生",
+      "pos": "名词",
+      "example": "二年生です。佐藤さんは？",
+      "exampleMeaning": "二年级。佐藤呢？",
+      "mastery": "active",
+      "audioId": "synth-word-4a692ef056595a8a"
+    },
+    {
+      "id": "l36-v04",
+      "word": "三年生",
+      "reading": "さんねんせい",
+      "meaning": "三年级学生",
+      "pos": "名词",
+      "example": "三年生です。授業の後は、よく写真を撮ります。",
+      "exampleMeaning": "三年级。课后经常拍照。",
+      "mastery": "active",
+      "audioId": "synth-word-3123256bdf4fd584"
+    },
+    {
+      "id": "l36-v05",
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "课",
+      "pos": "名词",
+      "example": "三年生です。授業の後は、よく写真を撮ります。",
+      "exampleMeaning": "三年级。课后经常拍照。",
+      "mastery": "active",
+      "audioId": "synth-word-1d974fa5ab1f429c"
+    },
+    {
+      "id": "l36-v06",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片；摄影",
+      "pos": "名词",
+      "example": "三年生です。授業の後は、よく写真を撮ります。",
+      "exampleMeaning": "三年级。课后经常拍照。",
+      "mastery": "active",
+      "audioId": "synth-word-e2f3d21e1037f6f0"
+    },
+    {
+      "id": "l36-v07",
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "平时",
+      "pos": "副词",
+      "example": "私も写真が好きです。普段、どこで撮りますか。",
+      "exampleMeaning": "我也喜欢摄影，平时在哪里拍？",
+      "mastery": "active",
+      "audioId": "synth-word-f479d393eedce7e2"
+    },
+    {
+      "id": "l36-v08",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "图书馆",
+      "pos": "名词",
+      "example": "図書館の近くです。すみません、次の授業が始まります。",
+      "exampleMeaning": "图书馆附近。不好意思，下一节课要开始了。",
+      "mastery": "active",
+      "audioId": "synth-word-8111caffdb970505"
+    },
+    {
+      "id": "l36-v09",
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "周末",
+      "pos": "名词",
+      "example": "では、また今度。週末は時間がありますか。",
+      "exampleMeaning": "那么下次聊吧，周末有时间吗？",
+      "mastery": "active",
+      "audioId": "synth-word-c3c8921381d8447f"
+    },
+    {
+      "id": "l36-v10",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "下午",
+      "pos": "名词",
+      "example": "土曜日の午後なら大丈夫です。",
+      "exampleMeaning": "周六下午可以。",
+      "mastery": "active",
+      "audioId": "synth-word-a781a119e4a034f7"
+    },
+    {
+      "id": "l36-v11",
+      "word": "交流会",
+      "reading": "こうりゅうかい",
+      "meaning": "交流活动",
+      "pos": "名词",
+      "example": "交流会で、私は佐藤さんと話しました。",
+      "exampleMeaning": "在交流活动上，我和佐藤聊了聊。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f695cc6948908d2f"
+    },
+    {
+      "id": "l36-v12",
+      "word": "学部",
+      "reading": "がくぶ",
+      "meaning": "院系；学部",
+      "pos": "名词",
+      "example": "はじめまして。文学部の佐藤です。",
+      "exampleMeaning": "初次见面。我是文学部的佐藤。",
+      "mastery": "recognition",
+      "audioId": "synth-word-c72871033d3d0c51"
+    },
+    {
+      "id": "l36-v13",
+      "word": "研究室",
+      "reading": "けんきゅうしつ",
+      "meaning": "研究室",
+      "pos": "名词",
+      "example": "高橋さんは研究室を案内したいと言いました。",
+      "exampleMeaning": "高桥说想带我参观研究室。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b4b7922a400feb21"
+    },
+    {
+      "id": "l36-v14",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "约定",
+      "pos": "名词",
+      "example": "土曜日の午後に図書館の前で会う約束をしました。",
+      "exampleMeaning": "我们约好周六下午在图书馆前见面。",
+      "mastery": "recognition",
+      "audioId": "synth-word-7f966c1b4f81617f"
+    },
+    {
+      "id": "l36-v15",
+      "word": "連絡先",
+      "reading": "れんらくさき",
+      "meaning": "联系方式",
+      "pos": "名词",
+      "example": "まだ連絡先は聞いていません。",
+      "exampleMeaning": "我还没有问联系方式。",
+      "mastery": "recognition",
+      "audioId": "synth-word-f50770cd78a341b5"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l36-e1",
+      "ja": "私も写真が好きです。普段、どこで撮りますか。",
+      "reading": "わたしもしゃしんがすきです。ふだん、どこでとりますか。",
+      "meaning": "我也喜欢摄影，平时在哪里拍？",
+      "usage": "回应共同兴趣后追问具体活动地点",
+      "audioId": "synth-word-7ac628267f7989c6"
+    },
+    {
+      "id": "l36-e2",
+      "ja": "図書館の近くです。すみません、次の授業が始まります。",
+      "reading": "としょかんのちかくです。すみません、つぎのじゅぎょうがはじまります。",
+      "meaning": "图书馆附近。不好意思，下一节课要开始了。",
+      "usage": "说明当前时间限制并准备结束交流",
+      "audioId": "synth-word-9619f45a34addee1"
+    },
+    {
+      "id": "l36-e3",
+      "ja": "では、また今度。週末は時間がありますか。",
+      "reading": "では、またこんど。しゅうまつはじかんがありますか。",
+      "meaning": "那么下次聊吧，周末有时间吗？",
+      "usage": "礼貌结束当前话题，再询问下一次机会",
+      "audioId": "synth-word-2c916706a7341c2d"
+    },
+    {
+      "id": "l36-e4",
+      "ja": "では、土曜日に。今日はありがとうございました。",
+      "reading": "では、どようびに。きょうはありがとうございました。",
+      "meaning": "那周六见。今天谢谢你。",
+      "usage": "确认约定并自然结束此次交流",
+      "audioId": "synth-word-f0f12c2d64b33af7"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l36-g1",
+      "title": "回应后再追问",
+      "meaning": "让新问题与对方的信息相连。",
+      "pattern": "そうですか。／私も〜。＋疑问句",
+      "explanation": "先简短回应或指出共同点，再问地点、频率等，避免连续盘问身份。",
+      "examples": [
+        {
+          "ja": "私も写真が好きです。どこで撮りますか。",
+          "zh": "我也喜欢摄影，你在哪里拍？"
+        },
+        {
+          "ja": "そうですか。授業は何時までですか。",
+          "zh": "这样啊，课到几点？"
+        }
+      ],
+      "pitfall": "私も只在确实有共同点时用，不表示“我想知道更多”。"
+    },
+    {
+      "id": "l36-g2",
+      "title": "用条件说明空闲时间",
+      "meaning": "在具体时段可行，而非承诺全天都有空。",
+      "pattern": "时间＋なら、大丈夫です。",
+      "explanation": "把可行条件放在なら前，再给判断；确认时保留原来的限制。",
+      "examples": [
+        {
+          "ja": "土曜日の午後なら大丈夫です。",
+          "zh": "周六下午可以。"
+        },
+        {
+          "ja": "授業の後なら時間があります。",
+          "zh": "课后有时间。"
+        }
+      ],
+      "pitfall": "不能把“下午可以”理解成“整天都可以”。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "は与普通单词中的は",
+      "description": "话题助词は读わ，单词内部的は按词本身读音。先确认语法作用再听，不把全部は都改成わ。",
+      "examples": [
+        {
+          "ja": "文学部",
+          "reading": "ぶんがくぶ",
+          "zh": "文学部"
+        },
+        {
+          "ja": "経済",
+          "reading": "けいざい",
+          "zh": "经济"
+        },
+        {
+          "ja": "二年生",
+          "reading": "にねんせい",
+          "zh": "二年级学生"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l36-r1",
+      "title": "交流会之后的约定",
+      "context": "读活动结束后的小记录，找出后来见面的条件。",
+      "ja": "交流会で、私は佐藤さんと話しました。学部は違いますが、二人とも写真が好きです。佐藤さんは次の授業があったので、その場では長く話しませんでした。土曜日の午後に図書館の前で会う約束をしました。まだ連絡先は聞いていません。",
+      "zh": "在交流活动上，我和佐藤聊了聊。虽然院系不同，我们都喜欢摄影。佐藤接下来有课，所以当场没有聊很久。我们约好周六下午在图书馆前见面。我还没有问联系方式。",
+      "audioId": "l36-reading-synth"
+    },
+    {
+      "id": "l36-r2",
+      "title": "研究室見学の誘い",
+      "context": "这是另一组学生的安排，不要把他们与佐藤混为同一人。",
+      "ja": "高橋さんは研究室を案内したいと言いました。私は金曜日に試験があるので、木曜日の見学は断りました。高橋さんは「急がなくてもいいですよ」と答えました。試験が終わってから、改めて日時を相談します。まだ会う日を決めていないので、約束をしたとは言えません。",
+      "zh": "高桥说想带我参观研究室。我周五有考试，因此拒绝了周四的参观。高桥回答说不必着急。考试结束后再商量时间。还没决定见面日期，不能说已经约好了。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l36-ex01",
+      "type": "choice",
+      "prompt": "佐藤同意哪个时段见面？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l36-dialogue-synth",
+      "choices": [
+        "周六上午",
+        "周六下午",
+        "周日晚上"
+      ],
+      "correctIndex": 1,
+      "explanation": "佐藤说土曜日の午後なら大丈夫です。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex02",
+      "type": "choice",
+      "prompt": "主阅读中，两人的共同兴趣是什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l36-reading-synth",
+      "choices": [
+        "摄影",
+        "经济研究",
+        "音乐"
+      ],
+      "correctIndex": 0,
+      "explanation": "学部は違いますが、二人とも写真が好きです。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l36-ri6"
+      ]
+    },
+    {
+      "id": "l36-ex03",
+      "type": "choice",
+      "prompt": "林和佐藤为什么没有当场长聊？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "佐藤马上有下一节课",
+        "两人没有共同兴趣",
+        "林要赶火车"
+      ],
+      "correctIndex": 0,
+      "explanation": "材料明确说佐藤接下来有课；兴趣实际上相同。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex04",
+      "type": "choice",
+      "prompt": "关于佐藤的联系方式，哪项正确？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "已经交换了电话号码",
+        "只知道电子邮箱",
+        "还没有询问"
+      ],
+      "correctIndex": 2,
+      "explanation": "最后一句明确说还没问联系方式。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex05",
+      "type": "choice",
+      "prompt": "林为什么拒绝周四参观？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "高桥改变了主意",
+        "需要为周五考试作准备",
+        "研究室周四关闭"
+      ],
+      "correctIndex": 1,
+      "explanation": "材料把拒绝与周五考试联系起来。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex06",
+      "type": "choice",
+      "prompt": "第二篇是否已形成具体约定？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "还没有，日期仍需商量",
+        "有，周四上午见",
+        "有，考试当天见"
+      ],
+      "correctIndex": 0,
+      "explanation": "改日再商量不等于已约定具体时间。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex07",
+      "type": "input",
+      "prompt": "想表达“我也喜欢电影”。补空：私＿＿映画が好きです。",
+      "acceptedAnswers": [
+        "も"
+      ],
+      "explanation": "も承接与对方相同的喜好。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex08",
+      "type": "order",
+      "prompt": "用词块表达“周日上午的话有时间”。",
+      "tokens": [
+        "時間があります",
+        "。",
+        "なら",
+        "日曜日の午前"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "可行条件在なら前，判断在后。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex09",
+      "type": "choice",
+      "prompt": "对方说“周六下午可以”，哪句确认保留了原条件？",
+      "choices": [
+        "では、毎日午後に会いましょう。",
+        "では、土曜日の午後に会いましょう。",
+        "では、土曜日の朝に会いましょう。"
+      ],
+      "correctIndex": 1,
+      "explanation": "不能把下午改成早晨，也不能扩展成每天。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex10",
+      "type": "input",
+      "prompt": "初次见面不能长聊，想说“那么下次再聊”。补空：では、また＿＿。",
+      "acceptedAnswers": [
+        "今度",
+        "こんど",
+        "次回",
+        "じかい"
+      ],
+      "explanation": "今度和次回都能表达下次；本题练习自然结束短聊，不限制唯一一个近义词。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex11",
+      "type": "self",
+      "prompt": "对方也喜欢音乐，但你马上有课。写两句：回应共同点并说明现在要结束。",
+      "sampleAnswer": "私も音楽が好きです。すみません、次の授業があります。",
+      "explanation": "同时回应对方与说明限制，不突然离开。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex12",
+      "type": "self",
+      "prompt": "你只有周日下午有空。用日语给出条件，不承诺整个周末。",
+      "sampleAnswer": "日曜日の午後なら時間があります。",
+      "explanation": "保留“周日”和“下午”两项条件。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex13",
+      "type": "self",
+      "prompt": "初次交流时，对方说经常跑步。写一句相关追问。",
+      "sampleAnswer": "普段、どこで走りますか。",
+      "explanation": "追问活动地点，比突然询问无关个人信息连贯。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex14",
+      "type": "self",
+      "prompt": "比较两篇材料，用两句话说明哪一组已定时间，哪一组还没定。",
+      "sampleAnswer": "佐藤さんとは土曜日の午後に会います。高橋さんとは、まだ日時を決めていません。",
+      "explanation": "区分具体约定与以后再商量。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l36-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「私も写真が好きです。普段、どこで撮りますか。」主要用于什么？",
+      "choices": [
+        "回应共同兴趣后追问具体活动地点",
+        "说明当前时间限制并准备结束交流",
+        "礼貌结束当前话题，再询问下一次机会"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我也喜欢摄影，平时在哪里拍？”。结合前后交流，其作用是：回应共同兴趣后追问具体活动地点",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l36-ri1",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「図書館の近くです。すみません、次の授業が始まります。」主要用于什么？",
+      "choices": [
+        "礼貌结束当前话题，再询问下一次机会",
+        "确认约定并自然结束此次交流",
+        "说明当前时间限制并准备结束交流"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“图书馆附近。不好意思，下一节课要开始了。”。结合前后交流，其作用是：说明当前时间限制并准备结束交流",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l36-ri2",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、また今度。週末は時間がありますか。」主要用于什么？",
+      "choices": [
+        "回应共同兴趣后追问具体活动地点",
+        "礼貌结束当前话题，再询问下一次机会",
+        "确认约定并自然结束此次交流"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“那么下次聊吧，周末有时间吗？”。结合前后交流，其作用是：礼貌结束当前话题，再询问下一次机会",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l36-ri3",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、土曜日に。今日はありがとうございました。」主要用于什么？",
+      "choices": [
+        "确认约定并自然结束此次交流",
+        "回应共同兴趣后追问具体活动地点",
+        "说明当前时间限制并准备结束交流"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“那周六见。今天谢谢你。”。结合前后交流，其作用是：确认约定并自然结束此次交流",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l36-ri4",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex19",
+      "type": "self",
+      "prompt": "读例句「はじめまして。文学部の佐藤です。」。先不看词表，用中文说明「文学部」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "文学部",
+      "explanation": "本课这里表示“文学部”。例句意思是：初次见面。我是文学部的佐藤。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l36-ri5",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex20",
+      "type": "self",
+      "prompt": "读例句「三年生です。授業の後は、よく写真を撮ります。」。先不看词表，用中文说明「三年生」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "三年级学生",
+      "explanation": "本课这里表示“三年级学生”。例句意思是：三年级。课后经常拍照。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l36-ri8",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex21",
+      "type": "self",
+      "prompt": "读例句「私も写真が好きです。普段、どこで撮りますか。」。先不看词表，用中文说明「普段」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "平时",
+      "explanation": "本课这里表示“平时”。例句意思是：我也喜欢摄影，平时在哪里拍？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l36-ri1",
+        "l36-ri9"
+      ]
+    },
+    {
+      "id": "l36-ex22",
+      "type": "self",
+      "prompt": "读例句「土曜日の午後なら大丈夫です。」。先不看词表，用中文说明「午後」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "下午",
+      "explanation": "本课这里表示“下午”。例句意思是：周六下午可以。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l36-ri9"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l36-ri1",
+      "front": "我也喜欢摄影，平时在哪里拍？",
+      "back": "私も写真が好きです。普段、どこで撮りますか。",
+      "reading": "わたしもしゃしんがすきです。ふだん、どこでとりますか。",
+      "audioId": "synth-word-7ac628267f7989c6",
+      "kind": "expression"
+    },
+    {
+      "id": "l36-ri2",
+      "front": "图书馆附近。不好意思，下一节课要开始了。",
+      "back": "図書館の近くです。すみません、次の授業が始まります。",
+      "reading": "としょかんのちかくです。すみません、つぎのじゅぎょうがはじまります。",
+      "audioId": "synth-word-9619f45a34addee1",
+      "kind": "expression"
+    },
+    {
+      "id": "l36-ri3",
+      "front": "那么下次聊吧，周末有时间吗？",
+      "back": "では、また今度。週末は時間がありますか。",
+      "reading": "では、またこんど。しゅうまつはじかんがありますか。",
+      "audioId": "synth-word-2c916706a7341c2d",
+      "kind": "expression"
+    },
+    {
+      "id": "l36-ri4",
+      "front": "那周六见。今天谢谢你。",
+      "back": "では、土曜日に。今日はありがとうございました。",
+      "reading": "では、どようびに。きょうはありがとうございました。",
+      "audioId": "synth-word-f0f12c2d64b33af7",
+      "kind": "expression"
+    },
+    {
+      "id": "l36-ri5",
+      "front": "文学部在本课是什么意思？",
+      "back": "文学部",
+      "reading": "ぶんがくぶ",
+      "audioId": "synth-word-2a4d6aa35bd1839e",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l36-ri6",
+      "front": "経済在本课是什么意思？",
+      "back": "经济",
+      "reading": "けいざい",
+      "audioId": "synth-word-0b5434100886b1df",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l36-ri7",
+      "front": "二年生在本课是什么意思？",
+      "back": "二年级学生",
+      "reading": "にねんせい",
+      "audioId": "synth-word-4a692ef056595a8a",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l36-ri8",
+      "front": "三年生在本课是什么意思？",
+      "back": "三年级学生",
+      "reading": "さんねんせい",
+      "audioId": "synth-word-3123256bdf4fd584",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l36-ri9",
+      "front": "授業在本课是什么意思？",
+      "back": "课",
+      "reading": "じゅぎょう",
+      "audioId": "synth-word-1d974fa5ab1f429c",
+      "kind": "vocabulary"
+    }
+  ]
+}

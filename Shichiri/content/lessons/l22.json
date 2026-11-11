@@ -1,0 +1,985 @@
+{
+  "id": "l22",
+  "number": 22,
+  "moduleId": "m5",
+  "title": "询问许可与理解规则",
+  "subtitle": "先询问动作可否，再判断允许范围。",
+  "revision": 2,
+  "goals": [
+    "在不确定时询问某动作是否允许。",
+    "理解明确禁止，并保留地点条件。",
+    "在『确认可拍摄的范围』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第21课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「询问许可与理解规则」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l22-ex01",
+        "l22-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「确认可拍摄的范围」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「展馆许可范围」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「询问许可与理解规则」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l22-ex19",
+        "l22-ex20",
+        "l22-ex21",
+        "l22-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到許可、禁止、撮影、外，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用ここで写真を撮ってもいいですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「询问许可与理解规则」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l22-ex07",
+        "l22-ex08",
+        "l22-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「询问许可」「规则与范围」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「询问许可与理解规则」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l22-ex02",
+        "l22-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「询问许可与理解规则」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l22-ex04",
+        "l22-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「展馆许可范围」与「图书角的规定」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「询问许可与理解规则」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l22-ex11",
+        "l22-ex12",
+        "l22-ex13",
+        "l22-ex14",
+        "l22-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「询问许可与理解规则」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l22-ex06",
+        "l22-ex10",
+        "l22-ex17",
+        "l22-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l22-ext10",
+      "title": "询问许可与理解规则 · 10分钟迁移",
+      "instructions": "先听『确认可拍摄的范围』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l22-ext15",
+      "title": "询问许可与理解规则 · 15分钟迁移",
+      "instructions": "读『展馆许可范围』与『图书角的规定』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：问能不能借这本书。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l22-ext25",
+      "title": "询问许可与理解规则 · 25分钟迁移",
+      "instructions": "用5分钟听『确认可拍摄的范围』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：不清楚禁止是否包含外面，写追问。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l22-ex13",
+        "l22-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『确认可拍摄的范围』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『展馆许可范围』与变体材料的条件。",
+    "关闭说明后，能在情境中使用て形＋もいいですか及てはいけません，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l22-d01",
+      "title": "确认可拍摄的范围",
+      "context": "虚构展馆仅外部允许拍照。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l22-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "客",
+          "ja": "ここで写真を撮ってもいいですか。",
+          "kana": "ここでしゃしんをとってもいいですか。",
+          "zh": "可以在这里拍照吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "中では撮ってはいけません。",
+          "kana": "なかではとってはいけません。",
+          "zh": "里面不能拍。"
+        },
+        {
+          "speaker": "客",
+          "ja": "外で撮ってもいいですか。",
+          "kana": "そとでとってもいいですか。",
+          "zh": "外面可以吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい、外は大丈夫です。",
+          "kana": "はい、そとはだいじょうぶです。",
+          "zh": "外面可以。"
+        },
+        {
+          "speaker": "客",
+          "ja": "このパンフレットを借りてもいいですか。",
+          "kana": "このパンフレットをかりてもいいですか。",
+          "zh": "这册子可以借吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "はい。出口で返してください。",
+          "kana": "はい。でぐちでかえしてください。",
+          "zh": "可以，请在出口还。"
+        },
+        {
+          "speaker": "客",
+          "ja": "ここで水を飲んでもいいですか。",
+          "kana": "ここでみずをのんでもいいですか。",
+          "zh": "可以这里喝水吗？"
+        },
+        {
+          "speaker": "係",
+          "ja": "いいえ、飲食は禁止です。",
+          "kana": "いいえ、いんしょくはきんしです。",
+          "zh": "不，禁止饮食。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l22-v01",
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "许可",
+      "pos": "名词",
+      "example": "許可です。",
+      "exampleMeaning": "是许可。",
+      "mastery": "active",
+      "audioId": "synth-word-8bf33f1168fd56e8"
+    },
+    {
+      "id": "l22-v02",
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "禁止",
+      "pos": "名词",
+      "example": "いいえ、飲食は禁止です。",
+      "exampleMeaning": "不，禁止饮食。",
+      "mastery": "active",
+      "audioId": "synth-word-5c8e1b2bc26045a7"
+    },
+    {
+      "id": "l22-v03",
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning": "摄影",
+      "pos": "名词",
+      "example": "撮影です。",
+      "exampleMeaning": "是摄影。",
+      "mastery": "active",
+      "audioId": "synth-word-e4c57f057e09e513"
+    },
+    {
+      "id": "l22-v04",
+      "word": "外",
+      "reading": "そと",
+      "meaning": "外面",
+      "pos": "名词",
+      "example": "外で撮ってもいいですか。",
+      "exampleMeaning": "外面可以吗？",
+      "mastery": "active",
+      "audioId": "synth-word-7fb5b5be340d3d8c"
+    },
+    {
+      "id": "l22-v05",
+      "word": "中",
+      "reading": "なか",
+      "meaning": "里面",
+      "pos": "名词",
+      "example": "中では撮ってはいけません。",
+      "exampleMeaning": "里面不能拍。",
+      "mastery": "active",
+      "audioId": "synth-word-f43df8770dc644fe"
+    },
+    {
+      "id": "l22-v06",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "入口",
+      "pos": "名词",
+      "example": "入口です。",
+      "exampleMeaning": "是入口。",
+      "mastery": "active",
+      "audioId": "synth-word-192b082f803d15bf"
+    },
+    {
+      "id": "l22-v07",
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "出口",
+      "pos": "名词",
+      "example": "はい。出口で返してください。",
+      "exampleMeaning": "可以，请在出口还。",
+      "mastery": "active",
+      "audioId": "synth-word-2b220718488e2390"
+    },
+    {
+      "id": "l22-v08",
+      "word": "飲食",
+      "reading": "いんしょく",
+      "meaning": "饮食",
+      "pos": "名词",
+      "example": "いいえ、飲食は禁止です。",
+      "exampleMeaning": "不，禁止饮食。",
+      "mastery": "active",
+      "audioId": "synth-word-bb98a3e0fbde1c5c"
+    },
+    {
+      "id": "l22-v09",
+      "word": "持ち込み",
+      "reading": "もちこみ",
+      "meaning": "带入",
+      "pos": "名词",
+      "example": "持ち込みです。",
+      "exampleMeaning": "是带入。",
+      "mastery": "active",
+      "audioId": "synth-word-6082d8d1b6388548"
+    },
+    {
+      "id": "l22-v10",
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "没问题",
+      "pos": "な形容词",
+      "example": "はい、外は大丈夫です。",
+      "exampleMeaning": "外面可以。",
+      "mastery": "active",
+      "audioId": "synth-word-b0717456b24de4a7"
+    },
+    {
+      "id": "l22-v11",
+      "word": "だめ",
+      "reading": "だめ",
+      "meaning": "不行",
+      "pos": "な形容词",
+      "example": "だめ。",
+      "exampleMeaning": "不行。",
+      "mastery": "recognition",
+      "audioId": "synth-word-eaad6dcdaa2c7d80"
+    },
+    {
+      "id": "l22-v12",
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "打开",
+      "pos": "动词",
+      "example": "開ける。",
+      "exampleMeaning": "打开。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b71ae30808a11c34"
+    },
+    {
+      "id": "l22-v13",
+      "word": "閉める",
+      "reading": "しめる",
+      "meaning": "关上",
+      "pos": "动词",
+      "example": "閉める。",
+      "exampleMeaning": "关上。",
+      "mastery": "recognition",
+      "audioId": "synth-word-9a5f0296df8ce737"
+    },
+    {
+      "id": "l22-v14",
+      "word": "借りる",
+      "reading": "かりる",
+      "meaning": "借入",
+      "pos": "动词",
+      "example": "借りる。",
+      "exampleMeaning": "借入。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5af506e8c8f56d82"
+    },
+    {
+      "id": "l22-v15",
+      "word": "返す",
+      "reading": "かえす",
+      "meaning": "归还",
+      "pos": "动词",
+      "example": "返す。",
+      "exampleMeaning": "归还。",
+      "mastery": "recognition",
+      "audioId": "synth-word-5e667f039718be7b"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l22-e1",
+      "ja": "ここで写真を撮ってもいいですか。",
+      "reading": "ここでしゃしんをとってもいいですか。",
+      "meaning": "可以在这里拍照吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-155973b9529b5196"
+    },
+    {
+      "id": "l22-e2",
+      "ja": "中では撮ってはいけません。",
+      "reading": "なかではとってはいけません。",
+      "meaning": "里面不能拍。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-401e5d0737727c3f"
+    },
+    {
+      "id": "l22-e3",
+      "ja": "このパンフレットを借りてもいいですか。",
+      "reading": "このパンフレットをかりてもいいですか。",
+      "meaning": "这册子可以借吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c026912f3bcbf581"
+    },
+    {
+      "id": "l22-e4",
+      "ja": "はい。出口で返してください。",
+      "reading": "はい。でぐちでかえしてください。",
+      "meaning": "可以，请在出口还。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-5fa7f724a577ce97"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l22-g1",
+      "title": "询问许可",
+      "meaning": "在不确定时询问某动作是否允许。",
+      "pattern": "て形＋もいいですか",
+      "explanation": "借りてもいいですか询问允许，不是询问自己能力。",
+      "examples": [
+        {
+          "ja": "ここで写真を撮ってもいいですか。",
+          "zh": "可以在这里拍照吗？"
+        }
+      ],
+      "pitfall": "允许拍照不自动允许触摸展品。"
+    },
+    {
+      "id": "l22-g2",
+      "title": "规则与范围",
+      "meaning": "理解明确禁止，并保留地点条件。",
+      "pattern": "てはいけません",
+      "explanation": "中で撮ってはいけません只指内部；对外部还要按回应判断。",
+      "examples": [
+        {
+          "ja": "中で撮ってはいけません。",
+          "zh": "里面禁止拍摄。"
+        }
+      ],
+      "pitfall": "不能忽略中で的限制范围。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "許可",
+          "reading": "きょか",
+          "zh": "许可"
+        },
+        {
+          "ja": "禁止",
+          "reading": "きんし",
+          "zh": "禁止"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l22-r1",
+      "title": "展馆许可范围",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "中では写真を撮ってはいけません。外では撮ってもいいです。展示品に触ってはいけません。パンフレットを借りてもいいです。出口で返してください。飲食は中では禁止です。外の休憩場所でお願いします。入口と出口は同じ場所ではありません。",
+      "zh": "馆内禁拍，外面可拍。不可碰展品。册子可借，出口归还。馆内禁饮食，请在外面休息处。パンフレット是册子，休憩場所是休息处，作为支持词。",
+      "audioId": "l22-reading-synth"
+    },
+    {
+      "id": "l22-r2",
+      "title": "图书角的规定",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "この本を借りてもいいです。日曜日に返してください。写真を撮ってもいいです。でも、ほかの人を撮ってはいけません。水は飲んでもいいです。食べ物はだめです。入口のドアは閉めてください。静かに本を読んでください。",
+      "zh": "图书可借，周日还。可拍照但不可拍其他人。可喝水不吃东西。入口门关上，安静阅读。ほかの人是其他人，静かに作方式支持理解。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l22-ex01",
+      "type": "choice",
+      "prompt": "展馆哪里可以拍？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l22-dialogue-synth",
+      "choices": [
+        "外面",
+        "馆内",
+        "任何处"
+      ],
+      "correctIndex": 0,
+      "explanation": "外は大丈夫。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l22-ri8"
+      ]
+    },
+    {
+      "id": "l22-ex02",
+      "type": "choice",
+      "prompt": "册子在哪里还？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l22-reading-synth",
+      "choices": [
+        "出口",
+        "入口",
+        "任何桌上"
+      ],
+      "correctIndex": 0,
+      "explanation": "出口で返してください。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l22-ex03",
+      "type": "choice",
+      "prompt": "展馆哪里可以拍？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "外面",
+        "馆内",
+        "任何处"
+      ],
+      "correctIndex": 0,
+      "explanation": "外は大丈夫。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri8"
+      ]
+    },
+    {
+      "id": "l22-ex04",
+      "type": "choice",
+      "prompt": "册子在哪里还？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "出口",
+        "入口",
+        "任何桌上"
+      ],
+      "correctIndex": 0,
+      "explanation": "出口で返してください。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l22-ex05",
+      "type": "choice",
+      "prompt": "图书角什么可以拍？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "物品但不拍他人",
+        "任何人",
+        "全部禁止"
+      ],
+      "correctIndex": 0,
+      "explanation": "ほかの人を撮ってはいけません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri6"
+      ]
+    },
+    {
+      "id": "l22-ex06",
+      "type": "choice",
+      "prompt": "图书角能喝水吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "能",
+        "不能",
+        "未提"
+      ],
+      "correctIndex": 0,
+      "explanation": "水は飲んでもいい。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l22-ex07",
+      "type": "input",
+      "prompt": "补许可：借りて＿＿いいですか。",
+      "acceptedAnswers": [
+        "も"
+      ],
+      "explanation": "てもいい询问许可。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l22-ri5"
+      ]
+    },
+    {
+      "id": "l22-ex08",
+      "type": "input",
+      "prompt": "补全礼貌禁止表达「不可以进入」：入っては＿＿。",
+      "acceptedAnswers": [
+        "いけません",
+        "いけないです",
+        "だめです",
+        "駄目です",
+        "なりません"
+      ],
+      "explanation": "てはいけません是本课基本形式；てもいい表示许可。だめです、なりません也是自然的礼貌禁止说法。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l22-ri5",
+        "l22-ri6"
+      ]
+    },
+    {
+      "id": "l22-ex09",
+      "type": "order",
+      "prompt": "用词块组成：可以在这里拍照吗？",
+      "tokens": [
+        "写真を撮っても",
+        "いいですか。",
+        "ここで"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为ここで写真を撮ってもいいですか。；てもいい询问许可。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l22-ri1",
+        "l22-ri5"
+      ]
+    },
+    {
+      "id": "l22-ex10",
+      "type": "order",
+      "prompt": "用词块组成：里面禁止拍摄。",
+      "tokens": [
+        "撮っては",
+        "いけません。",
+        "中で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为中で撮ってはいけません。；てはいけません。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l22-ri6",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex11",
+      "type": "self",
+      "prompt": "问能不能借这本书。",
+      "sampleAnswer": "この本を借りてもいいですか。",
+      "explanation": "问许可。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri5"
+      ]
+    },
+    {
+      "id": "l22-ex12",
+      "type": "self",
+      "prompt": "告诉对方里面不能拍。",
+      "sampleAnswer": "中で写真を撮ってはいけません。",
+      "explanation": "保留地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex13",
+      "type": "self",
+      "prompt": "得到借书许可后确认还书时间。",
+      "sampleAnswer": "何曜日に返しますか。",
+      "explanation": "补归还条件。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri5"
+      ]
+    },
+    {
+      "id": "l22-ex14",
+      "type": "self",
+      "prompt": "不清楚禁止是否包含外面，写追问。",
+      "sampleAnswer": "外はどうですか。",
+      "explanation": "不任意扩大范围。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri6",
+        "l22-ri8"
+      ]
+    },
+    {
+      "id": "l22-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：问能不能借这本书。",
+      "choices": [
+        "この本を借りてもいいですか。",
+        "中で写真を撮ってはいけません。",
+        "何曜日に返しますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "问许可。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri5",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：告诉对方里面不能拍。",
+      "choices": [
+        "何曜日に返しますか。",
+        "外はどうですか。",
+        "中で写真を撮ってはいけません。"
+      ],
+      "correctIndex": 2,
+      "explanation": "保留地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri8",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：得到借书许可后确认还书时间。",
+      "choices": [
+        "この本を借りてもいいですか。",
+        "何曜日に返しますか。",
+        "外はどうですか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "补归还条件。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri5",
+        "l22-ri8"
+      ]
+    },
+    {
+      "id": "l22-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：不清楚禁止是否包含外面，写追问。",
+      "choices": [
+        "外はどうですか。",
+        "この本を借りてもいいですか。",
+        "中で写真を撮ってはいけません。"
+      ],
+      "correctIndex": 0,
+      "explanation": "不任意扩大范围。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l22-ri6",
+        "l22-ri8",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex19",
+      "type": "self",
+      "prompt": "读例句「許可です。」。先不看词表，用中文说明「許可」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "许可",
+      "explanation": "本课这里表示“许可”。例句意思是：是许可。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri5",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex20",
+      "type": "self",
+      "prompt": "读例句「外で撮ってもいいですか。」。先不看词表，用中文说明「外」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "外面",
+      "explanation": "本课这里表示“外面”。例句意思是：外面可以吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri8",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex21",
+      "type": "self",
+      "prompt": "读例句「はい。出口で返してください。」。先不看词表，用中文说明「出口」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "出口",
+      "explanation": "本课这里表示“出口”。例句意思是：可以，请在出口还。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri4",
+        "l22-ri9"
+      ]
+    },
+    {
+      "id": "l22-ex22",
+      "type": "self",
+      "prompt": "读例句「はい、外は大丈夫です。」。先不看词表，用中文说明「大丈夫」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "没问题",
+      "explanation": "本课这里表示“没问题”。例句意思是：外面可以。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l22-ri8",
+        "l22-ri9"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l22-ri1",
+      "front": "可以在这里拍照吗？",
+      "back": "ここで写真を撮ってもいいですか。",
+      "reading": "ここでしゃしんをとってもいいですか。",
+      "audioId": "synth-word-155973b9529b5196",
+      "kind": "expression"
+    },
+    {
+      "id": "l22-ri2",
+      "front": "里面不能拍。",
+      "back": "中では撮ってはいけません。",
+      "reading": "なかではとってはいけません。",
+      "audioId": "synth-word-401e5d0737727c3f",
+      "kind": "expression"
+    },
+    {
+      "id": "l22-ri3",
+      "front": "这册子可以借吗？",
+      "back": "このパンフレットを借りてもいいですか。",
+      "reading": "このパンフレットをかりてもいいですか。",
+      "audioId": "synth-word-c026912f3bcbf581",
+      "kind": "expression"
+    },
+    {
+      "id": "l22-ri4",
+      "front": "可以，请在出口还。",
+      "back": "はい。出口で返してください。",
+      "reading": "はい。でぐちでかえしてください。",
+      "audioId": "synth-word-5fa7f724a577ce97",
+      "kind": "expression"
+    },
+    {
+      "id": "l22-ri5",
+      "front": "許可在本课是什么意思？",
+      "back": "许可",
+      "reading": "きょか",
+      "audioId": "synth-word-8bf33f1168fd56e8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l22-ri6",
+      "front": "禁止在本课是什么意思？",
+      "back": "禁止",
+      "reading": "きんし",
+      "audioId": "synth-word-5c8e1b2bc26045a7",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l22-ri7",
+      "front": "撮影在本课是什么意思？",
+      "back": "摄影",
+      "reading": "さつえい",
+      "audioId": "synth-word-e4c57f057e09e513",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l22-ri8",
+      "front": "外在本课是什么意思？",
+      "back": "外面",
+      "reading": "そと",
+      "audioId": "synth-word-7fb5b5be340d3d8c",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l22-ri9",
+      "front": "中在本课是什么意思？",
+      "back": "里面",
+      "reading": "なか",
+      "audioId": "synth-word-f43df8770dc644fe",
+      "kind": "vocabulary"
+    }
+  ]
+}

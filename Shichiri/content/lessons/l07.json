@@ -1,0 +1,986 @@
+{
+  "id": "l07",
+  "number": 7,
+  "moduleId": "m2",
+  "title": "询问时间与安排日程",
+  "subtitle": "对照开放时间与约定时刻，避免把课前见面当开课。",
+  "revision": 2,
+  "goals": [
+    "说明活动的开始时刻。",
+    "区分开始与结束。",
+    "在『课前见面』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第6课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「询问时间与安排日程」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l07-ex01",
+        "l07-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「课前见面」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「教室时间」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「询问时间与安排日程」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l07-ex19",
+        "l07-ex20",
+        "l07-ex21",
+        "l07-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到何時、時、分、半，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用授業は何時からですか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「询问时间与安排日程」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l07-ex07",
+        "l07-ex08",
+        "l07-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「具体时刻」「时间范围」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「询问时间与安排日程」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l07-ex02",
+        "l07-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「询问时间与安排日程」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l07-ex04",
+        "l07-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「教室时间」与「周末安排」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「询问时间与安排日程」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l07-ex11",
+        "l07-ex12",
+        "l07-ex13",
+        "l07-ex14",
+        "l07-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「询问时间与安排日程」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l07-ex06",
+        "l07-ex10",
+        "l07-ex17",
+        "l07-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l07-ext10",
+      "title": "询问时间与安排日程 · 10分钟迁移",
+      "instructions": "先听『课前见面』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l07-ext15",
+      "title": "询问时间与安排日程 · 15分钟迁移",
+      "instructions": "读『教室时间』与『周末安排』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：询问接待几点结束。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l07-ext25",
+      "title": "询问时间与安排日程 · 25分钟迁移",
+      "instructions": "用5分钟听『课前见面』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：把约定明确为九点半。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l07-ex13",
+        "l07-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『课前见面』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『教室时间』与变体材料的条件。",
+    "关闭说明后，能在情境中使用时间に＋动作及から／まで，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l07-d01",
+      "title": "课前见面",
+      "context": "最后约定在课程开始前见面。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l07-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "りん",
+          "ja": "授業は何時からですか。",
+          "kana": "じゅぎょうはなんじからですか。",
+          "zh": "课几点开始？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "午前十時からです。",
+          "kana": "ごぜんじゅうじからです。",
+          "zh": "上午十点。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "何時までですか。",
+          "kana": "なんじまでですか。",
+          "zh": "到几点？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "十二時までです。",
+          "kana": "じゅうにじまでです。",
+          "zh": "到十二点。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "月曜日ですか。",
+          "kana": "げつようびですか。",
+          "zh": "星期一吗？"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "いいえ、火曜日です。",
+          "kana": "いいえ、かようびです。",
+          "zh": "不，星期二。"
+        },
+        {
+          "speaker": "りん",
+          "ja": "九時半にお願いします。",
+          "kana": "くじはんにおねがいします。",
+          "zh": "请约九点半。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "はい、九時半ですね。",
+          "kana": "はい、くじはんですね。",
+          "zh": "好，九点半。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l07-v01",
+      "word": "何時",
+      "reading": "なんじ",
+      "meaning": "几点",
+      "pos": "疑问词",
+      "example": "授業は何時からですか。",
+      "exampleMeaning": "课几点开始？",
+      "mastery": "active",
+      "audioId": "synth-word-793e09e5186259c4"
+    },
+    {
+      "id": "l07-v02",
+      "word": "時",
+      "reading": "じ",
+      "meaning": "点钟",
+      "pos": "量词",
+      "example": "授業は何時からですか。",
+      "exampleMeaning": "课几点开始？",
+      "mastery": "active",
+      "audioId": "synth-word-8b47a5b935ac119f"
+    },
+    {
+      "id": "l07-v03",
+      "word": "分",
+      "reading": "ふん",
+      "meaning": "分钟，按数字变读",
+      "pos": "量词",
+      "example": "分。",
+      "exampleMeaning": "分钟，按数字变读。",
+      "mastery": "active",
+      "audioId": "synth-word-3bee8ee0bf5973e1"
+    },
+    {
+      "id": "l07-v04",
+      "word": "半",
+      "reading": "はん",
+      "meaning": "半",
+      "pos": "名词",
+      "example": "九時半にお願いします。",
+      "exampleMeaning": "请约九点半。",
+      "mastery": "active",
+      "audioId": "synth-word-b3c08bf420029fec"
+    },
+    {
+      "id": "l07-v05",
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "上午",
+      "pos": "名词",
+      "example": "午前十時からです。",
+      "exampleMeaning": "上午十点。",
+      "mastery": "active",
+      "audioId": "synth-word-7436e1589b064e67"
+    },
+    {
+      "id": "l07-v06",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "下午",
+      "pos": "名词",
+      "example": "午後です。",
+      "exampleMeaning": "是下午。",
+      "mastery": "active",
+      "audioId": "synth-word-a781a119e4a034f7"
+    },
+    {
+      "id": "l07-v07",
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "星期一",
+      "pos": "名词",
+      "example": "月曜日ですか。",
+      "exampleMeaning": "星期一吗？",
+      "mastery": "active",
+      "audioId": "synth-word-3c846c4d8d79adf6"
+    },
+    {
+      "id": "l07-v08",
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "星期二",
+      "pos": "名词",
+      "example": "いいえ、火曜日です。",
+      "exampleMeaning": "不，星期二。",
+      "mastery": "active",
+      "audioId": "synth-word-d4781da893bf9196"
+    },
+    {
+      "id": "l07-v09",
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "星期三",
+      "pos": "名词",
+      "example": "水曜日です。",
+      "exampleMeaning": "是星期三。",
+      "mastery": "active",
+      "audioId": "synth-word-14e4365c008d0acd"
+    },
+    {
+      "id": "l07-v10",
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "星期六",
+      "pos": "名词",
+      "example": "土曜日です。",
+      "exampleMeaning": "是星期六。",
+      "mastery": "active",
+      "audioId": "synth-word-6148b7556e4bf870"
+    },
+    {
+      "id": "l07-v11",
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "星期日",
+      "pos": "名词",
+      "example": "日曜日です。",
+      "exampleMeaning": "是星期日。",
+      "mastery": "recognition",
+      "audioId": "synth-word-b82a5b0465648483"
+    },
+    {
+      "id": "l07-v12",
+      "word": "休み",
+      "reading": "やすみ",
+      "meaning": "休息、休息日",
+      "pos": "名词",
+      "example": "休みです。",
+      "exampleMeaning": "是休息、休息日。",
+      "mastery": "recognition",
+      "audioId": "synth-word-a8f1478f32193bc0"
+    },
+    {
+      "id": "l07-v13",
+      "word": "始まります",
+      "reading": "はじまります",
+      "meaning": "开始",
+      "pos": "动词",
+      "example": "始まります。",
+      "exampleMeaning": "开始。",
+      "mastery": "recognition",
+      "audioId": "synth-word-63f0bd5690f25242"
+    },
+    {
+      "id": "l07-v14",
+      "word": "終わります",
+      "reading": "おわります",
+      "meaning": "结束",
+      "pos": "动词",
+      "example": "終わります。",
+      "exampleMeaning": "结束。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0580b9fc56c6e97e"
+    },
+    {
+      "id": "l07-v15",
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "课程",
+      "pos": "名词",
+      "example": "授業は何時からですか。",
+      "exampleMeaning": "课几点开始？",
+      "mastery": "recognition",
+      "audioId": "synth-word-1d974fa5ab1f429c"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l07-e1",
+      "ja": "授業は何時からですか。",
+      "reading": "じゅぎょうはなんじからですか。",
+      "meaning": "课几点开始？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-bc720b755ba5e5ba"
+    },
+    {
+      "id": "l07-e2",
+      "ja": "午前十時からです。",
+      "reading": "ごぜんじゅうじからです。",
+      "meaning": "上午十点。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-fc46a04d80be8020"
+    },
+    {
+      "id": "l07-e3",
+      "ja": "月曜日ですか。",
+      "reading": "げつようびですか。",
+      "meaning": "星期一吗？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-f43cb3659d9bdee4"
+    },
+    {
+      "id": "l07-e4",
+      "ja": "いいえ、火曜日です。",
+      "reading": "いいえ、かようびです。",
+      "meaning": "不，星期二。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-e8695b705d13bffa"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l07-g1",
+      "title": "具体时刻",
+      "meaning": "说明活动的开始时刻。",
+      "pattern": "时间に＋动作",
+      "explanation": "九時に等具体时刻用に。半是半小时；今日等相对时间通常不加に。",
+      "examples": [
+        {
+          "ja": "授業は十時に始まります。",
+          "zh": "课程十点开始。"
+        }
+      ],
+      "pitfall": "见面时刻不等于开课时刻。"
+    },
+    {
+      "id": "l07-g2",
+      "title": "时间范围",
+      "meaning": "区分开始与结束。",
+      "pattern": "から／まで",
+      "explanation": "から是起点，まで是终点；同时看星期和休息日。",
+      "examples": [
+        {
+          "ja": "九時から五時までです。",
+          "zh": "从九点到五点。"
+        }
+      ],
+      "pitfall": "终点不是起点。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "何時",
+          "reading": "なんじ",
+          "zh": "几点"
+        },
+        {
+          "ja": "時",
+          "reading": "じ",
+          "zh": "点钟"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l07-r1",
+      "title": "教室时间",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "授業は火曜日です。午前十時に始まります。十二時に終わります。受付は午前九時から午後五時までです。水曜日は受付の休みです。りんさんとミナさんは九時半に受付です。九時半は授業の時間ではありません。",
+      "zh": "周二课十点开始十二点结束。接待9点到下午5点，周三休息。林和米娜9点半在接待处，不是开课时间。",
+      "audioId": "l07-reading-synth"
+    },
+    {
+      "id": "l07-r2",
+      "title": "周末安排",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "土曜日の授業は午後一時から三時までです。日曜日は授業の休みです。受付は土曜日も午前九時からです。けんさんは十二時半に受付です。午後一時は授業の時間です。土曜日と火曜日の授業は同じ時間ではありません。",
+      "zh": "周六课下午1到3点，周日无课。周六接待也九点开始。健12点半在接待处，1点开课。周六周二课程时间不同。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l07-ex01",
+      "type": "choice",
+      "prompt": "双方最后约定几点？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l07-dialogue-synth",
+      "choices": [
+        "九点半",
+        "十点",
+        "十二点"
+      ],
+      "correctIndex": 0,
+      "explanation": "末尾确认九時半。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l07-ri5",
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex02",
+      "type": "choice",
+      "prompt": "接待哪天休息？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l07-reading-synth",
+      "choices": [
+        "周二",
+        "周三",
+        "周六"
+      ],
+      "correctIndex": 1,
+      "explanation": "水曜日は休み。",
+      "skill": "listening",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l07-ex03",
+      "type": "choice",
+      "prompt": "双方最后约定几点？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "九点半",
+        "十点",
+        "十二点"
+      ],
+      "correctIndex": 0,
+      "explanation": "末尾确认九時半。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri5",
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex04",
+      "type": "choice",
+      "prompt": "接待哪天休息？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "周二",
+        "周三",
+        "周六"
+      ],
+      "correctIndex": 1,
+      "explanation": "水曜日は休み。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l07-ex05",
+      "type": "choice",
+      "prompt": "周六课在什么时候？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "上午九点",
+        "下午一点",
+        "下午五点"
+      ],
+      "correctIndex": 1,
+      "explanation": "午後一時から。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri6",
+        "l07-ri9"
+      ]
+    },
+    {
+      "id": "l07-ex06",
+      "type": "choice",
+      "prompt": "周日是否有课？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有",
+        "上午有",
+        "下午有"
+      ],
+      "correctIndex": 0,
+      "explanation": "日曜日は授業の休み。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri9"
+      ]
+    },
+    {
+      "id": "l07-ex07",
+      "type": "input",
+      "prompt": "填时间助词：十時＿＿始まります。",
+      "acceptedAnswers": [
+        "に"
+      ],
+      "explanation": "具体时刻用に。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex08",
+      "type": "input",
+      "prompt": "填范围终点：九時から五時＿＿です。",
+      "acceptedAnswers": [
+        "まで"
+      ],
+      "explanation": "まで标终点。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex09",
+      "type": "order",
+      "prompt": "用词块组成：课程十点开始。",
+      "tokens": [
+        "十時に",
+        "始まります。",
+        "授業は"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为授業は十時に始まります。；具体时刻用に。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex10",
+      "type": "order",
+      "prompt": "用词块组成：从九点到五点。",
+      "tokens": [
+        "五時まで",
+        "です。",
+        "九時から"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为九時から五時までです。；まで标终点。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex11",
+      "type": "self",
+      "prompt": "询问接待几点结束。",
+      "sampleAnswer": "受付は何時までですか。",
+      "explanation": "问终点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri5",
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex12",
+      "type": "self",
+      "prompt": "确认上午还是下午。",
+      "sampleAnswer": "午前ですか。午後ですか。",
+      "explanation": "补足时段。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri9"
+      ]
+    },
+    {
+      "id": "l07-ex13",
+      "type": "self",
+      "prompt": "把误听的周一更正为周二。",
+      "sampleAnswer": "いいえ、火曜日です。",
+      "explanation": "改星期。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri4"
+      ]
+    },
+    {
+      "id": "l07-ex14",
+      "type": "self",
+      "prompt": "把约定明确为九点半。",
+      "sampleAnswer": "九時半にお願いします。",
+      "explanation": "给具体时间。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：询问接待几点结束。",
+      "choices": [
+        "受付は何時までですか。",
+        "午前ですか。午後ですか。",
+        "いいえ、火曜日です。"
+      ],
+      "correctIndex": 0,
+      "explanation": "问终点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri4",
+        "l07-ri5",
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：确认上午还是下午。",
+      "choices": [
+        "いいえ、火曜日です。",
+        "九時半にお願いします。",
+        "午前ですか。午後ですか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "补足时段。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri4",
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：把误听的周一更正为周二。",
+      "choices": [
+        "受付は何時までですか。",
+        "いいえ、火曜日です。",
+        "九時半にお願いします。"
+      ],
+      "correctIndex": 1,
+      "explanation": "改星期。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri4",
+        "l07-ri5",
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：把约定明确为九点半。",
+      "choices": [
+        "九時半にお願いします。",
+        "受付は何時までですか。",
+        "午前ですか。午後ですか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "给具体时间。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l07-ri5",
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex19",
+      "type": "self",
+      "prompt": "读例句「授業は何時からですか。」。先不看词表，用中文说明「何時」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "几点",
+      "explanation": "本课这里表示“几点”。例句意思是：课几点开始？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri1",
+        "l07-ri5",
+        "l07-ri6"
+      ]
+    },
+    {
+      "id": "l07-ex20",
+      "type": "self",
+      "prompt": "读例句「九時半にお願いします。」。先不看词表，用中文说明「半」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "半",
+      "explanation": "本课这里表示“半”。例句意思是：请约九点半。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri6",
+        "l07-ri8"
+      ]
+    },
+    {
+      "id": "l07-ex21",
+      "type": "self",
+      "prompt": "读例句「月曜日ですか。」。先不看词表，用中文说明「月曜日」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "星期一",
+      "explanation": "本课这里表示“星期一”。例句意思是：星期一吗？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l07-ri3"
+      ]
+    },
+    {
+      "id": "l07-ex22",
+      "type": "self",
+      "prompt": "读例句「土曜日です。」。先不看词表，用中文说明「土曜日」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "星期六",
+      "explanation": "本课这里表示“星期六”。例句意思是：是星期六。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l07-ri1",
+      "front": "课几点开始？",
+      "back": "授業は何時からですか。",
+      "reading": "じゅぎょうはなんじからですか。",
+      "audioId": "synth-word-bc720b755ba5e5ba",
+      "kind": "expression"
+    },
+    {
+      "id": "l07-ri2",
+      "front": "上午十点。",
+      "back": "午前十時からです。",
+      "reading": "ごぜんじゅうじからです。",
+      "audioId": "synth-word-fc46a04d80be8020",
+      "kind": "expression"
+    },
+    {
+      "id": "l07-ri3",
+      "front": "星期一吗？",
+      "back": "月曜日ですか。",
+      "reading": "げつようびですか。",
+      "audioId": "synth-word-f43cb3659d9bdee4",
+      "kind": "expression"
+    },
+    {
+      "id": "l07-ri4",
+      "front": "不，星期二。",
+      "back": "いいえ、火曜日です。",
+      "reading": "いいえ、かようびです。",
+      "audioId": "synth-word-e8695b705d13bffa",
+      "kind": "expression"
+    },
+    {
+      "id": "l07-ri5",
+      "front": "何時在本课是什么意思？",
+      "back": "几点",
+      "reading": "なんじ",
+      "audioId": "synth-word-793e09e5186259c4",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l07-ri6",
+      "front": "時在本课是什么意思？",
+      "back": "点钟",
+      "reading": "じ",
+      "audioId": "synth-word-8b47a5b935ac119f",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l07-ri7",
+      "front": "分在本课是什么意思？",
+      "back": "分钟，按数字变读",
+      "reading": "ふん",
+      "audioId": "synth-word-3bee8ee0bf5973e1",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l07-ri8",
+      "front": "半在本课是什么意思？",
+      "back": "半",
+      "reading": "はん",
+      "audioId": "synth-word-b3c08bf420029fec",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l07-ri9",
+      "front": "午前在本课是什么意思？",
+      "back": "上午",
+      "reading": "ごぜん",
+      "audioId": "synth-word-7436e1589b064e67",
+      "kind": "vocabulary"
+    }
+  ]
+}

@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "l01",
+    "number": 1,
+    "title": "声音校准与交流修复",
+    "moduleId": "m1",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "识别交流卡住的原因"
+      },
+      {
+        "day": 2,
+        "title": "从词块组织短请求"
+      },
+      {
+        "day": 3,
+        "title": "辨认音拍和书写差异"
+      },
+      {
+        "day": 4,
+        "title": "用否定回应修正行动"
+      },
+      {
+        "day": 5,
+        "title": "从文字与录音提取行动信息"
+      },
+      {
+        "day": 6,
+        "title": "不看范句完成短轮次交流"
+      },
+      {
+        "day": 7,
+        "title": "在换场所后检验迁移"
+      }
+    ]
+  },
+  {
+    "id": "l02",
+    "number": 2,
+    "title": "介绍自己与询问身份",
+    "moduleId": "m1",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "辨认一段介绍在做什么"
+      },
+      {
+        "day": 2,
+        "title": "把名字和身份放进句子"
+      },
+      {
+        "day": 3,
+        "title": "追踪人物与信息边界"
+      },
+      {
+        "day": 4,
+        "title": "在重复之后准确回答姓名"
+      },
+      {
+        "day": 5,
+        "title": "从介绍卡与录音提取事实"
+      },
+      {
+        "day": 6,
+        "title": "从空白完成短介绍与登记"
+      },
+      {
+        "day": 7,
+        "title": "换人物与新音频检验迁移"
+      }
+    ]
+  },
+  {
+    "id": "l03",
+    "number": 3,
+    "title": "指认物品与说明所属",
+    "moduleId": "m1",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l04",
+    "number": 4,
+    "title": "数量、价格与简单购买",
+    "moduleId": "m1",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l05",
+    "number": 5,
+    "title": "寻找人、物和地点",
+    "moduleId": "m1",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l06",
+    "number": 6,
+    "title": "说日常动作",
+    "moduleId": "m2",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l07",
+    "number": 7,
+    "title": "询问时间与安排日程",
+    "moduleId": "m2",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l08",
+    "number": 8,
+    "title": "表达去向与交通方式",
+    "moduleId": "m2",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l09",
+    "number": 9,
+    "title": "在哪里、和谁做什么",
+    "moduleId": "m2",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l10",
+    "number": 10,
+    "title": "讲昨天的一天",
+    "moduleId": "m2",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l11",
+    "number": 11,
+    "title": "描述食物、物品和天气",
+    "moduleId": "m3",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l12",
+    "number": 12,
+    "title": "描述地方与人物",
+    "moduleId": "m3",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l13",
+    "number": 13,
+    "title": "谈兴趣、喜欢与擅长",
+    "moduleId": "m3",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l14",
+    "number": 14,
+    "title": "表达想要与想做",
+    "moduleId": "m3",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l15",
+    "number": 15,
+    "title": "比较选项与询问推荐",
+    "moduleId": "m3",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l16",
+    "number": 16,
+    "title": "讲过去的状态与感受",
+    "moduleId": "m4",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l17",
+    "number": 17,
+    "title": "认识动词原形并学会查词",
+    "moduleId": "m4",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l18",
+    "number": 18,
+    "title": "理解和提出简单请求",
+    "moduleId": "m4",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l19",
+    "number": 19,
+    "title": "描述动作与当前状态",
+    "moduleId": "m4",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l20",
+    "number": 20,
+    "title": "按顺序说明行动",
+    "moduleId": "m4",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l21",
+    "number": 21,
+    "title": "不做什么与请勿做什么",
+    "moduleId": "m5",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l22",
+    "number": 22,
+    "title": "询问许可与理解规则",
+    "moduleId": "m5",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l23",
+    "number": 23,
+    "title": "邀请、提议与约定",
+    "moduleId": "m5",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l24",
+    "number": 24,
+    "title": "说自己做过什么",
+    "moduleId": "m5",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l25",
+    "number": 25,
+    "title": "说明能力和是否可行",
+    "moduleId": "m5",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l26",
+    "number": 26,
+    "title": "解释理由与转折",
+    "moduleId": "m6",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l27",
+    "number": 27,
+    "title": "谈接下来的计划",
+    "moduleId": "m6",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l28",
+    "number": 28,
+    "title": "理解普通体及常见省略",
+    "moduleId": "m6",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l29",
+    "number": 29,
+    "title": "描述具体的人、物和地方",
+    "moduleId": "m6",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l30",
+    "number": 30,
+    "title": "表达想法并追问",
+    "moduleId": "m6",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l31",
+    "number": 31,
+    "title": "餐饮与点单",
+    "moduleId": "m7",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l32",
+    "number": 32,
+    "title": "购物与付款",
+    "moduleId": "m7",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l33",
+    "number": 33,
+    "title": "交通、问路与换乘",
+    "moduleId": "m7",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l34",
+    "number": 34,
+    "title": "住宿与服务请求",
+    "moduleId": "m7",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l35",
+    "number": 35,
+    "title": "景点、设施与预约",
+    "moduleId": "m7",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l36",
+    "number": 36,
+    "title": "初次见面与大学生活",
+    "moduleId": "m8",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l37",
+    "number": 37,
+    "title": "谈旅行经历和感受",
+    "moduleId": "m8",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l38",
+    "number": 38,
+    "title": "交换兴趣、推荐与看法",
+    "moduleId": "m8",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l39",
+    "number": 39,
+    "title": "求助与处理意外",
+    "moduleId": "m8",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l40",
+    "number": 40,
+    "title": "完整行程和自选话题",
+    "moduleId": "m8",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l41",
+    "number": 41,
+    "title": "用可能形说明能力与限制",
+    "moduleId": "m9",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l42",
+    "number": 42,
+    "title": "表达给予、接受与帮助",
+    "moduleId": "m9",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l43",
+    "number": 43,
+    "title": "理解受身与受影响经历",
+    "moduleId": "m9",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l44",
+    "number": 44,
+    "title": "说明安排与让人做事",
+    "moduleId": "m9",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l45",
+    "number": 45,
+    "title": "复述他人经历与转换视角",
+    "moduleId": "m9",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l46",
+    "number": 46,
+    "title": "比较条件并选择方案",
+    "moduleId": "m10",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l47",
+    "number": 47,
+    "title": "说明准备、完成与遗憾",
+    "moduleId": "m10",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l48",
+    "number": 48,
+    "title": "区分过程、结果与持续",
+    "moduleId": "m10",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l49",
+    "number": 49,
+    "title": "传达听说、外观与推测",
+    "moduleId": "m10",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l50",
+    "number": 50,
+    "title": "谈目标、习惯与变化",
+    "moduleId": "m10",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l51",
+    "number": 51,
+    "title": "理解正式服务中的敬语",
+    "moduleId": "m11",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l52",
+    "number": 52,
+    "title": "委婉提出请求与说明困难",
+    "moduleId": "m11",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l53",
+    "number": 53,
+    "title": "处理许可、婉拒与道歉",
+    "moduleId": "m11",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l54",
+    "number": 54,
+    "title": "转述消息并确认原意",
+    "moduleId": "m11",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l55",
+    "number": 55,
+    "title": "协商变更与重新安排",
+    "moduleId": "m11",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l56",
+    "number": 56,
+    "title": "解释原因与补充背景",
+    "moduleId": "m12",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l57",
+    "number": 57,
+    "title": "连接信息并呈现对比",
+    "moduleId": "m12",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l58",
+    "number": 58,
+    "title": "说明流程并概括重点",
+    "moduleId": "m12",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l59",
+    "number": 59,
+    "title": "读短文、消息与通知",
+    "moduleId": "m12",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l60",
+    "number": 60,
+    "title": "中级过渡综合任务",
+    "moduleId": "m12",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l61",
+    "number": 61,
+    "title": "辨认原因、依据与归属",
+    "moduleId": "m13",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l62",
+    "number": 62,
+    "title": "讨论假设与例外条件",
+    "moduleId": "m13",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l63",
+    "number": 63,
+    "title": "表达让步并坚持观点",
+    "moduleId": "m13",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l64",
+    "number": 64,
+    "title": "说明程度、变化与趋势",
+    "moduleId": "m13",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l65",
+    "number": 65,
+    "title": "比较相近判断表达",
+    "moduleId": "m13",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l66",
+    "number": 66,
+    "title": "区分事实、推测与判断",
+    "moduleId": "m14",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l67",
+    "number": 67,
+    "title": "转述观点并保留来源",
+    "moduleId": "m14",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l68",
+    "number": 68,
+    "title": "理解限定、强调与评价",
+    "moduleId": "m14",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l69",
+    "number": 69,
+    "title": "调整表达的距离与语气",
+    "moduleId": "m14",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l70",
+    "number": 70,
+    "title": "精确选词与惯用搭配",
+    "moduleId": "m14",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l71",
+    "number": 71,
+    "title": "读生活说明与条款要点",
+    "moduleId": "m15",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l72",
+    "number": 72,
+    "title": "读报道并提取事实",
+    "moduleId": "m15",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l73",
+    "number": 73,
+    "title": "读评论并识别论证",
+    "moduleId": "m15",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l74",
+    "number": 74,
+    "title": "读随笔并追踪态度",
+    "moduleId": "m15",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l75",
+    "number": 75,
+    "title": "对照材料并提出建议",
+    "moduleId": "m15",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l76",
+    "number": 76,
+    "title": "听日常自然会话中的省略",
+    "moduleId": "m16",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l77",
+    "number": 77,
+    "title": "听访谈并识别立场转变",
+    "moduleId": "m16",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l78",
+    "number": 78,
+    "title": "听说明并整理笔记",
+    "moduleId": "m16",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l79",
+    "number": 79,
+    "title": "处理复杂服务协商",
+    "moduleId": "m16",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l80",
+    "number": 80,
+    "title": "中级综合回应与复盘",
+    "moduleId": "m16",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l81",
+    "number": 81,
+    "title": "拆解长句与多层修饰",
+    "moduleId": "m17",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l82",
+    "number": 82,
+    "title": "理解抽象概念与论证",
+    "moduleId": "m17",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l83",
+    "number": 83,
+    "title": "识别限定、例外与反事实",
+    "moduleId": "m17",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l84",
+    "number": 84,
+    "title": "理解书面语压缩表达",
+    "moduleId": "m17",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l85",
+    "number": 85,
+    "title": "高阶阅读：主旨与论证",
+    "moduleId": "m17",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l86",
+    "number": 86,
+    "title": "辨别近义词与使用场合",
+    "moduleId": "m18",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l87",
+    "number": 87,
+    "title": "识别惯用语与拟声拟态",
+    "moduleId": "m18",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l88",
+    "number": 88,
+    "title": "解读语气、评价与言外之意",
+    "moduleId": "m18",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l89",
+    "number": 89,
+    "title": "理解复杂关系表达",
+    "moduleId": "m18",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l90",
+    "number": 90,
+    "title": "高阶改写与文体转换",
+    "moduleId": "m18",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l91",
+    "number": 91,
+    "title": "听自然会话并推断意图",
+    "moduleId": "m19",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l92",
+    "number": 92,
+    "title": "听长段访谈并追踪立场",
+    "moduleId": "m19",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l93",
+    "number": 93,
+    "title": "听说明中的条件与例外",
+    "moduleId": "m19",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l94",
+    "number": 94,
+    "title": "综合图表与多文本信息",
+    "moduleId": "m19",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l95",
+    "number": 95,
+    "title": "用证据形成连贯回应",
+    "moduleId": "m19",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l96",
+    "number": 96,
+    "title": "词汇文字与语法题型诊断",
+    "moduleId": "m20",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l97",
+    "number": 97,
+    "title": "短中篇阅读：主旨与细节",
+    "moduleId": "m20",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l98",
+    "number": 98,
+    "title": "长篇与整合阅读：论证与检索",
+    "moduleId": "m20",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l99",
+    "number": 99,
+    "title": "听力任务：课题、回应与综合",
+    "moduleId": "m20",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  },
+  {
+    "id": "l100",
+    "number": 100,
+    "title": "综合诊断与后续学习计划",
+    "moduleId": "m20",
+    "revision": 2,
+    "days": [
+      {
+        "day": 1,
+        "title": "整体理解"
+      },
+      {
+        "day": 2,
+        "title": "词汇与表达"
+      },
+      {
+        "day": 3,
+        "title": "语法与替换"
+      },
+      {
+        "day": 4,
+        "title": "听辨与回应"
+      },
+      {
+        "day": 5,
+        "title": "阅读与组句"
+      },
+      {
+        "day": 6,
+        "title": "应用与迁移"
+      },
+      {
+        "day": 7,
+        "title": "验收与回顾"
+      }
+    ]
+  }
+]

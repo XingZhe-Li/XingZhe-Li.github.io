@@ -1,0 +1,1005 @@
+{
+  "id": "l39",
+  "number": 39,
+  "moduleId": "m8",
+  "title": "求助与处理意外",
+  "subtitle": "清楚说明问题与已知信息，再确认可执行的下一步。",
+  "revision": 2,
+  "goals": [
+    "提取求助中的时间地点和物品特征。",
+    "区分当前状态与已经确认的结果。",
+    "用请求、许可和确认表达维持求助交流。"
+  ],
+  "prerequisites": [
+    "理解第38课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「求助与处理意外」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l39-ex01",
+        "l39-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「车站服务台找包」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「忘れ物の連絡メモ」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「求助与处理意外」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l39-ex19",
+        "l39-ex20",
+        "l39-ex21",
+        "l39-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到かばん、場所、二番線、ベンチ，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用すみません。かばんが見つかりません。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「求助与处理意外」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l39-ex07",
+        "l39-ex08",
+        "l39-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「状态不等于结果」「请求后再确认下一步」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「求助与处理意外」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l39-ex02",
+        "l39-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「求助与处理意外」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l39-ex04",
+        "l39-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「忘れ物の連絡メモ」与「よく似た傘」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「求助与处理意外」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l39-ex11",
+        "l39-ex12",
+        "l39-ex13",
+        "l39-ex14",
+        "l39-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「求助与处理意外」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l39-ex06",
+        "l39-ex10",
+        "l39-ex17",
+        "l39-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l39-ext10",
+      "title": "求助与处理意外 · 10分钟迁移",
+      "instructions": "用10分钟重读「忘れ物の連絡メモ」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l39-ext15",
+      "title": "求助与处理意外 · 15分钟迁移",
+      "instructions": "用15分钟把「よく似た傘」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l39-ext25",
+      "title": "求助与处理意外 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l39-ex13",
+        "l39-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l39-d01",
+      "title": "车站服务台找包",
+      "context": "林没找到背包，工作人员需要具体信息才能查询。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l39-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "林",
+          "ja": "すみません。かばんが見つかりません。",
+          "kana": "すみません。かばんがみつかりません。",
+          "zh": "不好意思，我找不到包。"
+        },
+        {
+          "speaker": "係員",
+          "ja": "最後に見た場所はどこですか。",
+          "kana": "さいごにみたばしょはどこですか。",
+          "zh": "最后在哪里看到？"
+        },
+        {
+          "speaker": "林",
+          "ja": "二十分前、二番線のベンチに置きました。",
+          "kana": "にじゅっぷんまえ、にばんせんのべんちにおきました。",
+          "zh": "二十分钟前放在二号站台的长椅。"
+        },
+        {
+          "speaker": "係員",
+          "ja": "色と大きさを教えてください。",
+          "kana": "いろとおおきさをおしえてください。",
+          "zh": "请告诉我颜色和大小。"
+        },
+        {
+          "speaker": "林",
+          "ja": "青い小さなかばんです。中に財布はありません。",
+          "kana": "あおいちいさなかばんです。なかにさいふはありません。",
+          "zh": "蓝色的小包，里面没有钱包。"
+        },
+        {
+          "speaker": "係員",
+          "ja": "今、確認しています。少しお待ちください。",
+          "kana": "いま、かくにんしています。すこしおまちください。",
+          "zh": "正在确认，请稍等。"
+        },
+        {
+          "speaker": "林",
+          "ja": "ここで待ってもいいですか。",
+          "kana": "ここでまってもいいですか。",
+          "zh": "可以在这等吗？"
+        },
+        {
+          "speaker": "係員",
+          "ja": "はい。この用紙に連絡先を書いてください。",
+          "kana": "はい。このようしにれんらくさきをかいてください。",
+          "zh": "可以，请在这张纸上写联系方式。"
+        },
+        {
+          "speaker": "林",
+          "ja": "まだ見つかっていないということですね。",
+          "kana": "まだみつかっていないということですね。",
+          "zh": "也就是说还没有找到，对吧？"
+        },
+        {
+          "speaker": "係員",
+          "ja": "はい。見つかったら、ご連絡します。",
+          "kana": "はい。みつかったら、ごれんらくします。",
+          "zh": "是的，找到后联系。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l39-v01",
+      "word": "かばん",
+      "reading": "かばん",
+      "meaning": "包",
+      "pos": "名词",
+      "example": "すみません。かばんが見つかりません。",
+      "exampleMeaning": "不好意思，我找不到包。",
+      "mastery": "active",
+      "audioId": "synth-word-8ec6eacddb4093ce"
+    },
+    {
+      "id": "l39-v02",
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "地点",
+      "pos": "名词",
+      "example": "最後に見た場所はどこですか。",
+      "exampleMeaning": "最后在哪里看到？",
+      "mastery": "active",
+      "audioId": "synth-word-fd102ac2db594815"
+    },
+    {
+      "id": "l39-v03",
+      "word": "二番線",
+      "reading": "にばんせん",
+      "meaning": "二号站台",
+      "pos": "名词",
+      "example": "二十分前、二番線のベンチに置きました。",
+      "exampleMeaning": "二十分钟前放在二号站台的长椅。",
+      "mastery": "active",
+      "audioId": "synth-word-546e847f6ba5f533"
+    },
+    {
+      "id": "l39-v04",
+      "word": "ベンチ",
+      "reading": "べんち",
+      "meaning": "长椅",
+      "pos": "名词",
+      "example": "二十分前、二番線のベンチに置きました。",
+      "exampleMeaning": "二十分钟前放在二号站台的长椅。",
+      "mastery": "active",
+      "audioId": "synth-word-1657ee6ab9e76236"
+    },
+    {
+      "id": "l39-v05",
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "颜色",
+      "pos": "名词",
+      "example": "色と大きさを教えてください。",
+      "exampleMeaning": "请告诉我颜色和大小。",
+      "mastery": "active",
+      "audioId": "synth-word-ebc8f4a5e6a2340f"
+    },
+    {
+      "id": "l39-v06",
+      "word": "大きさ",
+      "reading": "おおきさ",
+      "meaning": "大小",
+      "pos": "名词",
+      "example": "色と大きさを教えてください。",
+      "exampleMeaning": "请告诉我颜色和大小。",
+      "mastery": "active",
+      "audioId": "synth-word-c02454ba2929960a"
+    },
+    {
+      "id": "l39-v07",
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "钱包",
+      "pos": "名词",
+      "example": "青い小さなかばんです。中に財布はありません。",
+      "exampleMeaning": "蓝色的小包，里面没有钱包。",
+      "mastery": "active",
+      "audioId": "synth-word-8a251228238a8ccc"
+    },
+    {
+      "id": "l39-v08",
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "纸张；表格",
+      "pos": "名词",
+      "example": "はい。この用紙に連絡先を書いてください。",
+      "exampleMeaning": "可以，请在这张纸上写联系方式。",
+      "mastery": "active",
+      "audioId": "synth-word-77c51ad827af2cb3"
+    },
+    {
+      "id": "l39-v09",
+      "word": "連絡先",
+      "reading": "れんらくさき",
+      "meaning": "联系方式",
+      "pos": "名词",
+      "example": "はい。この用紙に連絡先を書いてください。",
+      "exampleMeaning": "可以，请在这张纸上写联系方式。",
+      "mastery": "active",
+      "audioId": "synth-word-f50770cd78a341b5"
+    },
+    {
+      "id": "l39-v10",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "伞",
+      "pos": "名词",
+      "example": "店に黒い傘の忘れ物が二本ありました。",
+      "exampleMeaning": "店里有两把遗失的黑伞。",
+      "mastery": "active",
+      "audioId": "synth-word-60c8dd04afbd71c7"
+    },
+    {
+      "id": "l39-v11",
+      "word": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "遗失物品",
+      "pos": "名词",
+      "example": "店に黒い傘の忘れ物が二本ありました。",
+      "exampleMeaning": "店里有两把遗失的黑伞。",
+      "mastery": "recognition",
+      "audioId": "synth-word-4693766e5b5389a0"
+    },
+    {
+      "id": "l39-v12",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "接待处",
+      "pos": "名词",
+      "example": "持ち主は用紙に連絡先を書き、受付の近くで待っています。",
+      "exampleMeaning": "失主写了联系方式，在接待处附近等待。",
+      "mastery": "recognition",
+      "audioId": "synth-word-8309c02e7ebd8ae7"
+    },
+    {
+      "id": "l39-v13",
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaning": "特征",
+      "pos": "名词",
+      "example": "受付は持ち手の形など、ほかの特徴も聞きました。",
+      "exampleMeaning": "接待处还问了手柄形状等特征。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6880842b11334b75"
+    },
+    {
+      "id": "l39-v14",
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "电话",
+      "pos": "名词",
+      "example": "電話をした客は色だけで自分の物だと思いました。",
+      "exampleMeaning": "打电话的客人只凭颜色就以为是自己的。",
+      "mastery": "recognition",
+      "audioId": "synth-word-ee599966276abb16"
+    },
+    {
+      "id": "l39-v15",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "青いかばんについて、持ち主から説明がありました。",
+      "exampleMeaning": "失主说明了蓝色包的情况。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3846c6de39d3c183"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l39-e1",
+      "ja": "すみません。かばんが見つかりません。",
+      "reading": "すみません。かばんがみつかりません。",
+      "meaning": "不好意思，我找不到包。",
+      "usage": "先说明具体问题，请对方协助",
+      "audioId": "synth-word-de92746529121627"
+    },
+    {
+      "id": "l39-e2",
+      "ja": "二十分前、二番線のベンチに置きました。",
+      "reading": "にじゅっぷんまえ、にばんせんのべんちにおきました。",
+      "meaning": "二十分钟前放在二号站台的长椅。",
+      "usage": "提供最后看见的时间地点",
+      "audioId": "synth-word-b5a0d5a8b7db3282"
+    },
+    {
+      "id": "l39-e3",
+      "ja": "ここで待ってもいいですか。",
+      "reading": "ここでまってもいいですか。",
+      "meaning": "可以在这等吗？",
+      "usage": "询问等候地点是否合适",
+      "audioId": "synth-word-88b833cb3aa816cd"
+    },
+    {
+      "id": "l39-e4",
+      "ja": "まだ見つかっていないということですね。",
+      "reading": "まだみつかっていないということですね。",
+      "meaning": "也就是说还没有找到，对吧？",
+      "usage": "核对尚未确定的结果",
+      "audioId": "synth-word-e6251268e17265b5"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l39-g1",
+      "title": "状态不等于结果",
+      "meaning": "区分找不到、正在找和已经找到。",
+      "pattern": "見つかりません。／確認しています。",
+      "explanation": "进行状态不能直接推出成功的结果。",
+      "examples": [
+        {
+          "ja": "財布が見つかりません。",
+          "zh": "钱包找不到。"
+        },
+        {
+          "ja": "今、確認しています。",
+          "zh": "正在确认。"
+        }
+      ],
+      "pitfall": "不要把確認しています听成見つかりました。"
+    },
+    {
+      "id": "l39-g2",
+      "title": "请求后再确认下一步",
+      "meaning": "说明需求并检查理解。",
+      "pattern": "〜てください。／〜てもいいですか。",
+      "explanation": "询问具体行动或等待地点，比只说大丈夫更清楚。",
+      "examples": [
+        {
+          "ja": "ここで待ってもいいですか。",
+          "zh": "可以在这等吗？"
+        },
+        {
+          "ja": "もう一度説明してください。",
+          "zh": "请再说明一次。"
+        }
+      ],
+      "pitfall": "确认应对应具体信息，不是无条件答应。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "かばん",
+          "reading": "かばん",
+          "zh": "包"
+        },
+        {
+          "ja": "場所",
+          "reading": "ばしょ",
+          "zh": "地点"
+        },
+        {
+          "ja": "二番線",
+          "reading": "にばんせん",
+          "zh": "二号站台"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l39-r1",
+      "title": "忘れ物の連絡メモ",
+      "context": "根据工作记录判断当前处理状态。",
+      "ja": "青いかばんについて、持ち主から説明がありました。最後に見たのは二番線のベンチで、二十分ほど前です。財布は入っていません。駅員は現在確認中です。持ち主は用紙に連絡先を書き、受付の近くで待っています。まだ見つかったとは伝えていません。",
+      "zh": "失主说明了蓝色包的情况。最后看见是在二号站台长椅，约二十分钟前。里面没有钱包。站员正在查询。失主写了联系方式，在接待处附近等待。还没有通知已经找到。",
+      "audioId": "l39-reading-synth"
+    },
+    {
+      "id": "l39-r2",
+      "title": "よく似た傘",
+      "context": "物品相似时如何核实归属。",
+      "ja": "店に黒い傘の忘れ物が二本ありました。電話をした客は色だけで自分の物だと思いました。受付は持ち手の形など、ほかの特徴も聞きました。客の説明と違ったので、その日は渡しませんでした。似ていることと、本人の物だと確認できることは違います。",
+      "zh": "店里有两把遗失的黑伞。打电话的客人只凭颜色就以为是自己的。接待处还问了手柄形状等特征。因与客人描述不同，当天没交给他。相似和能确认属于本人是两回事。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l39-ex01",
+      "type": "choice",
+      "prompt": "包中有钱包吗？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l39-dialogue-synth",
+      "choices": [
+        "有两个",
+        "没有",
+        "未说明"
+      ],
+      "correctIndex": 1,
+      "explanation": "林明确说財布はありません。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l39-ri5"
+      ]
+    },
+    {
+      "id": "l39-ex02",
+      "type": "choice",
+      "prompt": "主阅读可以确认什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l39-reading-synth",
+      "choices": [
+        "蓝包已找到",
+        "仍在查询，失主正在等候",
+        "失主已经离开"
+      ],
+      "correctIndex": 1,
+      "explanation": "记录明确在查询并等候。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l39-ri5"
+      ]
+    },
+    {
+      "id": "l39-ex03",
+      "type": "choice",
+      "prompt": "蓝包的处理进展是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "正在核实，还没确认找到",
+        "已送到失主家",
+        "已确定被人领走"
+      ],
+      "correctIndex": 0,
+      "explanation": "查询中不是已有结果。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri5"
+      ]
+    },
+    {
+      "id": "l39-ex04",
+      "type": "choice",
+      "prompt": "失主明确说包里没有什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "证件",
+        "水壶",
+        "钱包"
+      ],
+      "correctIndex": 2,
+      "explanation": "財布は入っていません。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri5"
+      ]
+    },
+    {
+      "id": "l39-ex05",
+      "type": "choice",
+      "prompt": "为什么继续问伞的其他特征？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "只允许现场询问",
+        "同色不足以确认归属",
+        "客人不会写名字"
+      ],
+      "correctIndex": 1,
+      "explanation": "需要更多特征核实。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri9"
+      ]
+    },
+    {
+      "id": "l39-ex06",
+      "type": "choice",
+      "prompt": "第二篇当天交伞了吗？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有，描述不符",
+        "交了两把让他挑",
+        "已快递寄出"
+      ],
+      "correctIndex": 0,
+      "explanation": "原文明确没有交付。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l39-ex07",
+      "type": "input",
+      "prompt": "用「見つかる」的礼貌否定非过去形表达当前找不到：財布が＿＿。",
+      "acceptedAnswers": [
+        "見つかりません",
+        "みつかりません"
+      ],
+      "explanation": "说明当前没有找到的状态。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l39-ex08",
+      "type": "order",
+      "prompt": "请求再说明一次。",
+      "tokens": [
+        "ください",
+        "。",
+        "説明して",
+        "もう一度"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "动词て形接ください。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l39-ex09",
+      "type": "choice",
+      "prompt": "“今、確認しています”表示什么？",
+      "choices": [
+        "明确不受理",
+        "正在核实，需等待结果",
+        "已确认找到"
+      ],
+      "correctIndex": 1,
+      "explanation": "进行与完成不同。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l39-ex10",
+      "type": "input",
+      "prompt": "询问可否等候：ここで待っても＿＿ですか。",
+      "acceptedAnswers": [
+        "いい",
+        "よい",
+        "良い",
+        "大丈夫",
+        "だいじょうぶ",
+        "よろしい",
+        "構わない",
+        "かまわない"
+      ],
+      "explanation": "てもいいですか是本课基础许可问句；てもよい／大丈夫／よろしい／構わないですか等也能自然询问可否，礼貌程度和语感略有差别。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l39-ex11",
+      "type": "self",
+      "prompt": "在图书馆丢了红色小钱包，最后看到是十分钟前，写两句求助。",
+      "sampleAnswer": "赤い小さな財布が見つかりません。十分前に図書館で見ました。",
+      "explanation": "包括问题、特征、时间地点。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri5",
+        "l39-ri6",
+        "l39-ri9"
+      ]
+    },
+    {
+      "id": "l39-ex12",
+      "type": "self",
+      "prompt": "工作人员说正在确认，写一句核实尚未找到的话。",
+      "sampleAnswer": "まだ見つかっていないということですね。",
+      "explanation": "不误将查询中理解为已找到。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri4"
+      ]
+    },
+    {
+      "id": "l39-ex13",
+      "type": "self",
+      "prompt": "同色伞手柄不同，你应如何回应？",
+      "sampleAnswer": "色は同じですが、持ち手が違います。私の傘ではありません。",
+      "explanation": "说明区别而不领走。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri9"
+      ]
+    },
+    {
+      "id": "l39-ex14",
+      "type": "self",
+      "prompt": "没听清等候地点，写一个可执行追问。",
+      "sampleAnswer": "すみません。どこで待てばいいですか。もう一度お願いします。",
+      "explanation": "追问明确缺失的信息。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri6"
+      ]
+    },
+    {
+      "id": "l39-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「すみません。かばんが見つかりません。」主要用于什么？",
+      "choices": [
+        "先说明具体问题，请对方协助",
+        "提供最后看见的时间地点",
+        "询问等候地点是否合适"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“不好意思，我找不到包。”。结合前后交流，其作用是：先说明具体问题，请对方协助",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri1",
+        "l39-ri5",
+        "l39-ri6"
+      ]
+    },
+    {
+      "id": "l39-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「二十分前、二番線のベンチに置きました。」主要用于什么？",
+      "choices": [
+        "询问等候地点是否合适",
+        "核对尚未确定的结果",
+        "提供最后看见的时间地点"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“二十分钟前放在二号站台的长椅。”。结合前后交流，其作用是：提供最后看见的时间地点",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri2",
+        "l39-ri6",
+        "l39-ri7"
+      ]
+    },
+    {
+      "id": "l39-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「ここで待ってもいいですか。」主要用于什么？",
+      "choices": [
+        "先说明具体问题，请对方协助",
+        "询问等候地点是否合适",
+        "核对尚未确定的结果"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“可以在这等吗？”。结合前后交流，其作用是：询问等候地点是否合适",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri3",
+        "l39-ri6"
+      ]
+    },
+    {
+      "id": "l39-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「まだ見つかっていないということですね。」主要用于什么？",
+      "choices": [
+        "核对尚未确定的结果",
+        "先说明具体问题，请对方协助",
+        "提供最后看见的时间地点"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“也就是说还没有找到，对吧？”。结合前后交流，其作用是：核对尚未确定的结果",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l39-ri4",
+        "l39-ri6"
+      ]
+    },
+    {
+      "id": "l39-ex19",
+      "type": "self",
+      "prompt": "读例句「すみません。かばんが見つかりません。」。先不看词表，用中文说明「かばん」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "包",
+      "explanation": "本课这里表示“包”。例句意思是：不好意思，我找不到包。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri1",
+        "l39-ri5"
+      ]
+    },
+    {
+      "id": "l39-ex20",
+      "type": "self",
+      "prompt": "读例句「二十分前、二番線のベンチに置きました。」。先不看词表，用中文说明「ベンチ」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "长椅",
+      "explanation": "本课这里表示“长椅”。例句意思是：二十分钟前放在二号站台的长椅。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri2",
+        "l39-ri7",
+        "l39-ri8"
+      ]
+    },
+    {
+      "id": "l39-ex21",
+      "type": "self",
+      "prompt": "读例句「青い小さなかばんです。中に財布はありません。」。先不看词表，用中文说明「財布」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "钱包",
+      "explanation": "本课这里表示“钱包”。例句意思是：蓝色的小包，里面没有钱包。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l39-ri5",
+        "l39-ri9"
+      ]
+    },
+    {
+      "id": "l39-ex22",
+      "type": "self",
+      "prompt": "读例句「店に黒い傘の忘れ物が二本ありました。」。先不看词表，用中文说明「傘」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "伞",
+      "explanation": "本课这里表示“伞”。例句意思是：店里有两把遗失的黑伞。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l39-ri1",
+      "front": "不好意思，我找不到包。",
+      "back": "すみません。かばんが見つかりません。",
+      "reading": "すみません。かばんがみつかりません。",
+      "audioId": "synth-word-de92746529121627",
+      "kind": "expression"
+    },
+    {
+      "id": "l39-ri2",
+      "front": "二十分钟前放在二号站台的长椅。",
+      "back": "二十分前、二番線のベンチに置きました。",
+      "reading": "にじゅっぷんまえ、にばんせんのべんちにおきました。",
+      "audioId": "synth-word-b5a0d5a8b7db3282",
+      "kind": "expression"
+    },
+    {
+      "id": "l39-ri3",
+      "front": "可以在这等吗？",
+      "back": "ここで待ってもいいですか。",
+      "reading": "ここでまってもいいですか。",
+      "audioId": "synth-word-88b833cb3aa816cd",
+      "kind": "expression"
+    },
+    {
+      "id": "l39-ri4",
+      "front": "也就是说还没有找到，对吧？",
+      "back": "まだ見つかっていないということですね。",
+      "reading": "まだみつかっていないということですね。",
+      "audioId": "synth-word-e6251268e17265b5",
+      "kind": "expression"
+    },
+    {
+      "id": "l39-ri5",
+      "front": "かばん在本课是什么意思？",
+      "back": "包",
+      "reading": "かばん",
+      "audioId": "synth-word-8ec6eacddb4093ce",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l39-ri6",
+      "front": "場所在本课是什么意思？",
+      "back": "地点",
+      "reading": "ばしょ",
+      "audioId": "synth-word-fd102ac2db594815",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l39-ri7",
+      "front": "二番線在本课是什么意思？",
+      "back": "二号站台",
+      "reading": "にばんせん",
+      "audioId": "synth-word-546e847f6ba5f533",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l39-ri8",
+      "front": "ベンチ在本课是什么意思？",
+      "back": "长椅",
+      "reading": "べんち",
+      "audioId": "synth-word-1657ee6ab9e76236",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l39-ri9",
+      "front": "色在本课是什么意思？",
+      "back": "颜色",
+      "reading": "いろ",
+      "audioId": "synth-word-ebc8f4a5e6a2340f",
+      "kind": "vocabulary"
+    }
+  ]
+}

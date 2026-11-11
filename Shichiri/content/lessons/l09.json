@@ -1,0 +1,974 @@
+{
+  "id": "l09",
+  "number": 9,
+  "moduleId": "m2",
+  "title": "在哪里、和谁做什么",
+  "subtitle": "把活动地点与同伴都放进消息，不混同人在哪里。",
+  "revision": 2,
+  "goals": [
+    "说明在哪里做什么。",
+    "说明与谁一起或独自活动。",
+    "在『图书馆后的安排』以外的同类情境中，能根据对方回应调整自己的文字回答。"
+  ],
+  "prerequisites": [
+    "已完成第8课及此前课目，遇到不理解时会请求重复和确认。",
+    "先回忆已学名词、助词及相关动词；本课材料支持词可结合中文释义理解。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「在哪里、和谁做什么」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l09-ex01",
+        "l09-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「图书馆后的安排」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「学生活动表」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「在哪里、和谁做什么」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l09-ex19",
+        "l09-ex20",
+        "l09-ex21",
+        "l09-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到図書館、食堂、公園、教室，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用どこで勉強しますか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「在哪里、和谁做什么」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l09-ex07",
+        "l09-ex08",
+        "l09-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「活动场所」「活动同伴」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「在哪里、和谁做什么」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l09-ex02",
+        "l09-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「在哪里、和谁做什么」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l09-ex04",
+        "l09-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「学生活动表」与「店里的另一位朋友」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「在哪里、和谁做什么」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l09-ex11",
+        "l09-ex12",
+        "l09-ex13",
+        "l09-ex14",
+        "l09-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「在哪里、和谁做什么」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l09-ex06",
+        "l09-ex10",
+        "l09-ex17",
+        "l09-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l09-ext10",
+      "title": "在哪里、和谁做什么 · 10分钟迁移",
+      "instructions": "先听『图书馆后的安排』而不展开文本，记录人物、要完成的事和最终回应。再核对原文，分别标出听出、重播后听出、看文本才理解的内容。产出三项事实与一处需重听的片段。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l09-ext15",
+      "title": "在哪里、和谁做什么 · 15分钟迁移",
+      "instructions": "读『学生活动表』与『店里的另一位朋友』，做两列表对照，至少写两项相同和两项不同；再完成以下文字任务：告诉同学你和朋友在公园聊天。 产出对照表和一段自己的回应。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l09-ext25",
+      "title": "在哪里、和谁做什么 · 25分钟迁移",
+      "instructions": "用5分钟听『图书馆后的安排』并记关键信息，8分钟闭卷回答两篇阅读的四个问题，7分钟处理新情境：只知道朋友在教室，追问他在那里做什么。 最后5分钟核对范例并重写一轮。产出听辨笔记、四项阅读依据和自己的短回应；不把查看答案后的正确计为首次理解。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l09-ex13",
+        "l09-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不看文本听『图书馆后的安排』后，能记录最终决定或状态，并把未确认的信息标为未知。",
+    "从两篇阅读中找到四道阅读题的依据，区分『学生活动表』与变体材料的条件。",
+    "关闭说明后，能在情境中使用場所で＋动作及人と＋动作／一人で，而不只会背变形名称。",
+    "换人物、时间、数量或条件后能用文字完成合适回应；实际口语与现场轮流接话需另行检验。"
+  ],
+  "dialogues": [
+    {
+      "id": "l09-d01",
+      "title": "图书馆后的安排",
+      "context": "两人只确认地点、同伴和活动，不发出新的邀请。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l09-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "ミナ",
+          "ja": "どこで勉強しますか。",
+          "kana": "どこでべんきょうしますか。",
+          "zh": "在哪里学习？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "図書館で勉強します。",
+          "kana": "としょかんでべんきょうします。",
+          "zh": "在图书馆学习。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "一人で勉強しますか。",
+          "kana": "ひとりでべんきょうしますか。",
+          "zh": "独自学习吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "いいえ、けんさんと勉強します。",
+          "kana": "いいえ、けんさんとべんきょうします。",
+          "zh": "不，和健一起。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "昼ご飯はどこですか。",
+          "kana": "ひるごはんはどこですか。",
+          "zh": "午饭在哪里？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "食堂で食べます。",
+          "kana": "しょくどうでたべます。",
+          "zh": "在食堂吃。"
+        },
+        {
+          "speaker": "ミナ",
+          "ja": "けんさんも食堂ですか。",
+          "kana": "けんさんもしょくどうですか。",
+          "zh": "健也在食堂吗？"
+        },
+        {
+          "speaker": "りん",
+          "ja": "はい。一緒に食べます。",
+          "kana": "はい。いっしょにたべます。",
+          "zh": "是，一起吃。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l09-v01",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "图书馆",
+      "pos": "名词",
+      "example": "図書館で勉強します。",
+      "exampleMeaning": "在图书馆学习。",
+      "mastery": "active",
+      "audioId": "synth-word-8111caffdb970505"
+    },
+    {
+      "id": "l09-v02",
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "食堂",
+      "pos": "名词",
+      "example": "食堂で食べます。",
+      "exampleMeaning": "在食堂吃。",
+      "mastery": "active",
+      "audioId": "synth-word-20a2e7c758a26072"
+    },
+    {
+      "id": "l09-v03",
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "公园",
+      "pos": "名词",
+      "example": "公園です。",
+      "exampleMeaning": "是公园。",
+      "mastery": "active",
+      "audioId": "synth-word-0f8fc249c2ad7f4b"
+    },
+    {
+      "id": "l09-v04",
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "教室",
+      "pos": "名词",
+      "example": "教室です。",
+      "exampleMeaning": "是教室。",
+      "mastery": "active",
+      "audioId": "synth-word-ce7f5f0e887d2e60"
+    },
+    {
+      "id": "l09-v05",
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "商店",
+      "pos": "名词",
+      "example": "店です。",
+      "exampleMeaning": "是商店。",
+      "mastery": "active",
+      "audioId": "synth-word-9917c5d03ebef71e"
+    },
+    {
+      "id": "l09-v06",
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "大学",
+      "pos": "名词",
+      "example": "大学です。",
+      "exampleMeaning": "是大学。",
+      "mastery": "active",
+      "audioId": "synth-word-6b641d0c1158a5fd"
+    },
+    {
+      "id": "l09-v07",
+      "word": "一人で",
+      "reading": "ひとりで",
+      "meaning": "独自",
+      "pos": "固定表达",
+      "example": "一人で勉強します。",
+      "exampleMeaning": "独自学习。",
+      "mastery": "active",
+      "audioId": "synth-word-6c1ae265111511d6"
+    },
+    {
+      "id": "l09-v08",
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "一起",
+      "pos": "副词",
+      "example": "一緒に勉強します。",
+      "exampleMeaning": "一起学习。",
+      "mastery": "active",
+      "audioId": "synth-word-e793d19806ae0852"
+    },
+    {
+      "id": "l09-v09",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "pos": "名词",
+      "example": "友達です。",
+      "exampleMeaning": "是朋友。",
+      "mastery": "active",
+      "audioId": "synth-word-090a89bc15fda3bd"
+    },
+    {
+      "id": "l09-v10",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "午饭",
+      "pos": "名词",
+      "example": "昼ご飯はどこですか。",
+      "exampleMeaning": "午饭在哪里？",
+      "mastery": "active",
+      "audioId": "synth-word-15ad20b20a7046bc"
+    },
+    {
+      "id": "l09-v11",
+      "word": "話します",
+      "reading": "はなします",
+      "meaning": "说话、交谈",
+      "pos": "动词",
+      "example": "話します。",
+      "exampleMeaning": "说话、交谈。",
+      "mastery": "recognition",
+      "audioId": "synth-word-1bd3265874c83e98"
+    },
+    {
+      "id": "l09-v12",
+      "word": "会います",
+      "reading": "あいます",
+      "meaning": "见面",
+      "pos": "动词",
+      "example": "会います。",
+      "exampleMeaning": "见面。",
+      "mastery": "recognition",
+      "audioId": "synth-word-96a9c18ba0c1dafd"
+    },
+    {
+      "id": "l09-v13",
+      "word": "買います",
+      "reading": "かいます",
+      "meaning": "买",
+      "pos": "动词",
+      "example": "買います。",
+      "exampleMeaning": "买。",
+      "mastery": "recognition",
+      "audioId": "synth-word-6522b55618640aa0"
+    },
+    {
+      "id": "l09-v14",
+      "word": "働きます",
+      "reading": "はたらきます",
+      "meaning": "工作",
+      "pos": "动词",
+      "example": "働きます。",
+      "exampleMeaning": "工作。",
+      "mastery": "recognition",
+      "audioId": "synth-word-bbabf816ff6981cd"
+    },
+    {
+      "id": "l09-v15",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片",
+      "pos": "名词",
+      "example": "写真です。",
+      "exampleMeaning": "是照片。",
+      "mastery": "recognition",
+      "audioId": "synth-word-e2f3d21e1037f6f0"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l09-e1",
+      "ja": "どこで勉強しますか。",
+      "reading": "どこでべんきょうしますか。",
+      "meaning": "在哪里学习？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-c87e7b4bba830e7e"
+    },
+    {
+      "id": "l09-e2",
+      "ja": "図書館で勉強します。",
+      "reading": "としょかんでべんきょうします。",
+      "meaning": "在图书馆学习。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-2bdd9ea698248f5f"
+    },
+    {
+      "id": "l09-e3",
+      "ja": "昼ご飯はどこですか。",
+      "reading": "ひるごはんはどこですか。",
+      "meaning": "午饭在哪里？",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-d17f33685e1b6b48"
+    },
+    {
+      "id": "l09-e4",
+      "ja": "食堂で食べます。",
+      "reading": "しょくどうでたべます。",
+      "meaning": "在食堂吃。",
+      "usage": "结合该轮的询问或回应使用；替换人物与具体内容，不要求照搬整个故事。",
+      "audioId": "synth-word-7c99fcadf090679b"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l09-g1",
+      "title": "活动场所",
+      "meaning": "说明在哪里做什么。",
+      "pattern": "場所で＋动作",
+      "explanation": "存在位置用に，活动发生的场所用で；同一地点可以分别出现在两种句子中。",
+      "examples": [
+        {
+          "ja": "図書館で勉強します。",
+          "zh": "在图书馆学习。"
+        }
+      ],
+      "pitfall": "図書館にいます和図書館で勉強します问的重点不同。"
+    },
+    {
+      "id": "l09-g2",
+      "title": "活动同伴",
+      "meaning": "说明与谁一起或独自活动。",
+      "pattern": "人と＋动作／一人で",
+      "explanation": "と在这里表示同伴。一人で是独自，不表示交通工具。",
+      "examples": [
+        {
+          "ja": "ミナさんと話します。",
+          "zh": "和米娜交谈。"
+        }
+      ],
+      "pitfall": "朋友在公园不等于自己和朋友一起在公园。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "本课词句的读音与节奏",
+      "description": "先按完整词句核对读音，特别观察假名、长短音及本课句末变化；不把看懂汉字等同于听懂。",
+      "examples": [
+        {
+          "ja": "図書館",
+          "reading": "としょかん",
+          "zh": "图书馆"
+        },
+        {
+          "ja": "食堂",
+          "reading": "しょくどう",
+          "zh": "食堂"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l09-r1",
+      "title": "学生活动表",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "りんさんは図書館で日本語を勉強します。けんさんと一緒に勉強します。昼ご飯は食堂で食べます。けんさんも食堂で食べます。ミナさんは公園にいます。ミナさんは公園で友達と話します。教室には先生がいます。",
+      "zh": "林在图书馆和健一起学日语。午饭两人都在食堂。米娜在公园，和朋友交谈。教室里有老师。",
+      "audioId": "l09-reading-synth"
+    },
+    {
+      "id": "l09-r2",
+      "title": "店里的另一位朋友",
+      "context": "原创教学材料，人物与设施为虚构。材料外生词通过中文解释支持理解。",
+      "ja": "サラさんは店で働きます。昼ご飯は一人で食べます。午後は図書館にいます。図書館で本を読みます。友達とは話しません。友達は大学の教室にいます。サラさんと友達は同じ場所ではありません。サラさんの本は自分の本です。",
+      "zh": "萨拉在店里工作，午饭独自吃。下午在图书馆读书，不和朋友交谈。朋友在大学教室，两人地点不同。最后一句中的自分是自己，材料支持词。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l09-ex01",
+      "type": "choice",
+      "prompt": "林在哪里学习？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l09-dialogue-synth",
+      "choices": [
+        "图书馆",
+        "食堂",
+        "公园"
+      ],
+      "correctIndex": 0,
+      "explanation": "図書館で勉強します。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l09-ri2",
+        "l09-ri5",
+        "l09-ri6"
+      ]
+    },
+    {
+      "id": "l09-ex02",
+      "type": "choice",
+      "prompt": "米娜和朋友在哪交谈？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l09-reading-synth",
+      "choices": [
+        "公园",
+        "教室",
+        "商店"
+      ],
+      "correctIndex": 0,
+      "explanation": "公園で友達と話します。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l09-ri7",
+        "l09-ri8",
+        "l09-ri9"
+      ]
+    },
+    {
+      "id": "l09-ex03",
+      "type": "choice",
+      "prompt": "林在哪里学习？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "图书馆",
+        "食堂",
+        "公园"
+      ],
+      "correctIndex": 0,
+      "explanation": "図書館で勉強します。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l09-ri2",
+        "l09-ri5",
+        "l09-ri6"
+      ]
+    },
+    {
+      "id": "l09-ex04",
+      "type": "choice",
+      "prompt": "米娜和朋友在哪交谈？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "公园",
+        "教室",
+        "商店"
+      ],
+      "correctIndex": 0,
+      "explanation": "公園で友達と話します。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l09-ri7",
+        "l09-ri8",
+        "l09-ri9"
+      ]
+    },
+    {
+      "id": "l09-ex05",
+      "type": "choice",
+      "prompt": "萨拉午饭和谁吃？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "独自",
+        "健",
+        "米娜"
+      ],
+      "correctIndex": 0,
+      "explanation": "一人で食べます。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex06",
+      "type": "choice",
+      "prompt": "萨拉与朋友是否同地？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "是",
+        "不是",
+        "无法判断"
+      ],
+      "correctIndex": 1,
+      "explanation": "同じ場所ではありません。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex07",
+      "type": "input",
+      "prompt": "填活动场所助词：食堂＿＿食べます。",
+      "acceptedAnswers": [
+        "で"
+      ],
+      "explanation": "动作场所用で。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l09-ri6"
+      ]
+    },
+    {
+      "id": "l09-ex08",
+      "type": "input",
+      "prompt": "填同伴助词：友達＿＿話します。",
+      "acceptedAnswers": [
+        "と"
+      ],
+      "explanation": "同伴用と。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex09",
+      "type": "order",
+      "prompt": "用词块组成：在图书馆学日语。",
+      "tokens": [
+        "日本語を",
+        "勉強します。",
+        "図書館で"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为図書館で日本語を勉強します。；动作场所用で。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l09-ri5"
+      ]
+    },
+    {
+      "id": "l09-ex10",
+      "type": "order",
+      "prompt": "用词块组成：和朋友在食堂吃饭。",
+      "tokens": [
+        "食堂で",
+        "食べます。",
+        "友達と"
+      ],
+      "correctOrder": [
+        2,
+        0,
+        1
+      ],
+      "explanation": "完整句为友達と食堂で食べます。；同伴用と。",
+      "skill": "grammar",
+      "reviewItemIds": [
+        "l09-ri4",
+        "l09-ri6"
+      ]
+    },
+    {
+      "id": "l09-ex11",
+      "type": "self",
+      "prompt": "告诉同学你和朋友在公园聊天。",
+      "sampleAnswer": "友達と公園で話します。",
+      "explanation": "地点用で，同伴用と。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri7"
+      ]
+    },
+    {
+      "id": "l09-ex12",
+      "type": "self",
+      "prompt": "询问对方在哪里读书。",
+      "sampleAnswer": "どこで本を読みますか。",
+      "explanation": "问活动场所。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex13",
+      "type": "self",
+      "prompt": "你独自吃午饭，写一句。",
+      "sampleAnswer": "一人で昼ご飯を食べます。",
+      "explanation": "一人で说明没有同伴。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex14",
+      "type": "self",
+      "prompt": "只知道朋友在教室，追问他在那里做什么。",
+      "sampleAnswer": "教室で何をしますか。",
+      "explanation": "补动作，不重复已知位置。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri8"
+      ]
+    },
+    {
+      "id": "l09-ex15",
+      "type": "choice",
+      "prompt": "先选择合适的回应：告诉同学你和朋友在公园聊天。",
+      "choices": [
+        "友達と公園で話します。",
+        "どこで本を読みますか。",
+        "一人で昼ご飯を食べます。"
+      ],
+      "correctIndex": 0,
+      "explanation": "地点用で，同伴用と。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri7"
+      ]
+    },
+    {
+      "id": "l09-ex16",
+      "type": "choice",
+      "prompt": "先选择合适的回应：询问对方在哪里读书。",
+      "choices": [
+        "一人で昼ご飯を食べます。",
+        "教室で何をしますか。",
+        "どこで本を読みますか。"
+      ],
+      "correctIndex": 2,
+      "explanation": "问活动场所。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri8"
+      ]
+    },
+    {
+      "id": "l09-ex17",
+      "type": "choice",
+      "prompt": "先选择合适的回应：你独自吃午饭，写一句。",
+      "choices": [
+        "友達と公園で話します。",
+        "一人で昼ご飯を食べます。",
+        "教室で何をしますか。"
+      ],
+      "correctIndex": 1,
+      "explanation": "一人で说明没有同伴。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri7",
+        "l09-ri8"
+      ]
+    },
+    {
+      "id": "l09-ex18",
+      "type": "choice",
+      "prompt": "先选择合适的回应：只知道朋友在教室，追问他在那里做什么。",
+      "choices": [
+        "教室で何をしますか。",
+        "友達と公園で話します。",
+        "どこで本を読みますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "补动作，不重复已知位置。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l09-ri7",
+        "l09-ri8"
+      ]
+    },
+    {
+      "id": "l09-ex19",
+      "type": "self",
+      "prompt": "读例句「図書館で勉強します。」。先不看词表，用中文说明「図書館」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "图书馆",
+      "explanation": "本课这里表示“图书馆”。例句意思是：在图书馆学习。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l09-ri2",
+        "l09-ri5"
+      ]
+    },
+    {
+      "id": "l09-ex20",
+      "type": "self",
+      "prompt": "读例句「教室です。」。先不看词表，用中文说明「教室」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "教室",
+      "explanation": "本课这里表示“教室”。例句意思是：是教室。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l09-ri8"
+      ]
+    },
+    {
+      "id": "l09-ex21",
+      "type": "self",
+      "prompt": "读例句「一人で勉強します。」。先不看词表，用中文说明「一人で」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "独自",
+      "explanation": "本课这里表示“独自”。例句意思是：独自学习。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l09-ex22",
+      "type": "self",
+      "prompt": "读例句「昼ご飯はどこですか。」。先不看词表，用中文说明「昼ご飯」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "午饭",
+      "explanation": "本课这里表示“午饭”。例句意思是：午饭在哪里？。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l09-ri3"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l09-ri1",
+      "front": "在哪里学习？",
+      "back": "どこで勉強しますか。",
+      "reading": "どこでべんきょうしますか。",
+      "audioId": "synth-word-c87e7b4bba830e7e",
+      "kind": "expression"
+    },
+    {
+      "id": "l09-ri2",
+      "front": "在图书馆学习。",
+      "back": "図書館で勉強します。",
+      "reading": "としょかんでべんきょうします。",
+      "audioId": "synth-word-2bdd9ea698248f5f",
+      "kind": "expression"
+    },
+    {
+      "id": "l09-ri3",
+      "front": "午饭在哪里？",
+      "back": "昼ご飯はどこですか。",
+      "reading": "ひるごはんはどこですか。",
+      "audioId": "synth-word-d17f33685e1b6b48",
+      "kind": "expression"
+    },
+    {
+      "id": "l09-ri4",
+      "front": "在食堂吃。",
+      "back": "食堂で食べます。",
+      "reading": "しょくどうでたべます。",
+      "audioId": "synth-word-7c99fcadf090679b",
+      "kind": "expression"
+    },
+    {
+      "id": "l09-ri5",
+      "front": "図書館在本课是什么意思？",
+      "back": "图书馆",
+      "reading": "としょかん",
+      "audioId": "synth-word-8111caffdb970505",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l09-ri6",
+      "front": "食堂在本课是什么意思？",
+      "back": "食堂",
+      "reading": "しょくどう",
+      "audioId": "synth-word-20a2e7c758a26072",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l09-ri7",
+      "front": "公園在本课是什么意思？",
+      "back": "公园",
+      "reading": "こうえん",
+      "audioId": "synth-word-0f8fc249c2ad7f4b",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l09-ri8",
+      "front": "教室在本课是什么意思？",
+      "back": "教室",
+      "reading": "きょうしつ",
+      "audioId": "synth-word-ce7f5f0e887d2e60",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l09-ri9",
+      "front": "店在本课是什么意思？",
+      "back": "商店",
+      "reading": "みせ",
+      "audioId": "synth-word-9917c5d03ebef71e",
+      "kind": "vocabulary"
+    }
+  ]
+}

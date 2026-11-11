@@ -1,0 +1,1118 @@
+{
+  "id": "l49",
+  "number": 49,
+  "moduleId": "m10",
+  "title": "传达听说、外观与推测",
+  "subtitle": "传闻、亲眼所见和个人推断，要把证据一起说出来。",
+  "revision": 2,
+  "goals": [
+    "区分传闻そうだ与外观そうだ。",
+    "说明ようだ、らしい判断的依据与确定程度。",
+    "转述消息时保留出处，并核实行动所需事实。"
+  ],
+  "prerequisites": [
+    "理解第48课及此前的核心表达，可查阅已学词表。",
+    "已会用先听后读、根据上下文确认人物和条件的方法；当前无需出声。"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "整体理解",
+      "description": "围绕「传达听说、外观与推测」完成整体理解；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "dialogue",
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l49-ex01",
+        "l49-ex03"
+      ],
+      "tasks": [
+        {
+          "title": "听读主材料",
+          "instructions": "先不展开文本听「新店真的要开了吗」，记下双方的目标和最后的处理结果；再读分句核对，标出首次未听懂的词句。",
+          "minutes": 10,
+          "section": "dialogue"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "阅读「開店の日付はまだわからない」的情境，找出对象、条件和一项尚未确定的信息；完成本块题目并指出依据。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "词汇与表达",
+      "description": "围绕「传达听说、外观与推测」完成词汇与表达；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "vocabulary",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l49-ex19",
+        "l49-ex20",
+        "l49-ex21",
+        "l49-ex22"
+      ],
+      "tasks": [
+        {
+          "title": "在语境中认识词句",
+          "instructions": "在主材料中找到近所、工事、準備、掲示，听独立朗读并结合例句确认当前词义，勿将全部识别词一次加入复习。",
+          "minutes": 10,
+          "section": "vocabulary"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "遮住释义重做本块四道语境题，再用だれから聞きましたか。替换一个人物或条件；记下自己仍会混淆的搭配。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "语法与替换",
+      "description": "围绕「传达听说、外观与推测」完成语法与替换；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "grammar",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l49-ex07",
+        "l49-ex08",
+        "l49-ex09"
+      ],
+      "tasks": [
+        {
+          "title": "比较规则与使用条件",
+          "instructions": "对照「传闻そうだ」「样态そうだ」「ようだ与らしい」的形式、作用和误区，给每条规则写一个适用条件和一个不适用条件。",
+          "minutes": 10,
+          "section": "grammar"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块结构题；把一个例句的人物、时间或目的替换后重写，核对接续、否定和语气是否仍然成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "听辨与回应",
+      "description": "围绕「传达听说、外观与推测」完成听辨与回应；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "dialogue"
+      ],
+      "exerciseIds": [
+        "l49-ex02",
+        "l49-ex15"
+      ],
+      "tasks": [
+        {
+          "title": "先听后答",
+          "instructions": "在不看原文的情况下播放本块音频，先记一条事实和一个最终意图；最多重播三次后再提交，不凭字幕作答。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "提交本块题目后核对原文，区分首次听懂、重播听懂、看文本才懂的片段，并用一句文字确认最关键的信息。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "阅读与组句",
+      "description": "围绕「传达听说、外观与推测」完成阅读与组句；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "reading",
+        "practice"
+      ],
+      "exerciseIds": [
+        "l49-ex04",
+        "l49-ex05"
+      ],
+      "tasks": [
+        {
+          "title": "比较两份材料",
+          "instructions": "阅读「開店の日付はまだわからない」与「おいしそうとおいしいそう」，按人物、目的、条件、结论做对照表；较长材料允许按段阅读。",
+          "minutes": 10,
+          "section": "reading"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "完成本块阅读题并为答案找出具体句子；用简短日语或中文说明一个干扰项为何不成立。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "应用与迁移",
+      "description": "围绕「传达听说、外观与推测」完成应用与迁移；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "grammar"
+      ],
+      "exerciseIds": [
+        "l49-ex11",
+        "l49-ex12",
+        "l49-ex13",
+        "l49-ex14",
+        "l49-ex16"
+      ],
+      "tasks": [
+        {
+          "title": "先组织自己的回应",
+          "instructions": "根据本块新情境，从空白组织请求、解释或回应；先保留自己的初稿，再看示例，不把逐字一致当作唯一标准。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "把当前课与前课的确认、理由或话题延续方式结合；修改一条回应，使对方能根据它采取明确的下一步行动。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "验收与回顾",
+      "description": "围绕「传达听说、外观与推测」完成验收与回顾；每块约20分钟，可与同组其他块连续学习。",
+      "sections": [
+        "practice",
+        "review"
+      ],
+      "exerciseIds": [
+        "l49-ex06",
+        "l49-ex10",
+        "l49-ex17",
+        "l49-ex18"
+      ],
+      "tasks": [
+        {
+          "title": "独立完成新变体",
+          "instructions": "完成剩余新变体，不先打开范句；分别检查事实理解、接续与语气，以及自己的回应是否完成任务。",
+          "minutes": 10,
+          "section": "practice"
+        },
+        {
+          "title": "应用、核对与记录",
+          "instructions": "对照本课独立验收标准，把一个薄弱片段重新听读；为下次留下具体的补练目标。现场口语仍需后续单独实践。",
+          "minutes": 10,
+          "section": "practice"
+        }
+      ]
+    }
+  ],
+  "extensionTasks": [
+    {
+      "id": "l49-ext10",
+      "title": "传达听说、外观与推测 · 10分钟迁移",
+      "instructions": "用10分钟重读「開店の日付はまだわからない」，不看译文整理人物、条件和决定，再核对遗漏。",
+      "minutes": 10,
+      "section": "reading",
+      "exerciseIds": []
+    },
+    {
+      "id": "l49-ext15",
+      "title": "传达听说、外观与推测 · 15分钟迁移",
+      "instructions": "用15分钟把「おいしそうとおいしいそう」中的一个条件改掉，写出两种可行回应并说明选择。",
+      "minutes": 15,
+      "section": "grammar",
+      "exerciseIds": []
+    },
+    {
+      "id": "l49-ext25",
+      "title": "传达听说、外观与推测 · 25分钟迁移",
+      "instructions": "用25分钟比较两篇材料，再完成本课开放应答；最后记录听辨或措辞仍不确定的一点。",
+      "minutes": 25,
+      "section": "practice",
+      "exerciseIds": [
+        "l49-ex13",
+        "l49-ex14"
+      ]
+    }
+  ],
+  "masteryCriteria": [
+    "不先看译文也能提取主材料的关键人物、条件和结论。",
+    "能解释两种核心结构的功能差异，并在新情境中正确选择。",
+    "能针对变更后的约束组织合适的文字回应，而非机械复读原文。",
+    "能指出仍需回补的听辨或表达问题，不将文字自评等同口语通过。"
+  ],
+  "dialogues": [
+    {
+      "id": "l49-d01",
+      "title": "新店真的要开了吗",
+      "context": "邻居根据不同消息讨论新店，林准备确认正式日期。 本段配单声部合成教学朗读，并非真人会话。",
+      "audioId": "l49-dialogue-synth",
+      "lines": [
+        {
+          "speaker": "友人",
+          "ja": "駅前に新しい店ができるそうです。",
+          "kana": "えきまえにあたらしいみせができるそうです。",
+          "zh": "听说站前要开新店。"
+        },
+        {
+          "speaker": "林",
+          "ja": "だれから聞きましたか。",
+          "kana": "だれからききましたか。",
+          "zh": "从谁那里听到的？"
+        },
+        {
+          "speaker": "友人",
+          "ja": "近所の人です。来週開くらしいですよ。",
+          "kana": "きんじょのひとです。らいしゅうあくらしいですよ。",
+          "zh": "邻居，似乎下周开。"
+        },
+        {
+          "speaker": "林",
+          "ja": "でも、まだ工事をしているようです。",
+          "kana": "でも、まだこうじをしているようです。",
+          "zh": "不过看起来仍在施工。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "確かに、準備は大変そうですね。",
+          "kana": "たしかに、じゅんびはたいへんそうですね。",
+          "zh": "确实，准备看起来挺辛苦。"
+        },
+        {
+          "speaker": "林",
+          "ja": "掲示には、開店の予定を後で知らせるとあります。",
+          "kana": "けいじには、かいてんのよていをあとでしらせるとあります。",
+          "zh": "告示写着之后公布开店计划。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "では、来週という情報は確実ではないのですね。",
+          "kana": "では、らいしゅうというじょうほうはかくじつではないのですね。",
+          "zh": "那下周的消息并不确定。"
+        },
+        {
+          "speaker": "林",
+          "ja": "はい。写真だけで日付までは判断できません。",
+          "kana": "はい。しゃしんだけでひづけまでははんだんできません。",
+          "zh": "对，不能只凭照片判断日期。"
+        },
+        {
+          "speaker": "友人",
+          "ja": "店主の発言も確認してから友達に伝えます。",
+          "kana": "てんしゅのはつげんもかくにんしてからともだちにつたえます。",
+          "zh": "确认店主说法后再告诉朋友。"
+        },
+        {
+          "speaker": "林",
+          "ja": "出所を一緒に伝えると、誤解が減ると思います。",
+          "kana": "でどころをいっしょにつたえると、ごかいがへるとおもいます。",
+          "zh": "我觉得一起说明来源能减少误解。"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "l49-v01",
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "邻里；附近",
+      "pos": "名词",
+      "example": "近所の人です。来週開くらしいですよ。",
+      "exampleMeaning": "邻居，似乎下周开。",
+      "mastery": "active",
+      "audioId": "synth-word-a58d28617c5759a2"
+    },
+    {
+      "id": "l49-v02",
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "施工",
+      "pos": "名词",
+      "example": "でも、まだ工事をしているようです。",
+      "exampleMeaning": "不过看起来仍在施工。",
+      "mastery": "active",
+      "audioId": "synth-word-4fa3f873a2c6a12c"
+    },
+    {
+      "id": "l49-v03",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "准备",
+      "pos": "名词",
+      "example": "確かに、準備は大変そうですね。",
+      "exampleMeaning": "确实，准备看起来挺辛苦。",
+      "mastery": "active",
+      "audioId": "synth-word-ba4012c7fd216ad8"
+    },
+    {
+      "id": "l49-v04",
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "告示",
+      "pos": "名词",
+      "example": "掲示には、開店の予定を後で知らせるとあります。",
+      "exampleMeaning": "告示写着之后公布开店计划。",
+      "mastery": "active",
+      "audioId": "synth-word-ace0e07f793c10e8"
+    },
+    {
+      "id": "l49-v05",
+      "word": "開店",
+      "reading": "かいてん",
+      "meaning": "开店",
+      "pos": "名词",
+      "example": "掲示には、開店の予定を後で知らせるとあります。",
+      "exampleMeaning": "告示写着之后公布开店计划。",
+      "mastery": "active",
+      "audioId": "synth-word-f6a6efd2b8879924"
+    },
+    {
+      "id": "l49-v06",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "计划",
+      "pos": "名词",
+      "example": "掲示には、開店の予定を後で知らせるとあります。",
+      "exampleMeaning": "告示写着之后公布开店计划。",
+      "mastery": "active",
+      "audioId": "synth-word-622b9ab1b421d07b"
+    },
+    {
+      "id": "l49-v07",
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "信息",
+      "pos": "名词",
+      "example": "では、来週という情報は確実ではないのですね。",
+      "exampleMeaning": "那下周的消息并不确定。",
+      "mastery": "active",
+      "audioId": "synth-word-5f9a5980ee1e0f1f"
+    },
+    {
+      "id": "l49-v08",
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "确定可靠",
+      "pos": "な形容词",
+      "example": "では、来週という情報は確実ではないのですね。",
+      "exampleMeaning": "那下周的消息并不确定。",
+      "mastery": "active",
+      "audioId": "synth-word-f50f678a3a4f0f01"
+    },
+    {
+      "id": "l49-v09",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "照片",
+      "pos": "名词",
+      "example": "はい。写真だけで日付までは判断できません。",
+      "exampleMeaning": "对，不能只凭照片判断日期。",
+      "mastery": "active",
+      "audioId": "synth-word-e2f3d21e1037f6f0"
+    },
+    {
+      "id": "l49-v10",
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "判断",
+      "pos": "名词",
+      "example": "はい。写真だけで日付までは判断できません。",
+      "exampleMeaning": "对，不能只凭照片判断日期。",
+      "mastery": "active",
+      "audioId": "synth-word-68797c2bdb179e80"
+    },
+    {
+      "id": "l49-v11",
+      "word": "店主",
+      "reading": "てんしゅ",
+      "meaning": "店主",
+      "pos": "名词",
+      "example": "店主の発言も確認してから友達に伝えます。",
+      "exampleMeaning": "确认店主说法后再告诉朋友。",
+      "mastery": "active",
+      "audioId": "synth-word-f728705c68081b11"
+    },
+    {
+      "id": "l49-v12",
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "发言",
+      "pos": "名词",
+      "example": "店主の発言も確認してから友達に伝えます。",
+      "exampleMeaning": "确认店主说法后再告诉朋友。",
+      "mastery": "active",
+      "audioId": "synth-word-f7d679f4e796af2e"
+    },
+    {
+      "id": "l49-v13",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "确认",
+      "pos": "名词",
+      "example": "店主の発言も確認してから友達に伝えます。",
+      "exampleMeaning": "确认店主说法后再告诉朋友。",
+      "mastery": "active",
+      "audioId": "synth-word-90be374fbf553392"
+    },
+    {
+      "id": "l49-v14",
+      "word": "出所",
+      "reading": "でどころ",
+      "meaning": "来源",
+      "pos": "名词",
+      "example": "出所を一緒に伝えると、誤解が減ると思います。",
+      "exampleMeaning": "我觉得一起说明来源能减少误解。",
+      "mastery": "active",
+      "audioId": "synth-word-78e4f4ad6422f81d"
+    },
+    {
+      "id": "l49-v15",
+      "word": "うわさ",
+      "reading": "うわさ",
+      "meaning": "传闻",
+      "pos": "名词",
+      "example": "駅前の新しい店について、近所では来週開店するらしいといううわさが広がっています。",
+      "exampleMeaning": "关于站前新店，邻里流传着似乎下周开张的消息。",
+      "mastery": "active",
+      "audioId": "synth-word-911c8d752a63d207"
+    },
+    {
+      "id": "l49-v16",
+      "word": "様子",
+      "reading": "ようす",
+      "meaning": "样子；状况",
+      "pos": "名词",
+      "example": "しかし、私は前日に通った時、入口で工事が続き、店主らしい人が準備をしている様子を見ました。",
+      "exampleMeaning": "但我前一天路过时看到入口还在施工，像店主的人在准备。",
+      "mastery": "active",
+      "audioId": "synth-word-85e2d49d554d6fe0"
+    },
+    {
+      "id": "l49-v17",
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaning": "材料",
+      "pos": "名词",
+      "example": "作った人の説明では、赤い材料はトマトで、強い辛さはないとのことでした。",
+      "exampleMeaning": "据制作者说明，红色材料是番茄，并不强烈辛辣。",
+      "mastery": "active",
+      "audioId": "synth-word-014fa90944b2af65"
+    },
+    {
+      "id": "l49-v18",
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "颜色",
+      "pos": "名词",
+      "example": "私はその色から同じ印象を持ちましたが、まだ味を確かめていませんでした。",
+      "exampleMeaning": "我也因颜色有同样印象，但尚未尝味。",
+      "mastery": "active",
+      "audioId": "synth-word-ebc8f4a5e6a2340f"
+    },
+    {
+      "id": "l49-v19",
+      "word": "香り",
+      "reading": "かおり",
+      "meaning": "香气",
+      "pos": "名词",
+      "example": "「おいしそうです」は見た目や香りからの判断ですが、「おいしいそうです」は他人の評価を聞いたという意味です。",
+      "exampleMeaning": "前者根据外观香气判断，后者则表示听到别人的评价。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3cfa10f942aaded0"
+    },
+    {
+      "id": "l49-v20",
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "表情",
+      "pos": "名词",
+      "example": "また、食べた人の表情だけを見て、全員が同じ味だと感じたと決めることもできません。",
+      "exampleMeaning": "也不能只看表情就断定所有人对味道感受一样。",
+      "mastery": "recognition",
+      "audioId": "synth-word-0c9356e73755e6fe"
+    },
+    {
+      "id": "l49-v21",
+      "word": "味",
+      "reading": "あじ",
+      "meaning": "味道",
+      "pos": "名词",
+      "example": "私はその色から同じ印象を持ちましたが、まだ味を確かめていませんでした。",
+      "exampleMeaning": "我也因颜色有同样印象，但尚未尝味。",
+      "mastery": "recognition",
+      "audioId": "synth-word-2edb2c1754509564"
+    },
+    {
+      "id": "l49-v22",
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "印象",
+      "pos": "名词",
+      "example": "写真や人の印象は手がかりになりますが、予約できるという確実な証拠にはなりません。",
+      "exampleMeaning": "照片和印象可作线索，但不是能预约的确凿证据。",
+      "mastery": "recognition",
+      "audioId": "synth-word-40d9bb31be8b292a"
+    },
+    {
+      "id": "l49-v23",
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "经验",
+      "pos": "名词",
+      "example": "二つは形が似ていても、自分がどの経験を持っているかが違います。",
+      "exampleMeaning": "两者形式相似，但说明自己具有什么经验不同。",
+      "mastery": "recognition",
+      "audioId": "synth-word-cc6f4ffca2e7a859"
+    },
+    {
+      "id": "l49-v24",
+      "word": "証拠",
+      "reading": "しょうこ",
+      "meaning": "证据",
+      "pos": "名词",
+      "example": "写真や人の印象は手がかりになりますが、予約できるという確実な証拠にはなりません。",
+      "exampleMeaning": "照片和印象可作线索，但不是能预约的确凿证据。",
+      "mastery": "recognition",
+      "audioId": "synth-word-914924464c17151f"
+    },
+    {
+      "id": "l49-v25",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "说明",
+      "pos": "名词",
+      "example": "掲示には、正式な予定は後で知らせると書かれていて、来週とは説明されていませんでした。",
+      "exampleMeaning": "告示写正式安排之后公布，并未说明是下周。",
+      "mastery": "recognition",
+      "audioId": "synth-word-3846c6de39d3c183"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "l49-e1",
+      "ja": "だれから聞きましたか。",
+      "reading": "だれからききましたか。",
+      "meaning": "从谁那里听到的？",
+      "usage": "追问信息来源",
+      "audioId": "synth-word-a8371f5e2266afce"
+    },
+    {
+      "id": "l49-e2",
+      "ja": "でも、まだ工事をしているようです。",
+      "reading": "でも、まだこうじをしているようです。",
+      "meaning": "不过看起来仍在施工。",
+      "usage": "根据观察提出不同判断",
+      "audioId": "synth-word-73c722e2bd7a3937"
+    },
+    {
+      "id": "l49-e3",
+      "ja": "では、来週という情報は確実ではないのですね。",
+      "reading": "では、らいしゅうというじょうほうはかくじつではないのですね。",
+      "meaning": "那下周的消息并不确定。",
+      "usage": "确认传闻并非确定事实",
+      "audioId": "synth-word-1ad81b3c01aae6a9"
+    },
+    {
+      "id": "l49-e4",
+      "ja": "出所を一緒に伝えると、誤解が減ると思います。",
+      "reading": "でどころをいっしょにつたえると、ごかいがへるとおもいます。",
+      "meaning": "我觉得一起说明来源能减少误解。",
+      "usage": "建议转述时保留出处",
+      "audioId": "synth-word-8d5c6a8317ec03cb"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l49-g1",
+      "title": "传闻そうだ",
+      "meaning": "转述从他处获得的内容。",
+      "pattern": "普通形＋そうです。",
+      "explanation": "保留完整普通形，如おいしいそうです是听说好吃；形容词词干后接そう则另有外观意义。",
+      "examples": [
+        {
+          "ja": "店は来週開くそうです。",
+          "zh": "听说店下周开。"
+        },
+        {
+          "ja": "この料理はおいしいそうです。",
+          "zh": "听说这道菜好吃。"
+        }
+      ],
+      "pitfall": "转述不代表自己亲自验证，需保留来源。"
+    },
+    {
+      "id": "l49-g2",
+      "title": "样态そうだ",
+      "meaning": "根据当下迹象描述看起来如何。",
+      "pattern": "おいしそう／降りそう／大変そう",
+      "explanation": "い形容词去い、な形容词去だ、动词ます词干接そう。よい→よさそう、ない→なさそう需留意。",
+      "examples": [
+        {
+          "ja": "雨が降りそうです。",
+          "zh": "看起来要下雨。"
+        },
+        {
+          "ja": "おいしそうですが、まだ食べていません。",
+          "zh": "看起来好吃，但还没吃。"
+        }
+      ],
+      "pitfall": "外观看来如此不等于实际已尝过或已发生。"
+    },
+    {
+      "id": "l49-g3",
+      "title": "ようだ与らしい",
+      "meaning": "根据线索推断或转达间接信息。",
+      "pattern": "〜ようです。／〜らしいです。",
+      "explanation": "ようだ常伴观察或推理；らしい也常含间接信息。判断有不同用法，须结合出处，不设置绝对唯一的证据等级。",
+      "examples": [
+        {
+          "ja": "まだ工事中のようです。",
+          "zh": "看起来仍在施工。"
+        },
+        {
+          "ja": "来週開くらしいですが、未確認です。",
+          "zh": "似乎下周开，但未确认。"
+        }
+      ],
+      "pitfall": "不能把模糊推断转述成確実です。"
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "长句中的意义停顿",
+      "description": "先按人物、条件与结论划分意义块，再听原音。停顿帮助理解，但不要把每个词都拆开；当前不要求跟读。",
+      "examples": [
+        {
+          "ja": "近所",
+          "reading": "きんじょ",
+          "zh": "邻里；附近"
+        },
+        {
+          "ja": "工事",
+          "reading": "こうじ",
+          "zh": "施工"
+        },
+        {
+          "ja": "準備",
+          "reading": "じゅんび",
+          "zh": "准备"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "l49-r1",
+      "title": "開店の日付はまだわからない",
+      "context": "居民核对新店传闻，判断何时适合约朋友到访。",
+      "ja": "駅前の新しい店について、近所では来週開店するらしいといううわさが広がっています。友人はその情報を聞いて、すぐに食事の約束をしようとしました。しかし、私は前日に通った時、入口で工事が続き、店主らしい人が準備をしている様子を見ました。外から見ると開店は近そうですが、それだけで具体的な日付は判断できません。掲示には、正式な予定は後で知らせると書かれていて、来週とは説明されていませんでした。私は友人に、近所の発言と店の案内を分けて考え、出所も一緒に伝えてほしいと頼みました。写真や人の印象は手がかりになりますが、予約できるという確実な証拠にはなりません。行動を決める前に正式な連絡を確認すれば、相手を待たせる誤解も減らせると思います。",
+      "zh": "关于站前新店，邻里流传着似乎下周开张的消息。朋友听后就想马上约人吃饭。但我前一天路过时看到入口还在施工，像店主的人在准备。外表看似快开了，但不能据此判断具体日期。告示写正式安排之后公布，并未说明是下周。我请朋友区分邻居说法和店铺指南，并一起说明来源。照片和印象可作线索，但不是能预约的确凿证据。行动前确认正式通知，可以减少让别人空等的误会。",
+      "audioId": "l49-reading-synth"
+    },
+    {
+      "id": "l49-r2",
+      "title": "おいしそうとおいしいそう",
+      "context": "学生用做菜交流区分外观判断与转述评价。",
+      "ja": "料理教室で、赤いスープの写真を見て「辛そうですね」と言った人がいました。私はその色から同じ印象を持ちましたが、まだ味を確かめていませんでした。作った人の説明では、赤い材料はトマトで、強い辛さはないとのことでした。先に食べた友人は「酸味があっておいしい」と話していたので、私はそれを別の人へ伝えました。「おいしそうです」は見た目や香りからの判断ですが、「おいしいそうです」は他人の評価を聞いたという意味です。二つは形が似ていても、自分がどの経験を持っているかが違います。また、食べた人の表情だけを見て、全員が同じ味だと感じたと決めることもできません。私はまず一口食べ、その後で自分の感想として何を伝えるかを考えました。",
+      "zh": "烹饪课上，有人看红色汤照片说看起来辣。我也因颜色有同样印象，但尚未尝味。据制作者说明，红色材料是番茄，并不强烈辛辣。先吃的朋友说有酸味且好吃，我把这评价传给他人。前者根据外观香气判断，后者则表示听到别人的评价。两者形式相似，但说明自己具有什么经验不同。也不能只看表情就断定所有人对味道感受一样。我先尝一口，然后考虑怎样作为自己的感想表达。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "l49-ex01",
+      "type": "choice",
+      "prompt": "来周开店的消息最初来自谁？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l49-dialogue-synth",
+      "choices": [
+        "邻居",
+        "正式公告",
+        "铁路公司"
+      ],
+      "correctIndex": 0,
+      "explanation": "友人说近所の人。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l49-ri5",
+        "l49-ri9"
+      ]
+    },
+    {
+      "id": "l49-ex02",
+      "type": "choice",
+      "prompt": "主阅读准备约饭前要确认什么？",
+      "context": "原创教学材料的合成朗读。请先听后答，提交后核对原文；不视为真人自然会话。",
+      "audioId": "l49-reading-synth",
+      "choices": [
+        "正式开店通知",
+        "朋友最喜欢的颜色",
+        "所有施工人员姓名"
+      ],
+      "correctIndex": 0,
+      "explanation": "正式信息决定行动。",
+      "skill": "listening",
+      "reviewItemIds": [
+        "l49-ri6",
+        "l49-ri7",
+        "l49-ri9"
+      ]
+    },
+    {
+      "id": "l49-ex03",
+      "type": "choice",
+      "prompt": "告示对开店日期说了什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "正式安排之后公布",
+        "确定下周一",
+        "已开放全部预约"
+      ],
+      "correctIndex": 0,
+      "explanation": "告示没有给具体日期。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l49-ri8",
+        "l49-ri9"
+      ]
+    },
+    {
+      "id": "l49-ex04",
+      "type": "choice",
+      "prompt": "照片和印象为何不足？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "完全没有任何线索价值",
+        "已经被确认是假照片",
+        "不能证明具体日期或可预约"
+      ],
+      "correctIndex": 2,
+      "explanation": "线索不等于行动所需的确定证据。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex05",
+      "type": "choice",
+      "prompt": "汤红色的材料是什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "没有说明材料",
+        "番茄",
+        "必定是辣椒"
+      ],
+      "correctIndex": 1,
+      "explanation": "制作者解释是トマト。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex06",
+      "type": "choice",
+      "prompt": "“おいしいそうです”在本文表示什么？",
+      "context": "根据题干指定的材料作答；两份材料均在阅读区，不能把人物或条件互相移用。",
+      "choices": [
+        "听到他人的好评",
+        "自己尚未尝过但看着好吃",
+        "所有人都亲口认可"
+      ],
+      "correctIndex": 0,
+      "explanation": "完整い形容词后的そう为传闻。",
+      "skill": "reading",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex07",
+      "type": "input",
+      "prompt": "听说好吃：この料理はおいしい＿＿です。",
+      "acceptedAnswers": [
+        "そう",
+        "らしい",
+        "とのこと",
+        "ということ",
+        "という話",
+        "というはなし"
+      ],
+      "explanation": "おいしいそうです是本课传闻形式。おいしいらしいです／とのことです／ということです等也可转达听来的消息，语体和依据呈现不同。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex08",
+      "type": "order",
+      "prompt": "表达看起来要下雨。",
+      "tokens": [
+        "です",
+        "。",
+        "降りそう",
+        "雨が"
+      ],
+      "correctOrder": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "explanation": "降ります词干降り接そう。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex09",
+      "type": "choice",
+      "prompt": "哪句清楚区分外观与实际？",
+      "choices": [
+        "写真を見たので、私はもう食べました。",
+        "おいしそうですが、まだ食べていません。",
+        "おいしそうなので、全員がおいしいと言いました。"
+      ],
+      "correctIndex": 1,
+      "explanation": "外观不等于已品尝。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex10",
+      "type": "input",
+      "prompt": "よい的样态形式：この方法は＿＿です。",
+      "acceptedAnswers": [
+        "よさそう",
+        "良さそう"
+      ],
+      "explanation": "よい的样态形式是よさそう，写作良さそう也正确；不要把传闻おいしいそう的接续直接套来。",
+      "skill": "grammar",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex11",
+      "type": "self",
+      "prompt": "你只听邻居说下周开店，转述给朋友并标出未确认。",
+      "sampleAnswer": "近所の人によると、来週開くらしいです。ただ、正式な案内はまだ確認していません。",
+      "explanation": "来源、内容和确认程度都保留。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri5",
+        "l49-ri9"
+      ]
+    },
+    {
+      "id": "l49-ex12",
+      "type": "self",
+      "prompt": "只看见菜的照片，写一句外观评价并限制结论。",
+      "sampleAnswer": "おいしそうですが、写真だけでは味まではわかりません。",
+      "explanation": "不要冒充亲身品尝。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex13",
+      "type": "self",
+      "prompt": "纠正“告示已经确认下周营业”的误解。",
+      "sampleAnswer": "掲示には予定を後で知らせるとあります。来週という日付はまだ正式には出ていません。",
+      "explanation": "依据正式文字而非传闻。",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri8"
+      ]
+    },
+    {
+      "id": "l49-ex14",
+      "type": "self",
+      "prompt": "分别写你亲眼判断与听别人说的一句话，信息不可混淆。",
+      "sampleAnswer": "雨が降りそうです。友達によると、午後にはやむそうです。",
+      "explanation": "区分两类证据。",
+      "skill": "expression",
+      "reviewItemIds": []
+    },
+    {
+      "id": "l49-ex15",
+      "type": "choice",
+      "prompt": "在本课场景中，「だれから聞きましたか。」主要用于什么？",
+      "choices": [
+        "追问信息来源",
+        "根据观察提出不同判断",
+        "确认传闻并非确定事实"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“从谁那里听到的？”。结合前后交流，其作用是：追问信息来源",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri1"
+      ]
+    },
+    {
+      "id": "l49-ex16",
+      "type": "choice",
+      "prompt": "在本课场景中，「でも、まだ工事をしているようです。」主要用于什么？",
+      "choices": [
+        "确认传闻并非确定事实",
+        "建议转述时保留出处",
+        "根据观察提出不同判断"
+      ],
+      "correctIndex": 2,
+      "explanation": "这句话的意思是“不过看起来仍在施工。”。结合前后交流，其作用是：根据观察提出不同判断",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri2",
+        "l49-ri6"
+      ]
+    },
+    {
+      "id": "l49-ex17",
+      "type": "choice",
+      "prompt": "在本课场景中，「では、来週という情報は確実ではないのですね。」主要用于什么？",
+      "choices": [
+        "追问信息来源",
+        "确认传闻并非确定事实",
+        "建议转述时保留出处"
+      ],
+      "correctIndex": 1,
+      "explanation": "这句话的意思是“那下周的消息并不确定。”。结合前后交流，其作用是：确认传闻并非确定事实",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri3"
+      ]
+    },
+    {
+      "id": "l49-ex18",
+      "type": "choice",
+      "prompt": "在本课场景中，「出所を一緒に伝えると、誤解が減ると思います。」主要用于什么？",
+      "choices": [
+        "建议转述时保留出处",
+        "追问信息来源",
+        "根据观察提出不同判断"
+      ],
+      "correctIndex": 0,
+      "explanation": "这句话的意思是“我觉得一起说明来源能减少误解。”。结合前后交流，其作用是：建议转述时保留出处",
+      "skill": "expression",
+      "reviewItemIds": [
+        "l49-ri4"
+      ]
+    },
+    {
+      "id": "l49-ex19",
+      "type": "self",
+      "prompt": "读例句「近所の人です。来週開くらしいですよ。」。先不看词表，用中文说明「近所」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "邻里；附近",
+      "explanation": "本课这里表示“邻里；附近”。例句意思是：邻居，似乎下周开。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l49-ri5"
+      ]
+    },
+    {
+      "id": "l49-ex20",
+      "type": "self",
+      "prompt": "读例句「掲示には、開店の予定を後で知らせるとあります。」。先不看词表，用中文说明「掲示」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "告示",
+      "explanation": "本课这里表示“告示”。例句意思是：告示写着之后公布开店计划。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l49-ri8",
+        "l49-ri9"
+      ]
+    },
+    {
+      "id": "l49-ex21",
+      "type": "self",
+      "prompt": "读例句「では、来週という情報は確実ではないのですね。」。先不看词表，用中文说明「情報」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "信息",
+      "explanation": "本课这里表示“信息”。例句意思是：那下周的消息并不确定。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": [
+        "l49-ri3"
+      ]
+    },
+    {
+      "id": "l49-ex22",
+      "type": "self",
+      "prompt": "读例句「はい。写真だけで日付までは判断できません。」。先不看词表，用中文说明「判断」在当前语境中的含义，再对照参考。",
+      "sampleAnswer": "判断",
+      "explanation": "本课这里表示“判断”。例句意思是：对，不能只凭照片判断日期。。自评时检查信息是否一致，合理改述可接受，不要求逐字复述词典释义。",
+      "skill": "reading",
+      "reviewItemIds": []
+    }
+  ],
+  "reviewItems": [
+    {
+      "id": "l49-ri1",
+      "front": "从谁那里听到的？",
+      "back": "だれから聞きましたか。",
+      "reading": "だれからききましたか。",
+      "audioId": "synth-word-a8371f5e2266afce",
+      "kind": "expression"
+    },
+    {
+      "id": "l49-ri2",
+      "front": "不过看起来仍在施工。",
+      "back": "でも、まだ工事をしているようです。",
+      "reading": "でも、まだこうじをしているようです。",
+      "audioId": "synth-word-73c722e2bd7a3937",
+      "kind": "expression"
+    },
+    {
+      "id": "l49-ri3",
+      "front": "那下周的消息并不确定。",
+      "back": "では、来週という情報は確実ではないのですね。",
+      "reading": "では、らいしゅうというじょうほうはかくじつではないのですね。",
+      "audioId": "synth-word-1ad81b3c01aae6a9",
+      "kind": "expression"
+    },
+    {
+      "id": "l49-ri4",
+      "front": "我觉得一起说明来源能减少误解。",
+      "back": "出所を一緒に伝えると、誤解が減ると思います。",
+      "reading": "でどころをいっしょにつたえると、ごかいがへるとおもいます。",
+      "audioId": "synth-word-8d5c6a8317ec03cb",
+      "kind": "expression"
+    },
+    {
+      "id": "l49-ri5",
+      "front": "近所在本课是什么意思？",
+      "back": "邻里；附近",
+      "reading": "きんじょ",
+      "audioId": "synth-word-a58d28617c5759a2",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l49-ri6",
+      "front": "工事在本课是什么意思？",
+      "back": "施工",
+      "reading": "こうじ",
+      "audioId": "synth-word-4fa3f873a2c6a12c",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l49-ri7",
+      "front": "準備在本课是什么意思？",
+      "back": "准备",
+      "reading": "じゅんび",
+      "audioId": "synth-word-ba4012c7fd216ad8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l49-ri8",
+      "front": "掲示在本课是什么意思？",
+      "back": "告示",
+      "reading": "けいじ",
+      "audioId": "synth-word-ace0e07f793c10e8",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "l49-ri9",
+      "front": "開店在本课是什么意思？",
+      "back": "开店",
+      "reading": "かいてん",
+      "audioId": "synth-word-f6a6efd2b8879924",
+      "kind": "vocabulary"
+    }
+  ]
+}
