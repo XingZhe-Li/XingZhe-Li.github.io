@@ -1,0 +1,242 @@
+[
+  {
+    "file": "A0.mp3",
+    "bytes": 113969,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 24.999456
+  },
+  {
+    "file": "A1.mp3",
+    "bytes": 115061,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 23.304898
+  },
+  {
+    "file": "A2.mp3",
+    "bytes": 81678,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 15.93517
+  },
+  {
+    "file": "A3.mp3",
+    "bytes": 74526,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 15.615442
+  },
+  {
+    "file": "A4.mp3",
+    "bytes": 61148,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 13.322971
+  },
+  {
+    "file": "A5.mp3",
+    "bytes": 45747,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 10.53712
+  },
+  {
+    "file": "A6.mp3",
+    "bytes": 30013,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 6.806939
+  },
+  {
+    "file": "A7.mp3",
+    "bytes": 18730,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 4.025306
+  },
+  {
+    "file": "C1.mp3",
+    "bytes": 110199,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 23.619297
+  },
+  {
+    "file": "C2.mp3",
+    "bytes": 110357,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 22.31907
+  },
+  {
+    "file": "C3.mp3",
+    "bytes": 78036,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 15.999116
+  },
+  {
+    "file": "C4.mp3",
+    "bytes": 78718,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 16.185624
+  },
+  {
+    "file": "C5.mp3",
+    "bytes": 68920,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 15.567483
+  },
+  {
+    "file": "C6.mp3",
+    "bytes": 28065,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 6.2261
+  },
+  {
+    "file": "C7.mp3",
+    "bytes": 18963,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 4.078594
+  },
+  {
+    "file": "C8.mp3",
+    "bytes": 18914,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 3.881429
+  },
+  {
+    "file": "Ds1.mp3",
+    "bytes": 120625,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 24.274739
+  },
+  {
+    "file": "Ds2.mp3",
+    "bytes": 110796,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 22.105918
+  },
+  {
+    "file": "Ds3.mp3",
+    "bytes": 78717,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 16.079048
+  },
+  {
+    "file": "Ds4.mp3",
+    "bytes": 73519,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 15.817937
+  },
+  {
+    "file": "Ds5.mp3",
+    "bytes": 58179,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 12.945714
+  },
+  {
+    "file": "Ds6.mp3",
+    "bytes": 31395,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 6.699478
+  },
+  {
+    "file": "Ds7.mp3",
+    "bytes": 22136,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 4.872585
+  },
+  {
+    "file": "Fs1.mp3",
+    "bytes": 115010,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 23.347528
+  },
+  {
+    "file": "Fs2.mp3",
+    "bytes": 102320,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 20.448662
+  },
+  {
+    "file": "Fs3.mp3",
+    "bytes": 77933,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 16.127007
+  },
+  {
+    "file": "Fs4.mp3",
+    "bytes": 68219,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 14.688231
+  },
+  {
+    "file": "Fs5.mp3",
+    "bytes": 51597,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 11.911927
+  },
+  {
+    "file": "Fs6.mp3",
+    "bytes": 26478,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 5.847755
+  },
+  {
+    "file": "Fs7.mp3",
+    "bytes": 22709,
+    "codec": "mp3",
+    "sampleRate": "44100",
+    "channels": 2,
+    "durationSeconds": 4.829955
+  }
+]
