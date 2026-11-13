@@ -1,0 +1,13 @@
+import { foundationUnits } from './foundations.js';
+import { harmonyUnits } from './harmony.js';
+import { compositionUnits } from './composition.js';
+export { cases } from './cases.js';
+export { guides } from './guides.js';
+export { glossary } from './glossary.js';
+export const units = [...foundationUnits,...harmonyUnits,...compositionUnits];
+export const lessons = units.flatMap(unit=>unit.lessons);
+export const lessonMap = new Map(lessons.map(lesson=>[lesson.id,lesson]));
+export const unitMap = new Map(units.map(unit=>[unit.id,unit]));
+export const findLesson = id => lessonMap.get(id);
+export const findUnit = id => unitMap.get(id);
+export const nextLesson = id => lessons[lessons.findIndex(l=>l.id===id)+1];
